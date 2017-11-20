@@ -6,11 +6,54 @@ $(document).ready(function(){
     });
 });
 
+function object_array_sort(data,key,order,fn){
+    //デフォは降順(DESC)
+    var num_a = -1;
+    var num_b = 1;
+
+    var arr = [];
+
+    if(order === 'asc'){//指定があれば昇順(ASC)
+        num_a = 1;
+        num_b = -1;
+    }
+
+    data = data.sort(function(a, b){
+        var x;
+        var y;
+        if(isNaN(Number(a[key]))){
+            if (arr.indexOf(a[key]) == -1){
+                arr.push(a[key]);
+            }
+            x = 999 + arr.indexOf(a[key]);
+        }else{
+            x = Number(a[key]);
+        }
+
+        if(isNaN(Number(b[key]))){
+            if (arr.indexOf(b[key]) == -1){
+                arr.push(b[key]);
+            }
+            y = 999 + arr.indexOf(b[key]);
+        }else{
+            y = Number(b[key]);
+        }
+
+        if (x > y) return num_a;
+        if (x < y) return num_b;
+        return 0;
+    });
+
+    fn(data); // ソート後の配列を返す
+}
+
 function makeBMSTable(info, mark) {
     var x = "";
     var ev = "";
     var count = 0;
     var obj = $("#table_int");
+    //難易度でソートする
+    object_array_sort(info, 'level', 'asc', function(){});
     // 表のクリア
     obj.html("");
     $("<tr height='20' style='color:white;background-color:#666666'><td align='center'>level</td><td align='center'>タイトル</td><td align='center'>アーティスト</td><td align='center'>差分</td><td align='center'>コメント</td></tr>").appendTo(obj);
@@ -36,7 +79,7 @@ function makeBMSTable(info, mark) {
             str = $("<tr class='tr_update'></tr>");
         }
         // レベル表記
-        $("<td width=2%'>" + mark + x + "</td>").appendTo(str);
+        $("<td width=5%'>" + mark + x + "</td>").appendTo(str);
         // タイトル
         $("<td width='40%'>" + "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
         // アーティスト
@@ -63,9 +106,9 @@ function makeBMSTable(info, mark) {
                 astr += "<br />(" + info[i].name_pack + ")";
             }
         }
-        $("<td width='18%'>" + astr + "</td>").appendTo(str);
+        $("<td width='15%'>" + astr + "</td>").appendTo(str);
         // 差分
-        if(info[i].url_diff != null) {
+        if(info[i].url_diff) {
             if(info[i].name_diff != null) {
                 $("<td width='10%'><a href='" + info[i].url_diff + "'>" + info[i].name_diff + "</a></td>").appendTo(str);
             } else {
