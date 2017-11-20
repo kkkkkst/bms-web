@@ -1,6 +1,4 @@
-Name
+bms関連
 ====
 
-Overview
-
-## Description
+bms関連のwebページ用
