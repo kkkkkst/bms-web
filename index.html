@@ -3,33 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <title>bms関連</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <style type="text/css">
+        .nazo{
+            display: none;
+        }
+    </style>
 </head>
     <body>
         <div>
-            <p>
-                クラスのみんなには内緒だよ★
+            <p id="_title">
+                <span class="nazo">謎</span>bms関連 <span class="nazo">クラスのみんなには内緒だよ★</span>
             </p>
 
             <p>
                 <a href="tables/hexajoy.html">HexaJoy</a>
             </p>
 
-            <p>
+            <p class="nazo">
                 <a href="tables/tanosi.html">たーのしー！</a>
             </p>
 
-            <p>
+            <p class="nazo">
                 <a href="tables/Integration.html">統合Joy</a>
             </p>
 
-            <p>
+            <p class="nazo">
                 <a href="tables/hinanjoy.html">避難Joy</a>
             </p>
 
             <p>
+                <a href="tips/googleapps.html">スプレッドシートを使って難易度表を管理する</a>
+            </p>
+
+            <p class="nazo">
                 <a href="tools/">謎ツール</a>
             </p>
 
         </div>
+
+        <script>
+            $( function() {
+                var i = 0;
+                $("#_title").click(function(e){
+                    i++;
+                    if(i == 10){
+                        $(".nazo").show(500);
+                    }
+                });
+            });
+        </script>
     </body>
 </html>
