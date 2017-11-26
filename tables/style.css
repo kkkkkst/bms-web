@@ -10,7 +10,7 @@
 }
 
 .tr_separate {
-    height:20px;
+    /*height:20px;*/
     color:#ffffff;
     font-size:12px;
     text-shadow:2px 2px 2px #444444;
@@ -31,6 +31,7 @@
 
 .tableflame table {
     font-size: 12px;
+    width: 100%;
 }
 
 .tableflame td {
@@ -53,4 +54,8 @@
 
 .tableflame tr.tr_normal:hover {
     background-color:#70f0f0;
+}
+
+#t_load{
+    text-align: center;
 }

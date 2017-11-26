@@ -1,58 +1,78 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="UTF-8">
     <title>bms関連</title>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/base.css">
     <style type="text/css">
-        .nazo{
+        .nazo {
             display: none;
         }
     </style>
 </head>
-    <body>
-        <div>
-            <p id="_title">
-                <span class="nazo">謎</span>bms関連 <span class="nazo">クラスのみんなには内緒だよ★</span>
-            </p>
 
-            <p>
-                <a href="tables/hexajoy.html">HexaJoy</a>
-            </p>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <h1 id="_title">
+                <span class="nazo">謎</span>bms関連
+            </h1>
+            <section class="md_content">
+                <p>bms関連のいろいろ</p>
+                <p class="nazo">クラスのみんなには内緒だよ★</p>
 
-            <p class="nazo">
-                <a href="tables/tanosi.html">たーのしー！</a>
-            </p>
+                <h3>難易度表</h3>
+                <ul>
+                    <li>
+                        <a href="tables/hexajoy.html">HexaJoy</a> - 自作差分
+                    </li>
 
-            <p class="nazo">
-                <a href="tables/Integration.html">統合Joy</a>
-            </p>
+                    <li class="nazo">
+                        <a href="tables/tanosi.html">たーのしー！</a>
+                    </li>
 
-            <p class="nazo">
-                <a href="tables/hinanjoy.html">避難Joy</a>
-            </p>
+                    <li class="nazo">
+                        <a href="tables/Integration.html">統合Joy</a>
+                    </li>
 
-            <p>
-                <a href="tips/googleapps.html">スプレッドシートを使って難易度表を管理する</a>
-            </p>
+                    <li class="nazo">
+                        <a href="tables/hinanjoy.html">避難Joy</a>
+                    </li>
+              </ul>
 
-            <p class="nazo">
-                <a href="tools/">謎ツール</a>
-            </p>
+                <h3>メモ</h3>
+                <ul>
+                    <li>
+                        <a href="tips/googleapps.html">スプレッドシートを使って難易度表を作る</a>
+                    </li>
+              </ul>
 
+                <h3>ツール等</h3>
+                <ul>
+                    <li><s>難易度表管理用スプレッドシートアドオン</s> - 気が向いたら公開用に作るかも？</li>
+                    <li class="nazo">
+                        <a href="tools/">謎ツール</a>
+                    </li>
+              </ul>
+
+            </section>
         </div>
+    </div>
 
-        <script>
-            $( function() {
-                var i = 0;
-                $("#_title").click(function(e){
-                    i++;
-                    if(i == 10){
-                        $(".nazo").show(500);
-                    }
-                });
+    <script>
+        $(function() {
+            var i = 0;
+            $("#_title").click(function(e) {
+                i++;
+                if (i == 10) {
+                    $(".nazo").show(500);
+                }
             });
-        </script>
-    </body>
+        });
+    </script>
+</body>
+
 </html>

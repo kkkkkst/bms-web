@@ -1,11 +1,144 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="UTF-8">
-    <title>スプレッドシートを使って難易度表を管理する</title>
+    <title>スプレッドシートを使って難易度表を作る</title>
+
+    <link rel="stylesheet" href="../css/base.css">
+    <style type="text/css">
+        /*追加style*/
+    </style>
+
+    <script type="text/javascript" src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 </head>
+
 <body>
-    <p>スプレッドシートに難易度表書いてgasをウェブアプリケーションとして公開してシートの中身をjsonで返すようにしたら便利じゃねって話。</p>
-    <p>気が向いたら書くかも。</p>
+    <div class="wrap">
+        <div class="content">
+            <!--コンテンツ-->
+            <h1>スプレッドシートを使って難易度表を作る</h1>
+            <section class="md_content">
+                <h2>できること</h2>
+                <p>GAS（Google Apps Script）を使ってスプレッドシートのデータをJSONで取得する</p>
+                <p>↓こんなシートを書いたら</p>
+                <img src="img/sheet_ex.png" alt="">
+                <p>↓これが取得できるURLを作れる</p>
+                <pre class="prettyprint lang-js">
+[
+  {
+    "level": "1",
+    "title": "星の器～STAR OF ANDROMEDA (ANOTHER)",
+    "artist": "ZUN (Arr.sun3)",
+    "comment": "コメント1",
+    "md5": "f8dcdfe070630bbb365323c662561a1a",
+    "url_diff": "https://drive.google.com/..."
+  },
+  {
+    "level": "20",
+    "title": "Air -GOD-",
+    "artist": "SHIKI / black train",
+    "comment": "コメント2",
+    "md5": "751738dea1169c5c39db935adfc9e85f",
+    "url_diff": "https://drive.google.com/..."
+  }
+]
+                </pre>
+
+                <h2>手順</h2>
+                <ol>
+                    <li>スプレッドシートを作成する</li>
+                    <li>スクリプトを作成する</li>
+                    <li>ウェブアプリケーションとして公開する</li>
+                </ol>
+
+                <h3>スプレッドシートを作成する</h3>
+                <p>スプレッドシートを作成し、1行目にjsonのオブジェクトキーを入力する。次期難易度表フォーマットについては第二難易度表のページを参照してください。</p>
+                <p>2行目以降にデータを入力していく。書式等は好きにいじってOK。関数の使用も可能。</p>
+                <img src="img/sheet_ex.png" alt="">
+                <p>シートのIDとシート名をメモする。シートのURLが</p>
+                <p>https://docs.google.com/spreadsheets/d/<strong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</strong>/edit#gid=0000000000</p>
+                <p>なら"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"がID。</p>
+                <p>シート名はシート下部のタブの名前（デフォルトはシート1）</p>
+                <img src="img/sheet_ex3.png" alt="">
+                <img src="img/sheet_ex4.png" alt="">
+
+                <h3>スクリプトを作成する</h3>
+                <p>メニューの ツール &gt スクリプトエディタ... からスクリプトエディタを開く。</p>
+                <p>下記のコードを入力。</p>
+                <pre class="prettyprint lang-js">
+function sheetToObj(id, sheet_name) {
+  var sheet = SpreadsheetApp.openById(id).getSheetByName(sheet_name);
+  var rows = sheet.getDataRange().getValues();
+  var keys = rows.splice(0, 1)[0];
+  return rows.map(function(row) {
+    var obj = {}
+    row.map(function(item, index) {
+      obj[keys[index]] = String(item);
+    });
+    return obj;
+  });
+}
+
+function doGet() {
+  var obj = sheetToObj('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'シート1');
+  return ContentService.createTextOutput(JSON.stringify(obj, null, 2)).setMimeType(ContentService.MimeType.JSON);
+}
+                </pre>
+                <p>('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'シート1') の部分をさっきメモしたシートIDとシート名に変更</p>
+                <p>プロジェクトを適当な前で保存する</p>
+
+                <h3>ウェブアプリケーションとして公開する</h3>
+                <p>メニューの 公開 &gt ウェブアプリケーションとして導入... を選びウェブアプリケーションとして公開する</p>
+                <p>「プロジェクト バージョン」 を 「新規作成」 に設定　説明欄は適当に入力</p>
+                <p>「次のユーザーとしてアプリケーションを実行」 を 「自分」 に設定</p>
+                <p>「アプリケーションにアクセスできるユーザー」 を 「全員（匿名ユーザーを含む）」 に設定</p>
+                <img src="img/webapp.png" alt="">
+                <p>「導入」をクリックして公開。承認が必要になるので許可する。Googleの検閲がまだ通ってない場合、このアプリは確認されていませんと出ることがある。暫く時間を置き検閲が通るのを待つか、詳細から移動をクリックして移動する。</p>
+                <p>「現在のウェブアプリケーションのURL」にアクセスすると表のjson形式のデータが取得できる。ファイルがありませんと出る場合はスプレッドシートを一度開き直すと良い</p>
+                <img src="img/json.png" alt="">
+
+                <h2>難易度表として登録</h2>
+                <p>難易度表のheader.jsonのdata_urlに、ウェブアプリケーションのURLを設定すればOK</p>
+                <p>難易度表の作成方法については割愛</p>
+
+                <h2>まとめ</h2>
+                <p>シートの変更内容が即時jsonに反映されるのでjsonを作成する手間が省ける</p>
+                <p>スプレッドシートなので共同編集や応用も可能</p>
+                <p>javascriptの知識があれば、GASを用いた応用も可能</p>
+                <p>身内間程度の表の管理などには便利なのではないでしょうか</p>
+
+                <h2>コードの詳細</h2>
+                <ul>
+                    <li>doGet(e)</li>
+                    <ul>
+                        <li>GETリクエストが送られた際に実行される関数。</li>
+                        <li>返り値にHtmlOutputかTextOutputを設定。返した値が表示される。</li>
+                        <li>doPost(e)を用いればPOSTリクエストの処理も可能。</li>
+                        <li>
+                        引数eでパラメーターの取得が可能。
+                        例えば".../exec?table=aaa"とパラメーターをつけてアクセスすると、e.parameterには{"table": "aaa"}が入る。
+                        １つのスプレッドシートから複数の難易度表を管理したいときに便利。
+                        </li>
+                        <li>詳細はこちら<a href="https://developers.google.com/apps-script/guides/web">https://developers.google.com/apps-script/guides/web</a></li>
+                    </ul>
+                    <li>SpreadsheetApp.openById(id).getSheetByName(sheet_name)</li>
+                    <ul>
+                        <li>スプレッドシートを取得する。</li>
+                        <li>openByIdでスプレッドシートを開き、getSheetByNameでシートを開く。</li>
+                        <li>ウェブアプリケーションとして実行するのでgetActiveSheet()等は使わずIDで指定している。</li>
+                    </ul>
+                    <li>sheet.getDataRange().getValues()</li>
+                    <ul>
+                        <li>getDataRangeでデータが存在するすべての範囲のRangeオブジェクトを返す。</li>
+                        <li>getValuesで範囲内のデータを二次元配列で取得。</li>
+                    </ul>
+                    <li>GASの詳しい詳細はこちら<a href="https://developers.google.com/apps-script/">https://developers.google.com/apps-script/</a></li>
+                </ul>
+
+            </section>
+        </div>
+    </div>
 </body>
+
 </html>
