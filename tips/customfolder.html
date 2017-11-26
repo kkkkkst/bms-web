@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>カスタムフォルダのメモ</title>
+
+    <link rel="stylesheet" href="../css/base.css">
+    <style type="text/css">
+        /*追加style*/
+        pre.prettyprint {
+            overflow: auto;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="content">
+            <h1>カスタムフォルダのメモ</h1>
+            <!--コンテンツ-->
+            <section class="md_content">
+                <p>自分が使っているちょっと特殊なカスタムフォルダのコマンドを晒すだけ</p>
+                <h2>カスタムフォルダのコマンドの基本</h2>
+                <p>カスタムフォルダのコマンドはsong.dbにプレイヤー名.dbをattachしたうえで</p>
+                <pre class="prettyprint lang-sql">SELECT * FROM song WHERE (command) INNER JOIN ON song.hash=score.hash</pre>
+                <p>の(command)の部分を定義している。（LR2のデータベースはsqlite3）（LR2のヘルプを参照）</p>
+                <p><a target="_blank" href="http://sqlitebrowser.org/">SQLite Database Browser</a>などを用いればデータベースの中身を見たりコマンドをテストしたり出来る。</p>
+
+                <h2>ランダムでソートする</h2>
+                <p>結果をランダムでソートして表示するだけ。優柔不断なあなたへ。</p>
+                <pre class="prettyprint">#COMMAND (適当なコマンド) ORDER BY RANDOM()</pre>
+                <p>RANDOM()はsqliteの乱数を生成する関数。その乱数でソートしているだけ。</p>
+
+                <h2>IRでのスコア偏差値が低い（高い）順にソートする</h2>
+                <p>BeMusicSeekerの機能をカスタムフォルダで使用する。<strong>BeMusicSeekerの導入必須</strong>。</p>
+                <pre class="prettyprint">#COMMAND (適当なコマンド) ORDER BY(perfect*2+great-(SELECT average FROM ir_data WHERE hash = song.hash))*10/(SELECT sigma FROM ir_data WHERE hash = song.hash)+50 ASC</pre>
+                <p>最後のASCをDESCに変更すれば高い順にソートになります。</p>
+                <p>内部結合が使えないのでサブクエリを使って強引に実装。</p>
+
+                <h2>複数の表をマージする</h2>
+                <p>BeMusicSeekerで表を導入している場合。</p>
+                <pre class="prettyprint">#COMMAND song.hash in (SELECT md5 FROM playlist_entry WHERE playlist_id in (1,2,3) AND folder = 'LEVEL 1' AND is_removed = 0)</pre>
+                <p>playlist_id in (1,2,3)の(1,2,3)の中に表のplaylist_idを入力。</p>
+                <p>playlist_idはその表のカスタムフォルダの中身を見たりSQLite Database Browser使ったりして確認。</p>
+
+                <br>
+                <br>
+                <br>
+
+                <p>sqlだから色々出来るよって話がしたかっただけ</p>
+
+            </section>
+        </div>
+    </div>
+
+
+
+    <script type="text/javascript" src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?lang=sql"></script>
+</body>
+
+</html>
