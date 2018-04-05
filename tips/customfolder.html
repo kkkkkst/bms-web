@@ -29,9 +29,9 @@
                 <p><a target="_blank" href="http://sqlitebrowser.org/">SQLite Database Browser</a>などを用いればデータベースの中身を見たりコマンドをテストしたり出来る。</p>
 
                 <h2>ランダムでソートする</h2>
-                <p>結果をランダムでソートして表示するだけ。優柔不断なあなたへ。</p>
+                <p>結果をランダムでソートして表示する。</p>
                 <pre class="prettyprint">#COMMAND (適当なコマンド) ORDER BY RANDOM()</pre>
-                <p>RANDOM()はsqliteの乱数を生成する関数。その乱数でソートしているだけ。</p>
+                <p>RANDOM()はsqliteの乱数を生成する関数。</p>
 
                 <h2>IRでのスコア偏差値が低い（高い）順にソートする</h2>
                 <p>BeMusicSeekerの機能をカスタムフォルダで使用する。<strong>BeMusicSeekerの導入必須</strong>。</p>
@@ -44,12 +44,6 @@
                 <pre class="prettyprint">#COMMAND song.hash in (SELECT md5 FROM playlist_entry WHERE playlist_id in (1,2,3) AND folder = 'LEVEL 1' AND is_removed = 0)</pre>
                 <p>playlist_id in (1,2,3)の(1,2,3)の中に表のplaylist_idを入力。</p>
                 <p>playlist_idはその表のカスタムフォルダの中身を見たりSQLite Database Browser使ったりして確認。</p>
-
-                <br>
-                <br>
-                <br>
-
-                <p>sqlだから色々出来るよって話がしたかっただけ</p>
 
             </section>
         </div>
