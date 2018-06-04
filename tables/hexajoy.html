@@ -12,7 +12,7 @@
     <link href="../css/base.css" rel="stylesheet" type="text/css" media="screen,print" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 
-    <meta name="bmstable" content="https://script.google.com/macros/s/AKfycbyEea99wMfCbI7wfI71asQlaG_rnfKTmac2wxI25RzfALi8wy8/exec?header=hexajoy" />
+    <!--<meta name="bmstable" content="https://script.google.com/macros/s/AKfycbyEea99wMfCbI7wfI71asQlaG_rnfKTmac2wxI25RzfALi8wy8/exec?header=hexajoy" />-->
 </head>
     <body class="diff">
         <div class="wrap">
@@ -24,10 +24,22 @@
                         自分のやりたい曲でやりたい譜面をマイペースに作っていきます<br />
                         曲を無視した配置や無音ノーツを含む物もあるので苦手な方は要注意<br />
                         levelは★★です<br />
-                        このページは次期難易度表フォーマットに対応しています<br />
-                        <a href="https://drive.google.com/open?id=0B-jo3hSmNHFaSUNPanhQQ3VINUU">譜面まとめ（GoogleDrive）</a><br />
-                        <br />
+                        このページは次期難易度表フォーマットに対応しています
                     </p>
+                    <p>
+                        <a href="https://drive.google.com/open?id=0B-jo3hSmNHFaSUNPanhQQ3VINUU">譜面まとめ（GoogleDrive）</a>
+                    </p>
+                    <p>
+                        <a href="#" id="btn_update_history">更新履歴</a>
+                    </p>
+
+                    <textarea style="display: none; width:100%;" name="update_history" id="update_history" cols="50" rows="6" ></textarea>
+                    <script type="text/javascript">
+                        $("#btn_update_history").click(function(){
+                            $("#update_history").show();
+                            $("#update_history").load("update_history.txt");
+                        });
+                    </script>
                 </section>
             </div>
         </div>
