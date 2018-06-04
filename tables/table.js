@@ -90,38 +90,38 @@ function makeBMSTable(info, mark) {
         $("<td width='30%'>" + "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
         // アーティスト
         var astr = "";
-        if(info[i].url != null) {
-            if(info[i].artist != null) {
+        if(info[i].url) {
+            if(info[i].artist) {
                 astr = "<a href='" + info[i].url + "'>" + info[i].artist + "</a>";
             } else {
                 astr = "<a href='" + info[i].url + "'>" + info[i].url + "</a>";
             }
         } else {
-            if(info[i].artist != null) {
+            if(info[i].artist) {
                 astr = info[i].artist;
             }
         }
-        if(info[i].url_pack != null) {
-            if(info[i].name_pack != null) {
+        if(info[i].url_pack) {
+            if(info[i].name_pack) {
                 astr += "<br />(<a href='" + info[i].url_pack + "'>" + info[i].name_pack + "</a>)";
             } else {
                 astr += "<br />(<a href='" + info[i].url_pack + "'>" + info[i].url_pack + "</a>)";
             }
         } else {
-            if(info[i].name_pack != null) {
+            if(info[i].name_pack) {
                 astr += "<br />(" + info[i].name_pack + ")";
             }
         }
         $("<td width='30%'>" + astr + "</td>").appendTo(str);
         // 差分
         if(info[i].url_diff) {
-            if(info[i].name_diff != null) {
+            if(info[i].name_diff) {
                 $("<td width='5%'><a href='" + info[i].url_diff + "'>" + info[i].name_diff + "</a></td>").appendTo(str);
             } else {
                 $("<td width='5%'><a href='" + info[i].url_diff + "'>" + "差分" + "</a></td>").appendTo(str);
             }
         } else {
-            if(info[i].name_diff != null) {
+            if(info[i].name_diff) {
                 $("<td width='5%'>" + info[i].name_diff + "</td>").appendTo(str);
             } else {
                 $("<td width='5%'></td>").appendTo(str);
