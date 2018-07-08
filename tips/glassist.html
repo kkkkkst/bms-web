@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>GLAssistの差分自動導入</title>
+
+        <link rel="stylesheet" href="../css/base.css">
+        <style type="text/css">
+            /*追加style*/
+        </style>
+    </head>
+
+    <body>
+        <div class="wrap">
+            <div class="content">
+                <h1>GLAssistの差分自動導入を難易度表に実装する</h1>
+                <!--コンテンツ-->
+                <section class="md_content">
+                    <h2>GLAssistの差分自動導入</h2>
+                    <p>↓これについての話がどこにもなかったのでメモ</p>
+                    <img src="img/diffbutton.png" alt="">
+                    <p>このボタンを押すことで、表内の本体は持っているが差分は未所持の譜面を自動でダウンロード、インストールしてくれる機能。</p>
+                    <p>自動でダウンロードしてくれるのは差分のみで、本体のダウンロードは行われない。</p>
+
+
+
+                    <h2>難易度表に導入する</h2>
+                    <p>難易度表のデータ部に以下の項目を導入する。</p>
+                    <ul>
+                        <li>"org_md5" : 同梱譜面のmd5ハッシュ値</li>
+                        <li>"url_diff" : 差分のダウンロードURL</li>
+                    </ul>
+
+
+                    <h3>"org_md5" : 同梱譜面のmd5ハッシュ値</h3>
+                    <p>同梱譜面のmd5ハッシュ値を指定する。</p>
+                    <p>ここで指定したmd5の譜面を所持していると差分自動導入が可能になり、この譜面のあるフォルダに差分がインストールされる。</p>
+
+
+                    <h3>"url_diff" : 差分のダウンロードURL</h3>
+                    <p>差分のダウンロードURLを指定する。</p>
+                    <p><strong>ただし、このURLは以下の条件をすべて満たす必要がある。</strong></p>
+                    <ul>
+                        <li>
+                            譜面ファイル(bmeなど)またはそのアーカイブ(zipなど)への直リンクである
+                        </li>
+                        <li>GETリクエストに対してファイルが返ってくる</li>
+                            <ul>
+                                <li>たとえば <strong></strong>GoogleDrive (export=download を付けたものも含む) や、Internet Archive は使用できない</li>
+                                <li>それ以外の直リンクっぽいものは基本問題ないと思われる</li>
+                            </ul>
+                        <li>URLの末尾が "/ファイル名" となっている</li>
+                            <ul>
+                                <li>たとえば <strong>"http://xxxxxxxx.com/sabun.zip"</strong> こんなURLは使用できる</li>
+                                <li>差分アップローダーなどの <strong>"http://xxxxxxxx.com/upload.cgi?get=00001"</strong> こんなURLは使用できない</li>
+                                <li>ただし、以下のようにダミーのパラメータをつけることで無理やり対応させることもできる
+                                    "http://xxxxxxxx.com/upload.cgi?get=00001<strong>&/00001.zip</strong>"</li>
+                            </ul>
+                    </ul>
+                    <p>まとめると、</p>
+                    <p>以下のようなURLの場合は問題なく使用できる。</p>
+                    <ul>
+                        <li>http://xxxxxxxx.com/sabun.zip</li>
+                    </ul>
+                    <p>パラメータがつくURLの場合は最後にダミーのパラメータをつけることで無理やり対応させることができる。</p>
+                    <ul>
+                        <li>http://xxxxxxxx.com/upload.cgi?get=00001</li>
+                        <li>http://xxxxxxxx.com/upload.cgi?get=00001<strong>&/00001.zip</strong></li>
+                    </ul>
+                    <p>Dropboxの場合は共有リンクを以下のように変更することで使用できる。</p>
+                    <ul>
+                        <li>https://<strong>www.dropbox.com</strong>/s/xxxxxxxxxxxxxxx/sabun.zip<strong>?dl=0</strong></li>
+                        <li>https://<strong>dl.dropboxusercontent.com</strong>/s/xxxxxxxxxxxxxxx/sabun.zip</li>
+                    </ul>
+                    <p>GoogleDriveにアップロードされている差分は自動導入を使用できない。</p>
+
+
+                    <h2>実際に使用する</h2>
+                    <p>org_md5 の譜面を所持していてかつ、差分は未所持の差分が1つでも存在する場合、差分自動導入のボタンがクリック可能になる。</p>
+                    <img src="img/gla_button.png" alt="">
+                    <p>クリックすると自動導入が開始する。url_diffのファイルをダウンロードし、GLAssistの楽曲導入機能を通じて差分がインストールされる。自動導入中は以下のような画面になるのみで、進行状況などは表示されない。</p>
+                    <img src="img/guruguru.png" alt="">
+                    <p>完了。</p>
+                    <img src="img/gla_diff_end.png" alt="">
+                    <p>差分導入タブに移動すると自動導入の結果が表示される。</p>
+                    <p>GLAssistの楽曲導入機能を使用するため、この機能に対応していない形式の差分は導入に失敗する。(以下の x-Aria -frenzy mix- [Hexagon] 等)</p>
+                    <img src="img/gla_import_result.png" alt="">
+                    <p>難易度表タブに戻り表を更新すると差分の導入に成功していることが分かる。</p>
+                    <img src="img/gla_end.png" alt="">
+
+                    <h2>まとめ</h2>
+                    <p>本体を持っていれば差分の導入が楽になる。</p>
+                    <p>現在はBeMusicSeekerに直リンクの本体、差分を自動インストールする機能があるのでそっちで十分かも。</p>
+
+                </section>
+            </div>
+        </div>
+    </body>
+
+</html>
