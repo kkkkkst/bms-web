@@ -84,7 +84,7 @@ function makeBMSTable(info, mark) {
         if(info[i].state == 2) {
             str = $("<tr class='tr_update'></tr>");
         }
-        if(info[i].state == 3) {
+        if(info[i].state == 5) {
             str = $("<tr class='tr_deprecated'></tr>");
         }
         // レベル表記
