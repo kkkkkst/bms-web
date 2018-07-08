@@ -29,6 +29,10 @@
     background-color:#8888ff;
 }
 
+.tr_deprecated {
+    background-color:#999999;
+}
+
 .tableflame table {
     font-size: 12px;
     width: 100%;
