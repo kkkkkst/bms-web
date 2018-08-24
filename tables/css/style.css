@@ -1,0 +1,48 @@
+table.dataTable.display tbody tr.even.new{
+    background-color: #ffe1aa;
+}
+table.dataTable.display tbody tr.odd.new{
+    background-color: #F5D7A0;
+}
+table.dataTable.display tbody tr.even.new>.sorting_1{
+    background-color: #FADCA5;
+}
+table.dataTable.display tbody tr.odd.new>.sorting_1{
+    background-color: #F0D29B;
+}
+
+table.dataTable.display tbody tr.even.update{
+    background-color: #c1e8ff;
+}
+table.dataTable.display tbody tr.odd.update {
+    background-color: #A3DDFF;
+}
+table.dataTable.display tbody tr.even.update>.sorting_1{
+    background-color: #BCE3FA;
+}
+table.dataTable.display tbody tr.odd.update>.sorting_1{
+    background-color: #9ED8FA;
+}
+
+tbody{
+    font-size: 12px;
+}
+
+thead{
+    font-size: 13px;
+}
+
+/*
+table.dataTable.display tbody tr.even.deprecated{
+    background-color: #A5A5A5;
+}
+table.dataTable.display tbody tr.odd.deprecated {
+    background-color: #999999;
+}
+table.dataTable.display tbody tr.even.deprecated>.sorting_1{
+    background-color: #A0A0A0;
+}
+table.dataTable.display tbody tr.odd.deprecated>.sorting_1{
+    background-color: #949494;
+}
+*/
