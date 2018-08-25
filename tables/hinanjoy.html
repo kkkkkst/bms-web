@@ -1,44 +1,76 @@
 <!DOCTYPE html>
 <html lang="ja">
-    <head>
-        <meta charset="UTF-8">
-        <title>避難Joy</title>
+<head>
+    <meta charset="UTF-8">
+    <title>避難Joy</title>
 
-        <link href="style.css" rel="stylesheet" type="text/css" media="screen,print" />
-        <link href="../css/base.css" rel="stylesheet" type="text/css" media="screen,print" />
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/base.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css"/>
 
-        <meta name="bmstable" content="https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?header=hinanjoy" />
-    </head>
-    <body class="diff">
-        <div class="wrap">
-            <div class="content">
-                <h1>避難Joy</h1>
-                <section class="md_content">
-                    <p>
-                        新ロダ（<a href="http://gnqg.rosx.net/upload/upload.cgi">http://gnqg.rosx.net/upload/upload.cgi</a>）の難易度付きまとめです<br />
-                        ロダのLEVELに書かれてる難易度でつけてるだけです<br />
-                        少し漏れがあります<br />
-                        -5: ★1～4<br />
-                        -4: ★5～9<br />
-                        -3: ★10～14<br />
-                        -2: ★15～17<br />
-                        -1: ★18～19<br />
-                        0: ★20<br />
-                        いつかつける: いつかつけます　いつか<br />
-                    </p>
-                </section>
-            </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
+
+    <meta name="bmstable" content="https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?header=hinanjoy" />
+</head>
+<body class="diff">
+    <div class="wrap">
+        <div class="content">
+            <h1>避難Joy</h1>
+            <section class="md_content">
+                <p>
+                    新ロダ（<a href="http://gnqg.rosx.net/upload/upload.cgi">http://gnqg.rosx.net/upload/upload.cgi</a>）の難易度付きまとめです<br />
+                    ロダのLEVELに書かれてる難易度でつけてるだけです<br />
+                    少し漏れがあります<br />
+                    -5: ★1～4<br />
+                    -4: ★5～9<br />
+                    -3: ★10～14<br />
+                    -2: ★15～17<br />
+                    -1: ★18～19<br />
+                    0: ★20<br />
+                    いつかつける: いつかつけます　いつか<br />
+                </p>
+
+                <h2></h2>
+                <table id="difficulty_table" class="display cell-border compact"></table>
+
+            </section>
         </div>
+    </div>
 
+    <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
+    <script type="text/javascript">
+        var table_data = "https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?tablename=hinanjoy";
+        var table_columns = [
+            {
+                title: 'level',
+                data: 'level',
+                type: 'natural',
+            },
+            {
+                title: 'タイトル<br>(LR2IR)',
+                data: 'title',
+                width: "25%",
+                render: ParseData.parseTitle,
+            },
+            {
+                title: 'アーティスト<br>(本体URL)',
+                data: 'artist',
+                width: "15%",
+                render: ParseData.parseArtist,
+            },
+            {
+                title: '差分',
+                render: ParseData.parseSabun,
+                orderable: false,
+            },
+            {
+                title: 'コメント',
+                data: 'comment',
+            }
+        ];
+    </script>
 
-
-        <div class="tableflame">
-            <table align="center" cellspacing="1" cellpadding="2"　border="0" bgcolor="#000000" id="table_int">
-            </table>
-        </div>
-
-        <script type="text/javascript" charset="utf-8" src="table.js"></script>
-
-    </body>
+</body>
 </html>
