@@ -12,56 +12,11 @@ $(document).ready( function () {
         },
 
         "ajax": {
-            url: "https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?tablename=hexajoy",
+            url: table_data,
             dataSrc: ""
         },
 
-        columns: [
-            {
-                title: 'level',
-                data: 'level',
-            },
-            {
-                title: 'タイトル<br>(LR2IR)',
-                data: 'title',
-                width: "25%",
-                render: ParseData.parseTitle,
-            },
-            {
-                title: 'アーティスト<br>(本体URL)',
-                data: 'artist',
-                width: "15%",
-                render: ParseData.parseArtist,
-            },
-            {
-                title: '差分',
-                render: ParseData.parseSabun,
-                orderable: false,
-            },
-            {
-                title: '日付',
-                data: 'date',
-                render: ParseData.parseDate,
-            },
-            {
-                title: 'BPM',
-                data: 'main_bpm',
-            },
-            {
-                title: 'Total/Notes<br>(回復量)',
-                render: ParseData.parseTotalnotes,
-            },
-            {
-                title: '譜面傾向',
-                width: "8%",
-                data: 'score_type',
-                render: ParseData.parseType,
-            },
-            {
-                title: 'コメント',
-                data: 'comment',
-            }
-        ],
+        columns: table_columns,
 
         createdRow: function(row, data){
             if ( data.state == 1 ) {

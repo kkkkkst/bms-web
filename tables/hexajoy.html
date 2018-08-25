@@ -10,6 +10,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
 
     <meta name="bmstable" content="https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?header=hexajoy" />
 </head>
@@ -52,7 +53,58 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" src="js/table_hex.js"></script>
+        <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
+        <script type="text/javascript">
+            var table_data = "https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?tablename=hexajoy";
+            var table_columns = [
+                {
+                    title: 'level',
+                    data: 'level',
+                    type: 'natural',
+                },
+                {
+                    title: 'タイトル<br>(LR2IR)',
+                    data: 'title',
+                    width: "25%",
+                    render: ParseData.parseTitle,
+                },
+                {
+                    title: 'アーティスト<br>(本体URL)',
+                    data: 'artist',
+                    width: "15%",
+                    render: ParseData.parseArtist,
+                },
+                {
+                    title: '差分',
+                    render: ParseData.parseSabun,
+                    orderable: false,
+                },
+                {
+                    title: '日付',
+                    data: 'date',
+                    render: ParseData.parseDate,
+                },
+                {
+                    title: 'BPM',
+                    data: 'main_bpm',
+                },
+                {
+                    title: 'Total/Notes<br>(回復量)',
+                    render: ParseData.parseTotalnotes,
+                    type: 'natural',
+                },
+                {
+                    title: '譜面傾向',
+                    width: "8%",
+                    data: 'score_type',
+                    render: ParseData.parseType,
+                },
+                {
+                    title: 'コメント',
+                    data: 'comment',
+                }
+            ];
+        </script>
 
 </body>
 </html>
