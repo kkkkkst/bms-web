@@ -53,9 +53,9 @@ var ParseData = {
 
         if(row.url) {
             if(row.artist) {
-                astr = "<a href='" + row.url + "'>" + row.artist + "</a>";
+                astr = "<a href='" + row.url + "' target='_blank'>" + row.artist + "</a>";
             } else {
-                astr = "<a href='" + row.url + "'>" + row.url + "</a>";
+                astr = "<a href='" + row.url + "' target='_blank'>" + row.url + "</a>";
             }
         } else {
             if(row.artist) {
@@ -65,9 +65,9 @@ var ParseData = {
 
         if(row.url_pack) {
             if(row.name_pack) {
-                astr += "<br />(<a href='" + row.url_pack + "'>" + row.name_pack + "</a>)";
+                astr += "<br />(<a href='" + row.url_pack + "' target='_blank'>" + row.name_pack + "</a>)";
             } else {
-                astr += "<br />(<a href='" + row.url_pack + "'>" + row.url_pack + "</a>)";
+                astr += "<br />(<a href='" + row.url_pack + "' target='_blank'>" + row.url_pack + "</a>)";
             }
         } else {
             if(row.name_pack) {
@@ -82,9 +82,9 @@ var ParseData = {
 
         if(row.url_diff) {
             if(row.name_diff) {
-                str_ += "<a href='" + row.url_diff + "'>" + row.name_diff + "</a>";
+                str_ += "<a href='" + row.url_diff + "' target='_blank'>" + row.name_diff + "</a>";
             } else {
-                str_ += "<a href='" + row.url_diff + "'>" + SABUN_DL_STR + "</a>";
+                str_ += "<a href='" + row.url_diff + "' target='_blank'>" + SABUN_DL_STR + "</a>";
             }
         } else {
             if(row.name_diff) {
