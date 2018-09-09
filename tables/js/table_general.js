@@ -106,7 +106,7 @@ var ParseData = {
     parseTotalnotes: function(data,type,row){
         var str_ = "";
         if(row.total && row.notes){
-            str_ += row.total + " / " + row.notes + "<br>" + (Math.round((row.total/row.notes)*100)/100);
+            str_ += row.total + " / " + row.notes + "<br>" + (Math.floor((row.total/row.notes)*1000)/1000);
         }
         return str_;
     },
