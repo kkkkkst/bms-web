@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>旧アプロダ表</title>
+
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="../css/base.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css"/>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
+
+        <meta name="bmstable" content="header/olduploader.json" />
+    </head>
+    <body class="diff">
+        <div class="wrap">
+            <div class="content">
+                <h1>旧アプロダ表</h1>
+                <section class="md_content">
+                    <p>
+                        <a href="http://absolute.pv.land.to/bmsuploader.html">旧ロダ</a>の難易度付きまとめです<br />
+                        難易度はロダのコメント欄から自動生成しています<br />
+                        そのため、1つのファイルに複数の譜面がある場合などで正しく分類出来ていない可能性があります　というか出来てないです<br />
+                        level ◆、◎ はそれぞれLNと皿のロダのものです<br />
+                        level 謎 はコメント欄から難易度を見つけることが出来なかったものです　気が向いたら自分でつけます<br />
+                    </p>
+
+                    <h2></h2>
+                    <table id="difficulty_table" class="display cell-border compact"></table>
+
+                </section>
+            </div>
+        </div>
+
+        <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
+        <script type="text/javascript">
+            var table_data = "https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?tablename=olduploader";
+            var table_columns = [
+                {
+                    title: 'level',
+                    data: 'level',
+                    type: 'natural',
+                },
+                {
+                    title: 'タイトル<br>(LR2IR)',
+                    data: 'title',
+                    width: "25%",
+                    render: ParseData.parseTitle,
+                },
+                {
+                    title: 'アーティスト<br>(本体URL)',
+                    data: 'artist',
+                    width: "15%",
+                    render: ParseData.parseArtist,
+                },
+                {
+                    title: '差分',
+                    render: ParseData.parseSabun,
+                    orderable: false,
+                },
+                {
+                    title: 'コメント',
+                    data: 'comment',
+                }
+            ];
+        </script>
+
+    </body>
+</html>
