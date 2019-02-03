@@ -3,20 +3,46 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>タイトル</title>
+    <title>ノートをソートするやつ</title>
 
-    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="../css/base.css">
     <style type="text/css">
         /*追加style*/
     </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/bms.js"></script>
+    <script src="js/obj-sorter.js"></script>
+
 </head>
 
 <body>
     <div class="wrap">
         <div class="content">
-            <h1>タイトル</h1>
+            <h1>ノートをソートするやつ</h1>
             <!--コンテンツ-->
             <section class="md_content">
+                <h2>なにこれ</h2>
+                <p>bms内のノートを指定した形式でbgmレーンへ移動します</p>
+
+                <h2></h2>
+
+
+                <p><input id="in_file" type="text"></p>
+                
+                <input id="in_reg" type="text" list="kregs">
+                <datalist id="kregs">
+                    <option value="%%">
+                </datalist>
+                <button id="btn_append">追加</button>
+
+                <select id="slc_sound_files" size="30"></select>
+                <select id="slc_sound_files_matched" size="30"></select>
+                <select id="slc_regs" size="30"></select>
+                <button id="btn_delreg">削除</button>
+
+
+
 
             </section>
         </div>
