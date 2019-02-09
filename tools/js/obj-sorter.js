@@ -1,6 +1,6 @@
 var bms_file;
 var bms;
-var sound_files
+var sound_files;
 
 var $input;
 var $ifile;
@@ -22,18 +22,18 @@ class SoundFileList {
         this.regs.push(reg);
         this.str_regs.push(reg.source);
         this.not_match = this.all;
-        this.regs.forEach(function(reg){
+        this.regs.forEach(reg => {
             this.not_match = this.not_match.filter(file => !file.match(reg));
-        }, this);
+        });
     }
 
     delReg(index){
         this.regs.splice(index, 1);
         this.str_regs.splice(index, 1);
         this.not_match = this.all;
-        this.regs.forEach(function(reg){
+        this.regs.forEach(reg => {
             this.not_match = this.not_match.filter(file => !file.match(reg));
-        }, this);
+        });
     }
 
     getMatchFilenames(reg){
@@ -143,4 +143,8 @@ function updateMatchList(){
     if(!reg) return;
     var fs = sound_files.getMatchFilenames(reg);
     setArrayToSelect($match_files, fs);
+}
+
+function getConvertedBms(){
+    
 }
