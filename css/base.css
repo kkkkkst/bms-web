@@ -59,7 +59,7 @@ p, img, ul, ol {
 }
 
 .md_content {
-    padding-top: 20px;
+    padding: 30px 10px 40px 10px;
 	border-top: solid 1px #999;
 }
 
@@ -73,4 +73,9 @@ h1, h2, h3, h4, h5, h6{
     letter-spacing: -.02rem;
     margin-bottom: .5rem;
     line-height: 1.25;
+}
+
+footer {
+    padding: 1.5rem 10px 2rem 10px;
+    border-top: solid 1px #999;
 }
