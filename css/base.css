@@ -14,7 +14,7 @@ body {
 }
 
 h1{
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
     font-size: 1.5em;
     font-weight: bold;
 }
@@ -56,6 +56,7 @@ s{
 p, img, ul, ol {
     margin-top: 0;
     margin-bottom: 1rem;
+    line-height: 1.4;
 }
 
 .md_content {
@@ -65,13 +66,12 @@ p, img, ul, ol {
 
 .md_content>h1, .md_content>h2, .md_content>h3, .md_content>h4, .md_content>h5, .md_content>h6{
     border-bottom: 1px dotted #ccc;
-    margin-top: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
 }
 
 h1, h2, h3, h4, h5, h6{
     color: #313131;
-    letter-spacing: -.02rem;
-    margin-bottom: .5rem;
     line-height: 1.25;
 }
 
