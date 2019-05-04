@@ -56,14 +56,24 @@
             {
                 title: 'タイトル<br>(LR2IR)',
                 data: 'title',
-                width: "40%",
+                width: "30%",
                 render: ParseData.parseTitle,
             },
             {
                 title: 'アーティスト',
                 data: 'artist',
-                width: "30%",
+                width: "25%",
                 render: ParseData.parseArtist,
+            },
+            {
+                title: '差分',
+                render: ParseData.parseSabun,
+                orderable: false,
+            },
+            {
+                title: 'BPM',
+                data: 'max_bpm',
+                type: 'natural',
             },
             {
                 title: 'コメント',
