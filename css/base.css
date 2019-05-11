@@ -61,7 +61,7 @@ p, img, ul, ol {
 
 .md_content {
     padding: 30px 10px 40px 10px;
-	border-top: solid 1px #999;
+	border-top: solid 1px #dcdcdc;
 }
 
 .md_content>h1, .md_content>h2, .md_content>h3, .md_content>h4, .md_content>h5, .md_content>h6{
@@ -77,5 +77,5 @@ h1, h2, h3, h4, h5, h6{
 
 footer {
     padding: 1.5rem 10px 2rem 10px;
-    border-top: solid 1px #999;
+    border-top: solid 1px #dcdcdc;
 }
