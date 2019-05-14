@@ -42,7 +42,7 @@
 
     <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
     <script type="text/javascript">
-        var table_data = "https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?ctablename=sandbox";
+        var table_data = "./json/sandbox.json";
         var table_columns = [
             {
                 title: 'level',
@@ -52,7 +52,7 @@
             {
                 title: 'タイトル<br>(LR2IR)',
                 data: 'title',
-                width: "50%",
+                // width: "50%",
                 render: ParseData.parseTitle,
             },
             {
@@ -61,9 +61,9 @@
                 render: ParseData.parseArtist,
             },
             {
-                title: 'BPM',
-                data: 'BPM',
-                type: 'natural',
+                title: '差分',
+                render: ParseData.parseSabun,
+                orderable: false,
             }
         ];
     </script>
