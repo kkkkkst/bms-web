@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--
-表天ぷら
-タイトルとヘッダーと説明文を入力する
--->
 <html lang="ja">
 
 <head>
@@ -30,7 +26,17 @@
         <p>譜面を投げたら難易度を吐き出してくれる何かを実現する方法を模索中...</p>
 
         <h2></h2>
+        <a href="#" id="btn_show_table">表を表示する（激重注意）</a>
         <table id="difficulty_table" class="display cell-border compact"></table>
+
+        <script type="text/javascript">
+          $(function () {
+            $("#btn_show_table").click(function (event) {
+              $("#btn_show_table").hide();
+              createTable(true);
+            });
+          });
+        </script>
 
       </section>
     </div>
@@ -39,6 +45,7 @@
   <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
   <script type="text/javascript">
     var table_data = "./json/db.json";
+    var is_manual_load = 1;
     var table_columns = [
       {
         title: 'level',
