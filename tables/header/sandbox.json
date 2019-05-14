@@ -1,5 +1,5 @@
 {
     "name": "砂場",
     "symbol": "砂",
-    "data_url": "https://script.google.com/macros/s/AKfycbxMG5jqTHVZqSqE3dNkvc-QUcgm1-soiy0xMOJQn0ycCy2ZBGiy/exec?ctablename=sandbox"
+    "data_url": "./json/sandbox.json"
 }
