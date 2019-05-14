@@ -1,11 +1,11 @@
 var SABUN_DL_STR = "DL";
 
-$(document).ready( function () {
-
+function createTable(paging = false){
     $('#difficulty_table').DataTable({
         lengthChange: false,
         info: false,
-        paging: false,
+        paging: paging,
+        pageLength: 200,
 
         "language": {
             url:"//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
@@ -29,15 +29,13 @@ $(document).ready( function () {
                 $(row).addClass( 'deprecated' );
             }
         },
-
     });
+}
 
-
-
-
-
-
-
+$(document).ready( function () {
+    if(typeof is_manual_load === 'undefined'){
+        createTable();
+    }
 } );
 
 var ParseData = {
