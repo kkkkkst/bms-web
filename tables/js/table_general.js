@@ -29,6 +29,35 @@ function createTable(paging) {
         $(row).addClass('deprecated');
       }
     },
+
+    initComplete: function() {
+      var colLevel = this.api().column(0);
+
+      var select = $(
+        '<div class="dataTables_length">レベルでフィルタ:<select><option value="">All</option></select></div>'
+      )
+        .prependTo($('#difficulty_table_wrapper'))
+        .on('change', function() {
+          var val = $.fn.dataTable.util.escapeRegex(
+            $(this)
+              .find('select')
+              .val()
+          );
+          colLevel.search(val ? '^' + val + '$' : '', true, false).draw();
+        });
+
+      colLevel
+        .data()
+        .unique()
+        .sort(function(a, b) {
+          return parseInt(a) - parseInt(b);
+        })
+        .each(function(d, j) {
+          select
+            .find('select')
+            .append('<option value="' + d + '">' + d + '</option>');
+        });
+    },
   });
 }
 
