@@ -6,3 +6,6 @@
 /_template/
 /_general/
 /.vscode/
+/package.json
+/package-lock.json
+/.eslintrc.js
