@@ -34,7 +34,7 @@ function createTable(paging) {
       var colLevel = this.api().column(0);
 
       var select = $(
-        '<div class="dataTables_length">レベルでフィルタ:<select><option value="">All</option></select></div>'
+        '<div class="dataTables_length">レベルでフィルタ: <select><option value="">All</option></select></div>'
       )
         .prependTo($('#difficulty_table_wrapper'))
         .on('change', function() {
