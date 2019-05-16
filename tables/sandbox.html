@@ -1,72 +1,87 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>砂場</title>
 
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="../css/base.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/base.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css"
+    />
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"
+    ></script>
 
     <meta name="bmstable" content="header/sandbox.json" />
-</head>
-<body class="diff">
+  </head>
+  <body class="diff">
     <div class="wrap">
-        <div class="content">
-            <h1>砂場</h1>
-            <section class="md_content">
-                <p>
-                    ★★レベルの譜面を片っ端からブチ込んだ表です<br />
-                    毎日早朝に自動更新されます<br />
-                    難易度のチェックはほぼ行っていないため難易度詐称が非常に多いと思われます<br />
-                    大量の譜面をとりあえずまとめたい人向け<br />
-                    このページは次期難易度表フォーマットに対応しています<br />
-                </p>
+      <div class="content">
+        <h1>砂場</h1>
+        <section class="md_content">
+          <p>
+            ★★レベルの譜面を片っ端からブチ込んだ表です<br />
+            毎日早朝に自動更新されます<br />
+            難易度のチェックはほぼ行っていないため難易度詐称が非常に多いと思われます<br />
+            大量の譜面をとりあえずまとめたい人向け<br />
+            このページは次期難易度表フォーマットに対応しています<br />
+          </p>
 
-                <h2></h2>
-                <table id="difficulty_table" class="display cell-border compact"></table>
+          <h2></h2>
+          <table
+            id="difficulty_table"
+            class="display cell-border compact"
+          ></table>
+        </section>
 
-            </section>
-
-            <footer>
-                <nav>
-                    <a href="../">トップへ戻る</a>
-                </nav>
-            </footer>
-        </div>
+        <footer>
+          <nav>
+            <a href="../">トップへ戻る</a>
+          </nav>
+        </footer>
+      </div>
     </div>
 
-    <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
+    <script
+      type="text/javascript"
+      charset="utf-8"
+      src="js/table_general.js"
+    ></script>
     <script type="text/javascript">
-        var table_data = "./json/sandbox.json";
-        var table_columns = [
-            {
-                title: 'level',
-                data: 'level',
-                type: 'natural',
-            },
-            {
-                title: 'タイトル<br>(LR2IR)',
-                data: 'title',
-                // width: "50%",
-                render: ParseData.parseTitle,
-            },
-            {
-                title: 'アーティスト',
-                data: 'artist',
-                render: ParseData.parseArtist,
-            },
-            {
-                title: '差分',
-                render: ParseData.parseSabun,
-                orderable: false,
-            }
-        ];
+      var table_data = './json/sandbox.json';
+      var table_columns = [
+        {
+          title: 'level',
+          data: 'level',
+          type: 'natural',
+        },
+        {
+          title: 'タイトル<br>(LR2IR)',
+          data: 'title',
+          // width: "50%",
+          render: ParseData.parseTitle,
+        },
+        {
+          title: 'アーティスト',
+          data: 'artist',
+          render: ParseData.parseArtist,
+        },
+        {
+          title: '差分',
+          render: ParseData.parseSabun,
+          orderable: false,
+        },
+      ];
     </script>
-
-</body>
+  </body>
 </html>

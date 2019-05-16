@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>BMS関連ツール集</title>
     <meta charset="utf-8" />
@@ -9,78 +8,98 @@
     <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
     <script src="js/class.js"></script>
     <script src="js/bpm2.js"></script>
-    <link rel="stylesheet" href="../css/base.css">
-</head>
+    <link rel="stylesheet" href="../css/base.css" />
+  </head>
 
-<body>
+  <body>
     <div class="wrap">
-        <div class="content">
-            <h1>BMS関連ツール集</h1>
-            <!--コンテンツ-->
-            <section class="md_content">
-                <h2>密度計算機</h2>
-                BPM: <input type="number" id="bpm" /><br /><br /> 密度(/小節):
-                <input type="text" id="mpb" style="width: 40px" /> 密度(2/小節):
-                <input type="text" id="m2" style="width: 40px" /> 密度(4/小節):
-                <input type="text" id="m4" style="width: 40px" /> 密度(8/小節):
-                <input type="text" id="m8" style="width: 40px" /> 密度(16/小節):
-                <input type="text" id="m16" style="width: 40px" /><br />
+      <div class="content">
+        <h1>BMS関連ツール集</h1>
+        <!--コンテンツ-->
+        <section class="md_content">
+          <h2>密度計算機</h2>
+          BPM: <input type="number" id="bpm" /><br /><br />
+          密度(/小節):
+          <input type="text" id="mpb" style="width: 40px" /> 密度(2/小節):
+          <input type="text" id="m2" style="width: 40px" /> 密度(4/小節):
+          <input type="text" id="m4" style="width: 40px" /> 密度(8/小節):
+          <input type="text" id="m8" style="width: 40px" /> 密度(16/小節):
+          <input type="text" id="m16" style="width: 40px" /><br />
 
-                <input type="button" id="b2s" value="↓" /><input type="button" id="s2b" value="↑" /><br /> 密度(/s):
+          <input type="button" id="b2s" value="↓" /><input
+            type="button"
+            id="s2b"
+            value="↑"
+          /><br />
+          密度(/s):
 
-                <input type="text" id="mps" style="width: 40px" /><br /><br />
+          <input type="text" id="mps" style="width: 40px" /><br /><br />
 
+          <h2>配置補助</h2>
 
-                <h2>配置補助</h2>
+          <textarea id="clip" cols="30" rows="5"></textarea>
+          <input type="number" id="tate_haba" style="width: 40px" value="24" />
+          <input type="number" id="tate_count" style="width: 40px" value="4" />
+          <input type="checkbox" id="tate_ganbaru" checked="checked" /><label
+            for="tate_ganbaru"
+            >がんばる</label
+          >
+          <span id="turami">0</span>
+          <input type="checkbox" id="tate_yuusen" /><label for="tate_yuusen"
+            >ばらつかせる</label
+          ><br />
+          <input type="button" id="convert" value="↓" /><br />
+          <textarea id="p_out" cols="30" rows="5"></textarea><br />
+          <input
+            type="button"
+            id="p_copy"
+            value="コピー"
+            data-clipboard-target="#p_out"
+          /><br />
 
-                <textarea id="clip" cols="30" rows="5"></textarea>
-                <input type="number" id="tate_haba" style="width: 40px" value="24" />
-                <input type="number" id="tate_count" style="width: 40px" value="4" />
-                <input type="checkbox" id="tate_ganbaru" checked="checked" /><label for="tate_ganbaru">がんばる</label>
-                <span id="turami">0</span>
-                <input type="checkbox" id="tate_yuusen" /><label for="tate_yuusen">ばらつかせる</label><br />
-                <input type="button" id="convert" value="↓" /><br />
-                <textarea id="p_out" cols="30" rows="5"></textarea><br />
-                <input type="button" id="p_copy" value="コピー" data-clipboard-target="#p_out" /><br />
+          <h2>左詰め</h2>
 
+          <textarea id="left_clip" cols="30" rows="5"></textarea>
+          <input type="checkbox" id="chk_left" checked="checked" /><label
+            for="chk_left"
+            >n倍のみ左詰め</label
+          >
+          <input
+            type="number"
+            id="left_n"
+            style="width: 40px"
+            value="12"
+          /><br />
+          <input type="button" id="left_convert" value="↓" /><br />
+          <textarea id="left_out" cols="30" rows="5"></textarea><br />
+          <input
+            type="button"
+            id="left_copy"
+            value="コピー"
+            data-clipboard-target="#left_out"
+          /><br />
 
-                <h2>左詰め</h2>
+          <h2>密度確認</h2>
 
-                <textarea id="left_clip" cols="30" rows="5"></textarea>
-                <input type="checkbox" id="chk_left" checked="checked" /><label for="chk_left">n倍のみ左詰め</label>
-                <input type="number" id="left_n" style="width: 40px" value="12" /><br />
-                <input type="button" id="left_convert" value="↓" /><br />
-                <textarea id="left_out" cols="30" rows="5"></textarea><br />
-                <input type="button" id="left_copy" value="コピー" data-clipboard-target="#left_out" /><br />
+          <textarea id="mitudo_clip" cols="30" rows="5"></textarea>
+          <input type="number" id="mitudo_mes" style="width: 40px" value="0" />
+          <input
+            type="number"
+            id="mitudo_n"
+            style="width: 40px"
+            value="192"
+          /><br />
+          <input type="button" id="mitudo_btn" value="↓" /><br />
 
+          <div id="mitudo_result"></div>
+        </section>
 
-                <h2>密度確認</h2>
-
-                <textarea id="mitudo_clip" cols="30" rows="5"></textarea>
-                <input type="number" id="mitudo_mes" style="width: 40px" value="0" />
-                <input type="number" id="mitudo_n" style="width: 40px" value="192" /><br />
-                <input type="button" id="mitudo_btn" value="↓" /><br />
-
-                <div id="mitudo_result">
-
-
-                </div>
-
-
-            </section>
-
-            <footer>
-                <nav>
-                    <a href="../">トップへ戻る</a>
-                </nav>
-            </footer>
-        </div>
+        <footer>
+          <nav>
+            <a href="../">トップへ戻る</a>
+          </nav>
+        </footer>
+      </div>
     </div>
-
-
-
-
-
-</body>
-
+  </body>
 </html>
