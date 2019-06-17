@@ -178,4 +178,8 @@ var ParseData = {
     }
     return str_;
   },
+
+  parseComment: function(data, type, row) {
+    return row.comment || '';
+  },
 };
