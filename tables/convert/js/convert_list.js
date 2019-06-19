@@ -33,6 +33,10 @@ $(document).ready(function() {
           return '<a href="' + data + '" target="_blank">' + data + '</a>';
         },
       },
+      {
+        title: 'Last Update',
+        data: 'update',
+      },
     ],
   });
 

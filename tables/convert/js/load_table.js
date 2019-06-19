@@ -34,5 +34,6 @@ $(document).ready(function() {
     $('#table_title').text(header.name);
     $('#original_url').text('変換元: ' + header.name);
     $('#original_url').attr('href', header.original_url);
+    $('#last_update').text('最終更新: ' + header.update);
   });
 });
