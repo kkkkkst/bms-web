@@ -47,5 +47,19 @@
     "symbol": "潮",
     "update": "2019/06/21",
     "url": "http://bms.hexlataia.xyz/tables/convert/siokaze/table.html"
+  },
+  {
+    "name": "Lapis",
+    "original_url": "http://lapisbms.xyz/data.json",
+    "symbol": "瑠",
+    "update": "2019/06/24",
+    "url": "http://bms.hexlataia.xyz/tables/convert/Lapis/table.html"
+  },
+  {
+    "name": "BKANOTHER",
+    "original_url": "http://beatkim.web.fc2.com/insane_data.json",
+    "symbol": "BK",
+    "update": "2019/06/24",
+    "url": "http://bms.hexlataia.xyz/tables/convert/BKANOTHER/table.html"
   }
 ]
