@@ -1,203 +1,73 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-    <meta charset="UTF-8" />
-    <title>スプレッドシートを使って難易度表を管理する</title>
-
-    <link rel="stylesheet" href="../css/base.css" />
-    <style type="text/css">
-      /*追加style*/
-    </style>
-  </head>
-
-  <body>
-    <div class="wrap">
-      <div class="content">
-        <!--コンテンツ-->
-        <h1>スプレッドシートを使って難易度表を管理する</h1>
-        <section class="md_content">
-          <h2>できること</h2>
-          <p>
-            GAS（Google Apps
-            Script）を使ってスプレッドシートのデータをJSONで取得する
-          </p>
-          <p>↓こんなシートを書いたら</p>
-          <img src="img/sheet_ex.png" alt="" />
-          <p>↓これが取得できるURLを作れる</p>
-          <pre class="prettyprint lang-js">
-[
+<!doctype html><html lang=ja><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>スプレッドシートを使った難易度表の管理
+| Hex bms</title><link rel=stylesheet href=/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css></head><body><input type=checkbox style=display:none id=menu-control><main class="flex container"><aside class="book-menu fixed"><nav><h2 class=book-brand><a href=http://bms.hexlataia.xyz/>Hex bms</a></h2><ul><li><span>難易度表</span><ul><li><a href=/tables/hexajoy.html>Hexajoy</a></li><li><a href=/tables/tanosi.html>ジャパリパーク</a></li><li><a href=/tables/sandbox.html>砂場</a></li><li class=nazo><a href=/tables/hinanjoy.html>避難Joy</a></li><li class=nazo><a href=/tables/olduploader.html>旧アプロダ表</a></li><li class=nazo><a href=/tables/db.html>発狂難易度データベース（仮）</a></li><li class=nazo><a href=/tables/convert/>いろいろ勝手にjson化したい</a></li></ul></li><li><span>メモ</span><ul><li><a href=/tips/googleapps.html class=active>スプレッドシートを使った難易度表の管理</a></li><li><a href=/tips/glassist.html>GLAssistの差分自動導入</a></li><li><a href=/tips/customfolder.html>カスタムフォルダのメモ</a></li></ul></li><li><span>その他</span><ul><li><a href=/others/editorskin.html>エディタ用スキン</a></li></ul></li></ul></nav><script>(function(){var menu=document.querySelector('aside.book-menu nav')
+addEventListener('beforeunload',function(event){localStorage.setItem('menu.scrollTop',menu.scrollTop)});menu.scrollTop=localStorage.getItem('menu.scrollTop')})()</script></aside><div class=book-page><header class="align-center justify-between book-header"><label for=menu-control><img src=/svg/menu.svg alt=Menu></label>
+<strong>スプレッドシートを使った難易度表の管理</strong></header><article class=markdown><h1 id=スプレッドシートを使って難易度表を管理する>スプレッドシートを使って難易度表を管理する</h1><h2 id=できること>できること</h2><p>GAS（Google Apps Script）を使ってスプレッドシートのデータをJSONで取得する</p><p>↓こんなシートを書いたら</p><p><img src=/tips/img/sheet_ex.png alt></p><p>↓これが取得できるURLを作れる</p><div class=highlight><div style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json>[
   {
-    "level": "1",
-    "title": "星の器～STAR OF ANDROMEDA (ANOTHER)",
-    "artist": "ZUN (Arr.sun3)",
-    "comment": "コメント1",
-    "md5": "f8dcdfe070630bbb365323c662561a1a",
-    "url_diff": "https://drive.google.com/..."
+    <span style=color:#062873;font-weight:700>&#34;level&#34;</span>: <span style=color:#4070a0>&#34;1&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;title&#34;</span>: <span style=color:#4070a0>&#34;星の器～STAR OF ANDROMEDA (ANOTHER)&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;artist&#34;</span>: <span style=color:#4070a0>&#34;ZUN (Arr.sun3)&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;comment&#34;</span>: <span style=color:#4070a0>&#34;コメント1&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;md5&#34;</span>: <span style=color:#4070a0>&#34;f8dcdfe070630bbb365323c662561a1a&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;url_diff&#34;</span>: <span style=color:#4070a0>&#34;https://drive.google.com/...&#34;</span>
   },
   {
-    "level": "20",
-    "title": "Air -GOD-",
-    "artist": "SHIKI / black train",
-    "comment": "コメント2",
-    "md5": "751738dea1169c5c39db935adfc9e85f",
-    "url_diff": "https://drive.google.com/..."
+    <span style=color:#062873;font-weight:700>&#34;level&#34;</span>: <span style=color:#4070a0>&#34;20&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;title&#34;</span>: <span style=color:#4070a0>&#34;Air -GOD-&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;artist&#34;</span>: <span style=color:#4070a0>&#34;SHIKI / black train&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;comment&#34;</span>: <span style=color:#4070a0>&#34;コメント2&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;md5&#34;</span>: <span style=color:#4070a0>&#34;751738dea1169c5c39db935adfc9e85f&#34;</span>,
+    <span style=color:#062873;font-weight:700>&#34;url_diff&#34;</span>: <span style=color:#4070a0>&#34;https://drive.google.com/...&#34;</span>
   }
-]
-                </pre
-          >
-
-          <h2>手順</h2>
-          <ol>
-            <li>スプレッドシートを作成する</li>
-            <li>スクリプトを作成する</li>
-            <li>ウェブアプリケーションとして公開する</li>
-          </ol>
-
-          <h3>スプレッドシートを作成する</h3>
-          <p>
-            スプレッドシートを作成し、1行目にjsonのオブジェクトキーを入力する。次期難易度表フォーマットについては第二難易度表のページを参照してください。
-          </p>
-          <p>
-            2行目以降にデータを入力していく。書式等は好きにいじってOK。関数の使用も可能。
-          </p>
-          <img src="img/sheet_ex.png" alt="" />
-          <p>シートのIDとシート名をメモする。シートのURLが</p>
-          <p>
-            https://docs.google.com/spreadsheets/d/<strong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</strong>/edit#gid=0000000000
-          </p>
-          <p>なら"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"がID。</p>
-          <p>シート名はシート下部のタブの名前（デフォルトはシート1）</p>
-          <img src="img/sheet_ex3.png" alt="" />
-          <img src="img/sheet_ex4.png" alt="" />
-
-          <h3>スクリプトを作成する</h3>
-          <p>
-            メニューの ツール &gt スクリプトエディタ...
-            からスクリプトエディタを開く。
-          </p>
-          <p>下記のコードを入力。</p>
-          <pre class="prettyprint lang-js">
-function getSheetAsObj(id, sheet_name) {
-  var sheet = SpreadsheetApp.openById(id).getSheetByName(sheet_name);
-  var rows = sheet.getDataRange().getValues();
-  var keys = rows.splice(0, 1)[0];
-  return rows.map(function(row) {
-    var obj = {}
-    row.map(function(item, index) {
-      obj[keys[index]] = String(item);
+]</code></pre></td></tr></table></div></div><h2 id=手順>手順</h2><ol><li>スプレッドシートを作成する</li><li>スクリプトを作成する</li><li>ウェブアプリケーションとして公開する</li></ol><h3 id=スプレッドシートを作成する>スプレッドシートを作成する</h3><p>スプレッドシートを作成し、1行目にjsonのオブジェクトキーを入力する。<a href=https://github.com/exch-bms2/jbmstable-parser/wiki/%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%E3%81%AE%E4%BB%95%E6%A7%98>次期難易度表フォーマットの仕様の詳細はこちら</a>。</p><p>2行目以降にデータを入力していく。書式等は好きにいじってOK。関数の使用も可能。</p><p><img src=/tips/img/sheet_ex.png alt></p><p>シートのIDとシート名をメモする。シートのURLが</p><p>https://docs.google.com/spreadsheets/d/<strong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</strong>/edit#gid=0000000000</p><p>なら&rdquo;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&rdquo;がID。</p><p>シート名はシート下部のタブの名前（デフォルトはシート1）</p><p><img src=/tips/img/sheet_ex3.png alt> <img src=/tips/img/sheet_ex4.png alt></p><h3 id=スクリプトを作成する>スクリプトを作成する</h3><p>メニューの ツール &gt; スクリプトエディタ&hellip; からスクリプトエディタを開く。</p><p>下記のコードを入力。</p><div class=highlight><div style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style=display:block;width:100%;background-color:#d8d8d8><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span></span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=color:#007020;font-weight:700>function</span> getSheetAsObj(id, sheet_name) {
+  <span style=color:#007020;font-weight:700>var</span> sheet <span style=color:#666>=</span> SpreadsheetApp.openById(id).getSheetByName(sheet_name);
+  <span style=color:#007020;font-weight:700>var</span> rows <span style=color:#666>=</span> sheet.getDataRange().getValues();
+  <span style=color:#007020;font-weight:700>var</span> keys <span style=color:#666>=</span> rows.splice(<span style=color:#40a070>0</span>, <span style=color:#40a070>1</span>)[<span style=color:#40a070>0</span>];
+  <span style=color:#007020;font-weight:700>return</span> rows.map(<span style=color:#007020;font-weight:700>function</span>(row) {
+    <span style=color:#007020;font-weight:700>var</span> obj <span style=color:#666>=</span> {}
+    row.map(<span style=color:#007020;font-weight:700>function</span>(item, index) {
+      obj[keys[index]] <span style=color:#666>=</span> <span style=color:#007020>String</span>(item);
     });
-    return obj;
+    <span style=color:#007020;font-weight:700>return</span> obj;
   });
 }
 
-function doGet() {
-  var obj = getSheetAsObj('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'シート1');
-  return ContentService.createTextOutput(JSON.stringify(obj, null, 2)).setMimeType(ContentService.MimeType.JSON);
+<span style=color:#007020;font-weight:700>function</span> doGet() {
+<span style=display:block;width:100%;background-color:#d8d8d8>  <span style=color:#007020;font-weight:700>var</span> obj <span style=color:#666>=</span> getSheetAsObj(<span style=color:#4070a0>&#39;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&#39;</span>, <span style=color:#4070a0>&#39;シート1&#39;</span>);
+</span>  <span style=color:#007020;font-weight:700>return</span> ContentService.createTextOutput(JSON.stringify(obj, <span style=color:#007020;font-weight:700>null</span>, <span style=color:#40a070>2</span>)).setMimeType(ContentService.MimeType.JSON);
 }
-                </pre
-          >
-          <p>
-            ('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'シート1')
-            の部分をさっきメモしたシートIDとシート名に変更
-          </p>
-          <p>プロジェクトを適当な前で保存する</p>
-
-          <h3>ウェブアプリケーションとして公開する</h3>
-          <p>
-            メニューの 公開 &gt ウェブアプリケーションとして導入...
-            を選びウェブアプリケーションとして公開する
-          </p>
-          <p>
-            「プロジェクト バージョン」 を 「新規作成」
-            に設定　説明欄は適当に入力
-          </p>
-          <p>「次のユーザーとしてアプリケーションを実行」 を 「自分」 に設定</p>
-          <p>
-            「アプリケーションにアクセスできるユーザー」 を
-            「全員（匿名ユーザーを含む）」 に設定
-          </p>
-          <img src="img/webapp.png" alt="" />
-          <p>
-            「導入」をクリックして公開。承認が必要になるので許可する。Googleの検閲がまだ通ってない場合、このアプリは確認されていませんと出ることがある。暫く時間を置き検閲が通るのを待つか、詳細から移動をクリックして移動する。
-          </p>
-          <p>
-            「現在のウェブアプリケーションのURL」にアクセスすると表のjson形式のデータが取得できる。ファイルがありませんと出る場合はスプレッドシートを一度開き直すと良い
-          </p>
-          <img src="img/json.png" alt="" />
-
-          <h2>難易度表として登録</h2>
-          <p>
-            難易度表のheader.jsonのdata_urlに、ウェブアプリケーションのURLを設定すればOK
-          </p>
-          <p>難易度表のページは適当な鯖を借りるなどして作ってください</p>
-
-          <h2>まとめ</h2>
-          <p>
-            シートの変更内容が即時jsonに反映されるのでjsonを作成する手間が省ける
-          </p>
-          <p>スプレッドシートなので共同編集や応用も可能</p>
-          <p>javascriptの知識があれば、GASを用いた応用も可能</p>
-          <p>身内間程度の表の管理などには便利なのではないでしょうか</p>
-
-          <h2>コードの詳細</h2>
-          <ul>
-            <li>doGet(e)</li>
-            <ul>
-              <li>GETリクエストが送られた際に実行される関数。</li>
-              <li>
-                返り値にHtmlOutputかTextOutputを設定。返した値が表示される。
-              </li>
-              <li>doPost(e)を用いればPOSTリクエストの処理も可能。</li>
-              <li>
-                引数eでパラメーターの取得が可能。
-                例えば".../exec?table=aaa"とパラメーターをつけてアクセスすると、e.parameterには{"table":
-                "aaa"}が入る。
-                １つのスプレッドシートから複数の難易度表を管理したいときに便利。
-              </li>
-              <li>
-                詳細はこちら<a
-                  href="https://developers.google.com/apps-script/guides/web"
-                  >https://developers.google.com/apps-script/guides/web</a
-                >
-              </li>
-            </ul>
-            <li>SpreadsheetApp.openById(id).getSheetByName(sheet_name)</li>
-            <ul>
-              <li>スプレッドシートを取得する。</li>
-              <li>
-                openByIdでスプレッドシートを開き、getSheetByNameでシートを開く。
-              </li>
-              <li>
-                ウェブアプリケーションとして実行するのでgetActiveSheet()等は使わずIDで指定している。
-              </li>
-            </ul>
-            <li>sheet.getDataRange().getValues()</li>
-            <ul>
-              <li>
-                getDataRangeでデータが存在するすべての範囲のRangeオブジェクトを返す。
-              </li>
-              <li>getValuesで範囲内のデータを二次元配列で取得。</li>
-            </ul>
-            <li>
-              GASの詳しい詳細はこちら<a
-                href="https://developers.google.com/apps-script/"
-                >https://developers.google.com/apps-script/</a
-              >
-            </li>
-          </ul>
-        </section>
-
-        <footer>
-          <nav>
-            <a href="../">トップへ戻る</a>
-          </nav>
-        </footer>
-      </div>
-    </div>
-
-    <script
-      type="text/javascript"
-      src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"
-    ></script>
-  </body>
-</html>
+</code></pre></td></tr></table></div></div><p>(&lsquo;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&rsquo;, &lsquo;シート1&rsquo;) の部分をさっきメモしたシートIDとシート名に変更</p><p>プロジェクトを適当な前で保存する</p><h3 id=ウェブアプリケーションとして公開する>ウェブアプリケーションとして公開する</h3><p>メニューの 公開 &gt; ウェブアプリケーションとして導入&hellip; を選びウェブアプリケーションとして公開する</p><p>「プロジェクト バージョン」 を 「新規作成」 に設定　説明欄は適当に入力</p><p>「次のユーザーとしてアプリケーションを実行」 を 「自分」 に設定</p><p>「アプリケーションにアクセスできるユーザー」 を 「全員（匿名ユーザーを含む）」 に設定</p><p><img src=/tips/img/webapp.png alt></p><p>「導入」をクリックして公開。承認が必要になるので許可する。Googleの検閲がまだ通ってない場合、このアプリは確認されていませんと出ることがある。暫く時間を置き検閲が通るのを待つか、詳細から移動をクリックして移動する。</p><p>「現在のウェブアプリケーションのURL」にアクセスすると表のjson形式のデータが取得できる。ファイルがありませんと出る場合はスプレッドシートを一度開き直すと良い</p><p><img src=/tips/img/json.png alt></p><h2 id=難易度表として登録>難易度表として登録</h2><p>難易度表のheader.jsonのdata_urlに、ウェブアプリケーションのURLを設定すればOK</p><p>難易度表のページは適当な鯖を借りるなどして作ってください</p><h2 id=まとめ>まとめ</h2><p>シートの変更内容が即時jsonに反映されるのでjsonを作成する手間が省ける</p><p>スプレッドシートなので共同編集や応用も可能</p><p>javascriptの知識があれば、GASを用いた応用も可能</p><p>身内間程度の表の管理などには便利なのではないでしょうか</p><h2 id=コードの詳細>コードの詳細</h2><ul><li><p>doGet(e)</p><ul><li>GETリクエストが送られた際に実行される関数。</li><li>返り値にHtmlOutputかTextOutputを設定。返した値が表示される。</li><li>doPost(e)を用いればPOSTリクエストの処理も可能。</li><li>引数eでパラメーターの取得が可能。 例えば&rdquo;&hellip;/exec?table=aaa&rdquo;とパラメーターをつけてアクセスすると、e.parameterには{&ldquo;table&rdquo;: &ldquo;aaa&rdquo;}が入る。 １つのスプレッドシートから複数の難易度表を管理したいときに便利。</li><li>詳細はこちら <a href=https://developers.google.com/apps-script/guides/web>https://developers.google.com/apps-script/guides/web</a></li></ul></li><li><p>SpreadsheetApp.openById(id).getSheetByName(sheet_name)</p><ul><li>スプレッドシートを取得する。</li><li>openByIdでスプレッドシートを開き、getSheetByNameでシートを開く。</li><li>ウェブアプリケーションとして実行するのでgetActiveSheet()等は使わずIDで指定している。</li></ul></li><li><p>sheet.getDataRange().getValues()</p><ul><li>getDataRangeでデータが存在するすべての範囲のRangeオブジェクトを返す。</li><li>getValuesで範囲内のデータを二次元配列で取得。</li></ul></li><li><p>GASの詳しい詳細はこちら <a href=https://developers.google.com/apps-script/>https://developers.google.com/apps-script/</a></p></li></ul></article><div class="book-footer justify-between"><div><img src=/svg/calendar.svg alt=Changed> 2019-6-27</div></div></div><aside class="book-toc level-6 fixed"><nav id=TableOfContents><ul><li><a href=#スプレッドシートを使って難易度表を管理する>スプレッドシートを使って難易度表を管理する</a><ul><li><a href=#できること>できること</a></li><li><a href=#手順>手順</a><ul><li><a href=#スプレッドシートを作成する>スプレッドシートを作成する</a></li><li><a href=#スクリプトを作成する>スクリプトを作成する</a></li><li><a href=#ウェブアプリケーションとして公開する>ウェブアプリケーションとして公開する</a></li></ul></li><li><a href=#難易度表として登録>難易度表として登録</a></li><li><a href=#まとめ>まとめ</a></li><li><a href=#コードの詳細>コードの詳細</a></li></ul></li></ul></nav></aside></main></body></html>
