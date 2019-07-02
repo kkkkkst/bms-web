@@ -8,7 +8,7 @@ addEventListener('beforeunload',function(event){localStorage.setItem('menu.scrol
 #SUBTITLE &lt;サブタイトル&gt;
 #INFORMATION_A &lt;情報1&gt;
 #INFORMATION_B &lt;情報2&gt;</code></pre></div><p>この中で重要なのは<code>#TITLE, #COMMAND, #MAXTRACKS</code>の3つです．それぞれ以下のような意味を持ちます．</p><table><thead><tr><th></th><th>説明</th></tr></thead><tbody><tr><td><code>#TITLE</code></td><td>カスタムフォルダのタイトル</td></tr><tr><td><code>#COMMAND</code></td><td>カスタムフォルダ内で表示する曲を選択するコマンド　<a href=#カスタムフォルダのコマンド>詳細</a></td></tr><tr><td><code>#MAXTRACKS</code></td><td>カスタムフォルダ内での曲の表示数　0ですべて表示　1でランダムに1曲選択</td></tr></tbody></table><p>その他のものは，ゲーム内での選曲中にそのカスタムフォルダの情報として表示されます．
-どのように表示されるかはスキンによって異なります．</p><p>以下に入力例を示します．</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-plaintext data-lang=plaintext>#COMMAND   level &lt; 10
+どのように表示されるかはスキンによって異なります．</p><p>以下に入力例を示します．</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-plaintext data-lang=plaintext>#COMMAND   level &gt; 10
 #MAXTRACKS 0
 #CATEGORY 
 #TITLE     LEVEL 10 以上の曲</code></pre></div><h3 id=カスタムフォルダのコマンド>カスタムフォルダのコマンド</h3><p>カスタムフォルダのコマンドには，選択する曲の条件となる条件式を設定します．</p><p><code>&lt;定義項&gt; &lt;演算子&gt; &lt;値&gt;</code>のように書きます．</p><p>例 :<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#007020;font-weight:700>level</span> <span style=color:#666>&lt;</span> <span style=color:#40a070>10</span></code></pre></div></p><p>また，コマンドの末尾に<code>ORDER BY &lt;定義項&gt; [ASC | DESC]</code>とつけると定義項の値で結果をソートすることができます．
