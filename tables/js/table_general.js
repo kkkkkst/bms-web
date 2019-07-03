@@ -7,6 +7,7 @@ function createTable(paging) {
     info: false,
     paging: paging,
     pageLength: 200,
+    scrollX: true,
 
     language: {
       url: "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
