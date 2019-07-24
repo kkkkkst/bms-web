@@ -1,5 +1,438 @@
-<!doctype html><html lang=ja><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>旧アプロダ表
-| Hex bms</title><link rel=stylesheet type=text/css href=css/style.css><link rel=stylesheet type=text/css href=https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css><link rel=stylesheet href=/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css><script src=https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js></script><script type=text/javascript src=https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js></script><script type=text/javascript src=https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js></script><meta name=bmstable content=header/olduploader.json></head><body><input type=checkbox style=display:none id=menu-control><main class="flex container"><aside class="book-menu fixed"><nav><h2 class=book-brand><a href=http://bms.hexlataia.xyz/>Hex bms</a></h2><ul><li><span>難易度表</span><ul><li><a href=/tables/hexajoy.html>Hexajoy</a></li><li><a href=/tables/tanosi.html>ジャパリパーク</a></li><li><a href=/tables/sandbox.html>砂場</a></li><li class=nazo><a href=/tables/hinanjoy.html>避難Joy</a></li><li class=nazo><a href=/tables/olduploader.html class=active>旧アプロダ表</a></li><li class=nazo><a href=/tables/db.html>発狂難易度データベース（仮）</a></li><li class=nazo><a href=/tables/convert/>いろいろ勝手にjson化したい</a></li></ul></li><li><span>メモ</span><ul><li><a href=/tips/googleapps.html>スプレッドシートを使った難易度表の管理</a></li><li><a href=/tips/glassist.html>GLAssistの差分自動導入</a></li><li><a href=/tips/customfolder.html>カスタムフォルダのメモ</a></li></ul></li><li><span>スキン</span><ul><li><a href=/skin/editorskin.html>BMSエディタ用スキン</a></li><li><a href=/skin/viewerskin.html>BMSビューア用スキン</a></li></ul></li></ul></nav><script>(function(){var menu=document.querySelector('aside.book-menu nav')
-addEventListener('beforeunload',function(event){localStorage.setItem('menu.scrollTop',menu.scrollTop)});menu.scrollTop=localStorage.getItem('menu.scrollTop')})()</script></aside><div class=book-page><header class="align-center justify-between book-header"><label for=menu-control><img src=/svg/menu.svg alt=Menu></label>
-<strong>旧アプロダ表</strong></header><script type=text/javascript src=js/table_general.js></script><article class=markdown><h1>旧アプロダ表</h1><p><a href=http://absolute.pv.land.to/bmsuploader.html>旧ロダ</a>の難易度付きまとめです<br>難易度は自動生成しています<br>そのため正しく分類出来ていない可能性があります　というか出来てないです<br>level ◆、◎ はそれぞれLNと皿のロダのものです<br>level 謎
-は難易度を見つけることが出来なかったものです　気が向いたら自分でつけます<br></p><script type=text/javascript>var table_columns=[{title:"level",data:"level",type:"natural"},{title:"タイトル<br>(LR2IR)",data:"title",render:ParseData.parseTitle},{title:"アーティスト<br>(本体URL)",data:"artist",render:ParseData.parseArtist},{title:"差分",render:ParseData.parseSabun,orderable:false},{title:"コメント",data:"comment"}];</script><h2></h2><table id=difficulty_table class="display cell-border compact"></table></article><div class="book-footer justify-between"><div><img src=/svg/calendar.svg alt=Changed> 2019-6-27</div></div></div></main></body></html>
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+  
+    
+    旧アプロダ表
+  
+ | Hex bms</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css">
+<link rel="stylesheet" href="/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
+
+
+
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+
+<meta name="bmstable" content="header/olduploader.json">
+  
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  
+  <a href="http://bms.hexlataia.xyz/">Hex bms</a>
+</h2>
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+  <ul>
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    難易度表
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tables/hexajoy.html" >
+    
+  
+    
+    Hexajoy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/tanosi.html" >
+    
+  
+    
+    ジャパリパーク
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/sandbox.html" >
+    
+  
+    
+    砂場
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/hinanjoy.html" >
+    
+  
+    
+    避難Joy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/olduploader.html"  class="active">
+    
+  
+    
+    旧アプロダ表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/db.html" >
+    
+  
+    
+    発狂難易度データベース（仮）
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/convert/" >
+    
+  
+    
+    いろいろ勝手にjson化したい
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    メモ
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tips/googleapps.html" >
+    
+  
+    
+    スプレッドシートを使った難易度表の管理
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/customfolder.html" >
+    
+  
+    
+    カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    スキン
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/skin/editorskin.html" >
+    
+  
+    
+    BMSエディタ用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/skin/viewerskin.html" >
+    
+  
+    
+    BMSビューア用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  
+<script>
+(function() {
+  var menu = document.querySelector('aside.book-menu nav')
+  addEventListener('beforeunload', function(event) {
+    localStorage.setItem('menu.scrollTop', menu.scrollTop)
+  });
+  menu.scrollTop = localStorage.getItem('menu.scrollTop')
+})()
+</script>
+
+
+
+    </aside>
+
+    <div class="book-page">
+      <header class="align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>
+  
+    
+    旧アプロダ表
+  
+</strong>
+</header>
+
+      <script type="text/javascript" charset="utf-8" src="js/table_general.js"></script>
+      
+<article class="markdown">
+  <h1>旧アプロダ表</h1>
+<p>
+  <a href="http://absolute.pv.land.to/bmsuploader.html">旧ロダ</a
+  >の難易度付きまとめです<br />
+  難易度は自動生成しています<br />
+  そのため正しく分類出来ていない可能性があります　というか出来てないです<br />
+  level ◆、◎ はそれぞれLNと皿のロダのものです<br />
+  level 謎
+  は難易度を見つけることが出来なかったものです　気が向いたら自分でつけます<br />
+</p>
+
+<script type="text/javascript">
+  var table_columns = [
+    {
+      title: "level",
+      data: "level",
+      type: "natural"
+    },
+    {
+      title: "タイトル<br>(LR2IR)",
+      data: "title",
+      // width: '25%',
+      render: ParseData.parseTitle
+    },
+    {
+      title: "アーティスト<br>(本体URL)",
+      data: "artist",
+      // width: '15%',
+      render: ParseData.parseArtist
+    },
+    {
+      title: "差分",
+      render: ParseData.parseSabun,
+      orderable: false
+    },
+    {
+      title: "コメント",
+      data: "comment"
+    }
+  ];
+</script>
+<h2></h2>
+  <table id="difficulty_table" class="display cell-border compact"></table>
+</article>
+
+      
+
+<div class="book-footer justify-between">
+  
+  <div>
+    
+    
+      <img src="/svg/calendar.svg" alt="Changed" /> 2019-6-27
+    
+  </div>
+  
+  
+</div>
+
+
+      
+    </div>
+
+    
+  </main>
+  
+  
+  
+</body>
+
+</html>

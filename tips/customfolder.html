@@ -1,18 +1,899 @@
-<!doctype html><html lang=ja><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>カスタムフォルダのメモ
-| Hex bms</title><link rel=stylesheet type=text/css href=https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css><link rel=stylesheet href=/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css><script src=https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js></script><script type=text/javascript src=https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js></script><script type=text/javascript src=https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js></script></head><body><input type=checkbox style=display:none id=menu-control><main class="flex container"><aside class="book-menu fixed"><nav><h2 class=book-brand><a href=http://bms.hexlataia.xyz/>Hex bms</a></h2><ul><li><span>難易度表</span><ul><li><a href=/tables/hexajoy.html>Hexajoy</a></li><li><a href=/tables/tanosi.html>ジャパリパーク</a></li><li><a href=/tables/sandbox.html>砂場</a></li><li class=nazo><a href=/tables/hinanjoy.html>避難Joy</a></li><li class=nazo><a href=/tables/olduploader.html>旧アプロダ表</a></li><li class=nazo><a href=/tables/db.html>発狂難易度データベース（仮）</a></li><li class=nazo><a href=/tables/convert/>いろいろ勝手にjson化したい</a></li></ul></li><li><span>メモ</span><ul><li><a href=/tips/googleapps.html>スプレッドシートを使った難易度表の管理</a></li><li><a href=/tips/glassist.html>GLAssistの差分自動導入</a></li><li><a href=/tips/customfolder.html class=active>カスタムフォルダのメモ</a></li></ul></li><li><span>スキン</span><ul><li><a href=/skin/editorskin.html>BMSエディタ用スキン</a></li><li><a href=/skin/viewerskin.html>BMSビューア用スキン</a></li></ul></li></ul></nav><script>(function(){var menu=document.querySelector('aside.book-menu nav')
-addEventListener('beforeunload',function(event){localStorage.setItem('menu.scrollTop',menu.scrollTop)});menu.scrollTop=localStorage.getItem('menu.scrollTop')})()</script></aside><div class=book-page><header class="align-center justify-between book-header"><label for=menu-control><img src=/svg/menu.svg alt=Menu></label>
-<strong>カスタムフォルダのメモ</strong></header><article class=markdown><h1 id=カスタムフォルダのメモ>カスタムフォルダのメモ</h1><p>LR2 のカスタムフォルダの詳細についてメモしておきます．</p><p>カスタムフォルダの基本的な部分についての情報も追加しました．</p><p>こちらのページも参考になるかもしれません</p><ul><li><a href=http://analogmania.blog35.fc2.com/blog-entry-162.html>LR2カスタムフォルダ用コマンド : 動画とかbmsとかskinとか</a></li></ul><h2 id=カスタムフォルダ基本>カスタムフォルダ基本</h2><h3 id=カスタムフォルダのファイル>カスタムフォルダのファイル</h3><p>LR2 は<code>JUKEBOX1</code>に登録しているフォルダ内の，拡張子が<code>.lr2folder</code>となっているファイルをカスタムフォルダと認識します．</p><p><img src=/tips/img/customfolder-01.png alt></p><h3 id=カスタムフォルダの編集>カスタムフォルダの編集</h3><p>カスタムフォルダはゲーム内またはメモ帳などのテキストエディタで編集します．</p><p>ゲーム内で編集する場合はカスタムフォルダを設置した階層まで移動し，ゲーム内のタグエディタを用いて編集します．</p><p><img src=/tips/img/customfolder-02.png alt></p><p>テキストエディタで編集する場合は以下のような書式で編集します．</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-plaintext data-lang=plaintext>#COMMAND &lt;コマンド&gt;
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+  
+    
+    カスタムフォルダのメモ
+  
+ | Hex bms</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css">
+<link rel="stylesheet" href="/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
+
+
+
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  
+  <a href="http://bms.hexlataia.xyz/">Hex bms</a>
+</h2>
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+  <ul>
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    難易度表
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tables/hexajoy.html" >
+    
+  
+    
+    Hexajoy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/tanosi.html" >
+    
+  
+    
+    ジャパリパーク
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/sandbox.html" >
+    
+  
+    
+    砂場
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/hinanjoy.html" >
+    
+  
+    
+    避難Joy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/olduploader.html" >
+    
+  
+    
+    旧アプロダ表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/db.html" >
+    
+  
+    
+    発狂難易度データベース（仮）
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/convert/" >
+    
+  
+    
+    いろいろ勝手にjson化したい
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    メモ
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tips/googleapps.html" >
+    
+  
+    
+    スプレッドシートを使った難易度表の管理
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/customfolder.html"  class="active">
+    
+  
+    
+    カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    スキン
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/skin/editorskin.html" >
+    
+  
+    
+    BMSエディタ用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/skin/viewerskin.html" >
+    
+  
+    
+    BMSビューア用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  
+<script>
+(function() {
+  var menu = document.querySelector('aside.book-menu nav')
+  addEventListener('beforeunload', function(event) {
+    localStorage.setItem('menu.scrollTop', menu.scrollTop)
+  });
+  menu.scrollTop = localStorage.getItem('menu.scrollTop')
+})()
+</script>
+
+
+
+    </aside>
+
+    <div class="book-page">
+      <header class="align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>
+  
+    
+    カスタムフォルダのメモ
+  
+</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="カスタムフォルダのメモ">カスタムフォルダのメモ</h1>
+
+<p>LR2 のカスタムフォルダの詳細についてメモしておきます．</p>
+
+<p>カスタムフォルダの基本的な部分についての情報も追加しました．</p>
+
+<p>こちらのページも参考になるかもしれません</p>
+
+<ul>
+<li><a href="http://analogmania.blog35.fc2.com/blog-entry-162.html">LR2カスタムフォルダ用コマンド : 動画とかbmsとかskinとか</a></li>
+</ul>
+
+<h2 id="カスタムフォルダ基本">カスタムフォルダ基本</h2>
+
+<h3 id="カスタムフォルダのファイル">カスタムフォルダのファイル</h3>
+
+<p>LR2 は<code>JUKEBOX1</code>に登録しているフォルダ内の，拡張子が<code>.lr2folder</code>となっているファイルをカスタムフォルダと認識します．</p>
+
+<p><img src="/tips/img/customfolder-01.png" alt="" /></p>
+
+<h3 id="カスタムフォルダの編集">カスタムフォルダの編集</h3>
+
+<p>カスタムフォルダはゲーム内またはメモ帳などのテキストエディタで編集します．</p>
+
+<p>ゲーム内で編集する場合はカスタムフォルダを設置した階層まで移動し，ゲーム内のタグエディタを用いて編集します．</p>
+
+<p><img src="/tips/img/customfolder-02.png" alt="" /></p>
+
+<p>テキストエディタで編集する場合は以下のような書式で編集します．</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-plaintext" data-lang="plaintext">#COMMAND &lt;コマンド&gt;
 #MAXTRACKS &lt;表示曲数&gt;
 #CATEGORY &lt;カテゴリ&gt;
 #TITLE &lt;タイトル&gt;
 #SUBTITLE &lt;サブタイトル&gt;
 #INFORMATION_A &lt;情報1&gt;
-#INFORMATION_B &lt;情報2&gt;</code></pre></div><p>この中で重要なのは<code>#TITLE, #COMMAND, #MAXTRACKS</code>の3つです．それぞれ以下のような意味を持ちます．</p><table><thead><tr><th></th><th>説明</th></tr></thead><tbody><tr><td><code>#TITLE</code></td><td>カスタムフォルダのタイトル</td></tr><tr><td><code>#COMMAND</code></td><td>カスタムフォルダ内で表示する曲を選択するコマンド　<a href=#カスタムフォルダのコマンド>詳細</a></td></tr><tr><td><code>#MAXTRACKS</code></td><td>カスタムフォルダ内での曲の表示数　0ですべて表示　1でランダムに1曲選択</td></tr></tbody></table><p>その他のものは，ゲーム内での選曲中にそのカスタムフォルダの情報として表示されます．
-どのように表示されるかはスキンによって異なります．</p><p>以下に入力例を示します．</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-plaintext data-lang=plaintext>#COMMAND   level &gt;= 10
+#INFORMATION_B &lt;情報2&gt;</code></pre></div>
+
+<p>この中で重要なのは<code>#TITLE, #COMMAND, #MAXTRACKS</code>の3つです．それぞれ以下のような意味を持ちます．</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>説明</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>#TITLE</code></td>
+<td>カスタムフォルダのタイトル</td>
+</tr>
+
+<tr>
+<td><code>#COMMAND</code></td>
+<td>カスタムフォルダ内で表示する曲を選択するコマンド　<a href="#カスタムフォルダのコマンド">詳細</a></td>
+</tr>
+
+<tr>
+<td><code>#MAXTRACKS</code></td>
+<td>カスタムフォルダ内での曲の表示数　0ですべて表示　1でランダムに1曲選択</td>
+</tr>
+</tbody>
+</table>
+
+<p>その他のものは，ゲーム内での選曲中にそのカスタムフォルダの情報として表示されます．
+どのように表示されるかはスキンによって異なります．</p>
+
+<p>以下に入力例を示します．</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-plaintext" data-lang="plaintext">#COMMAND   level &gt;= 10
 #MAXTRACKS 0
 #CATEGORY 
-#TITLE     LEVEL 10 以上の曲</code></pre></div><h3 id=カスタムフォルダのコマンド>カスタムフォルダのコマンド</h3><p>カスタムフォルダのコマンド<code>#COMMAND</code>には，選択する曲の条件となる条件式を設定します．</p><p><code>&lt;定義項&gt; &lt;演算子&gt; &lt;値&gt;</code>のように書きます．</p><p>例 :<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND <span style=color:#007020;font-weight:700>level</span> <span style=color:#666>&lt;</span> <span style=color:#40a070>10</span></code></pre></div></p><p>また，コマンドの末尾に<code>ORDER BY &lt;定義項&gt; [ASC | DESC]</code>とつけると定義項の値で結果をソートすることができます．
-昇順の場合は ASC ，降順の場合は DESC を指定します</p><p>例 :<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND <span style=color:#007020;font-weight:700>level</span> <span style=color:#666>&lt;</span> <span style=color:#40a070>10</span> <span style=color:#007020;font-weight:700>ORDER</span> <span style=color:#007020;font-weight:700>BY</span> maxbpm <span style=color:#007020;font-weight:700>ASC</span></code></pre></div></p><h4 id=定義項一覧>定義項一覧</h4><p>利用可能な定義項を以下の表に示します．</p><table class="set-data-table display cell-border compact"><thead><tr><th>定義項</th><th>備考</th></tr></thead><tbody><tr><td>title</td><td>曲のタイトル</td></tr><tr><td>subtitle</td><td>曲のサブタイトル</td></tr><tr><td>genre</td><td>曲のジャンル</td></tr><tr><td>artist</td><td>曲のアーティスト</td></tr><tr><td>subartist</td><td>曲のサブアーティスト</td></tr><tr><td>tag</td><td>曲に登録されているタグ</td></tr><tr><td>path</td><td>bmsファイルのパス</td></tr><tr><td>level</td><td>曲のプレイレベル</td></tr><tr><td>difficulty</td><td>bmsの難易度<br>none 0<br>beginner 1<br>normal 2<br>hyper 3<br>another 4<br>insane 5</td></tr><tr><td>maxbpm</td><td>曲の最大BPM</td></tr><tr><td>minbpm</td><td>曲の最小BPM</td></tr><tr><td>mode</td><td>bmsの鍵盤数</td></tr><tr><td>judge</td><td>判定ランク<br>Very Hard 0<br>Hard 1<br>Normal 2<br>Easy 3<br>Very Easy 4<br></td></tr><tr><td>longnote</td><td>ロングノートを含むか<br>0 無い<br>1 有る<br></td></tr><tr><td>bga</td><td>BGAを含むか<br>0 無い<br>1 有る<br></td></tr><tr><td>random</td><td>ランダム分岐を含むか<br>0 無い<br>1 有る</td></tr><tr><td>favorite</td><td>お気に入り登録されているか<br>0 無い<br>1 有る</td></tr><tr><td>txt</td><td>テキストファイルが同梱されているか<br>0 無い<br>1 有る<br></td></tr><tr><td>karinotes</td><td>ランダム分岐などを考慮しない仮のノーツ数</td></tr><tr><td>adddate</td><td>曲をインストールした日付</td></tr><tr><td>exlevel</td><td>LR2IRでの発狂難易度（★）</td></tr><tr><td>clear</td><td>クリア状況<br>0 通常プレイはしていない<br>1 failed<br>2 easy<br>3 normal<br>4 hard<br>5 fullcombo<br>未プレイ曲を選択したい場合は clear ISNULL とする<br></td></tr><tr><td>perfect</td><td>自己ベストの Perfect Great 数</td></tr><tr><td>great</td><td>自己ベストの Great 数</td></tr><tr><td>good</td><td>自己ベストの Good 数</td></tr><tr><td>bad</td><td>自己ベストの Bad 数</td></tr><tr><td>poor</td><td>自己ベストの Poor 数</td></tr><tr><td>totalnotes</td><td>ノーツ数<br><span style=font-weight:700>ただしプレイ済みの曲のみに登録されている</span><br><span style=font-weight:700>未プレイ曲も含む場合は karinotes を使用する</span></td></tr><tr><td>maxcombo</td><td>自己ベストの最大コンボ数</td></tr><tr><td>minbp</td><td>自己ベストの最小BP</td></tr><tr><td>playcount</td><td>曲のプレイ回数</td></tr><tr><td>clearcount</td><td>曲のクリア回数</td></tr><tr><td>failcount</td><td>曲の未クリア回数</td></tr><tr><td>rank</td><td>自己ベストのランク<br>AAA 8<br>AA 7<br>A 6<br>B 5<br>C 4<br>D 3<br>E 2<br>F 1</td></tr><tr><td>rate</td><td>自己ベストのスコアレート<br>ただし整数</td></tr><tr><td>clear_db</td><td>ダブルバトルでのクリア状況</td></tr><tr><td>clear_sd</td><td>SPtoDP DPtoSP 9to7 でのクリア状況</td></tr><tr><td>clear_ex</td><td>エクストラモードでのクリア状況</td></tr></tbody></table><h4 id=演算子一覧>演算子一覧</h4><p>利用可能な演算子を以下の表に示します．</p><table><thead><tr><th>演算子</th><th>備考</th></tr></thead><tbody><tr><td><code>a = b</code></td><td><code>a</code>と<code>b</code>は等しい</td></tr><tr><td><code>a &lt;&gt; b</code></td><td><code>a</code>と<code>b</code>は等しくない</td></tr><tr><td><code>a &gt; b</code></td><td><code>a</code>は<code>b</code>より大きい</td></tr><tr><td><code>a &gt;= b</code></td><td><code>a</code>は<code>b</code>以上</td></tr><tr><td><code>a &lt; b</code></td><td><code>a</code>は<code>b</code>より小さい</td></tr><tr><td><code>a &lt;= b</code></td><td><code>a</code>は<code>b</code>以下</td></tr><tr><td><code>定義項 BETWEEN a AND b</code></td><td>定義項が<code>a</code>と<code>b</code>の間に含まれている</td></tr><tr><td><code>定義項 IN (a, b, ... )</code></td><td>定義項が<code>a, b, ...</code>のいずれかに一致する</td></tr><tr><td><code>定義項 LIKE パターン</code></td><td>パターンマッチングを使って定義項と値を比較する<br>次の特殊文字を使用できる<br><code>%</code> : 任意の0文字以上の文字列<br><code>_</code> : 任意の1文字<br>文字列に対して<code>=</code>を用いて比較した場合は<br>文字列が完全に一致する必要があるが<br>LIKE を用いて<code>'%文字列%'</code>のように文字列の前後に%をつけることで<br>&ldquo;文字列を含む&rdquo; という検索が可能となる</td></tr><tr><td><code>定義項 GLOB パターン</code></td><td>パターンマッチングを使って定義項と値を比較する<br>次の特殊文字を使用できる<br><code>*</code> : 任意の0文字以上の文字列<br><code>?</code> : 任意の1文字<br><code>[abc]</code> : <code>a</code> <code>b</code> <code>c</code> のいずれかに一致<br><code>[a-d]</code> : <code>a</code>から<code>d</code>までにいずれかに一致</td></tr><tr><td><code>定義項 IS NULL</code></td><td>定義項が<code>NULL</code>と一致するかどうか</td></tr><tr><td><code>条件式1 AND 条件式2</code></td><td><code>条件式1</code>と<code>条件式2</code>の両方満たすものを選択する</td></tr><tr><td><code>条件式1 OR 条件式2</code></td><td><code>条件式1</code>と<code>条件式2</code>のどちらかを満たすものを選択する</td></tr><tr><td><code>NOT 条件式</code></td><td><code>条件式</code>を満たさないものを選択する</td></tr></tbody></table><h4 id=コマンドの例>コマンドの例</h4><ul><li><p>自己ベストが B ランク以下の曲を選択<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND rank <span style=color:#666>&lt;</span> <span style=color:#40a070>6</span></code></pre></div></p></li><li><p>すべての曲を最近インストールした順にソートして表示<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND <span style=color:#40a070>1</span> <span style=color:#007020;font-weight:700>ORDER</span> <span style=color:#007020;font-weight:700>BY</span> adddate <span style=color:#007020;font-weight:700>DESC</span></code></pre></div></p></li><li><p>10鍵または14鍵の曲を選択<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND <span style=color:#007020;font-weight:700>mode</span> <span style=color:#007020;font-weight:700>IN</span> (<span style=color:#40a070>10</span>, <span style=color:#40a070>14</span>)</code></pre></div></p></li><li><p>BPMが 180 ～ 200 のものを選択し BPM 順にソートして表示<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND maxbpm <span style=color:#007020;font-weight:700>BETWEEN</span> <span style=color:#40a070>180</span> <span style=color:#007020;font-weight:700>AND</span> <span style=color:#40a070>200</span> <span style=color:#007020;font-weight:700>ORDER</span> <span style=color:#007020;font-weight:700>BY</span> maxbpm <span style=color:#007020;font-weight:700>ASC</span></code></pre></div></p></li><li><p>曲のジャンルに Trance または トランス を含むものを選択<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND genre <span style=color:#007020;font-weight:700>LIKE</span> <span style=color:#4070a0>&#39;%Trance%&#39;</span> <span style=color:#007020;font-weight:700>OR</span> genre <span style=color:#007020;font-weight:700>LIKE</span> <span style=color:#4070a0>&#39;%トランス%&#39;</span></code></pre></div></p></li><li><p>bmsファイルのパスに G2R2018 が含まれているものを選択<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND path <span style=color:#007020;font-weight:700>LIKE</span> <span style=color:#4070a0>&#39;%G2R218%&#39;</span></code></pre></div></p></li><li><p>発狂難易度表内の未プレイ曲を選択<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND exlevel <span style=color:#007020;font-weight:700>BETWEEN</span> <span style=color:#40a070>1</span> <span style=color:#007020;font-weight:700>AND</span> <span style=color:#40a070>25</span> <span style=color:#007020;font-weight:700>AND</span> clear <span style=color:#007020;font-weight:700>ISNULL</span></code></pre></div></p></li><li><p>発狂難易度表内の未難曲をBPが少ない順にソートして表示<div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND exlevel <span style=color:#007020;font-weight:700>BETWEEN</span> <span style=color:#40a070>1</span> <span style=color:#007020;font-weight:700>AND</span> <span style=color:#40a070>25</span> <span style=color:#007020;font-weight:700>AND</span> clear <span style=color:#666>&lt;=</span> <span style=color:#40a070>3</span> <span style=color:#007020;font-weight:700>ORDER</span> <span style=color:#007020;font-weight:700>BY</span> minbp <span style=color:#007020;font-weight:700>ASC</span></code></pre></div></p></li></ul><h2 id=カスタムフォルダのコマンドの細かい話>カスタムフォルダのコマンドの細かい話</h2><p>LR2 のデータベースは <a href=https://www.sqlite.org/index.html>sqlite3</a> であり，
-カスタムフォルダは sqlite3 の <a href=https://www.sqlite.org/lang_select.html>SELECT 文</a>を用いてデータを取得しています．</p><p>カスタムフォルダのコマンドは<code>LR2files/Database/song.db</code>に<code>LR2files/Database/Score/プレイヤー名.db</code>を attach したうえで</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#007020;font-weight:700>SELECT</span> <span style=color:#666>*</span> <span style=color:#007020;font-weight:700>FROM</span> song <span style=color:#007020;font-weight:700>WHERE</span> (command) <span style=color:#007020;font-weight:700>INNER</span> <span style=color:#007020;font-weight:700>JOIN</span> <span style=color:#007020;font-weight:700>ON</span> song.hash<span style=color:#666>=</span>score.hash</code></pre></div><p>の<code>(command)</code>の部分を定義しています．（LR2 のヘルプを参照）</p><p>そのため<a href=https://www.sqlite.org/lang.html>sqlite で使用できる関数など</a>もカスタムフォルダのコマンドとして使用することができます．</p><p><a href=http://sqlitebrowser.org/>SQLite Database Browser</a>などを用いれば GUI で手軽にデータベースの中身を見たりコマンドをテストしたりすることができます．</p><h2 id=特殊なコマンドの例>特殊なコマンドの例</h2><p>sqlite の機能を用いた特殊なコマンドの例を紹介します．</p><h3 id=ランダムでソートする>ランダムでソートする</h3><p><code>RANDOM()</code>関数を用いて結果をランダムでソートして表示します．</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND (<span>適当なコマンド</span>) <span style=color:#007020;font-weight:700>ORDER</span> <span style=color:#007020;font-weight:700>BY</span> RANDOM()</code></pre></div><h2 id=bemusicseekerの情報をカスタムフォルダで使用する>BeMusicSeekerの情報をカスタムフォルダで使用する</h2><p><a href=https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034>BeMusicSeeker</a>
-を使用すると song.db にテーブルが追加されます．</p><p>この追加されたテーブルもカスタムフォルダのコマンドに用いることができます．</p><h3 id=bemusicseekerで追加されるテーブル一覧>BeMusicSeekerで追加されるテーブル一覧</h3><p>追加されるテーブルの中で，カスタムフォルダとして使えそうなものを以下の表にまとめます．</p><table class="set-data-table display cell-border compact"><thead><tr><th>テーブル名</th><th>カラム</th><th>説明</th></tr></thead><tbody><tr><td>ir_data</td><td>hash<br>rank<br>players_num<br>lr2id<br>clear<br>notes<br>combo<br>pg<br>gr<br>minbp<br>average<br>sigma<br>lastupdate<br>lastcacheupdate</td><td>LR2IRでの曲の情報<br>ただし (おそらく) IRに送信済みの曲のみ</td></tr><tr><td>ir_score</td><td>hash<br>clear<br>notes<br>combo<br>pg<br>gr<br>gd<br>bd<br>pr<br>minbp<br>option<br>lastupdate</td><td>LR2IRでの自分のスコア情報<br>ただし (おそらく) IRに送信済みの曲のみ</td></tr><tr><td>playlist</td><td>playlist_id<br>name<br>symbol<br>org_name<br>org_symbol<br>folder_order<br>folder_sort_key<br>folder_sort_ascending<br>entry_type<br>page_url<br>header_url<br>data_url<br>compat_prefix<br>last_update<br>ignore_folder_output<br>is_external_sync<br>output_dir<br>is_root_folder</td><td>BeMusicSeeker に登録しているプレイリスト（難易度表）の情報</td></tr><tr><td>playlist_entry</td><td>playlist_id<br>md5<br>level<br>title<br>artist<br>folder<br>lr2_bmsid<br>url<br>url_diff<br>org_md5<br>adddate<br>comment<br>memo<br>is_removed<br>name_diff</td><td>BeMusicSeeker に登録しているプレイリスト（難易度表）に入っている曲の情報</td></tr></tbody></table><h3 id=bemusicseekerの情報をカスタムフォルダで使用する方法>BeMusicSeekerの情報をカスタムフォルダで使用する方法</h3><p>カスタムフォルダのコマンドは SELECT 文の WHERE 句の情報しか指定できないため，
-BeMusicSeekerの情報をカスタムフォルダで使用するためには，コマンド内でさらに SELECT 文を使用します．</p><h3 id=コマンドの例-1>コマンドの例</h3><p>BeMusicSeeker の情報を使用してスコア偏差値を計算しその値でソートしてみます．</p><div class=highlight><pre style=background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sql data-lang=sql><span style=color:#666>#</span>COMMAND (<span>適当なコマンド</span>) <span style=color:#007020;font-weight:700>ORDER</span> <span style=color:#007020;font-weight:700>BY</span>(perfect<span style=color:#666>*</span><span style=color:#40a070>2</span><span style=color:#666>+</span>great<span style=color:#666>-</span>(<span style=color:#007020;font-weight:700>SELECT</span> average <span style=color:#007020;font-weight:700>FROM</span> ir_data <span style=color:#007020;font-weight:700>WHERE</span> hash <span style=color:#666>=</span> song.hash))<span style=color:#666>*</span><span style=color:#40a070>10</span><span style=color:#666>/</span>(<span style=color:#007020;font-weight:700>SELECT</span> sigma <span style=color:#007020;font-weight:700>FROM</span> ir_data <span style=color:#007020;font-weight:700>WHERE</span> hash <span style=color:#666>=</span> song.hash)<span style=color:#666>+</span><span style=color:#40a070>50</span> <span style=color:#007020;font-weight:700>ASC</span></code></pre></div><script>$(document).ready(function(){$('.set-data-table').DataTable({paging:false,scrollY:400,ordering:false,info:false,});});</script></article><div class="book-footer justify-between"><div><img src=/svg/calendar.svg alt=Changed> 2019-7-4</div></div></div><aside class="book-toc level-6 fixed"><nav id=TableOfContents><ul><li><a href=#カスタムフォルダのメモ>カスタムフォルダのメモ</a><ul><li><a href=#カスタムフォルダ基本>カスタムフォルダ基本</a><ul><li><a href=#カスタムフォルダのファイル>カスタムフォルダのファイル</a></li><li><a href=#カスタムフォルダの編集>カスタムフォルダの編集</a></li><li><a href=#カスタムフォルダのコマンド>カスタムフォルダのコマンド</a><ul><li><a href=#定義項一覧>定義項一覧</a></li><li><a href=#演算子一覧>演算子一覧</a></li><li><a href=#コマンドの例>コマンドの例</a></li></ul></li></ul></li><li><a href=#カスタムフォルダのコマンドの細かい話>カスタムフォルダのコマンドの細かい話</a></li><li><a href=#特殊なコマンドの例>特殊なコマンドの例</a><ul><li><a href=#ランダムでソートする>ランダムでソートする</a></li></ul></li><li><a href=#bemusicseekerの情報をカスタムフォルダで使用する>BeMusicSeekerの情報をカスタムフォルダで使用する</a><ul><li><a href=#bemusicseekerで追加されるテーブル一覧>BeMusicSeekerで追加されるテーブル一覧</a></li><li><a href=#bemusicseekerの情報をカスタムフォルダで使用する方法>BeMusicSeekerの情報をカスタムフォルダで使用する方法</a></li><li><a href=#コマンドの例-1>コマンドの例</a></li></ul></li></ul></li></ul></nav></aside></main></body></html>
+#TITLE     LEVEL 10 以上の曲</code></pre></div>
+
+<h3 id="カスタムフォルダのコマンド">カスタムフォルダのコマンド</h3>
+
+<p>カスタムフォルダのコマンド<code>#COMMAND</code>には，選択する曲の条件となる条件式を設定します．</p>
+
+<p><code>&lt;定義項&gt; &lt;演算子&gt; &lt;値&gt;</code>のように書きます．</p>
+
+<p>例 :
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND <span style="color:#007020;font-weight:bold">level</span> <span style="color:#666">&lt;</span> <span style="color:#40a070">10</span></code></pre></div></p>
+
+<p>また，コマンドの末尾に<code>ORDER BY &lt;定義項&gt; [ASC | DESC]</code>とつけると定義項の値で結果をソートすることができます．
+昇順の場合は ASC ，降順の場合は DESC を指定します</p>
+
+<p>例 :
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND <span style="color:#007020;font-weight:bold">level</span> <span style="color:#666">&lt;</span> <span style="color:#40a070">10</span> <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">BY</span> maxbpm <span style="color:#007020;font-weight:bold">ASC</span></code></pre></div></p>
+
+<h4 id="定義項一覧">定義項一覧</h4>
+
+<p>利用可能な定義項を以下の表に示します．</p>
+
+
+
+<table class="set-data-table display cell-border compact">
+  <thead>
+  <tr>
+    <th>定義項</th>
+    <th>備考</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>title</td>
+    <td>曲のタイトル</td>
+  </tr>
+  <tr>
+    <td>subtitle</td>
+    <td>曲のサブタイトル</td>
+  </tr>
+  <tr>
+    <td>genre</td>
+    <td>曲のジャンル</td>
+  </tr>
+  <tr>
+    <td>artist</td>
+    <td>曲のアーティスト</td>
+  </tr>
+  <tr>
+    <td>subartist</td>
+    <td>曲のサブアーティスト</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>曲に登録されているタグ</td>
+  </tr>
+  <tr>
+    <td>path</td>
+    <td>bmsファイルのパス</td>
+  </tr>
+  <tr>
+    <td>level</td>
+    <td>曲のプレイレベル</td>
+  </tr>
+  <tr>
+    <td>difficulty</td>
+    <td>bmsの難易度<br>none 0<br>beginner 1<br>normal 2<br>hyper 3<br>another 4<br>insane 5</td>
+  </tr>
+  <tr>
+    <td>maxbpm</td>
+    <td>曲の最大BPM</td>
+  </tr>
+  <tr>
+    <td>minbpm</td>
+    <td>曲の最小BPM</td>
+  </tr>
+  <tr>
+    <td>mode</td>
+    <td>bmsの鍵盤数</td>
+  </tr>
+  <tr>
+    <td>judge</td>
+    <td>判定ランク<br>Very Hard 0<br>Hard 1<br>Normal 2<br>Easy 3<br>Very Easy 4<br></td>
+  </tr>
+  <tr>
+    <td>longnote</td>
+    <td>ロングノートを含むか<br>0 無い<br>1 有る<br></td>
+  </tr>
+  <tr>
+    <td>bga</td>
+    <td>BGAを含むか<br>0 無い<br>1 有る<br></td>
+  </tr>
+  <tr>
+    <td>random</td>
+    <td>ランダム分岐を含むか<br>0 無い<br>1 有る</td>
+  </tr>
+  <tr>
+    <td>favorite</td>
+    <td>お気に入り登録されているか<br>0 無い<br>1 有る</td>
+  </tr>
+  <tr>
+    <td>txt</td>
+    <td>テキストファイルが同梱されているか<br>0 無い<br>1 有る<br></td>
+  </tr>
+  <tr>
+    <td>karinotes</td>
+    <td>ランダム分岐などを考慮しない仮のノーツ数</td>
+  </tr>
+  <tr>
+    <td>adddate</td>
+    <td>曲をインストールした日付</td>
+  </tr>
+  <tr>
+    <td>exlevel</td>
+    <td>LR2IRでの発狂難易度（★）</td>
+  </tr>
+  <tr>
+    <td>clear</td>
+    <td>クリア状況<br>0 通常プレイはしていない<br>1 failed<br>2 easy<br>3 normal<br>4 hard<br>5 fullcombo<br>未プレイ曲を選択したい場合は clear ISNULL とする<br></td>
+  </tr>
+  <tr>
+    <td>perfect</td>
+    <td>自己ベストの Perfect Great 数</td>
+  </tr>
+  <tr>
+    <td>great</td>
+    <td>自己ベストの Great 数</td>
+  </tr>
+  <tr>
+    <td>good</td>
+    <td>自己ベストの Good 数</td>
+  </tr>
+  <tr>
+    <td>bad</td>
+    <td>自己ベストの Bad 数</td>
+  </tr>
+  <tr>
+    <td>poor</td>
+    <td>自己ベストの Poor 数</td>
+  </tr>
+  <tr>
+    <td>totalnotes</td>
+    <td>ノーツ数<br><span style="font-weight:bold">ただしプレイ済みの曲のみに登録されている</span><br><span style="font-weight:bold">未プレイ曲も含む場合は karinotes を使用する</span></td>
+  </tr>
+  <tr>
+    <td>maxcombo</td>
+    <td>自己ベストの最大コンボ数</td>
+  </tr>
+  <tr>
+    <td>minbp</td>
+    <td>自己ベストの最小BP</td>
+  </tr>
+  <tr>
+    <td>playcount</td>
+    <td>曲のプレイ回数</td>
+  </tr>
+  <tr>
+    <td>clearcount</td>
+    <td>曲のクリア回数</td>
+  </tr>
+  <tr>
+    <td>failcount</td>
+    <td>曲の未クリア回数</td>
+  </tr>
+  <tr>
+    <td>rank</td>
+    <td>自己ベストのランク<br>AAA 8<br>AA 7<br>A 6<br>B 5<br>C 4<br>D 3<br>E 2<br>F 1</td>
+  </tr>
+  <tr>
+    <td>rate</td>
+    <td>自己ベストのスコアレート<br>ただし整数</td>
+  </tr>
+  <tr>
+    <td>clear_db</td>
+    <td>ダブルバトルでのクリア状況</td>
+  </tr>
+  <tr>
+    <td>clear_sd</td>
+    <td>SPtoDP DPtoSP 9to7 でのクリア状況</td>
+  </tr>
+  <tr>
+    <td>clear_ex</td>
+    <td>エクストラモードでのクリア状況</td>
+  </tr>
+  </tbody>
+</table>
+
+
+<h4 id="演算子一覧">演算子一覧</h4>
+
+<p>利用可能な演算子を以下の表に示します．</p>
+
+<table>
+<thead>
+<tr>
+<th>演算子</th>
+<th>備考</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>a = b</code></td>
+<td><code>a</code>と<code>b</code>は等しい</td>
+</tr>
+
+<tr>
+<td><code>a &lt;&gt; b</code></td>
+<td><code>a</code>と<code>b</code>は等しくない</td>
+</tr>
+
+<tr>
+<td><code>a &gt; b</code></td>
+<td><code>a</code>は<code>b</code>より大きい</td>
+</tr>
+
+<tr>
+<td><code>a &gt;= b</code></td>
+<td><code>a</code>は<code>b</code>以上</td>
+</tr>
+
+<tr>
+<td><code>a &lt; b</code></td>
+<td><code>a</code>は<code>b</code>より小さい</td>
+</tr>
+
+<tr>
+<td><code>a &lt;= b</code></td>
+<td><code>a</code>は<code>b</code>以下</td>
+</tr>
+
+<tr>
+<td><code>定義項 BETWEEN a AND b</code></td>
+<td>定義項が<code>a</code>と<code>b</code>の間に含まれている</td>
+</tr>
+
+<tr>
+<td><code>定義項 IN (a, b, ... )</code></td>
+<td>定義項が<code>a, b, ...</code>のいずれかに一致する</td>
+</tr>
+
+<tr>
+<td><code>定義項 LIKE パターン</code></td>
+<td>パターンマッチングを使って定義項と値を比較する<br>次の特殊文字を使用できる<br><code>%</code> : 任意の0文字以上の文字列<br><code>_</code> : 任意の1文字<br>文字列に対して<code>=</code>を用いて比較した場合は<br>文字列が完全に一致する必要があるが<br>LIKE を用いて<code>'%文字列%'</code>のように文字列の前後に%をつけることで<br>&ldquo;文字列を含む&rdquo; という検索が可能となる</td>
+</tr>
+
+<tr>
+<td><code>定義項 GLOB パターン</code></td>
+<td>パターンマッチングを使って定義項と値を比較する<br>次の特殊文字を使用できる<br><code>*</code> : 任意の0文字以上の文字列<br><code>?</code> : 任意の1文字<br><code>[abc]</code> : <code>a</code> <code>b</code> <code>c</code> のいずれかに一致<br><code>[a-d]</code> : <code>a</code>から<code>d</code>までにいずれかに一致</td>
+</tr>
+
+<tr>
+<td><code>定義項 IS NULL</code></td>
+<td>定義項が<code>NULL</code>と一致するかどうか</td>
+</tr>
+
+<tr>
+<td><code>条件式1 AND 条件式2</code></td>
+<td><code>条件式1</code>と<code>条件式2</code>の両方満たすものを選択する</td>
+</tr>
+
+<tr>
+<td><code>条件式1 OR 条件式2</code></td>
+<td><code>条件式1</code>と<code>条件式2</code>のどちらかを満たすものを選択する</td>
+</tr>
+
+<tr>
+<td><code>NOT 条件式</code></td>
+<td><code>条件式</code>を満たさないものを選択する</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="コマンドの例">コマンドの例</h4>
+
+<ul>
+<li><p>自己ベストが B ランク以下の曲を選択
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND rank <span style="color:#666">&lt;</span> <span style="color:#40a070">6</span></code></pre></div></p></li>
+
+<li><p>すべての曲を最近インストールした順にソートして表示
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND <span style="color:#40a070">1</span> <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">BY</span> adddate <span style="color:#007020;font-weight:bold">DESC</span></code></pre></div></p></li>
+
+<li><p>10鍵または14鍵の曲を選択
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND <span style="color:#007020;font-weight:bold">mode</span> <span style="color:#007020;font-weight:bold">IN</span> (<span style="color:#40a070">10</span>, <span style="color:#40a070">14</span>)</code></pre></div></p></li>
+
+<li><p>BPMが 180 ～ 200 のものを選択し BPM 順にソートして表示
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND maxbpm <span style="color:#007020;font-weight:bold">BETWEEN</span> <span style="color:#40a070">180</span> <span style="color:#007020;font-weight:bold">AND</span> <span style="color:#40a070">200</span> <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">BY</span> maxbpm <span style="color:#007020;font-weight:bold">ASC</span></code></pre></div></p></li>
+
+<li><p>曲のジャンルに Trance または トランス を含むものを選択
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND genre <span style="color:#007020;font-weight:bold">LIKE</span> <span style="color:#4070a0">&#39;%Trance%&#39;</span> <span style="color:#007020;font-weight:bold">OR</span> genre <span style="color:#007020;font-weight:bold">LIKE</span> <span style="color:#4070a0">&#39;%トランス%&#39;</span></code></pre></div></p></li>
+
+<li><p>bmsファイルのパスに G2R2018 が含まれているものを選択
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND path <span style="color:#007020;font-weight:bold">LIKE</span> <span style="color:#4070a0">&#39;%G2R218%&#39;</span></code></pre></div></p></li>
+
+<li><p>発狂難易度表内の未プレイ曲を選択
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND exlevel <span style="color:#007020;font-weight:bold">BETWEEN</span> <span style="color:#40a070">1</span> <span style="color:#007020;font-weight:bold">AND</span> <span style="color:#40a070">25</span> <span style="color:#007020;font-weight:bold">AND</span> clear <span style="color:#007020;font-weight:bold">ISNULL</span></code></pre></div></p></li>
+
+<li><p>発狂難易度表内の未難曲をBPが少ない順にソートして表示
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND exlevel <span style="color:#007020;font-weight:bold">BETWEEN</span> <span style="color:#40a070">1</span> <span style="color:#007020;font-weight:bold">AND</span> <span style="color:#40a070">25</span> <span style="color:#007020;font-weight:bold">AND</span> clear <span style="color:#666">&lt;=</span> <span style="color:#40a070">3</span> <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">BY</span> minbp <span style="color:#007020;font-weight:bold">ASC</span></code></pre></div></p></li>
+</ul>
+
+<h2 id="カスタムフォルダのコマンドの細かい話">カスタムフォルダのコマンドの細かい話</h2>
+
+<p>LR2 のデータベースは <a href="https://www.sqlite.org/index.html">sqlite3</a> であり，
+カスタムフォルダは sqlite3 の <a href="https://www.sqlite.org/lang_select.html">SELECT 文</a>を用いてデータを取得しています．</p>
+
+<p>カスタムフォルダのコマンドは<code>LR2files/Database/song.db</code>に<code>LR2files/Database/Score/プレイヤー名.db</code>を attach したうえで</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#007020;font-weight:bold">SELECT</span> <span style="color:#666">*</span> <span style="color:#007020;font-weight:bold">FROM</span> song <span style="color:#007020;font-weight:bold">WHERE</span> (command) <span style="color:#007020;font-weight:bold">INNER</span> <span style="color:#007020;font-weight:bold">JOIN</span> <span style="color:#007020;font-weight:bold">ON</span> song.hash<span style="color:#666">=</span>score.hash</code></pre></div>
+
+<p>の<code>(command)</code>の部分を定義しています．（LR2 のヘルプを参照）</p>
+
+<p>そのため<a href="https://www.sqlite.org/lang.html">sqlite で使用できる関数など</a>もカスタムフォルダのコマンドとして使用することができます．</p>
+
+<p><a href="http://sqlitebrowser.org/">SQLite Database Browser</a>などを用いれば GUI で手軽にデータベースの中身を見たりコマンドをテストしたりすることができます．</p>
+
+<h2 id="特殊なコマンドの例">特殊なコマンドの例</h2>
+
+<p>sqlite の機能を用いた特殊なコマンドの例を紹介します．</p>
+
+<h3 id="ランダムでソートする">ランダムでソートする</h3>
+
+<p><code>RANDOM()</code>関数を用いて結果をランダムでソートして表示します．</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND (<span style="">適当なコマンド</span>) <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">BY</span> RANDOM()</code></pre></div>
+
+<h2 id="bemusicseekerの情報をカスタムフォルダで使用する">BeMusicSeekerの情報をカスタムフォルダで使用する</h2>
+
+<p><a href="https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034">BeMusicSeeker</a>
+を使用すると song.db にテーブルが追加されます．</p>
+
+<p>この追加されたテーブルもカスタムフォルダのコマンドに用いることができます．</p>
+
+<h3 id="bemusicseekerで追加されるテーブル一覧">BeMusicSeekerで追加されるテーブル一覧</h3>
+
+<p>追加されるテーブルの中で，カスタムフォルダとして使えそうなものを以下の表にまとめます．</p>
+
+
+
+<table class="set-data-table display cell-border compact">
+  <thead>
+  <tr>
+    <th>テーブル名</th>
+    <th>カラム</th>
+    <th>説明</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>ir_data</td>
+    <td>hash<br>rank<br>players_num<br>lr2id<br>clear<br>notes<br>combo<br>pg<br>gr<br>minbp<br>average<br>sigma<br>lastupdate<br>lastcacheupdate</td>
+    <td>LR2IRでの曲の情報<br>ただし (おそらく) IRに送信済みの曲のみ</td>
+  </tr>
+  <tr>
+    <td>ir_score</td>
+    <td>hash<br>clear<br>notes<br>combo<br>pg<br>gr<br>gd<br>bd<br>pr<br>minbp<br>option<br>lastupdate</td>
+    <td>LR2IRでの自分のスコア情報<br>ただし (おそらく) IRに送信済みの曲のみ</td>
+  </tr>
+  <tr>
+    <td>playlist</td>
+    <td>playlist_id<br>name<br>symbol<br>org_name<br>org_symbol<br>folder_order<br>folder_sort_key<br>folder_sort_ascending<br>entry_type<br>page_url<br>header_url<br>data_url<br>compat_prefix<br>last_update<br>ignore_folder_output<br>is_external_sync<br>output_dir<br>is_root_folder</td>
+    <td>BeMusicSeeker に登録しているプレイリスト（難易度表）の情報</td>
+  </tr>
+  <tr>
+    <td>playlist_entry</td>
+    <td>playlist_id<br>md5<br>level<br>title<br>artist<br>folder<br>lr2_bmsid<br>url<br>url_diff<br>org_md5<br>adddate<br>comment<br>memo<br>is_removed<br>name_diff</td>
+    <td>BeMusicSeeker に登録しているプレイリスト（難易度表）に入っている曲の情報</td>
+  </tr>
+  </tbody>
+</table>
+
+
+<h3 id="bemusicseekerの情報をカスタムフォルダで使用する方法">BeMusicSeekerの情報をカスタムフォルダで使用する方法</h3>
+
+<p>カスタムフォルダのコマンドは SELECT 文の WHERE 句の情報しか指定できないため，
+BeMusicSeekerの情報をカスタムフォルダで使用するためには，コマンド内でさらに SELECT 文を使用します．</p>
+
+<h3 id="コマンドの例-1">コマンドの例</h3>
+
+<p>BeMusicSeeker の情報を使用してスコア偏差値を計算しその値でソートしてみます．</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#666">#</span>COMMAND (<span style="">適当なコマンド</span>) <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">BY</span>(perfect<span style="color:#666">*</span><span style="color:#40a070">2</span><span style="color:#666">+</span>great<span style="color:#666">-</span>(<span style="color:#007020;font-weight:bold">SELECT</span> average <span style="color:#007020;font-weight:bold">FROM</span> ir_data <span style="color:#007020;font-weight:bold">WHERE</span> hash <span style="color:#666">=</span> song.hash))<span style="color:#666">*</span><span style="color:#40a070">10</span><span style="color:#666">/</span>(<span style="color:#007020;font-weight:bold">SELECT</span> sigma <span style="color:#007020;font-weight:bold">FROM</span> ir_data <span style="color:#007020;font-weight:bold">WHERE</span> hash <span style="color:#666">=</span> song.hash)<span style="color:#666">+</span><span style="color:#40a070">50</span> <span style="color:#007020;font-weight:bold">ASC</span></code></pre></div>
+
+
+
+<script>
+$(document).ready( function () {
+  $('.set-data-table').DataTable({
+    paging: false,
+    scrollY: 400,
+    ordering: false,
+    info: false,
+  });
+});
+</script>
+
+</article>
+
+      
+
+<div class="book-footer justify-between">
+  
+  <div>
+    
+    
+      <img src="/svg/calendar.svg" alt="Changed" /> 2019-7-4
+    
+  </div>
+  
+  
+</div>
+
+
+      
+    </div>
+
+    
+  
+
+  
+    <aside class="book-toc level-6 fixed">
+      <nav id="TableOfContents">
+<ul>
+<li><a href="#カスタムフォルダのメモ">カスタムフォルダのメモ</a>
+<ul>
+<li><a href="#カスタムフォルダ基本">カスタムフォルダ基本</a>
+<ul>
+<li><a href="#カスタムフォルダのファイル">カスタムフォルダのファイル</a></li>
+<li><a href="#カスタムフォルダの編集">カスタムフォルダの編集</a></li>
+<li><a href="#カスタムフォルダのコマンド">カスタムフォルダのコマンド</a>
+<ul>
+<li><a href="#定義項一覧">定義項一覧</a></li>
+<li><a href="#演算子一覧">演算子一覧</a></li>
+<li><a href="#コマンドの例">コマンドの例</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#カスタムフォルダのコマンドの細かい話">カスタムフォルダのコマンドの細かい話</a></li>
+<li><a href="#特殊なコマンドの例">特殊なコマンドの例</a>
+<ul>
+<li><a href="#ランダムでソートする">ランダムでソートする</a></li>
+</ul></li>
+<li><a href="#bemusicseekerの情報をカスタムフォルダで使用する">BeMusicSeekerの情報をカスタムフォルダで使用する</a>
+<ul>
+<li><a href="#bemusicseekerで追加されるテーブル一覧">BeMusicSeekerで追加されるテーブル一覧</a></li>
+<li><a href="#bemusicseekerの情報をカスタムフォルダで使用する方法">BeMusicSeekerの情報をカスタムフォルダで使用する方法</a></li>
+<li><a href="#コマンドの例-1">コマンドの例</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </aside>
+  
+
+
+
+  </main>
+  
+  
+  
+</body>
+
+</html>
