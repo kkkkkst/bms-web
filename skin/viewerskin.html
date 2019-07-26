@@ -1,4 +1,495 @@
-<!doctype html><html lang=ja><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>BMSビューア用スキン
-| Hex bms</title><link rel=stylesheet href=/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css></head><body><input type=checkbox style=display:none id=menu-control><main class="flex container"><aside class="book-menu fixed"><nav><h2 class=book-brand><a href=http://bms.hexlataia.xyz/>Hex bms</a></h2><ul><li><span>難易度表</span><ul><li><a href=/tables/hexajoy.html>Hexajoy</a></li><li><a href=/tables/tanosi.html>ジャパリパーク</a></li><li><a href=/tables/sandbox.html>砂場</a></li><li class=nazo><a href=/tables/hinanjoy.html>避難Joy</a></li><li class=nazo><a href=/tables/olduploader.html>旧アプロダ表</a></li><li class=nazo><a href=/tables/db.html>発狂難易度データベース（仮）</a></li><li class=nazo><a href=/tables/convert/>いろいろ勝手にjson化したい</a></li></ul></li><li><span>メモ</span><ul><li><a href=/tips/googleapps.html>スプレッドシートを使った難易度表の管理</a></li><li><a href=/tips/glassist.html>GLAssistの差分自動導入</a></li><li><a href=/tips/customfolder.html>カスタムフォルダのメモ</a></li></ul></li><li><span>スキン</span><ul><li><a href=/skin/editorskin.html>BMSエディタ用スキン</a></li><li><a href=/skin/viewerskin.html class=active>BMSビューア用スキン</a></li></ul></li></ul></nav><script>(function(){var menu=document.querySelector('aside.book-menu nav')
-addEventListener('beforeunload',function(event){localStorage.setItem('menu.scrollTop',menu.scrollTop)});menu.scrollTop=localStorage.getItem('menu.scrollTop')})()</script></aside><div class=book-page><header class="align-center justify-between book-header"><label for=menu-control><img src=/svg/menu.svg alt=Menu></label>
-<strong>BMSビューア用スキン</strong></header><article class=markdown><h1 id=bmsビューア用スキン>BMSビューア用スキン</h1><p>自分が使用しているBMSビューア用のスキンを置いておきます</p><h2 id=mbmplay用スキン>mBMplay用スキン</h2><p><a href=https://misty.orz.hm/mbmplay.html>mBMplay</a>用のシンプルなスキンです</p><p>7鍵のみです</p><p>こんなかんじ</p><p><img src=/skin/img/mbmplay.gif alt=mbm></p><h3 id=ダウンロード>ダウンロード</h3><a href=/files/mbmplay_hex_simple_skin.zip target=_blank class=book-btn>ダウンロード</a><h3 id=インストール方法>インストール方法</h3><ul><li><a href=/files/mbmplay_hex_simple_skin.zip>ダウンロード</a>したファイルを解凍し出てきた<code>hex_simple</code>フォルダを<code>./skin</code>へ移動</li><li><code>settings.xml</code>を開き，<code>&lt;Play7&gt;skin\default\default_7.xml&lt;/Play7&gt;</code>の行を<code>&lt;Play7&gt;skin\hex_simple\hex_simple_7.xml&lt;/Play7&gt;</code>に変更</li></ul><h3 id=備考>備考</h3><ul><li><code>frame.png</code>を同梱の<code>frame_dark.png</code>で置き換えることでレーンを区切りを消すことができます</li><li><code>note.png</code>を同梱の画像ファイルで置き換えることでノートの太さを変えることができます</li><li><code>[option]</code>内の左の列はそのオプションを操作するキーを表しています</li><li>プレイサイドを変更すると皿の左右を入れ替えることができます<ul><li>当然ながら両表示には対応していません．ヤバイ譜面が降ってきます</li></ul></li><li>OADX用のボムを使用することができます</li><li>ロードと判定表示はdefaultスキンを使用しています</li><li>FPS，UPSは<code>F7</code>キーに関わらず常時表示します</li></ul><h2 id=ubmplay用スキン>ubmplay用スキン</h2><p>背景とノーツを差し替えただけです</p><p><img src=/skin/img/ubmplay.gif alt=ubm></p><h3 id=ダウンロード-1>ダウンロード</h3><a href=/files/ubmplay_simple_skin.zip target=_blank class=book-btn>ダウンロード</a><h3 id=インストール方法-1>インストール方法</h3><ul><li><a href=/files/ubmplay_simple_skin.zip>ダウンロード</a>した <code>image</code> フォルダで <code>./image</code> を置き換え</li></ul></article><div class="book-footer justify-between"><div><img src=/svg/calendar.svg alt=Changed> 2019-7-10</div></div></div><aside class="book-toc level-6 fixed"><nav id=TableOfContents><ul><li><a href=#bmsビューア用スキン>BMSビューア用スキン</a><ul><li><a href=#mbmplay用スキン>mBMplay用スキン</a><ul><li><a href=#ダウンロード>ダウンロード</a></li><li><a href=#インストール方法>インストール方法</a></li><li><a href=#備考>備考</a></li></ul></li><li><a href=#ubmplay用スキン>ubmplay用スキン</a><ul><li><a href=#ダウンロード-1>ダウンロード</a></li><li><a href=#インストール方法-1>インストール方法</a></li></ul></li></ul></li></ul></nav></aside></main></body></html>
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+  
+    
+    BMSビューア用スキン
+  
+ | Hex bms</title>
+
+
+
+<link rel="stylesheet" href="/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css">
+
+
+
+
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  
+  <a href="http://bms.hexlataia.xyz/">Hex bms</a>
+</h2>
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+  <ul>
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    難易度表
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tables/hexajoy.html" >
+    
+  
+    
+    Hexajoy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/tanosi.html" >
+    
+  
+    
+    ジャパリパーク
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/sandbox.html" >
+    
+  
+    
+    砂場
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/hinanjoy.html" >
+    
+  
+    
+    避難Joy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/olduploader.html" >
+    
+  
+    
+    旧アプロダ表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/db.html" >
+    
+  
+    
+    発狂難易度データベース（仮）
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/convert/" >
+    
+  
+    
+    いろいろ勝手にjson化したい
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    メモ
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tips/googleapps.html" >
+    
+  
+    
+    スプレッドシートを使った難易度表の管理
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/customfolder.html" >
+    
+  
+    
+    カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    スキン
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/skin/editorskin.html" >
+    
+  
+    
+    BMSエディタ用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/skin/viewerskin.html"  class="active">
+    
+  
+    
+    BMSビューア用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  
+<script>
+(function() {
+  var menu = document.querySelector('aside.book-menu nav')
+  addEventListener('beforeunload', function(event) {
+    localStorage.setItem('menu.scrollTop', menu.scrollTop)
+  });
+  menu.scrollTop = localStorage.getItem('menu.scrollTop')
+})()
+</script>
+
+
+
+    </aside>
+
+    <div class="book-page">
+      <header class="align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>
+  
+    
+    BMSビューア用スキン
+  
+</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="bmsビューア用スキン">BMSビューア用スキン</h1>
+
+<p>自分が使用しているBMSビューア用のスキンを置いておきます</p>
+
+<h2 id="mbmplay用スキン">mBMplay用スキン</h2>
+
+<p><a href="https://misty.orz.hm/mbmplay.html">mBMplay</a>用のシンプルなスキンです</p>
+
+<p>7鍵のみです</p>
+
+<p>こんなかんじ</p>
+
+<p><img src="/skin/img/mbmplay.gif" alt="mbm" /></p>
+
+<h3 id="ダウンロード">ダウンロード</h3>
+
+
+
+
+  
+  
+
+
+<a  href="/files/mbmplay_hex_simple_skin.zip"   target="_blank"  class="book-btn">
+  
+ダウンロード
+
+</a>
+
+
+<h3 id="インストール方法">インストール方法</h3>
+
+<ul>
+<li><a href="/files/mbmplay_hex_simple_skin.zip">ダウンロード</a>したファイルを解凍し出てきた<code>hex_simple</code>フォルダを<code>./skin</code>へ移動</li>
+<li><code>settings.xml</code>を開き，<code>&lt;Play7&gt;skin\default\default_7.xml&lt;/Play7&gt;</code>の行を<code>&lt;Play7&gt;skin\hex_simple\hex_simple_7.xml&lt;/Play7&gt;</code>に変更</li>
+</ul>
+
+<h3 id="備考">備考</h3>
+
+<ul>
+<li><code>frame.png</code>を同梱の<code>frame_dark.png</code>で置き換えることでレーンを区切りを消すことができます</li>
+<li><code>note.png</code>を同梱の画像ファイルで置き換えることでノートの太さを変えることができます</li>
+<li><code>[option]</code>内の左の列はそのオプションを操作するキーを表しています</li>
+<li>プレイサイドを変更すると皿の左右を入れ替えることができます
+
+<ul>
+<li>当然ながら両表示には対応していません．ヤバイ譜面が降ってきます</li>
+</ul></li>
+<li>OADX用のボムを使用することができます</li>
+<li>ロードと判定表示はdefaultスキンを使用しています</li>
+<li>FPS，UPSは<code>F7</code>キーに関わらず常時表示します</li>
+</ul>
+
+<h2 id="ubmplay用スキン">ubmplay用スキン</h2>
+
+<p>背景とノーツを差し替えただけです</p>
+
+<p><img src="/skin/img/ubmplay.gif" alt="ubm" /></p>
+
+<h3 id="ダウンロード-1">ダウンロード</h3>
+
+
+
+
+  
+  
+
+
+<a  href="/files/ubmplay_simple_skin.zip"   target="_blank"  class="book-btn">
+  
+ダウンロード
+
+</a>
+
+
+<h3 id="インストール方法-1">インストール方法</h3>
+
+<ul>
+<li><a href="/files/ubmplay_simple_skin.zip">ダウンロード</a>した <code>image</code> フォルダで <code>./image</code> を置き換え</li>
+</ul>
+</article>
+
+      
+
+<div class="book-footer justify-between">
+  
+  <div>
+    
+    
+      <img src="/svg/calendar.svg" alt="Changed" /> 2019-7-10
+    
+  </div>
+  
+  
+</div>
+
+
+      
+    </div>
+
+    
+  
+
+  
+    <aside class="book-toc level-6 fixed">
+      <nav id="TableOfContents">
+<ul>
+<li><a href="#bmsビューア用スキン">BMSビューア用スキン</a>
+<ul>
+<li><a href="#mbmplay用スキン">mBMplay用スキン</a>
+<ul>
+<li><a href="#ダウンロード">ダウンロード</a></li>
+<li><a href="#インストール方法">インストール方法</a></li>
+<li><a href="#備考">備考</a></li>
+</ul></li>
+<li><a href="#ubmplay用スキン">ubmplay用スキン</a>
+<ul>
+<li><a href="#ダウンロード-1">ダウンロード</a></li>
+<li><a href="#インストール方法-1">インストール方法</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </aside>
+  
+
+
+
+  </main>
+  
+  
+  
+</body>
+
+</html>
