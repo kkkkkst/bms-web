@@ -30,7 +30,9 @@ $(document).ready(function() {
         title: "変換元",
         data: "original_url",
         render: function(data, type, row) {
-          return '<a href="' + data + '" target="_blank">変換元</a>';
+          return (
+            '<a href="' + data + '" target="_blank">' + row.author + ' 様' + '</a>'
+          );
         }
       },
       {
