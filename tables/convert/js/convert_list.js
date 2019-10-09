@@ -20,7 +20,7 @@ $(document).ready(function() {
         data: "symbol"
       },
       {
-        title: "差分サイト<br>(変換後ページ)",
+        title: "差分公開サイト<br>(変換後ページ)",
         data: "name",
         render: function(data, type, row) {
           return '<a href="' + row.url + '" target="_blank">' + data + "</a>";
@@ -34,7 +34,7 @@ $(document).ready(function() {
         }
       },
       {
-        title: "Last Update",
+        title: "更新日（変換）",
         data: "update"
       }
     ]

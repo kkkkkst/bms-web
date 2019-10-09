@@ -12,7 +12,7 @@
 <title>
   
     
-    いろいろ勝手にjson化したい
+    勝手に json 化
   
  | Hex bms</title>
 
@@ -169,14 +169,14 @@ https://github.com/alex-shpak/hugo-book
 
     </li>
     
-    <li  class="nazo" >
+    <li >
       
 
   <a href="/tables/convert/"  class="active">
     
   
     
-    いろいろ勝手にjson化したい
+    勝手に json 化
   
 
   </a>
@@ -354,7 +354,7 @@ https://github.com/alex-shpak/hugo-book
   <strong>
   
     
-    いろいろ勝手にjson化したい
+    勝手に json 化
   
 </strong>
 </header>
@@ -362,21 +362,17 @@ https://github.com/alex-shpak/hugo-book
       
 <article class="markdown">
 
-<h1 id="いろいろ勝手にjson化したい">いろいろ勝手にjson化したい</h1>
+<h1 id="いろいろ勝手に-json-化したい">いろいろ勝手に json 化したい</h1>
 
 <p><a href="https://github.com/exch-bms2/jbmstable-parser/wiki/%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%E3%81%AE%E4%BB%95%E6%A7%98">次期難易度表フォーマット</a>
-(BMSeekerやGLAで読み込めるやつ)
+(BMSeeker や GLA で読み込めるやつ)
 に対応していると何かと便利ですよね．</p>
 
-<p>というわけでいろいろ勝手にjson化していきます．</p>
+<p>というわけでいろいろ勝手に json 化したものを置いておきます．</p>
 
-<p>まだまだベータ版なのでひっそり公開．</p>
+<h2 id="人様の差分公開サイトを勝手に-json-化">人様の差分公開サイトを勝手に json 化</h2>
 
-<p>ページや機能が充実したら一般公開します．</p>
-
-<h2 id="人様の差分ページを勝手にjson化">人様の差分ページを勝手にjson化</h2>
-
-<p>人様の差分ページを勝手にjson化したものです．</p>
+<p>人様の差分公開サイトを勝手に json 化したものです．</p>
 
 <p>シンボルは適当につけてます．センスが無い．</p>
 
@@ -384,7 +380,7 @@ https://github.com/alex-shpak/hugo-book
 
 <p>勝手に変換しないでよねっ！ぷんぷんっ！な方がいらっしゃいましたら適当に連絡してください．(<a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=mypage&amp;playerid=93146">IR</a>)</p>
 
-<p>また，オリジナルのページで json に対応させたいという方がいらっしゃいましたら，ここのデータは勝手に使っても大丈夫です．</p>
+<p>また，オリジナルのサイトの方で json に対応させたいという方がいらっしゃいましたら，ここのデータは勝手に使っても大丈夫です．</p>
 
 
 
@@ -398,13 +394,13 @@ https://github.com/alex-shpak/hugo-book
 
 <h3 id="旧フォーマット変換">旧フォーマット変換</h3>
 
-<p>旧フォーマットのページを自動で新フォーマットに変換するURLを生成します．</p>
+<p>某ツール用の旧フォーマットのページを自動で新フォーマットに変換する URL を生成します．</p>
 
 <p>つまり，変換元の更新が自動で適用されます．便利！</p>
 
-<p>主に<a href="http://www.ribbit.xyz/bms/tables/table_list.html">Ribbit氏による変換</a>がされていないページ用です．</p>
+<p>主に<a href="http://www.ribbit.xyz/bms/tables/table_list.html"> Ribbit 氏による変換</a>がされていないページ用です．</p>
 
-<p>Ribbit氏によって変換されているページはそちらを使用したほうが良いと思います．</p>
+<p>Ribbit 氏によって変換されているページはそちらを使用したほうが良いと思います．</p>
 
 
 
@@ -418,7 +414,7 @@ https://github.com/alex-shpak/hugo-book
         class="cotAutoSelect"
         id="cotName"
         type="text"
-        value="発狂難易度表"
+        placeholder="発狂難易度表"
       />
     </td>
   </tr>
@@ -430,7 +426,7 @@ https://github.com/alex-shpak/hugo-book
         class="cotAutoSelect"
         id="cotUrl"
         type="text"
-        value="http://nekokan.dyndns.info/~lobsak/genocide/insane.html"
+        placeholder="http://nekokan.dyndns.info/~lobsak/genocide/insane.html"
       />
     </td>
   </tr>
@@ -442,7 +438,7 @@ https://github.com/alex-shpak/hugo-book
         class="cotAutoSelect"
         id="cotSymbol"
         type="text"
-        value="★"
+        placeholder="★"
       />
     </td>
   </tr>
@@ -454,13 +450,13 @@ https://github.com/alex-shpak/hugo-book
         class="cotAutoSelect"
         id="cotEncode"
         type="text"
-        value="Shift_JIS"
+        placeholder="Shift_JIS"
       />
       ex: Shift_JIS, UTF-8, EUC-JP
     </td>
   </tr>
   <tr>
-    <th><button id="cotExec">URL生成</button></th>
+    <th><button id="cotExec">URL 生成</button></th>
     <td>
       <input size="40" class="cotAutoSelect" id="cotOutput" type="text" />
       <button id="cotCopy" data-clipboard-target="#cotOutput">コピー</button>
@@ -469,7 +465,7 @@ https://github.com/alex-shpak/hugo-book
   <tr>
     <th></th>
     <td>
-      ↑このURLをBMSeeker等で読み込んでね
+      ↑この URL を BMSeeker 等で読み込んでね
     </td>
   </tr>
 </table>
@@ -481,9 +477,9 @@ https://github.com/alex-shpak/hugo-book
 <ul>
 <li>某ツールと同じアルゴリズムで難易度表を読み込みます．</li>
 <li>ただし3行目が bmsid でない場合には対応していません．</li>
-<li>URL1 を本体URLとします．</li>
+<li>URL1 を本体 URL とします．</li>
 <li>変換に失敗した場合 data.json にはエラーが返されます．</li>
-<li>LR2IRに登録されていない譜面は無視されます．</li>
+<li>LR2IR に登録されていない譜面は無視されます．</li>
 </ul></li>
 </ul>
 
@@ -501,7 +497,7 @@ https://github.com/alex-shpak/hugo-book
   <div>
     
     
-      <img src="/svg/calendar.svg" alt="Changed" /> 2019-7-4
+      <img src="/svg/calendar.svg" alt="Changed" /> 2019-10-9
     
   </div>
   
@@ -519,9 +515,9 @@ https://github.com/alex-shpak/hugo-book
     <aside class="book-toc level-6 fixed">
       <nav id="TableOfContents">
 <ul>
-<li><a href="#いろいろ勝手にjson化したい">いろいろ勝手にjson化したい</a>
+<li><a href="#いろいろ勝手に-json-化したい">いろいろ勝手に json 化したい</a>
 <ul>
-<li><a href="#人様の差分ページを勝手にjson化">人様の差分ページを勝手にjson化</a></li>
+<li><a href="#人様の差分公開サイトを勝手に-json-化">人様の差分公開サイトを勝手に json 化</a></li>
 <li><a href="#おまけ">おまけ</a>
 <ul>
 <li><a href="#旧フォーマット変換">旧フォーマット変換</a></li>
