@@ -1,7 +1,7 @@
 {
   "name": "発狂難易度データベース（仮）",
   "symbol": "DB",
-  "data_url": "http://bms.hexlataia.xyz/tables/json/db.json",
+  "data_url": "https://bms.hexlataia.xyz/tables/json/db.json",
   "level_order": [
     "0",
     "1",
