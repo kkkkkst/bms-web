@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+  
+    
+    差分公開サイトまとめ
+  
+ | Hex bms</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css">
+<link rel="stylesheet" href="/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/natural.js"></script>
+
+
+
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  
+  <a href="https://bms.hexlataia.xyz/">Hex bms</a>
+</h2>
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+  <ul>
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    難易度表
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tables/hexajoy.html" >
+    
+  
+    
+    Hexajoy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/tanosi.html" >
+    
+  
+    
+    ジャパリパーク
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/sandbox.html" >
+    
+  
+    
+    砂場
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/hinanjoy.html" >
+    
+  
+    
+    BMS差分アップローダー表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/olduploader.html" >
+    
+  
+    
+    旧アプロダ表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/db.html" >
+    
+  
+    
+    発狂難易度データベース（仮）
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/convert/" >
+    
+  
+    
+    勝手に json 化
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    メモ
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tips/googleapps.html" >
+    
+  
+    
+    スプレッドシートを使った難易度表の管理
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/customfolder.html" >
+    
+  
+    
+    カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    スキン
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/skin/editorskin.html" >
+    
+  
+    
+    BMSエディタ用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/skin/viewerskin.html" >
+    
+  
+    
+    BMSビューア用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    その他
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/others/sabunlist.html"  class="active">
+    
+  
+    
+    差分公開サイトまとめ
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  
+<script>
+(function() {
+  var menu = document.querySelector('aside.book-menu nav')
+  addEventListener('beforeunload', function(event) {
+    localStorage.setItem('menu.scrollTop', menu.scrollTop)
+  });
+  menu.scrollTop = localStorage.getItem('menu.scrollTop')
+})()
+</script>
+
+
+
+    </aside>
+
+    <div class="book-page">
+      <header class="align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>
+  
+    
+    差分公開サイトまとめ
+  
+</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="差分公開サイトまとめ">差分公開サイトまとめ</h1>
+
+<p>BMS の差分データが置いてありそうなサイトを適当にまとめただけの表です．</p>
+
+<p>今のところ大した情報はありません．ダウンロードできないものも混じっていると思います．</p>
+
+<p>気が向いたら更新チェックとかもつけたいですね．</p>
+
+
+
+<table id="tableList" class="display cell-border compact" style="font-size: 12px;width=100%;"></table>
+<script src="js/sabunlist.js"></script>
+
+</article>
+
+      
+
+<div class="book-footer justify-between">
+  
+  <div>
+    
+    
+      <img src="/svg/calendar.svg" alt="Changed" /> 2019-10-11
+    
+  </div>
+  
+  
+</div>
+
+
+      
+    </div>
+
+    
+  
+
+  
+
+
+
+  </main>
+  
+  
+  
+</body>
+
+</html>
