@@ -31,13 +31,30 @@ $(document).ready(function() {
         data: "original_url",
         render: function(data, type, row) {
           return (
-            '<a href="' + data + '" target="_blank">' + row.author + ' 様' + '</a>'
+            '<a href="' +
+            data +
+            '" target="_blank">' +
+            row.author +
+            " 様" +
+            "</a>"
           );
         }
       },
       {
         title: "更新日（変換）",
         data: "update"
+      },
+      {
+        title: "json",
+        orderable: false,
+        data: "url",
+        render: function(data, type, row) {
+          return (
+            '<a href="' +
+            new URL("data.json", data).href +
+            '" target="_blank">json</a>'
+          );
+        }
       }
     ]
   });
