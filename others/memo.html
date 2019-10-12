@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+  
+    
+    落書き帳
+  
+ | Hex bms</title>
+
+
+
+<link rel="stylesheet" href="/book.min.c7ca503dc0eee7cd65c70aa8921cddb4c95acea2bc44854107f47be0f9f8d755.css">
+
+
+
+
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  
+  <a href="https://bms.hexlataia.xyz/">Hex bms</a>
+</h2>
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+  <ul>
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    難易度表
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tables/hexajoy.html" >
+    
+  
+    
+    Hexajoy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/tanosi.html" >
+    
+  
+    
+    ジャパリパーク
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/sandbox.html" >
+    
+  
+    
+    砂場
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/hinanjoy.html" >
+    
+  
+    
+    BMS差分アップローダー表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/olduploader.html" >
+    
+  
+    
+    旧アプロダ表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li  class="nazo" >
+      
+
+  <a href="/tables/db.html" >
+    
+  
+    
+    発狂難易度データベース（仮）
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/convert/" >
+    
+  
+    
+    勝手に json 化
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    メモ
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tips/googleapps.html" >
+    
+  
+    
+    スプレッドシートを使った難易度表の管理
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/customfolder.html" >
+    
+  
+    
+    カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    スキン
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/skin/editorskin.html" >
+    
+  
+    
+    BMSエディタ用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/skin/viewerskin.html" >
+    
+  
+    
+    BMSビューア用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    その他
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/others/sabunlist.html" >
+    
+  
+    
+    差分公開サイトまとめ
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/others/memo.html"  class="active">
+    
+  
+    
+    落書き帳
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  
+<script>
+(function() {
+  var menu = document.querySelector('aside.book-menu nav')
+  addEventListener('beforeunload', function(event) {
+    localStorage.setItem('menu.scrollTop', menu.scrollTop)
+  });
+  menu.scrollTop = localStorage.getItem('menu.scrollTop')
+})()
+</script>
+
+
+
+    </aside>
+
+    <div class="book-page">
+      <header class="align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>
+  
+    
+    落書き帳
+  
+</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="ちょっとしたメモ置き場">ちょっとしたメモ置き場</h1>
+
+<p>BMS 関連のわざわざページを作るまでもないちょっとしたメモを適当に置いておきます．</p>
+
+<h2 id="bms-制作">BMS 制作</h2>
+
+<h3 id="譜面製作時に気をつけたいこと">譜面製作時に気をつけたいこと</h3>
+
+<ul>
+<li><p><code>#TITLE</code>内のサブタイトルに<code>ー</code>(長音符) を使用しない</p>
+
+<ul>
+<li>LR2 では<code>#TITLE</code>内のサブタイトル内に<code>ー</code>などの括弧を入れると正常に読み込めなくなるバグがあります
+
+<ul>
+<li><code>#TITLE タイトル [アナザー]</code>← これはダメ</li>
+<li><code>#TITLE タイトル</code>, <code>#SUBTITLE [アナザー]</code>←これはOK</li>
+</ul></li>
+</ul></li>
+
+<li><p><code>#SUBTITLE</code>を使用する際に気をつけること</p>
+
+<ul>
+<li>LR2 では<code>#TITLE</code>内にサブタイトルとして認識される部分があるとその部分が無視されます
+
+<ul>
+<li><code>#TITLE タイトル ～サブタイトル～</code>, <code>#SUBTITLE [Another]</code>←これが<code>タイトル [Another]</code>となってしまう</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="難易度表">難易度表</h2>
+
+<h3 id="次期難易度表フォーマット">次期難易度表フォーマット</h3>
+
+<ul>
+<li><a href="https://github.com/exch-bms2/jbmstable-parser/wiki/%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%E3%81%AE%E4%BB%95%E6%A7%98">難易度表の仕様</a></li>
+</ul>
+
+<h2 id="ソフトウェア">ソフトウェア</h2>
+
+<h3 id="wav-ogg-変換">wav → ogg 変換</h3>
+
+<ul>
+<li><a href="http://www.rarewares.org/ogg-oggenc.php">oggenc2</a> - <code>wav -&gt; ogg</code>変換を行うコマンドラインツール
+
+<ul>
+<li>フォルダ内のすべての wav を ogg に変換するバッチファイル
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">@<span style="color:#007020;font-weight:bold">echo</span> off
+<span style="color:#007020;font-weight:bold">for</span> /R <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#007020;font-weight:bold">in</span> (*.wav) <span style="color:#007020;font-weight:bold">do</span> oggenc2.exe -Q <span style="color:#4070a0">&#34;</span><span style="color:#4070a0;font-weight:bold">%%</span><span style="color:#4070a0">i&#34;</span> &gt;nul</code></pre></div></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h3 id="ogg-wav-変換">ogg → wav 変換</h3>
+
+<ul>
+<li><a href="http://www.rarewares.org/ogg-oggdec.php">oggdec</a> - <code>ogg -&gt; wav</code>変換を行うコマンドラインツール
+
+<ul>
+<li>フォルダ内のすべての ogg を wav に変換するコマンド
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">oggdec *.ogg</code></pre></div></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h3 id="動画-bga-関連">動画 BGA 関連</h3>
+
+<p><a href="https://hitkey.nekokan.dyndns.info/cmdsJP.htm">BMS command memo</a> によると</p>
+
+<blockquote>
+<ul>
+<li>最も互換性が高い形式は MPEG1 (256x256) です。</li>
+</ul>
+</blockquote>
+
+<p>らしい．</p>
+
+<p><a href="https://www.ffmpeg.org/">FFmpeg</a> を使用して動画ファイルを上記の形式にエンコードするバッチファイル</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">@<span style="color:#007020;font-weight:bold">echo</span> off
+
+<span style="color:#007020;font-weight:bold">set</span> <span style="color:#bb60d5">OFN</span>=<span style="color:#bb60d5">%~1</span>
+<span style="color:#007020;font-weight:bold">set</span> <span style="color:#bb60d5">FN</span>=<span style="color:#bb60d5">%~n1</span>
+
+ffmpeg <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -i <span style="color:#4070a0">&#34;</span><span style="color:#bb60d5">%OFN%</span><span style="color:#4070a0">&#34;</span> -pass 1 <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -c:v mpeg1video -b:v 2M <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -vf <span style="color:#4070a0">&#34;scale=256:256:force_original_aspect_ratio=decrease,pad=256:256:(ow-iw)/2:(oh-ih)/2&#34;</span> <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -an -y <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> <span style="color:#4070a0">&#34;_out_</span><span style="color:#bb60d5">%FN%</span><span style="color:#4070a0">.mpg&#34;</span> &amp;&amp; <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold">f</span>fmpeg <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -i <span style="color:#4070a0">&#34;</span><span style="color:#bb60d5">%OFN%</span><span style="color:#4070a0">&#34;</span> -pass 2 <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -c:v mpeg1video -b:v 2M <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -vf <span style="color:#4070a0">&#34;scale=256:256:force_original_aspect_ratio=decrease,pad=256:256:(ow-iw)/2:(oh-ih)/2&#34;</span> <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> -an -y <span style="color:#4070a0;font-weight:bold">^
+</span><span style="color:#4070a0;font-weight:bold"> </span> <span style="color:#4070a0">&#34;_out_</span><span style="color:#bb60d5">%FN%</span><span style="color:#4070a0">.mpg&#34;</span>
+
+<span style="color:#007020;font-weight:bold">del</span> ffmpeg2pass-0.log</code></pre></div>
+
+<p><code>bgaenc.bat &quot;bga.mp4&quot;</code>のように使用します</p>
+
+<p>アスペクト比が異なる場合はレターボックスが追加されます</p>
+
+<p>エンコードした動画ファイルを既存の譜面にも読み込ませたいときは拡張子を元の拡張子に合わせる必要があります</p>
+
+<h3 id="音量">音量</h3>
+
+<p><a href="http://sox.sourceforge.net/">SoX</a> を使用した音量を一括変更するバッチファイル</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">@<span style="color:#007020;font-weight:bold">echo</span> off
+<span style="color:#007020;font-weight:bold">mkdir</span> converted
+<span style="color:#007020;font-weight:bold">for</span> <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#007020;font-weight:bold">in</span> (*.wav) <span style="color:#007020;font-weight:bold">do</span> sox <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#4070a0">&#34;converted/</span><span style="color:#4070a0;font-weight:bold">%%</span><span style="color:#4070a0">i&#34;</span> gain <span style="color:#bb60d5">%1</span></code></pre></div>
+
+<p><code>wavgain.bat +2</code>のように使用します．引数で音量の変更量をdbで指定します．</p>
+
+<p>変換後のファイルは<code>converted</code>フォルダに生成されます．</p>
+
+<p>音割れが発生すると警告が表示されます．</p>
+
+<h3 id="ubmplay-のインストール">uBMplay のインストール</h3>
+
+<ul>
+<li><a href="https://hitkey.nekokan.dyndns.info/bmse_help/1.htm">uBMplay を導入する</a> - 必要なランタイム及びその導入方法
+
+<ul>
+<li><code>dx7vb.dll</code>の入手
+
+<ul>
+<li><a href="https://web.archive.org/web/20161011001749/http://www.microsoft.com/ja-jp/download/details.aspx?id=10968"><code>DX81NTjpn.exe</code></a>をダウンロード</li>
+<li><code>DX81NTjpn.exe</code>を <a href="https://sevenzip.osdn.jp/">7-Zip</a> 等で展開</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="収集">収集</h2>
+
+<h3 id="ダウンロード">ダウンロード</h3>
+
+<ul>
+<li><a href="http://gnuwin32.sourceforge.net/packages/wget.htm">Wget for Windows</a> - コマンドラインダウンローダ
+
+<ul>
+<li>あるディレクトリ以下のファイルをまとめてダウンロード
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">wget -r http://...</code></pre></div>
+
+<ul>
+<li><code>-r</code>: 再帰的に取得する</li>
+<li><code>-l</code>: 再帰の深さ</li>
+<li><code>-H</code>: ドメイン固定</li>
+</ul></li>
+</ul></li>
+<li>URL リスト内の URL をすべてダウンロード
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">wget -i list.txt</code></pre></div></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h3 id="展開">展開</h3>
+
+<ul>
+<li><p><a href="https://sevenzip.osdn.jp/">7-Zip</a> - ファイルアーカイバ</p>
+
+<ul>
+<li><code>&quot;*\&quot; に展開</code>を使用することでいわゆるだばぁを防げます</li>
+</ul></li>
+
+<li><p><code>tree</code></p>
+
+<ul>
+<li>ディレクトリ構造をツリー形式で表示するコマンド</li>
+<li>多重階層になってしまっている bms を見つけたいときなどに
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">├─[0310] Echoes from Pangaea                     
+├─[13eastie] Mermaid Breeze                      
+├─[140／fth + ルゼ] Just one word                   
+│  └─no_notes                                    
+├─[69 de 74 + morph] CHAOTIC DESTRUCTION         
+├─[69 de 74] マッドメチャクチャニズム                        
+├─[7mai] Boxel Adventure                         
+├─[@On_OTL] Shadow_Templer                       
+├─[A-ZERO Project + iF + TeePy] EMOJISM</code></pre></div></li>
+</ul></li>
+</ul></li>
+
+<li><p><a href="https://www.vector.co.jp/soft/winnt/util/se467410.html">多重フォルダ解除</a> - 無駄に回層が深い、いわゆる多重フォルダを一回層に変更するツール</p></li>
+</ul>
+
+<h3 id="internet-archive-関連">Internet Archive 関連</h3>
+
+<ul>
+<li><p>サイト内の IA に保管されているすべてのファイルを表示する</p>
+
+<ul>
+<li><code>https://web.archive.org/web/*/http://[URL]/*</code>
+
+<ul>
+<li>たとえば<a href="https://web.archive.org/web/*/http://bms.hexlataia.xyz/*"><code>https://web.archive.org/web/*/http://bms.hexlataia.xyz/*</code></a>とすれば<a href="http://bms.hexlataia.xyz/"><code>http://bms.hexlataia.xyz/</code></a>以下の IA に保管されているすべてのファイルを表示できます．</li>
+</ul></li>
+</ul></li>
+
+<li><p>上記のファイル一覧の URL を<code>https://web.archive.org/web/*/http://...</code>から<code>https://web.archive.org/web/19900101/http://...</code>と変換するだけのブックマークレット</p>
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020">window</span>.jQuery<span style="color:#666">||</span><span style="color:#007020">document</span>.body.appendChild(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">var</span> t<span style="color:#666">=</span><span style="color:#007020">document</span>.createElement(<span style="color:#4070a0">&#34;script&#34;</span>);<span style="color:#007020;font-weight:bold">return</span> t.type<span style="color:#666">=</span><span style="color:#4070a0">&#34;text/javascript&#34;</span>,t.src<span style="color:#666">=</span><span style="color:#4070a0">&#34;http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js&#34;</span>,t}()),$(<span style="color:#4070a0">&#34;a&#34;</span>).each(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">try</span>{<span style="color:#007020;font-weight:bold">var</span> t<span style="color:#666">=</span>$(<span style="color:#007020;font-weight:bold">this</span>).attr(<span style="color:#4070a0">&#34;href&#34;</span>);t<span style="color:#666">=</span>t.replace(<span style="color:#4070a0">&#34;*&#34;</span>,<span style="color:#4070a0">&#34;19900101&#34;</span>),$(<span style="color:#007020;font-weight:bold">this</span>).attr(<span style="color:#4070a0">&#34;href&#34;</span>,t)}<span style="color:#007020;font-weight:bold">catch</span>{}});
+</code></pre></div></li>
+</ul></li>
+
+<li><p>上記のファイル一覧の URL リストをコンソールに出力するだけのブックマークレット</p>
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020">window</span>.jQuery<span style="color:#666">||</span><span style="color:#007020">document</span>.body.appendChild(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">var</span> t<span style="color:#666">=</span><span style="color:#007020">document</span>.createElement(<span style="color:#4070a0">&#34;script&#34;</span>);<span style="color:#007020;font-weight:bold">return</span> t.type<span style="color:#666">=</span><span style="color:#4070a0">&#34;text/javascript&#34;</span>,t.src<span style="color:#666">=</span><span style="color:#4070a0">&#34;http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js&#34;</span>,t}());<span style="color:#007020;font-weight:bold">var</span> urlist<span style="color:#666">=</span><span style="color:#4070a0">&#34;&#34;</span>;$(<span style="color:#4070a0">&#34;#resultsUrl&#34;</span>).find(<span style="color:#4070a0">&#34;a&#34;</span>).each(<span style="color:#007020;font-weight:bold">function</span>(){urlist<span style="color:#666">+=</span>$(<span style="color:#007020;font-weight:bold">this</span>).attr(<span style="color:#4070a0">&#34;href&#34;</span>)<span style="color:#666">+</span><span style="color:#4070a0">&#34;\n&#34;</span>}),console.log(urlist);
+</code></pre></div></li>
+</ul></li>
+</ul>
+
+<h2 id="lr2">LR2</h2>
+
+<h3 id="選曲画面に難易度表の情報を表示する">選曲画面に難易度表の情報を表示する</h3>
+
+<p>タグに BMSeeker に登録している難易度表の情報を登録し，選曲画面で表示します．</p>
+
+<p><img src="/others/img/tag.jpg" width="700" ></p>
+
+<p><code>LR2files\Database\song.db</code>に対して次の SQL を実行する．</p>
+
+<p>この SQL は，タグに BMSeeker に登録している難易度表の情報を<code>[シンボル][レベル] [コメント]</code>というフォーマットで登録します．</p>
+
+<p><strong>注意: 既存のタグ情報はすべて削除されます．</strong></p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#007020;font-weight:bold">update</span> song <span style="color:#007020;font-weight:bold">set</span> tag <span style="color:#666">=</span> (
+  <span style="color:#007020;font-weight:bold">select</span> group_concat(symbol<span style="color:#666">||</span><span style="color:#007020;font-weight:bold">replace</span>(folder,<span style="color:#4070a0">&#34;LEVEL &#34;</span>,<span style="color:#4070a0">&#34;&#34;</span>)<span style="color:#666">||</span><span style="color:#4070a0">&#34; &#34;</span><span style="color:#666">||</span>ifnull(<span style="color:#007020;font-weight:bold">comment</span>, <span style="color:#4070a0">&#34;&#34;</span>), <span style="color:#4070a0">&#34;, &#34;</span>)
+  <span style="color:#007020;font-weight:bold">from</span> playlist_entry
+  <span style="color:#007020;font-weight:bold">inner</span> <span style="color:#007020;font-weight:bold">join</span> playlist <span style="color:#007020;font-weight:bold">on</span> playlist_entry.playlist_id <span style="color:#666">=</span> playlist.playlist_id
+  <span style="color:#007020;font-weight:bold">where</span> song.hash <span style="color:#666">=</span> playlist_entry.md5
+    <span style="color:#007020;font-weight:bold">and</span> playlist_entry.folder <span style="color:#007020;font-weight:bold">like</span> <span style="color:#4070a0">&#34;%LEVEL%&#34;</span>
+    <span style="color:#007020;font-weight:bold">and</span> is_removed <span style="color:#666">=</span> <span style="color:#40a070">0</span>
+    <span style="color:#007020;font-weight:bold">and</span> playlist_entry.md5 <span style="color:#007020;font-weight:bold">is</span> <span style="color:#007020;font-weight:bold">not</span> <span style="color:#007020;font-weight:bold">null</span>
+)</code></pre></div>
+
+<p>SQL を実行するには以下のようなツールが利用できます．</p>
+
+<ul>
+<li><a href="https://sqlite.org/download.html">SQLite Download Page</a> - コマンドラインツール</li>
+<li><a href="https://sqlitebrowser.org/">DB Browser for SQLite</a> - GUI ツール</li>
+</ul>
+
+<p>使用している選曲スキンにタグを表示する定義を追記します．以下のページが参考になるかもしれません．</p>
+
+<ul>
+<li><a href="http://right-stick.sub.jp/lr2skinhelp.html">LR2SkinHELP 第九版</a></li>
+<li><a href="http://right-stick.sub.jp/lr2skinhelp/hanyou.html#src_text">#SRC_TEXT</a></li>
+</ul>
+</article>
+
+      
+      
+    </div>
+
+    
+  
+
+  
+    <aside class="book-toc level-6 fixed">
+      <nav id="TableOfContents">
+<ul>
+<li><a href="#ちょっとしたメモ置き場">ちょっとしたメモ置き場</a>
+<ul>
+<li><a href="#bms-制作">BMS 制作</a>
+<ul>
+<li><a href="#譜面製作時に気をつけたいこと">譜面製作時に気をつけたいこと</a></li>
+</ul></li>
+<li><a href="#難易度表">難易度表</a>
+<ul>
+<li><a href="#次期難易度表フォーマット">次期難易度表フォーマット</a></li>
+</ul></li>
+<li><a href="#ソフトウェア">ソフトウェア</a>
+<ul>
+<li><a href="#wav-ogg-変換">wav → ogg 変換</a></li>
+<li><a href="#ogg-wav-変換">ogg → wav 変換</a></li>
+<li><a href="#動画-bga-関連">動画 BGA 関連</a></li>
+<li><a href="#音量">音量</a></li>
+<li><a href="#ubmplay-のインストール">uBMplay のインストール</a></li>
+</ul></li>
+<li><a href="#収集">収集</a>
+<ul>
+<li><a href="#ダウンロード">ダウンロード</a></li>
+<li><a href="#展開">展開</a></li>
+<li><a href="#internet-archive-関連">Internet Archive 関連</a></li>
+</ul></li>
+<li><a href="#lr2">LR2</a>
+<ul>
+<li><a href="#選曲画面に難易度表の情報を表示する">選曲画面に難易度表の情報を表示する</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </aside>
+  
+
+
+
+  </main>
+  
+  
+  
+</body>
+
+</html>
