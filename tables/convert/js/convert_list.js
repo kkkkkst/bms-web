@@ -55,6 +55,12 @@ $(document).ready(function() {
             '" target="_blank">json</a>'
           );
         }
+      },
+      {
+        title: "備考",
+        data: "memo",
+        width: "20%",
+        orderable: false
       }
     ]
   });
