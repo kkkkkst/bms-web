@@ -434,7 +434,7 @@ https://github.com/alex-shpak/hugo-book
       $('#btn_show_table').hide();
       $.getJSON($("meta[name=bmstable]").attr("content"), function(header) {
         table_data = header.data_url;
-        createTable(false);
+        createTable();
       });
     });
   });
