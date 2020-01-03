@@ -1,14 +1,15 @@
 var SABUN_DL_STR = "DL";
 var table_data = "";
 
-function createTable(paging) {
+function createTable() {
   $("#difficulty_table").DataTable({
-    lengthChange: false,
-    info: false,
-    paging: paging,
-    pageLength: 200,
-    scrollX: true,
-    scrollY: '90vh',
+    lengthChange:
+      typeof dtLengthChange === "undefined" ? false : dtLengthChange,
+    info: typeof dtInfo === "undefined" ? false : dtInfo,
+    paging: typeof dtPaging === "undefined" ? false : dtPaging,
+    pageLength: typeof dtPageLength === "undefined" ? 200 : dtPageLength,
+    scrollX: typeof dtScrollX === "undefined" ? true : dtScrollX,
+    scrollY: typeof dtScrollY === "undefined" ? "85vh" : dtScrollY,
 
     language: {
       url: "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
@@ -19,7 +20,8 @@ function createTable(paging) {
       dataSrc: ""
     },
 
-    columns: table_columns,
+    columns:
+      typeof table_columns === "undefined" ? DEFAULT_COLUMNS : table_columns,
 
     createdRow: function(row, data) {
       if (data.state == 1) {
@@ -68,7 +70,7 @@ $(document).ready(function() {
   $.getJSON($("meta[name=bmstable]").attr("content"), function(header) {
     if (typeof isManualLoad === "undefined") {
       table_data = header.data_url;
-      createTable(false);
+      createTable();
     }
   });
 });
@@ -189,3 +191,30 @@ var ParseData = {
     return row.comment || "";
   }
 };
+
+var DEFAULT_COLUMNS = [
+  {
+    title: "level",
+    data: "level",
+    type: "natural"
+  },
+  {
+    title: "タイトル<br>(LR2IR)",
+    data: "title",
+    render: ParseData.parseTitle
+  },
+  {
+    title: "アーティスト<br>(本体URL)",
+    data: "artist",
+    render: ParseData.parseArtist
+  },
+  {
+    title: "差分",
+    render: ParseData.parseSabun,
+    orderable: false
+  },
+  {
+    title: "コメント",
+    render: ParseData.parseComment
+  }
+];
