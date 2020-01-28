@@ -150,7 +150,7 @@ https://github.com/alex-shpak/hugo-book
 
     </li>
     
-    <li  class="nazo" >
+    <li >
       
 
   <a href="/tables/db.html" >
@@ -223,11 +223,11 @@ https://github.com/alex-shpak/hugo-book
     <li >
       
 
-  <a href="/tips/glassist.html" >
+  <a href="/tips/tableinfo.html" >
     
   
     
-    GLAssistの差分自動導入
+    選曲画面に難易度表の情報を表示
   
 
   </a>
@@ -243,6 +243,21 @@ https://github.com/alex-shpak/hugo-book
   
     
     カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
   
 
   </a>
@@ -345,7 +360,7 @@ https://github.com/alex-shpak/hugo-book
 
     </li>
     
-    <li  class="nazo" >
+    <li >
       
 
   <a href="/others/memo.html"  class="active">
@@ -415,11 +430,12 @@ https://github.com/alex-shpak/hugo-book
 
 <h1 id="ちょっとしたメモ置き場">ちょっとしたメモ置き場</h1>
 
-<p>BMS 関連のわざわざページを作るまでもないちょっとしたメモを適当に置いておきます．</p>
+<p>BMS 関連のわざわざページを作るまでもないちょっとしたメモを適当に置いておきます．<br />
+不定期で増えたり減ったりすると思います．</p>
 
-<p>まだ編集中．</p>
+<p>雑なので要注意．</p>
 
-<h2 id="bms-制作">BMS 制作</h2>
+<h2 id="bms-ファイル">BMS ファイル</h2>
 
 <h3 id="譜面製作時に気をつけたいこと">譜面製作時に気をつけたいこと</h3>
 
@@ -438,11 +454,25 @@ https://github.com/alex-shpak/hugo-book
 <li><p><code>#SUBTITLE</code>を使用する際に気をつけること</p>
 
 <ul>
-<li>LR2 では<code>#TITLE</code>内にサブタイトルとして認識される部分があるとその部分が無視されます
+<li>LR2 では<code>#SUBTITLE</code>を使用していてかつ，<code>#TITLE</code>内にサブタイトルとして認識される部分があるとその部分が無視されます
 
 <ul>
 <li><code>#TITLE タイトル ～サブタイトル～</code>, <code>#SUBTITLE [Another]</code>←これが<code>タイトル [Another]</code>となってしまう</li>
 </ul></li>
+</ul></li>
+</ul>
+
+<h2 id="lr2">LR2</h2>
+
+<h3 id="遅延対策">遅延対策</h3>
+
+<ul>
+<li><p><a href="https://stairway.sakura.ne.jp/bms/delay.htm">LR2遅延対策入門</a></p></li>
+
+<li><p>NVIDIA の GPU を使用している場合</p>
+
+<ul>
+<li>NVIDIA コントロールパネルから <code>Low Latency Mode</code> を <code>Ultra</code> にする</li>
 </ul></li>
 </ul>
 
@@ -453,6 +483,41 @@ https://github.com/alex-shpak/hugo-book
 <ul>
 <li><a href="https://github.com/exch-bms2/jbmstable-parser/wiki/%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%E3%81%AE%E4%BB%95%E6%A7%98">難易度表の仕様</a></li>
 </ul>
+
+<h3 id="データ部のurlに相対パスを用いる場合の注意">データ部のURLに相対パスを用いる場合の注意</h3>
+
+<p>ヘッダー内のデータ部の URL を相対パスとした場合の基準となる URL が難易度表の仕様で定まっていないため，処理が実装により異なります．（実際に BMSeeker と GLA で処理が異なる）<br />
+そのためヘッダーとデータの json ファイルが別のディレクトリにある場合は，ヘッダー内のデータ部の URL を絶対パスにしたほうが無難かもしれません．</p>
+
+<h3 id="json-を作成する">json を作成する</h3>
+
+<h4 id="song-db-から-json-を作成する">song.db から json を作成する</h4>
+
+<p>以下のツールは SQLite のテーブルデータを json で出力することができます</p>
+
+<ul>
+<li><a href="https://sqlite.org/download.html">SQLite Download Page</a> - コマンドラインツール</li>
+<li><a href="https://sqliteonline.com/">SQLite Online</a> - web 上で実行可能</li>
+</ul>
+
+<p>SQLite Online を使用した json の出力方法</p>
+
+<ol>
+<li><a href="https://sqliteonline.com/">SQLite Online</a> で<code>song.db</code>を開く</li>
+<li><code>song</code>テーブルから<code>SELECT</code>文を用いて出力したい曲リストを選択する
+
+<ul>
+<li>このとき<code>AS</code>句を使用して<code>hash</code>のカラム名を<code>md5</code>としておくとよい</li>
+</ul></li>
+<li>「Export」→「→ JSON」で json として出力する</li>
+</ol>
+
+<p>SQLの例</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#007020;font-weight:bold">SELECT</span> <span style="color:#007020;font-weight:bold">level</span>, title, artist, hash <span style="color:#007020;font-weight:bold">as</span> md5
+	<span style="color:#007020;font-weight:bold">FROM</span> song
+    <span style="color:#007020;font-weight:bold">WHERE</span> title <span style="color:#007020;font-weight:bold">like</span> <span style="color:#4070a0">&#34;FREEDOM DiVE%&#34;</span>
+    <span style="color:#007020;font-weight:bold">ORDER</span> <span style="color:#007020;font-weight:bold">by</span> <span style="color:#007020;font-weight:bold">level</span></code></pre></div>
 
 <h2 id="ソフトウェア">ソフトウェア</h2>
 
@@ -484,6 +549,8 @@ https://github.com/alex-shpak/hugo-book
 </ul></li>
 </ul></li>
 </ul>
+
+<p>バッチファイルにパスを通しておくと便利．</p>
 
 <h3 id="動画-bga-関連">動画 BGA 関連</h3>
 
@@ -519,11 +586,9 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 
 <span style="color:#007020;font-weight:bold">del</span> ffmpeg2pass-0.log</code></pre></div>
 
-<p><code>bgaenc.bat &quot;bga.mp4&quot;</code>のように使用します</p>
-
-<p>アスペクト比が異なる場合はレターボックスが追加されます</p>
-
-<p>エンコードした動画ファイルを既存の譜面にも読み込ませたいときは拡張子を元の拡張子に合わせる必要があります</p>
+<p><code>bgaenc.bat &quot;bga.mp4&quot;</code>のように使用します．<br />
+アスペクト比が異なる場合はレターボックスが追加されます．<br />
+エンコードした動画ファイルを既存の譜面にも読み込ませたいときは拡張子を元の拡張子に合わせる必要があります．</p>
 
 <h3 id="音量">音量</h3>
 
@@ -533,11 +598,9 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <span style="color:#007020;font-weight:bold">mkdir</span> converted
 <span style="color:#007020;font-weight:bold">for</span> <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#007020;font-weight:bold">in</span> (*.wav) <span style="color:#007020;font-weight:bold">do</span> sox <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#4070a0">&#34;converted/</span><span style="color:#4070a0;font-weight:bold">%%</span><span style="color:#4070a0">i&#34;</span> gain <span style="color:#bb60d5">%1</span></code></pre></div>
 
-<p><code>wavgain.bat +2</code>のように使用します．引数で音量の変更量をdbで指定します．</p>
-
-<p>変換後のファイルは<code>converted</code>フォルダに生成されます．</p>
-
-<p>音割れが発生すると警告が表示されます．</p>
+<p><code>wavgain.bat +2</code>のように使用します．引数で音量の変更量をdbで指定します．<br />
+変換後のファイルは<code>converted</code>フォルダに生成されます．<br />
+音割れが発生すると警告が表示されます．</p>
 
 <h3 id="ubmplay-のインストール">uBMplay のインストール</h3>
 
@@ -559,9 +622,10 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <h3 id="ダウンロード">ダウンロード</h3>
 
 <ul>
-<li><a href="http://gnuwin32.sourceforge.net/packages/wget.htm">Wget for Windows</a> - コマンドラインダウンローダ
+<li><p><a href="http://gnuwin32.sourceforge.net/packages/wget.htm">Wget for Windows</a> - コマンドラインダウンローダ</p>
 
 <ul>
+<li>再帰ダウンロードなどができます．とても収集向き．</li>
 <li>あるディレクトリ以下のファイルをまとめてダウンロード
 
 <ul>
@@ -570,14 +634,27 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <ul>
 <li><code>-r</code>: 再帰的に取得する</li>
 <li><code>-l</code>: 再帰の深さ</li>
-<li><code>-H</code>: ドメイン固定</li>
+<li>他にも便利なオプションがたくさんあります．詳しくはググってください．</li>
 </ul></li>
 </ul></li>
 <li>URL リスト内の URL をすべてダウンロード
 
 <ul>
-<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">wget -i list.txt</code></pre></div></li>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">wget -i list.txt</code></pre></div>
+
+<ul>
+<li><code>list.txt</code>は各行に URL を記述したテキストファイル</li>
 </ul></li>
+</ul></li>
+</ul></li>
+
+<li><p>現在のページ内にある URL リストをコンソールに出力するだけのブックマークレット</p>
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020">window</span>.jQuery<span style="color:#666">||</span><span style="color:#007020">document</span>.body.appendChild(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">var</span> e<span style="color:#666">=</span><span style="color:#007020">document</span>.createElement(<span style="color:#4070a0">&#34;script&#34;</span>);<span style="color:#007020;font-weight:bold">return</span> e.type<span style="color:#666">=</span><span style="color:#4070a0">&#34;text/javascript&#34;</span>,e.src<span style="color:#666">=</span><span style="color:#4070a0">&#34;http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js&#34;</span>,e}());<span style="color:#007020;font-weight:bold">var</span> str<span style="color:#666">=</span><span style="color:#4070a0">&#34;&#34;</span>;$(<span style="color:#4070a0">&#34;a&#34;</span>).each(<span style="color:#007020;font-weight:bold">function</span>(e,t){str<span style="color:#666">+=</span>t.href<span style="color:#666">+</span><span style="color:#4070a0">&#34;\n&#34;</span>}),console.log(str);
+</code></pre></div></li>
+<li>上の文字列を URL に指定したブックマークレットを作成し，そのブックマークレットを開くことで実行できます</li>
+<li>コンソールは Chrome なら<code>Ctrl + Shift + J</code>で開けます．</li>
 </ul></li>
 </ul>
 
@@ -594,6 +671,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 
 <ul>
 <li>ディレクトリ構造をツリー形式で表示するコマンド</li>
+<li><code>tree &gt; tree.txt</code>とすると結果をファイルに出力できます</li>
 <li>多重階層になってしまっている bms を見つけたいときなどに
 
 <ul>
@@ -618,7 +696,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <li><p>サイト内の IA に保管されているすべてのファイルを表示する</p>
 
 <ul>
-<li><code>https://web.archive.org/web/*/http://[URL]/*</code>
+<li><code>https://web.archive.org/web/*/[URL]/*</code>
 
 <ul>
 <li>たとえば<a href="https://web.archive.org/web/*/http://bms.hexlataia.xyz/*"><code>https://web.archive.org/web/*/http://bms.hexlataia.xyz/*</code></a>とすれば<a href="http://bms.hexlataia.xyz/"><code>http://bms.hexlataia.xyz/</code></a>以下の IA に保管されているすべてのファイルを表示できます．</li>
@@ -628,8 +706,10 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <li><p>上記のファイル一覧の URL を<code>https://web.archive.org/web/*/http://...</code>から<code>https://web.archive.org/web/19900101/http://...</code>と変換するだけのブックマークレット</p>
 
 <ul>
+<li>リンク先がファイルの日付選択画面からファイルへのリンクへ変わります</li>
 <li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020">window</span>.jQuery<span style="color:#666">||</span><span style="color:#007020">document</span>.body.appendChild(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">var</span> t<span style="color:#666">=</span><span style="color:#007020">document</span>.createElement(<span style="color:#4070a0">&#34;script&#34;</span>);<span style="color:#007020;font-weight:bold">return</span> t.type<span style="color:#666">=</span><span style="color:#4070a0">&#34;text/javascript&#34;</span>,t.src<span style="color:#666">=</span><span style="color:#4070a0">&#34;http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js&#34;</span>,t}()),$(<span style="color:#4070a0">&#34;a&#34;</span>).each(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">try</span>{<span style="color:#007020;font-weight:bold">var</span> t<span style="color:#666">=</span>$(<span style="color:#007020;font-weight:bold">this</span>).attr(<span style="color:#4070a0">&#34;href&#34;</span>);t<span style="color:#666">=</span>t.replace(<span style="color:#4070a0">&#34;*&#34;</span>,<span style="color:#4070a0">&#34;19900101&#34;</span>),$(<span style="color:#007020;font-weight:bold">this</span>).attr(<span style="color:#4070a0">&#34;href&#34;</span>,t)}<span style="color:#007020;font-weight:bold">catch</span>{}});
 </code></pre></div></li>
+<li>上の文字列を URL に指定したブックマークレットを作成し，そのブックマークレットを開くことで実行できます</li>
 </ul></li>
 
 <li><p>上記のファイル一覧の URL リストをコンソールに出力するだけのブックマークレット</p>
@@ -637,45 +717,28 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <ul>
 <li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020">window</span>.jQuery<span style="color:#666">||</span><span style="color:#007020">document</span>.body.appendChild(<span style="color:#007020;font-weight:bold">function</span>(){<span style="color:#007020;font-weight:bold">var</span> t<span style="color:#666">=</span><span style="color:#007020">document</span>.createElement(<span style="color:#4070a0">&#34;script&#34;</span>);<span style="color:#007020;font-weight:bold">return</span> t.type<span style="color:#666">=</span><span style="color:#4070a0">&#34;text/javascript&#34;</span>,t.src<span style="color:#666">=</span><span style="color:#4070a0">&#34;http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js&#34;</span>,t}());<span style="color:#007020;font-weight:bold">var</span> urlist<span style="color:#666">=</span><span style="color:#4070a0">&#34;&#34;</span>;$(<span style="color:#4070a0">&#34;#resultsUrl&#34;</span>).find(<span style="color:#4070a0">&#34;a&#34;</span>).each(<span style="color:#007020;font-weight:bold">function</span>(){urlist<span style="color:#666">+=</span>$(<span style="color:#007020;font-weight:bold">this</span>).attr(<span style="color:#4070a0">&#34;href&#34;</span>)<span style="color:#666">+</span><span style="color:#4070a0">&#34;\n&#34;</span>}),console.log(urlist);
 </code></pre></div></li>
+<li>上の文字列を URL に指定したブックマークレットを作成し，そのブックマークレットを開くことで実行できます</li>
+<li>コンソールは Chrome なら<code>Ctrl + Shift + J</code>で開けます．</li>
 </ul></li>
 </ul>
 
-<h2 id="lr2">LR2</h2>
+<h3 id="差分インストール">差分インストール</h3>
 
-<h3 id="選曲画面に難易度表の情報を表示する">選曲画面に難易度表の情報を表示する</h3>
+<p><a href="https://tumblr.ribbit.xyz/post/129562878360/bemusicseeker-%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-v030-%E5%AF%BE%E5%BF%9C%E7%89%88#tutorial_install_diff">BMSeeker</a> 先生におまかせ</p>
 
-<p>タグに BMSeeker に登録している難易度表の情報を登録し，選曲画面で表示します．</p>
-
-<p><img src="/others/img/tag.jpg" width="700" ></p>
-
-<p><code>LR2files\Database\song.db</code>に対して次の SQL を実行する．</p>
-
-<p>この SQL は，タグに BMSeeker に登録している難易度表の情報を<code>[シンボル][レベル] [コメント]</code>というフォーマットで登録します．</p>
-
-<p><strong>注意: 既存のタグ情報はすべて削除されます．</strong></p>
-
-<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#007020;font-weight:bold">update</span> song <span style="color:#007020;font-weight:bold">set</span> tag <span style="color:#666">=</span> (
-  <span style="color:#007020;font-weight:bold">select</span> group_concat(symbol<span style="color:#666">||</span><span style="color:#007020;font-weight:bold">replace</span>(folder,<span style="color:#4070a0">&#34;LEVEL &#34;</span>,<span style="color:#4070a0">&#34;&#34;</span>)<span style="color:#666">||</span><span style="color:#4070a0">&#34; &#34;</span><span style="color:#666">||</span>ifnull(<span style="color:#007020;font-weight:bold">comment</span>, <span style="color:#4070a0">&#34;&#34;</span>), <span style="color:#4070a0">&#34;, &#34;</span>)
-  <span style="color:#007020;font-weight:bold">from</span> playlist_entry
-  <span style="color:#007020;font-weight:bold">inner</span> <span style="color:#007020;font-weight:bold">join</span> playlist <span style="color:#007020;font-weight:bold">on</span> playlist_entry.playlist_id <span style="color:#666">=</span> playlist.playlist_id
-  <span style="color:#007020;font-weight:bold">where</span> song.hash <span style="color:#666">=</span> playlist_entry.md5
-    <span style="color:#007020;font-weight:bold">and</span> playlist_entry.folder <span style="color:#007020;font-weight:bold">like</span> <span style="color:#4070a0">&#34;%LEVEL%&#34;</span>
-    <span style="color:#007020;font-weight:bold">and</span> is_removed <span style="color:#666">=</span> <span style="color:#40a070">0</span>
-    <span style="color:#007020;font-weight:bold">and</span> playlist_entry.md5 <span style="color:#007020;font-weight:bold">is</span> <span style="color:#007020;font-weight:bold">not</span> <span style="color:#007020;font-weight:bold">null</span>
-)</code></pre></div>
-
-<p>SQL を実行するには以下のようなツールが利用できます．</p>
+<h2 id="便利なリンク集">便利なリンク集</h2>
 
 <ul>
-<li><a href="https://sqlite.org/download.html">SQLite Download Page</a> - コマンドラインツール</li>
-<li><a href="https://sqlitebrowser.org/">DB Browser for SQLite</a> - GUI ツール</li>
-</ul>
-
-<p>使用している選曲スキンにタグを表示する定義を追記します．以下のページが参考になるかもしれません．</p>
-
-<ul>
-<li><a href="http://right-stick.sub.jp/lr2skinhelp.html">LR2SkinHELP 第九版</a></li>
-<li><a href="http://right-stick.sub.jp/lr2skinhelp/hanyou.html#src_text">#SRC_TEXT</a></li>
+<li><a href="https://hitkey.nekokan.dyndns.info/cmdsJP.htm">BMS command memo (JP)</a> - BMS フォーマットの仕様メモ</li>
+<li><a href="http://www.ribbit.xyz/bms/search/">BMS Search Alternative</a> - より便利な LR2IR 検索</li>
+<li><a href="https://web.archive.org/web/20130615193316/http://2nd.geocities.jp/yoshi_65c816/bms/LR2.html">LR2の仕様まとめ (IA)</a> - LR2 のゲージや判定の仕様まとめ</li>
+<li><a href="http://stairway.sakura.ne.jp/smalltools/minibmsplay/diff.htm">bms diff tool</a> - 譜面の音ズレチェッカー</li>
+<li><a href="http://yuinore.moe/bayes_bpm_counter.html">Bayes BPM Counter</a> - BPM 測定器</li>
+<li><a href="https://w.atwiki.jp/laser_bm/pages/11.html">BMS作者一覧 - BMSまとめ @wiki - アットウィキ</a> - BMS 作者一覧</li>
+<li><a href="https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ">イベント・パッケージ - MEGA</a> - イベント・パッケージの保管</li>
+<li><a href="https://nekokan.dyndns.info/file/mirror/ceena-bms/">Index of /file/mirror/ceena-bms</a> - ceena にアップされていたパッケージの保管</li>
+<li><a href="https://dropbox.bms.ms/">Dropbox Publicフォルダ ミラーリングプロジェクト</a> - Dropbox 保管 (<a href="https://dropbox.bms.ms/u/">一覧</a>)</li>
+<li><a href="https://github.com/rib2bit/BMS-database">rib2bit/BMS-database</a> - イベントの難易度表と難易度表のミラーと LR2IR のデータ</li>
 </ul>
 </article>
 
@@ -686,7 +749,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
   <div>
     
     
-      <img src="/svg/calendar.svg" alt="Changed" /> 2019-10-13
+      <img src="/svg/calendar.svg" alt="Changed" /> 2020-1-29
     
   </div>
   
@@ -706,13 +769,22 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <ul>
 <li><a href="#ちょっとしたメモ置き場">ちょっとしたメモ置き場</a>
 <ul>
-<li><a href="#bms-制作">BMS 制作</a>
+<li><a href="#bms-ファイル">BMS ファイル</a>
 <ul>
 <li><a href="#譜面製作時に気をつけたいこと">譜面製作時に気をつけたいこと</a></li>
+</ul></li>
+<li><a href="#lr2">LR2</a>
+<ul>
+<li><a href="#遅延対策">遅延対策</a></li>
 </ul></li>
 <li><a href="#難易度表">難易度表</a>
 <ul>
 <li><a href="#次期難易度表フォーマット">次期難易度表フォーマット</a></li>
+<li><a href="#データ部のurlに相対パスを用いる場合の注意">データ部のURLに相対パスを用いる場合の注意</a></li>
+<li><a href="#json-を作成する">json を作成する</a>
+<ul>
+<li><a href="#song-db-から-json-を作成する">song.db から json を作成する</a></li>
+</ul></li>
 </ul></li>
 <li><a href="#ソフトウェア">ソフトウェア</a>
 <ul>
@@ -727,11 +799,9 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <li><a href="#ダウンロード">ダウンロード</a></li>
 <li><a href="#展開">展開</a></li>
 <li><a href="#internet-archive-関連">Internet Archive 関連</a></li>
+<li><a href="#差分インストール">差分インストール</a></li>
 </ul></li>
-<li><a href="#lr2">LR2</a>
-<ul>
-<li><a href="#選曲画面に難易度表の情報を表示する">選曲画面に難易度表の情報を表示する</a></li>
-</ul></li>
+<li><a href="#便利なリンク集">便利なリンク集</a></li>
 </ul></li>
 </ul>
 </nav>

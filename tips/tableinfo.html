@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+  
+    
+    選曲画面に難易度表の情報を表示
+  
+ | Hex bms</title>
+
+
+
+<link rel="stylesheet" href="/book.min.470eb34fba1e168575bd03a3e98a68d6e8e71115e9ab2e8aedd4abed222cab60.css">
+
+
+
+
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  
+  <a href="https://bms.hexlataia.xyz/">Hex bms</a>
+</h2>
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+  <ul>
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    難易度表
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tables/hexajoy.html" >
+    
+  
+    
+    Hexajoy
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/tanosi.html" >
+    
+  
+    
+    ジャパリパーク
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/sandbox.html" >
+    
+  
+    
+    砂場
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/hinanjoy.html" >
+    
+  
+    
+    BMS差分アップローダー表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/olduploader.html" >
+    
+  
+    
+    旧アプロダ表
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/db.html" >
+    
+  
+    
+    発狂難易度データベース（仮）
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tables/convert/" >
+    
+  
+    
+    勝手に json 化
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    メモ
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/tips/googleapps.html" >
+    
+  
+    
+    スプレッドシートを使った難易度表の管理
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/tableinfo.html"  class="active">
+    
+  
+    
+    選曲画面に難易度表の情報を表示
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/customfolder.html" >
+    
+  
+    
+    カスタムフォルダのメモ
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/tips/glassist.html" >
+    
+  
+    
+    GLAssistの差分自動導入
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    スキン
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/skin/editorskin.html" >
+    
+  
+    
+    BMSエディタ用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/skin/viewerskin.html" >
+    
+  
+    
+    BMSビューア用スキン
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+    
+
+  <li  >
+    
+      <span>
+  
+    
+    
+    その他
+  
+</span>
+    
+
+    
+
+  <ul>
+    
+    
+    <li >
+      
+
+  <a href="/others/sabunlist.html" >
+    
+  
+    
+    差分公開サイトまとめ
+  
+
+  </a>
+
+
+    </li>
+    
+    <li >
+      
+
+  <a href="/others/memo.html" >
+    
+  
+    
+    落書き帳
+  
+
+  </a>
+
+
+    </li>
+    
+  </ul>
+
+
+  </li>
+
+
+  
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  
+<script>
+(function() {
+  var menu = document.querySelector('aside.book-menu nav')
+  addEventListener('beforeunload', function(event) {
+    localStorage.setItem('menu.scrollTop', menu.scrollTop)
+  });
+  menu.scrollTop = localStorage.getItem('menu.scrollTop')
+})()
+</script>
+
+
+
+    </aside>
+
+    <div class="book-page">
+      <header class="align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>
+  
+    
+    選曲画面に難易度表の情報を表示
+  
+</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="lr2-の選曲画面に難易度表の情報を表示する">LR2 の選曲画面に難易度表の情報を表示する</h1>
+
+<p>タグに BMSeeker に登録している難易度表の情報を登録し，選曲画面で表示します．<br />
+検索から出会った曲の難易度を確認できたり，難易度表のコメントから譜面傾向を確認できるなど，多くの譜面を所持している場合に便利です．</p>
+
+<p><img src="/others/img/tag.jpg" width="700" ></p>
+
+<h2 id="手順">手順</h2>
+
+<ol>
+<li>タグに難易度表の情報を登録する SQL を実行する</li>
+<li>スキンを編集し，タグを表示できるようにする</li>
+</ol>
+
+<h2 id="sql-を実行する">SQL を実行する</h2>
+
+<p><code>LR2files\Database\song.db</code>に対して次の SQL を実行します．</p>
+
+<p>この SQL は，タグに BMSeeker に登録している難易度表の情報を<code>[シンボル][レベル] [コメント]</code>というフォーマットで登録します．</p>
+
+<p><strong>注意: 既存のタグ情報はすべて削除されます．個人的にタグを使用している方や, GLA を使用している方は実行しないでください．</strong></p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#007020;font-weight:bold">update</span> song <span style="color:#007020;font-weight:bold">set</span> tag <span style="color:#666">=</span> (
+  <span style="color:#007020;font-weight:bold">select</span> group_concat(symbol<span style="color:#666">||</span><span style="color:#007020;font-weight:bold">replace</span>(folder,compat_prefix,<span style="color:#4070a0">&#34;&#34;</span>)<span style="color:#666">||</span><span style="color:#4070a0">&#34; &#34;</span><span style="color:#666">||</span>ifnull(<span style="color:#007020;font-weight:bold">comment</span>, <span style="color:#4070a0">&#34;&#34;</span>), <span style="color:#4070a0">&#34;, &#34;</span>)
+  <span style="color:#007020;font-weight:bold">from</span> playlist_entry
+  <span style="color:#007020;font-weight:bold">inner</span> <span style="color:#007020;font-weight:bold">join</span> playlist <span style="color:#007020;font-weight:bold">on</span> playlist_entry.playlist_id <span style="color:#666">=</span> playlist.playlist_id
+  <span style="color:#007020;font-weight:bold">where</span> song.hash <span style="color:#666">=</span> playlist_entry.md5
+    <span style="color:#007020;font-weight:bold">and</span> is_removed <span style="color:#666">=</span> <span style="color:#40a070">0</span>
+    <span style="color:#007020;font-weight:bold">and</span> playlist_entry.md5 <span style="color:#007020;font-weight:bold">is</span> <span style="color:#007020;font-weight:bold">not</span> <span style="color:#007020;font-weight:bold">null</span>
+)</code></pre></div>
+
+<p>SQL を実行するには以下のようなツールが利用できます．</p>
+
+<ul>
+<li><a href="https://sqlite.org/download.html">SQLite Download Page</a> - コマンドラインツール</li>
+<li><a href="https://sqlitebrowser.org/">DB Browser for SQLite</a> - GUI ツール</li>
+<li><a href="https://sqliteonline.com/">SQLite Online</a> - web 上で実行可能</li>
+</ul>
+
+<p>以下に <a href="https://sqliteonline.com/">SQLite Online</a> または <a href="https://sqlite.org/download.html">コマンドラインツール</a> を使用して SQL を実行する流れを示します．</p>
+
+<h3 id="sqlite-online-を使用して-sql-を実行する流れ">SQLite Online を使用して SQL を実行する流れ</h3>
+
+<p>Web 上で簡単に実行できます．<br />
+ただし，難易度表が更新されるたびに SQL を実行する必要があるので頻繁に更新される難易度表を登録している場合などはコマンドラインツールを使用したほうが楽かもしれません．</p>
+
+<ol>
+<li><a href="https://sqliteonline.com/">SQLite Online</a> を開く</li>
+<li>「File」→「Open DB」で <code>LR2files\Database\song.db</code> を開く</li>
+<li>上記の SQL を入力</li>
+<li>「Run」をクリックし実行</li>
+<li>「File」→「Save DB」で新しい<code>song.db</code>をダウンロード</li>
+<li><code>LR2files\Database\song.db</code>を先程ダウンロードした新しい<code>song.db</code>で置き換え</li>
+</ol>
+
+<p><img src="/others/img/sql-open.png" alt="" />
+<img src="/others/img/sql-file.jpg" alt="" /></p>
+
+<p><img src="/others/img/sql-edit.png" alt="" /></p>
+
+<p><img src="/others/img/sql-run.png" alt="" /></p>
+
+<p><img src="/others/img/sql-save.png" alt="" /></p>
+
+<h3 id="コマンドラインツールを使用して-sql-を実行する流れ">コマンドラインツールを使用して SQL を実行する流れ</h3>
+
+<ol>
+<li><a href="https://sqlite.org/download.html">SQLite Download Page</a> からコマンドラインツールをインストール
+
+<ul>
+<li>Windows の場合は [Precompiled Binaries for Windows] → [sqlite-tools-win32-x86-xxxxxxx.zip] をダウンロード</li>
+</ul></li>
+<li>上記の SQL を適当な名前でファイルに保存</li>
+<li>以下のコマンドを実行し <code>song.db</code> に対し SQL を実行
+
+<ul>
+<li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bat" data-lang="bat">sqlite3 song.db &lt; [SQLファイル]</code></pre></div></li>
+</ul></li>
+</ol>
+
+<p>上記のコマンドを実行してから LR2 を起動するバッチファイルなどを作っておくと更新が楽です．</p>
+
+<h2 id="スキンを編集する">スキンを編集する</h2>
+
+<p>使用している選曲スキンの csv ファイルを開き，タグを表示する定義を追記します．</p>
+
+<p>タグを表示する定義は以下のようになります．</p>
+
+<ul>
+<li><code>#SRC_TEXT</code>
+
+<ul>
+<li><code>st: 16</code> - 現在の曲のタグのテキスト</li>
+</ul></li>
+<li><code>#DST_TEXT</code>
+
+<ul>
+<li><code>timer: 11</code> - 選択している曲が変わるたびにリセットされるタイマー</li>
+<li><code>op1: 2</code> - 選択中バーが曲のときに<code>true</code></li>
+</ul></li>
+</ul>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csv" data-lang="csv">//SRC定義	(NULL)	font	st	align	edit	panel
+#SRC_TEXT	0	0	16	0	0	0
+//DST定義	(NULL)	time	x	y	w	size	acc	a	r	g	b	blend	filter	(NULL)	(NULL)	loop	timer	op1	op2	op3
+#DST_TEXT	0	0	0	0	0	0	0	255	255	255	255	0	1	0	0	0	11	2	0	0</code></pre></div>
+
+<p>次の場所を任意の値に変更してください．</p>
+
+<ul>
+<li><code>#SRC_TEXT</code>
+
+<ul>
+<li><code>font</code> - フォント．スキン内に登録されている任意のフォント番号を選択</li>
+<li><code>align</code> - 文字の表示位置
+
+<ul>
+<li>0： 左寄せ</li>
+<li>1： センタリング</li>
+<li>2： 右寄せ</li>
+</ul></li>
+</ul></li>
+<li><code>#DST_TEXT</code>
+
+<ul>
+<li><code>x, y</code> - 表示位置の始点</li>
+<li><code>w</code> - テキストを表示する範囲の最大値</li>
+<li><code>size</code> - 文字サイズ</li>
+</ul></li>
+</ul>
+
+<p>WMIX_HD の選曲スキンの場合は以下の文を追加することで上記の画像のように表示できます</p>
+
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csv" data-lang="csv">//SRC定義	(NULL)	font	st	align	edit															
+#SRC_TEXT	0	1	16	2	0															
+//DST定義	(NULL)	time	x	y	w	size	acc	a	r	g	b	blend	filter	(NULL)	(NULL)	loop	timer	(NULL)	(NULL)	(NULL)
+#DST_TEXT	0	0	1260	114	1600	18	2	255	255	255	255	1	1	0	0	0	11	2	0	</code></pre></div>
+
+<h3 id="スキン参考">スキン参考</h3>
+
+<ul>
+<li><a href="http://right-stick.sub.jp/lr2skinhelp.html">LR2SkinHELP 第九版</a></li>
+</ul>
+</article>
+
+      
+
+<div class="book-footer justify-between">
+  
+  <div>
+    
+    
+      <img src="/svg/calendar.svg" alt="Changed" /> 2020-1-29
+    
+  </div>
+  
+  
+</div>
+
+
+      
+    </div>
+
+    
+  
+
+  
+    <aside class="book-toc level-6 fixed">
+      <nav id="TableOfContents">
+<ul>
+<li><a href="#lr2-の選曲画面に難易度表の情報を表示する">LR2 の選曲画面に難易度表の情報を表示する</a>
+<ul>
+<li><a href="#手順">手順</a></li>
+<li><a href="#sql-を実行する">SQL を実行する</a>
+<ul>
+<li><a href="#sqlite-online-を使用して-sql-を実行する流れ">SQLite Online を使用して SQL を実行する流れ</a></li>
+<li><a href="#コマンドラインツールを使用して-sql-を実行する流れ">コマンドラインツールを使用して SQL を実行する流れ</a></li>
+</ul></li>
+<li><a href="#スキンを編集する">スキンを編集する</a>
+<ul>
+<li><a href="#スキン参考">スキン参考</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </aside>
+  
+
+
+
+  </main>
+  
+  
+  
+</body>
+
+</html>
