@@ -1,7 +1,7 @@
 {
   "name": "Lapis",
   "data_url": "data.json",
-  "original_url": "http://lapisbms.xyz/data.json",
+  "original_url": "http://lapisbms.xyz/",
   "symbol": "瑠",
   "level_order": [
     "1",
@@ -30,5 +30,5 @@
     "24",
     "25"
   ],
-  "update": "2019/12/21"
+  "update": "2020/02/02"
 }
