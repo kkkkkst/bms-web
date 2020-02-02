@@ -49,11 +49,16 @@ $(document).ready(function() {
         orderable: false,
         data: "url",
         render: function(data, type, row) {
-          return (
-            '<a href="' +
-            new URL("data.json", data).href +
-            '" target="_blank">json</a>'
-          );
+          var str;
+          if (data.includes("bms.hexlataia.xyz")) {
+            str =
+              '<a href="' +
+              new URL("data.json", data).href +
+              '" target="_blank">json</a>';
+          } else {
+            str = "---";
+          }
+          return str;
         }
       },
       {
