@@ -126,15 +126,6 @@
     "url": "https://bms.hexlataia.xyz/tables/convert/obj.Lucy/table.html"
   },
   {
-    "name": "obj.quad",
-    "author": "quad",
-    "original_url": "http://gnqg.rosx.net/upload/",
-    "symbol": "④",
-    "memo": "差分アップローダーから生成",
-    "update": "---",
-    "url": "https://bmsdb.hexlataia.xyz/hinanjoy?name=obj.quad&symbol=%E2%91%A3&filter=%7B%22a%22%3A%22o%22%2C%22f%22%3A%5B%7B%22c%22%3A%22noter%22%2C%22e%22%3A%22%3D%22%2C%22v%22%3A%22quad%22%2C%22n%22%3Afalse%7D%2C%7B%22c%22%3A%22artist%22%2C%22e%22%3A%22i%22%2C%22v%22%3A%22obj.quad%22%2C%22n%22%3Afalse%7D%5D%7D"
-  },
-  {
     "name": "お下げ",
     "author": "お下げ",
     "original_url": "http://sagena.harisen.jp/bms.html",
@@ -142,5 +133,14 @@
     "memo": "",
     "update": "2020/02/11",
     "url": "https://bms.hexlataia.xyz/tables/convert/%E3%81%8A%E4%B8%8B%E3%81%92/table.html"
+  },
+  {
+    "name": "obj.sarao3",
+    "author": "sarao3",
+    "original_url": "https://web.archive.org/web/20171113203345/http://www.geocities.jp/osara3109/",
+    "symbol": "s3",
+    "memo": "",
+    "update": "2020/03/03",
+    "url": "https://bms.hexlataia.xyz/tables/convert/obj.sarao3/table.html"
   }
 ]
