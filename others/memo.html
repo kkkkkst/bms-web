@@ -18,7 +18,7 @@
 
 
 
-<link rel="stylesheet" href="/book.min.470eb34fba1e168575bd03a3e98a68d6e8e71115e9ab2e8aedd4abed222cab60.css">
+<link rel="stylesheet" href="/book.min.f982393eca3685116e6c87db9f9cfc8ce2e12abca8b2d59a84a5c72cf25c17c6.css">
 
 
 
@@ -458,10 +458,10 @@
 
 <h1 id="ちょっとしたメモ置き場">ちょっとしたメモ置き場</h1>
 
-<p>BMS 関連のわざわざページを作るまでもないちょっとしたメモを適当に置いておきます．<br />
-不定期で増えたり減ったりすると思います．</p>
+<p>BMS 関連のわざわざページを作るまでもないちょっとしたメモを適当に置いておきます。<br />
+不定期で増えたり減ったりすると思います。</p>
 
-<p>雑なので要注意．</p>
+<p>雑なので要注意。</p>
 
 <h2 id="bms-ファイル">BMS ファイル</h2>
 
@@ -482,7 +482,7 @@
 <li><p><code>#SUBTITLE</code>を使用する際に気をつけること</p>
 
 <ul>
-<li>LR2 では<code>#SUBTITLE</code>を使用していてかつ，<code>#TITLE</code>内にサブタイトルとして認識される部分があるとその部分が無視されます
+<li>LR2 では<code>#SUBTITLE</code>を使用していてかつ、<code>#TITLE</code>内にサブタイトルとして認識される部分があるとその部分が無視されます
 
 <ul>
 <li><code>#TITLE タイトル ～サブタイトル～</code>, <code>#SUBTITLE [Another]</code>←これが<code>タイトル [Another]</code>となってしまう</li>
@@ -514,8 +514,8 @@
 
 <h3 id="データ部のurlに相対パスを用いる場合の注意">データ部のURLに相対パスを用いる場合の注意</h3>
 
-<p>ヘッダー内のデータ部の URL を相対パスとした場合の基準となる URL が難易度表の仕様で定まっていないため，処理が実装により異なります．（実際に BMSeeker と GLA で処理が異なる）<br />
-そのためヘッダーとデータの json ファイルが別のディレクトリにある場合は，ヘッダー内のデータ部の URL を絶対パスにしたほうが無難かもしれません．</p>
+<p>ヘッダー内のデータ部の URL を相対パスとした場合の基準となる URL が難易度表の仕様で定まっていないため、処理が実装により異なります。（実際に BMSeeker と GLA で処理が異なる）<br />
+そのためヘッダーとデータの json ファイルが別のディレクトリにある場合は、ヘッダー内のデータ部の URL を絶対パスにしたほうが無難かもしれません。</p>
 
 <h3 id="json-を作成する">json を作成する</h3>
 
@@ -578,7 +578,7 @@
 </ul></li>
 </ul>
 
-<p>バッチファイルにパスを通しておくと便利．</p>
+<p>バッチファイルにパスを通しておくと便利。</p>
 
 <h3 id="動画-bga-関連">動画 BGA 関連</h3>
 
@@ -590,7 +590,7 @@
 </ul>
 </blockquote>
 
-<p>らしい．</p>
+<p>らしい。</p>
 
 <p><a href="https://www.ffmpeg.org/">FFmpeg</a> を使用して動画ファイルを上記の形式にエンコードするバッチファイル</p>
 
@@ -614,9 +614,9 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 
 <span style="color:#007020;font-weight:bold">del</span> ffmpeg2pass-0.log</code></pre></div>
 
-<p><code>bgaenc.bat &quot;bga.mp4&quot;</code>のように使用します．<br />
-アスペクト比が異なる場合はレターボックスが追加されます．<br />
-エンコードした動画ファイルを既存の譜面にも読み込ませたいときは拡張子を元の拡張子に合わせる必要があります．</p>
+<p><code>bgaenc.bat &quot;bga.mp4&quot;</code>のように使用します。<br />
+アスペクト比が異なる場合はレターボックスが追加されます。<br />
+エンコードした動画ファイルを既存の譜面にも読み込ませたいときは拡張子を元の拡張子に合わせる必要があります。</p>
 
 <h3 id="音量">音量</h3>
 
@@ -626,9 +626,9 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <span style="color:#007020;font-weight:bold">mkdir</span> converted
 <span style="color:#007020;font-weight:bold">for</span> <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#007020;font-weight:bold">in</span> (*.wav) <span style="color:#007020;font-weight:bold">do</span> sox <span style="color:#4070a0;font-weight:bold">%%</span>i <span style="color:#4070a0">&#34;converted/</span><span style="color:#4070a0;font-weight:bold">%%</span><span style="color:#4070a0">i&#34;</span> gain <span style="color:#bb60d5">%1</span></code></pre></div>
 
-<p><code>wavgain.bat +2</code>のように使用します．引数で音量の変更量をdbで指定します．<br />
-変換後のファイルは<code>converted</code>フォルダに生成されます．<br />
-音割れが発生すると警告が表示されます．</p>
+<p><code>wavgain.bat +2</code>のように使用します。引数で音量の変更量をdbで指定します。<br />
+変換後のファイルは<code>converted</code>フォルダに生成されます。<br />
+音割れが発生すると警告が表示されます。</p>
 
 <h3 id="ubmplay-のインストール">uBMplay のインストール</h3>
 
@@ -653,7 +653,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <li><p><a href="http://gnuwin32.sourceforge.net/packages/wget.htm">Wget for Windows</a> - コマンドラインダウンローダ</p>
 
 <ul>
-<li>再帰ダウンロードなどができます．とても収集向き．</li>
+<li>再帰ダウンロードなどができます。とても収集向き。</li>
 <li>あるディレクトリ以下のファイルをまとめてダウンロード
 
 <ul>
@@ -662,7 +662,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <ul>
 <li><code>-r</code>: 再帰的に取得する</li>
 <li><code>-l</code>: 再帰の深さ</li>
-<li>他にも便利なオプションがたくさんあります．詳しくはググってください．</li>
+<li>他にも便利なオプションがたくさんあります。詳しくはググってください。</li>
 </ul></li>
 </ul></li>
 <li>URL リスト内の URL をすべてダウンロード
@@ -681,8 +681,8 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <ul>
 <li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020;font-weight:bold">var</span> str<span style="color:#666">=</span><span style="color:#4070a0">&#34;&#34;</span>;<span style="color:#007020">Array</span>.prototype.forEach.call(<span style="color:#007020">document</span>.querySelectorAll(<span style="color:#4070a0">&#34;a&#34;</span>),<span style="color:#007020;font-weight:bold">function</span>(r){str<span style="color:#666">+=</span>r.href<span style="color:#666">+</span><span style="color:#4070a0">&#34;\n&#34;</span>}),console.log(str);
 </code></pre></div></li>
-<li>上の文字列を URL に指定したブックマークレットを作成し，そのブックマークレットを開くことで実行できます</li>
-<li>コンソールは Chrome なら<code>Ctrl + Shift + J</code>で開けます．</li>
+<li>上の文字列を URL に指定したブックマークレットを作成し、そのブックマークレットを開くことで実行できます</li>
+<li>コンソールは Chrome なら<code>Ctrl + Shift + J</code>で開けます。</li>
 </ul></li>
 </ul>
 
@@ -727,7 +727,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <li><code>https://web.archive.org/web/*/[URL]/*</code>
 
 <ul>
-<li>たとえば<a href="https://web.archive.org/web/*/http://bms.hexlataia.xyz/*"><code>https://web.archive.org/web/*/http://bms.hexlataia.xyz/*</code></a>とすれば<a href="http://bms.hexlataia.xyz/"><code>http://bms.hexlataia.xyz/</code></a>以下の IA に保管されているすべてのファイルを表示できます．</li>
+<li>たとえば<a href="https://web.archive.org/web/*/http://bms.hexlataia.xyz/*"><code>https://web.archive.org/web/*/http://bms.hexlataia.xyz/*</code></a>とすれば<a href="http://bms.hexlataia.xyz/"><code>http://bms.hexlataia.xyz/</code></a>以下の IA に保管されているすべてのファイルを表示できます。</li>
 </ul></li>
 </ul></li>
 
@@ -737,7 +737,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <li>リンク先がファイルの日付選択画面からファイルへのリンクへ変わります</li>
 <li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020">Array</span>.prototype.forEach.call(<span style="color:#007020">document</span>.querySelectorAll(<span style="color:#4070a0">&#34;a&#34;</span>),<span style="color:#007020;font-weight:bold">function</span>(r){<span style="color:#007020;font-weight:bold">try</span>{<span style="color:#007020;font-weight:bold">var</span> e<span style="color:#666">=</span>r.href;e<span style="color:#666">=</span>e.replace(<span style="color:#4070a0">&#34;*&#34;</span>,<span style="color:#4070a0">&#34;19900101&#34;</span>),r.href<span style="color:#666">=</span>e}<span style="color:#007020;font-weight:bold">catch</span>{}});
 </code></pre></div></li>
-<li>上の文字列を URL に指定したブックマークレットを作成し，そのブックマークレットを開くことで実行できます</li>
+<li>上の文字列を URL に指定したブックマークレットを作成し、そのブックマークレットを開くことで実行できます</li>
 </ul></li>
 
 <li><p>上記のファイル一覧の URL リストをコンソールに出力するだけのブックマークレット</p>
@@ -745,8 +745,8 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
 <ul>
 <li><div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">javascript<span style="color:#666">:</span><span style="color:#007020;font-weight:bold">var</span> str<span style="color:#666">=</span><span style="color:#4070a0">&#34;&#34;</span>;<span style="color:#007020">Array</span>.prototype.forEach.call(<span style="color:#007020">document</span>.querySelectorAll(<span style="color:#4070a0">&#34;#resultsUrl a&#34;</span>),<span style="color:#007020;font-weight:bold">function</span>(r){str<span style="color:#666">+=</span>r.href<span style="color:#666">+</span><span style="color:#4070a0">&#34;\n&#34;</span>}),console.log(str);
 </code></pre></div></li>
-<li>上の文字列を URL に指定したブックマークレットを作成し，そのブックマークレットを開くことで実行できます</li>
-<li>コンソールは Chrome なら<code>Ctrl + Shift + J</code>で開けます．</li>
+<li>上の文字列を URL に指定したブックマークレットを作成し、そのブックマークレットを開くことで実行できます</li>
+<li>コンソールは Chrome なら<code>Ctrl + Shift + J</code>で開けます。</li>
 </ul></li>
 </ul>
 
@@ -777,7 +777,7 @@ ffmpeg <span style="color:#4070a0;font-weight:bold">^
   <div>
     
     
-      <img src="/svg/calendar.svg" alt="Changed" /> 2020-2-8
+      <img src="/svg/calendar.svg" alt="Changed" /> 2021-6-25
     
   </div>
   

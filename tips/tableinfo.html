@@ -18,7 +18,7 @@
 
 
 
-<link rel="stylesheet" href="/book.min.470eb34fba1e168575bd03a3e98a68d6e8e71115e9ab2e8aedd4abed222cab60.css">
+<link rel="stylesheet" href="/book.min.f982393eca3685116e6c87db9f9cfc8ce2e12abca8b2d59a84a5c72cf25c17c6.css">
 
 
 
@@ -458,8 +458,8 @@
 
 <h1 id="lr2-の選曲画面に難易度表の情報を表示する">LR2 の選曲画面に難易度表の情報を表示する</h1>
 
-<p>タグに BMSeeker に登録している難易度表の情報を登録し，選曲画面で表示します．<br />
-検索から出会った曲の難易度を確認できたり，難易度表のコメントから譜面傾向を確認できるなど，多くの譜面を所持している場合に便利です．</p>
+<p>タグに BMSeeker に登録している難易度表の情報を登録し、選曲画面で表示します。<br />
+検索から出会った曲の難易度を確認できたり、難易度表のコメントから譜面傾向を確認できるなど、多くの譜面を所持している場合に便利です。</p>
 
 <p><img src="/others/img/tag.jpg" width="700" ></p>
 
@@ -467,16 +467,16 @@
 
 <ol>
 <li>タグに難易度表の情報を登録する SQL を実行する</li>
-<li>スキンを編集し，タグを表示できるようにする</li>
+<li>スキンを編集し、タグを表示できるようにする</li>
 </ol>
 
 <h2 id="sql-を実行する">SQL を実行する</h2>
 
-<p><code>LR2files\Database\song.db</code>に対して次の SQL を実行します．</p>
+<p><code>LR2files\Database\song.db</code>に対して次の SQL を実行します。</p>
 
-<p>この SQL は，タグに BMSeeker に登録している難易度表の情報を<code>[シンボル][レベル] [コメント]</code>というフォーマットで登録します．</p>
+<p>この SQL は、タグに BMSeeker に登録している難易度表の情報を<code>[シンボル][レベル] [コメント]</code>というフォーマットで登録します。</p>
 
-<p><strong>注意: 既存のタグ情報はすべて削除されます．個人的にタグを使用している方や, GLA を使用している方は実行しないでください．</strong></p>
+<p><strong>注意: 既存のタグ情報はすべて削除されます。個人的にタグを使用している方や, GLA を使用している方は実行しないでください。</strong></p>
 
 <div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#007020;font-weight:bold">update</span> song <span style="color:#007020;font-weight:bold">set</span> tag <span style="color:#666">=</span> (
   <span style="color:#007020;font-weight:bold">select</span> group_concat(symbol<span style="color:#666">||</span><span style="color:#007020;font-weight:bold">replace</span>(folder,compat_prefix,<span style="color:#4070a0">&#34;&#34;</span>)<span style="color:#666">||</span><span style="color:#4070a0">&#34; &#34;</span><span style="color:#666">||</span>ifnull(<span style="color:#007020;font-weight:bold">comment</span>, <span style="color:#4070a0">&#34;&#34;</span>), <span style="color:#4070a0">&#34;, &#34;</span>)
@@ -487,7 +487,7 @@
     <span style="color:#007020;font-weight:bold">and</span> playlist_entry.md5 <span style="color:#007020;font-weight:bold">is</span> <span style="color:#007020;font-weight:bold">not</span> <span style="color:#007020;font-weight:bold">null</span>
 )</code></pre></div>
 
-<p>SQL を実行するには以下のようなツールが利用できます．</p>
+<p>SQL を実行するには以下のようなツールが利用できます。</p>
 
 <ul>
 <li><a href="https://sqlite.org/download.html">SQLite Download Page</a> - コマンドラインツール</li>
@@ -495,12 +495,12 @@
 <li><a href="https://sqliteonline.com/">SQLite Online</a> - web 上で実行可能</li>
 </ul>
 
-<p>以下に <a href="https://sqliteonline.com/">SQLite Online</a> または <a href="https://sqlite.org/download.html">コマンドラインツール</a> を使用して SQL を実行する流れを示します．</p>
+<p>以下に <a href="https://sqliteonline.com/">SQLite Online</a> または <a href="https://sqlite.org/download.html">コマンドラインツール</a> を使用して SQL を実行する流れを示します。</p>
 
 <h3 id="sqlite-online-を使用して-sql-を実行する流れ">SQLite Online を使用して SQL を実行する流れ</h3>
 
-<p>Web 上で簡単に実行できます．<br />
-ただし，難易度表が更新されるたびに SQL を実行する必要があるので頻繁に更新される難易度表を登録している場合などはコマンドラインツールを使用したほうが楽かもしれません．</p>
+<p>Web 上で簡単に実行できます。<br />
+ただし、難易度表が更新されるたびに SQL を実行する必要があるので頻繁に更新される難易度表を登録している場合などはコマンドラインツールを使用したほうが楽かもしれません。</p>
 
 <ol>
 <li><a href="https://sqliteonline.com/">SQLite Online</a> を開く</li>
@@ -536,13 +536,13 @@
 </ul></li>
 </ol>
 
-<p>上記のコマンドを実行してから LR2 を起動するバッチファイルなどを作っておくと更新が楽です．</p>
+<p>上記のコマンドを実行してから LR2 を起動するバッチファイルなどを作っておくと更新が楽です。</p>
 
 <h2 id="スキンを編集する">スキンを編集する</h2>
 
-<p>使用している選曲スキンの csv ファイルを開き，タグを表示する定義を追記します．</p>
+<p>使用している選曲スキンの csv ファイルを開き、タグを表示する定義を追記します。</p>
 
-<p>タグを表示する定義は以下のようになります．</p>
+<p>タグを表示する定義は以下のようになります。</p>
 
 <ul>
 <li><code>#SRC_TEXT</code>
@@ -563,13 +563,13 @@
 //DST定義	(NULL)	time	x	y	w	size	acc	a	r	g	b	blend	filter	(NULL)	(NULL)	loop	timer	op1	op2	op3
 #DST_TEXT	0	0	0	0	0	0	0	255	255	255	255	0	1	0	0	0	11	2	0	0</code></pre></div>
 
-<p>次の場所を任意の値に変更してください．</p>
+<p>次の場所を任意の値に変更してください。</p>
 
 <ul>
 <li><code>#SRC_TEXT</code>
 
 <ul>
-<li><code>font</code> - フォント．スキン内に登録されている任意のフォント番号を選択</li>
+<li><code>font</code> - フォント。スキン内に登録されている任意のフォント番号を選択</li>
 <li><code>align</code> - 文字の表示位置
 
 <ul>
@@ -608,7 +608,7 @@
   <div>
     
     
-      <img src="/svg/calendar.svg" alt="Changed" /> 2020-1-29
+      <img src="/svg/calendar.svg" alt="Changed" /> 2021-6-25
     
   </div>
   
