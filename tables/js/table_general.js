@@ -36,6 +36,10 @@ function createTable() {
     },
 
     initComplete: function() {
+      if (typeof loadTableDataHandler !== "undefined") {
+        loadTableDataHandler();
+      }
+
       var colLevel = this.api().column(0);
 
       var select = $(
