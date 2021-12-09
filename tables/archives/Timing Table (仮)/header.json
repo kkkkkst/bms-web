@@ -1,0 +1,24 @@
+{
+  "name": "Timing Table (仮)",
+  "symbol": "点",
+  "level_order": [
+    "下0",
+    "下1",
+    "下2",
+    "下3",
+    "下4",
+    "中0",
+    "中1",
+    "中2",
+    "中3",
+    "中4",
+    "上0",
+    "上1",
+    "上2",
+    "上3",
+    "上4",
+    "鬼"
+  ],
+  "data_url": "data.json",
+  "original_url": "https://tilde.town/~marie/bms/tables/timing/"
+}

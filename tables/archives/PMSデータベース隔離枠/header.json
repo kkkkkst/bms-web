@@ -1,0 +1,18 @@
+{
+  "name": "PMSデータベース隔離枠",
+  "symbol": "P†",
+  "data_url": "data.json",
+  "level_order": [
+    "調査中",
+    "入手困難",
+    "キー音無し",
+    "18keys(DPPMS)",
+    "大人の事情",
+    "取り下げ",
+    "修正あり",
+    "マイナーチェンジ",
+    "その他",
+    "その他B"
+  ],
+  "original_url": "https://pmsdifficulty.xxxxxxxx.jp/excluded_PMSdifficulty.html"
+}

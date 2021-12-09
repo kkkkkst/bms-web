@@ -1,0 +1,31 @@
+{
+  "name": "Singularity難易度表",
+  "symbol": "Ф",
+  "data_url": "data.json",
+  "level_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "course": [
+    [
+      {
+        "name": "工事中",
+        "constraint": [
+          "grade_mirror"
+        ],
+        "md5": [
+          "3b8dc35b550dcd07876688d9cb0571f0",
+          "9dfd98f837d44e1859baccad80ed28ef",
+          "101441ff9fe40dfa873a8e2d958678b6",
+          "e01344b7d64159e7aa28b29d32ea6351"
+        ]
+      }
+    ]
+  ],
+  "original_url": "https://snote.web.fc2.com/tokuiten.html"
+}

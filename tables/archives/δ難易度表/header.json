@@ -1,0 +1,510 @@
+{
+  "name": "δ難易度表",
+  "data_url": "data.json",
+  "symbol": "δ",
+  "tag": "δ",
+  "level_order": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "97",
+    "98",
+    "99"
+  ],
+  "course": [
+    [
+      {
+        "name": "GENOSIDE 2018 DP段位認定 初段",
+        "constraint": [
+          "grade_random",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "f.alive",
+            "subtitle": "-DP BEGINNER-",
+            "artist": "Is-m BGA:psyche rhodes",
+            "sha256": "e6c65d09e9e2caf078efd7a1471886a1c916350dde05606a82e00448e988a09d"
+          },
+          {
+            "title": "◇スト[DP_BEGINNER]",
+            "artist": "LeaF × kana Movie:To7 obj:SANY",
+            "sha256": "0cdfa25b2bf7fd64356d6b70de3b52f060bb90b1300e351b06f6400540627f3b"
+          },
+          {
+            "title": "Love's Remainder",
+            "subtitle": "[DP NORMAL]",
+            "artist": "sound piercer obj.saki miyako",
+            "sha256": "a59b1c6f18eae2b84ac0500f28286b215d2426cf0faf2f8a5edcebf85f012dc8"
+          },
+          {
+            "title": "Grimheart",
+            "subtitle": "[M-BEGINNER]",
+            "artist": "Puru obj:mitsuki",
+            "sha256": "e689990723ff642434a27acbee3858534f9bc3fef34243581c54b29aa2a6d1c1"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 二段",
+        "constraint": [
+          "grade_random",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "Counterevidence",
+            "artist": "q/stol",
+            "sha256": "ca10c790276baa3a6d6b0a27b891f795f9ae9e6fa28427f828d1df31fc5b5c69"
+          },
+          {
+            "title": "MilK",
+            "artist": "モリモリあつし obj:SANY",
+            "sha256": "122fa9f20ecf1bfc7b1cbf53ade0cf2cf9aaa142b77f5ac24af387fff7286251"
+          },
+          {
+            "title": "Fortuna",
+            "subtitle": "[DP NORMAL]",
+            "artist": "Kanon / BGI:Alma obj:mitsuki",
+            "sha256": "1163ef41a82c8c4e0db3caf6412252c2420a13af0e67fdf7bcc1abe6ec2603de"
+          },
+          {
+            "title": "Alice in Misanthrope -厭世アリス-",
+            "subtitle": "[DP NORMAL]",
+            "artist": "LeaF Movie:想起 / Illust:セシル◇タイト / [obj:mymt]",
+            "sha256": "453577ee8d3f0f6c94162c75f6e087d6062280ec20049d572b2839078b04e34c"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 三段",
+        "constraint": [
+          "grade_random",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "THIS TIME; LAST TIME",
+            "subtitle": "[14KEYS EASY]",
+            "artist": "早明浦キュウゾウ BMSSP",
+            "sha256": "a3176edc061decc3bc9fde0c2862c1d4b7ff32af6d086bd7a8906f18b7da924a"
+          },
+          {
+            "title": "reflective moment",
+            "subtitle": "-DP NORMAL-",
+            "artist": "Is-m BGA:140/fth",
+            "sha256": "74b502274763347ed9cb2e2181657d666d9b8f0f3f6a2036988e94fd9991acb1"
+          },
+          {
+            "title": "Keep Laughin'",
+            "artist": "LU",
+            "sha256": "73ded944b08407b65837c0da0ec7665149108a270dc4263a654f0eaaf9b256d8"
+          },
+          {
+            "title": "7 colors*",
+            "subtitle": "[DP NORMAL]",
+            "artist": "Ym1024 feat. lamie* / Obj:ゆ～兎",
+            "sha256": "9dc1dfbecb65234775ec68209ebe69c604ec60d1962f41d99b7cca7654500569"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 四段",
+        "constraint": [
+          "grade_random",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "恋愛シンドローム[Normal]",
+            "artist": "佐久間まゆ / 星輝子 / obj:zairu",
+            "sha256": "24d010e77cebc4dcb1cb1b8ae91214ce51856e4e88a3f0d1799e6dc23c7939cd"
+          },
+          {
+            "title": "Unexpected Encounter-DPN-",
+            "artist": "Blue-J vs. Ruby.G(obj:ka2o)",
+            "sha256": "e9dec09c8b9955cdc14de6f678cb6ee212001ec99b8df9618c47129343c91a72"
+          },
+          {
+            "title": "soda ocean",
+            "artist": "maki",
+            "sha256": "d72170563cb70d2b6258e709a618f995baa541acad6fef1ba4c744c1814aae32"
+          },
+          {
+            "title": "Precious!!![14key,Normal]",
+            "artist": "mommy",
+            "sha256": "8702d32522c5a1c4c86084c92864cd1946aef308102ad9989c962b50c79fcd5a"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 五段",
+        "constraint": [
+          "grade_random",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "CYCLONE",
+            "artist": "MINT BGA : Can.D-mtmrw",
+            "sha256": "75397d7b13ce445901c319574b6e1d68ee9a498da86f62f045d4e7f449e864f1"
+          },
+          {
+            "title": "Fengli Su",
+            "subtitle": "(14keys Hard)",
+            "artist": "Yie Ar Kung-Fu / obj:imit8or",
+            "sha256": "4694f2246a4828826a069797f017841fc75c0aac4c2c5ea04513f13b59b6e799"
+          },
+          {
+            "title": "RENDEZVOUS",
+            "artist": "roop loves tigerlily",
+            "sha256": "0f9ca46a040f64ca03962af280983fe24196a7070dcacb73a07df37063dff974"
+          },
+          {
+            "title": "Chronomia",
+            "subtitle": "[DP NORMAL]",
+            "artist": "Lime / inukoro BMSSP",
+            "sha256": "bf3a9a823382ae1aab07f6b1ea91be0a8eb1e324cb5b7e98aa8a876d6d736a64"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 六段",
+        "constraint": [
+          "grade_random",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "Larix (BMS Edit)",
+            "subtitle": "[DP HYPER]",
+            "artist": "L.K. / obj : zairu",
+            "sha256": "22b92a8f28dc11507922c873ddfc448541456cbd0993cb821d7a54bc62b5bcda"
+          },
+          {
+            "title": "B.B.K.K.B.K.K.",
+            "subtitle": "[DP HYPER]",
+            "artist": "nora2r / 出前 / Obj:ゆ～兎",
+            "sha256": "25f39eaa1446dc8cfa1bad701d9d61f1374fb812172114b85d1fd2358cbb8a80"
+          },
+          {
+            "title": "Dstorv",
+            "artist": "Feryquitous movie:Sight / pattern:Cymby",
+            "sha256": "b864a7d7c41ffe0089c02be5e2d42f09d8f301983b4d7ebffc67824f6af29a00"
+          },
+          {
+            "title": "愛と煩悩と輪廻と常識の極彩世界",
+            "subtitle": "[DP NORMAL]",
+            "artist": "sound piercer feat.Ritsu mov : kkkfff2 & G-2000 / obj by Symphonian",
+            "sha256": "5cc87bd977204cabd24496c6dad5d5501b5d4db54f47473eb85ec45635199922"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 七段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "Suffering of screw",
+            "subtitle": "[DP Hyper]",
+            "artist": "Sakamiya feat.遊左 未 img:moyura notes:OSR",
+            "sha256": "bd3449545738e668659a785aa7115fbae5c78a37c3fcac89e22f3a8c9dd6edc6"
+          },
+          {
+            "title": "Twinkle[14key,Hyper]",
+            "artist": "mommy",
+            "sha256": "8b244c50b0f401a18aa8d955f5669e6976e95606d130483becb0395c23a3a4fe"
+          },
+          {
+            "title": "花鳥風月",
+            "artist": "Phorni obj j.pami",
+            "sha256": "fa3c6ef0e0f97f946075ccf5295db45213418d076bf09ef40894c36b3223253a"
+          },
+          {
+            "title": "先手必勝戦闘機　鳳",
+            "subtitle": "[DP HYPER]",
+            "artist": "Dr.A (BGA:八嶋) / obj:夢瑠",
+            "sha256": "0d1e0dfddb026e0b7c41d963cc0fe249d30bc8782612ec1187819ff2ea988472"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 八段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "PLASTIC GIRLS (ft. Seorryang)",
+            "subtitle": "[DP_HYPER]",
+            "artist": "wigen / obj:二代目IIDX16",
+            "sha256": "34491540a0c12ab7f1706fa6d3c86d9d38b3a4ef201efa3cefc5f62c228c6a3e"
+          },
+          {
+            "title": "Immigrants From Fantasy",
+            "subtitle": "[DP HYPER]",
+            "artist": "q/stol (obj:k)",
+            "sha256": "7c0efbb8f6a2406a430586ca3f9d1547faf632db23d9bb017406d3b741c758ba"
+          },
+          {
+            "title": "Poison AND÷OR Affection[DPH]",
+            "artist": "LeaF obj:sr Movie:Optie",
+            "sha256": "dbf18ea3041676e74742df0577df778c079533dbd86ce1158fbb21bf5faee008"
+          },
+          {
+            "title": "EOS",
+            "subtitle": "[H14]",
+            "artist": "ginkiha obj:ucc",
+            "sha256": "6b5b0db350082b890918d1011ff3372050d7405b441e4f83cdfe87cb1d31c9d5"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 九段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "Modern Times",
+            "artist": "Yosk!",
+            "sha256": "99cf6211a16fdcf7f8d745a1969d717f8b508384541d183e24db7bde57fa638d"
+          },
+          {
+            "title": "Heilenwelt[DP HYPER]",
+            "artist": "MALVA.",
+            "sha256": "5045368acc0c91d3d7ee1c9a03ed2f7d7f3849e49c6a6e628d858f94629c6afc"
+          },
+          {
+            "title": "空想都市トーキョー",
+            "subtitle": "[DPH]",
+            "artist": "BMS:Nego_tiator/Movie:Fiz obj:肴",
+            "sha256": "d644e34a05b3b3feab949e8bc483725c301cabf58185d6cfcdf43e2fc716a52f"
+          },
+          {
+            "title": "Catharsis again[DP HYPER]",
+            "artist": "DEMK/obj:Gatia",
+            "sha256": "c98d444edfa634a183d8b98756707b966d38000c3b05fc3f3922d89c429bc94f"
+          }
+        ]
+      },
+      {
+        "name": "GENOSIDE 2018 DP段位認定 十段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "Funny Funky Freaky",
+            "subtitle": "[14key,Another]",
+            "artist": "mommy",
+            "sha256": "7a40f48c9845e256eb1a112e280c178bf9fbe05f4f4558850547a670eb1f3d62"
+          },
+          {
+            "title": "Scorpion Dance",
+            "subtitle": "[DP Another]",
+            "artist": "litmus* mov : litmus & L.Ferdinant / obj. Z_N",
+            "sha256": "cf9fc72b58e602da672a730efe47882b8043e7fde65ae3568d44648f55966afe"
+          },
+          {
+            "title": "Noblesse Gloria",
+            "subtitle": "[DPA]",
+            "artist": "ダージリン Pattern:金碧ツインテ",
+            "sha256": "60e003dd1408778060f0c63c7a4c16ed229dc9b4e0ade3bbcedd6b81f92dc1ab"
+          },
+          {
+            "title": "Απομνημονευμαι",
+            "subtitle": "[DP HYPER]",
+            "artist": "Εσοπτρον / Obj:ゆ～兎",
+            "sha256": "cae895cb315c898bc471756821a94a85b418e5af50c7ea7eb07d836e0824e61c"
+          }
+        ]
+      }
+    ]
+  ],
+  "original_url": "http://dpbmsdelta.web.fc2.com/table/dpdelta.html"
+}

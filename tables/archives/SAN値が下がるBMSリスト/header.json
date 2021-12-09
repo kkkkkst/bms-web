@@ -1,0 +1,15 @@
+{
+  "name": "SAN値が下がるBMSリスト",
+  "symbol": "",
+  "data_url": "data.json",
+  "level_order": [
+    "1D2",
+    "1D3",
+    "1D4",
+    "1D6",
+    "1D10",
+    "2D10",
+    "1D100"
+  ],
+  "original_url": "https://9domu.web.fc2.com/sanity.html"
+}

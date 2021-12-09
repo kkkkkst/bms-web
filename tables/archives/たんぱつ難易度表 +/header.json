@@ -1,0 +1,118 @@
+{
+  "grade": [
+    {
+      "md5": [
+        "0bc9db3b9775b4c004e127daf335ce35",
+        "273b4925b4e11eccf4dc2c84db0e77e2",
+        "ae24eaa230ebe7f61ad7bed27b84b864",
+        "e88da86489d058592482abd327bc1b14"
+      ],
+      "name": "（ ・へ・）かんたん",
+      "style": "-fx-text-fill:lightgreen",
+      "trophy": [
+        {
+          "missrate": 1,
+          "name": "ブロンズ",
+          "scorerate": 80
+        },
+        {
+          "missrate": 0.75,
+          "name": "シルバー",
+          "scorerate": 85
+        },
+        {
+          "missrate": 0.5,
+          "name": "ゴールド",
+          "scorerate": 90
+        },
+        {
+          "missrate": 0.25,
+          "name": "プラチナ",
+          "scorerate": 95
+        }
+      ]
+    },
+    {
+      "md5": [
+        "5ae379249f2c37132a7382beaf5757bc",
+        "1fb04c1cdb098685bd43466604dc77aa",
+        "3c62e560cbbd35001ea5e4372e87bcc2",
+        "1155bca5f6e87b5ae8e0b2d9dad6d57b"
+      ],
+      "name": "（ ・へ・）ふつう",
+      "style": "-fx-text-fill:cyan",
+      "trophy": [
+        {
+          "missrate": 1,
+          "name": "ブロンズ",
+          "scorerate": 80
+        },
+        {
+          "missrate": 0.75,
+          "name": "シルバー",
+          "scorerate": 85
+        },
+        {
+          "missrate": 0.5,
+          "name": "ゴールド",
+          "scorerate": 90
+        },
+        {
+          "missrate": 0.25,
+          "name": "プラチナ",
+          "scorerate": 95
+        }
+      ]
+    },
+    {
+      "md5": [
+        "f18a046034df0b3319831aa7c994109e",
+        "4a06a3f2cc39ed4dd22eff2005579b3a",
+        "e46f22f8fa8616fe864d98bbfe02ac0c",
+        "12651a778682cb20db9af15d28580e0c"
+      ],
+      "name": "（ ・へ・）むずかしい",
+      "style": "-fx-text-fill:red",
+      "trophy": [
+        {
+          "missrate": 1,
+          "name": "ブロンズ",
+          "scorerate": 80
+        },
+        {
+          "missrate": 0.75,
+          "name": "シルバー",
+          "scorerate": 85
+        },
+        {
+          "missrate": 0.5,
+          "name": "ゴールド",
+          "scorerate": 90
+        },
+        {
+          "missrate": 0.25,
+          "name": "プラチナ",
+          "scorerate": 95
+        }
+      ]
+    }
+  ],
+  "data_url": "data.json",
+  "level_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    "ザコ"
+  ],
+  "name": "たんぱつ難易度表 +",
+  "symbol": "P（  ・へ・）",
+  "original_url": "https://pmsdifficulty.xxxxxxxx.jp/tanpatsu.html"
+}

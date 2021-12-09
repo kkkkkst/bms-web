@@ -1,7 +1,21 @@
 {
   "name": "BOFXV差分二次会(仮)難易度表",
   "symbol": "XV差分 ",
-  "compat_prefix": "XV差分 ",
+  "level_order": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "data_url": "data.json",
-  "original_url": "https://bms-chart-editors-group.github.io/event/bofxv/"
+  "original_url": "https://darksabun.github.io/bceg/event/bofxv/"
 }

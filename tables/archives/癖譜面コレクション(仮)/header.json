@@ -1,6 +1,5 @@
 {
   "name": "癖譜面コレクション(仮)",
-  "data_url": "data.json",
   "symbol": "!? ",
   "level_order": [
     "0",
@@ -40,5 +39,7 @@
     "54",
     "55"
   ],
-  "original_url": "https://bms.hexlataia.xyz/tables/mirror/%E7%99%96%E8%AD%9C%E9%9D%A2%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3(%E4%BB%AE)/table.html"
+  "data_url": "data.json",
+  "original_url": "https://darksabun.github.io/table/archive/kuse/",
+  "last_update": "2021.01.06"
 }
