@@ -1,0 +1,17 @@
+{
+  "name": "Samalite難易度表",
+  "symbol": "夏",
+  "data_url": "data.json",
+  "level_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    "常夏",
+    "DP"
+  ],
+  "original_url": "http://samalite.fuma-kotaro.com/table.html"
+}

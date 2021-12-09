@@ -1,0 +1,59 @@
+{
+  "course": [
+    [
+      {
+        "name": "えりんぎ二段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "4f65b2135d988efe157e73bdeb466833",
+          "4c44158a15bea237afa1463202afe9b6",
+          "e389ba300fd14c109d82e1890230ff34",
+          "56005c1f77df9f2deb130c82c7c150e5"
+        ]
+      }
+    ]
+  ],
+  "name": "ERiNGI難易度表",
+  "symbol": "ERi-",
+  "data_url": "data.json",
+  "level_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    "神アイドル",
+    "NGI",
+    "クソ",
+    "アレ"
+  ],
+  "original_url": "http://rise-eringi.sakura.ne.jp/ERiNGI.html"
+}

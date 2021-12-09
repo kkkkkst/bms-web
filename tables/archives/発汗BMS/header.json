@@ -1,0 +1,32 @@
+{
+  "name": "発汗BMS",
+  "data_url": "data.json",
+  "original_url": "http://bms.hexlataia.xyz/tables/convert/%E7%99%BA%E6%B1%97BMS/table.html",
+  "symbol": "汗",
+  "level_order": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "9",
+    "10",
+    "11",
+    "12",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "??",
+    "◆",
+    "隔離"
+  ],
+  "update": "2019/07/01"
+}

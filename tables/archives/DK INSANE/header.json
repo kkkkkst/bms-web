@@ -1,0 +1,22 @@
+{
+  "name": "DK INSANE",
+  "symbol": "DK ",
+  "level_order": [
+    "0-",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "data_url": "data.json",
+  "compat_prefix": "DK ",
+  "last_update": "2021-11-08",
+  "original_url": "https://frozensat.github.io/table.html"
+}

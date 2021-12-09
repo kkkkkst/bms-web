@@ -1,0 +1,198 @@
+{
+  "name": "27,934B-JOY",
+  "symbol": "B",
+  "level_order": [
+    "-7",
+    "-6",
+    "-5",
+    "-4",
+    "-3",
+    "-2",
+    "-1",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4-",
+    "4",
+    "4+",
+    "5-",
+    "5",
+    "5+",
+    "6",
+    "7",
+    "DP0",
+    "DP1",
+    "DP2",
+    "DP3"
+  ],
+  "enum_level_order": [
+    "B-7",
+    "B-6",
+    "B-5",
+    "B-4",
+    "B-3",
+    "B-2",
+    "B-1",
+    "B0",
+    "B1",
+    "B2",
+    "B3",
+    "B4-",
+    "B4",
+    "B4+",
+    "B5-",
+    "B5",
+    "B5+",
+    "B6",
+    "B7",
+    "BDP0",
+    "BDP1",
+    "BDP2",
+    "BDP3"
+  ],
+  "data_url": "data.json",
+  "changelog_url": "change.txt",
+  "last_update": "2021.08.12",
+  "compat_prefix": "B",
+  "course": [
+    [
+      {
+        "name": "DARKSABUN 27934級",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "d230bd356b8efd6a1a0634b85676a07f",
+          "a804169262eecfc493084a3f9ed0ebd5",
+          "61ccdf720a96c1b95903ae106722c83a",
+          "9506c5a26a97c821c03557cebc0386ae",
+          "18c4c3a3b04bc2a708a349ebfe57b610"
+        ]
+      },
+      {
+        "name": "DARKSABUN 初級",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "d7e54c66b900768658480e82c3653067",
+          "e76240edcc7556ae200ec1f5408843f7",
+          "50def50a05c8bbb3eb41129686e55b1b",
+          "8953584cfc8e4113dde1bdccb1205584",
+          "391cc61ae7a1a44e744e66c1e8daac81"
+        ]
+      },
+      {
+        "name": "DARKSABUN 初段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "e447c42cf0743cea3f290519a1dc91ba",
+          "979e65d64ade3d5f3db65f4613c1d63a",
+          "2b1a9b404a0e604641f1128bd1b97e50",
+          "fe8facaf1acacffe17de83c8a921b787",
+          "8b1234054b7e5acfcc939c8810217ced"
+        ]
+      },
+      {
+        "name": "DARKSABUN 皆伝",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "2ac6a378181db2e2966a51b8a5ef4aac",
+          "883a921d0e1b87fc523de4a5c617c013",
+          "81ee67e3ea3139aca41a55d2192616a1",
+          "2b4dbc80209cdf3fe2443b811dd30873",
+          "a5cb48fb933f086d3eff979e192f9582"
+        ]
+      },
+      {
+        "name": "DARKSABUN 27934段",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "0accf0a451eda7adf2b6ac8242b4830d",
+          "cbc9a270b836804d61294eb7519d3d90",
+          "bf856b44f402fe5aeb1e92897e95485b",
+          "f7380f420783ca1cd36894190a033cac",
+          "d1ffc70f47c70cf24023ac32c943dcbc"
+        ]
+      }
+    ]
+  ],
+  "original_url": "https://darksabun.github.io/table/"
+}
