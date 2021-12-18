@@ -862,19 +862,6 @@
     "votePercent": 0
   },
   {
-    "md5": "7a780449282194d9d390fc9305dfc5c5",
-    "sha256": "bc73ee88558c1db5d39f3d4f022d0faa35e308d77af45db68e7db522798c479f",
-    "title": "Destr0yer [ANOTHER]",
-    "artist": "削除 feat. Nikki Simmons Movie:Radiosity&yoshimo",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
-    "level": "0",
-    "comment": "",
-    "proposer": "canary",
-    "submission": 2276,
-    "proposerMinirid": "a9b53b7a-2c28-4928-9964-b126c2974e48"
-  },
-  {
     "md5": "4b24f76a59fd2f89838e1ecb985a662c",
     "sha256": "caf83e15b54718ff95cfeba89012e0c873fc2cb9256fa6896a357d3e64a5a6b1",
     "title": "devote [sp another]",
@@ -4695,6 +4682,19 @@
     "votePercent": 0
   },
   {
+    "md5": "7a780449282194d9d390fc9305dfc5c5",
+    "sha256": "bc73ee88558c1db5d39f3d4f022d0faa35e308d77af45db68e7db522798c479f",
+    "title": "Destr0yer [ANOTHER]",
+    "artist": "削除 feat. Nikki Simmons Movie:Radiosity&yoshimo",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+    "level": "1",
+    "comment": "",
+    "proposer": "canary",
+    "submission": 2276,
+    "proposerMinirid": "a9b53b7a-2c28-4928-9964-b126c2974e48"
+  },
+  {
     "level": "1",
     "comment": "☆11強？皿複合 高速乱打",
     "md5": "e50d342e7ba934b97080a5b070cca22b",
@@ -7839,7 +7839,7 @@
     "artist": "Est / obj:緒方智絵里",
     "url_diff": "http://akred.web.fc2.com/baecon/072_clover_7heart.bme",
     "url": "http://estish.nobody.jp/index1.html",
-    "level": "2",
+    "level": "3",
     "comment": "シンプルな物量",
     "zureCount": 0,
     "proposer": "10c*",
@@ -12236,6 +12236,18 @@
     "votePercent": 0
   },
   {
+    "level": "3",
+    "md5": "7cec43dd444f082b2ad30c94e85b6073",
+    "sha256": "80d07224dccb19933a8176e4205553c23a92a31f4d745988e620cfe41ba91514",
+    "title": "RAY -diffuse-",
+    "artist": "MILK / obj:京都306",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00381",
+    "url": "https://onedrive.live.com/?id=BEA3EA5126192983!113&cid=BEA3EA5126192983",
+    "proposer": "AXION",
+    "submission": 948,
+    "proposerLr2id": 37523
+  },
+  {
     "md5": "3b5915001d3dac6b7a4ff942f3f6ea38",
     "sha256": "824d1a3c8057c5bbf5df90ad962a306cd19408198b0d1fd929ec5e7f46e7ed2c",
     "title": "ray of hope [RED]",
@@ -15415,18 +15427,6 @@
     "proposerLr2id": 141043
   },
   {
-    "level": "4",
-    "md5": "7cec43dd444f082b2ad30c94e85b6073",
-    "sha256": "80d07224dccb19933a8176e4205553c23a92a31f4d745988e620cfe41ba91514",
-    "title": "RAY -diffuse-",
-    "artist": "MILK / obj:京都306",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00381",
-    "url": "https://onedrive.live.com/?id=BEA3EA5126192983!113&cid=BEA3EA5126192983",
-    "proposer": "AXION",
-    "submission": 948,
-    "proposerLr2id": 37523
-  },
-  {
     "md5": "de06eb6de297d1a53cf93431956baa83",
     "sha256": "96128f672cbde1897ffd8d299f2caec2be6982df42993cf3ac9607b83f30b06d",
     "title": "Reason of being [ZOI]",
@@ -16503,19 +16503,6 @@
     "proposer": "selene.",
     "submission": 1040,
     "proposerLr2id": 84521
-  },
-  {
-    "md5": "83855e7be644eef3af16b58a704fc77b",
-    "sha256": "ec729fb68597915190bcea69812f726c3838592bd19b7630d191151a2de53495",
-    "title": "Alastor [Nigh]",
-    "artist": "鳩 Obj.Triforce",
-    "url_diff": "https://trfce.github.io/sabun/(107)Alastor_Triforce.zip",
-    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-    "level": "5",
-    "comment": "体力系、難易度自体は★4~5級ですが疲れやすいのでsl4に",
-    "proposer": "MarySue",
-    "submission": 1324,
-    "proposerLr2id": 147889
   },
   {
     "md5": "1e4cf6ab1e453a9cc009753b3b69e341",
@@ -18860,6 +18847,19 @@
     "votePercent": 0
   },
   {
+    "md5": "83855e7be644eef3af16b58a704fc77b",
+    "sha256": "ec729fb68597915190bcea69812f726c3838592bd19b7630d191151a2de53495",
+    "title": "Alastor [Nigh]",
+    "artist": "鳩 Obj.Triforce",
+    "url_diff": "https://trfce.github.io/sabun/(107)Alastor_Triforce.zip",
+    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "level": "6",
+    "comment": "体力系、難易度自体は★4~5級ですが疲れやすいのでsl4に",
+    "proposer": "MarySue",
+    "submission": 1324,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "666f8b142728e934bb096a8028241591",
     "sha256": "99dfcee81f04e807e6d658f2583e27b280c786ff35db3582291a723424bbb6ed",
     "title": "Animatronics [Freddy]",
@@ -21182,6 +21182,19 @@
     "votePercent": 0
   },
   {
+    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
+    "sha256": "0b2319e1ade45661acc30f7b2d4f6561fe2d0175d3358be311130c3b776e3ae4",
+    "title": "Fireball -Hopeless-",
+    "artist": "tarolabo obj:七海",
+    "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
+    "level": "7",
+    "comment": "追加音がありまして ズレチェックは不可(あっぷろーだご参照)",
+    "proposer": "nozomi",
+    "submission": 2269,
+    "proposerLr2id": 115265
+  },
+  {
     "md5": "84611c0fdf98ee95d53ca8df510a5ce1",
     "sha256": "b1ffc2f5df4f0130ea7a2f13220c28205d2ea721dc434c9b1ae3726ae9c85860",
     "title": "Flame War [Maryther_fixed]",
@@ -22916,19 +22929,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
-    "sha256": "0b2319e1ade45661acc30f7b2d4f6561fe2d0175d3358be311130c3b776e3ae4",
-    "title": "Fireball -Hopeless-",
-    "artist": "tarolabo obj:七海",
-    "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
-    "level": "8",
-    "comment": "追加音がありまして ズレチェックは不可(あっぷろーだご参照)",
-    "proposer": "nozomi",
-    "submission": 2269,
-    "proposerLr2id": 115265
   },
   {
     "md5": "1d7d077fcc57b9a0983159e7c4ee8589",
@@ -25180,6 +25180,20 @@
     "proposerLr2id": 115381
   },
   {
+    "md5": "9afa9d358bc39357ad8c53450e545747",
+    "sha256": "b0add9d5bfc445a84e242adb9932c643db283ea3d1258f07c5051b15dfa69869",
+    "title": "Start over agaIn [memories]",
+    "artist": "Sakamiya feat.一花 img:ttv / obj.ぶんぺ～",
+    "url_diff": "https://stellabms.xyz/upload/810",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=133",
+    "level": "9",
+    "comment": "中速乱打",
+    "zureCount": 0,
+    "proposer": "ねおんし",
+    "submission": 2261,
+    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
+  },
+  {
     "md5": "8c4134058e20ada508642f24f96298ed",
     "sha256": "2a8b193c98d3c35ef1cc49f4dfbd489d7c3fdff9c6dda01591a487b8a16b7954",
     "title": "Subterranean Blastoff -Stellar Overhaul-",
@@ -26726,20 +26740,6 @@
     "proposer": "파이어",
     "submission": 1003,
     "proposerLr2id": 7290
-  },
-  {
-    "md5": "9afa9d358bc39357ad8c53450e545747",
-    "sha256": "b0add9d5bfc445a84e242adb9932c643db283ea3d1258f07c5051b15dfa69869",
-    "title": "Start over agaIn [memories]",
-    "artist": "Sakamiya feat.一花 img:ttv / obj.ぶんぺ～",
-    "url_diff": "https://stellabms.xyz/upload/810",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=133",
-    "level": "10",
-    "comment": "中速乱打",
-    "zureCount": 0,
-    "proposer": "ねおんし",
-    "submission": 2261,
-    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
   },
   {
     "md5": "1f1ada3e57c4ffeb74be2bbd9b01039c",

@@ -56,7 +56,7 @@
     "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
     "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
     "md5": "5701a1cb14007b1b0adb79e7df9af30c",
-    "comment": "488?",
+    "comment": "sl7/488?",
     "打鍵速度": "488?"
   },
   {
@@ -67,7 +67,7 @@
     "url_diff": "http://absolute.pv.land.to/uploader/src/up2356.zip",
     "md5": "c7cc6b8fd9cae57cbf4140b413e986c7",
     "comment": "▼10/255",
-    "打鍵速度": ""
+    "打鍵速度": "255"
   },
   {
     "level": " DELAY BEGINNER",
@@ -541,16 +541,6 @@
   },
   {
     "level": "-1",
-    "title": "Ereshkigal (DELAY)",
-    "artist": "ABE3",
-    "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up4055.zip",
-    "md5": "b2bbd59ad08e3d062e6fc80d8245d6b9",
-    "comment": "344",
-    "打鍵速度": "344"
-  },
-  {
-    "level": "-1",
     "title": "ETERNAL DRAIN(ETERNAL DELAY",
     "artist": "カラフル・サウンズ・ポート / 差分　赤い人",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
@@ -931,6 +921,16 @@
   },
   {
     "level": "0",
+    "title": "SERIOUS ERROR [#DIV/0!]",
+    "artist": "Laur obj:mute",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00390",
+    "md5": "7eedbaf6cd676513de0b0d3575da3fac",
+    "comment": "st0/240",
+    "打鍵速度": "240"
+  },
+  {
+    "level": "0",
     "title": "Sunset Toybox [U・x・U]",
     "artist": "テヅカ x Aoi feat.桃雛なの obj:ぶんぺ～",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133",
@@ -1231,6 +1231,16 @@
   },
   {
     "level": "1",
+    "title": "Ereshkigal (DELAY)",
+    "artist": "ABE3",
+    "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up4055.zip",
+    "md5": "b2bbd59ad08e3d062e6fc80d8245d6b9",
+    "comment": "344",
+    "打鍵速度": "344"
+  },
+  {
+    "level": "1",
     "title": "eth剣 [INFELNO]",
     "artist": "BOKKEN PINK / 差分 赤い人 BOKKEN DODOME+MAGENTA",
     "url": "https://onedrive.live.com/?authkey=%21AM4qWW6_OzqxnJY&id=344D670279808113%21132&cid=344D670279808113",
@@ -1238,6 +1248,16 @@
     "md5": "75c3582014ccff736fd5d2f5ce22f7d0",
     "comment": "st1/378?",
     "打鍵速度": "378?"
+  },
+  {
+    "level": "1",
+    "title": "EVERLASTING HAPPiNESS↑ [Euphoria]",
+    "artist": "psi obj.fuko",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+    "url_diff": "https://stellabms.xyz/upload/1338",
+    "md5": "7d77d0d78016cc99088a39f5506ce416",
+    "comment": "242",
+    "打鍵速度": "242"
   },
   {
     "level": "1",
@@ -1258,16 +1278,6 @@
     "md5": "37bd5d43b121b45c9e6e92723622ed9a",
     "comment": "st1/489",
     "打鍵速度": "489"
-  },
-  {
-    "level": "1",
-    "title": "fushigichan -32分音符ちゃんと不思議なディレイ-",
-    "artist": "牧野 // 前頭葉",
-    "url": "https://dropbox.bms.ms/u/64302289/makino_fushigichan.rar",
-    "url_diff": "https://www.dropbox.com/s/60j3w3uftzqdb8s/_fushigichan_fushigidelay.bms?dl=0",
-    "md5": "4789c9dbcd0fc509370a4adec3640849",
-    "comment": "sub st1/390",
-    "打鍵速度": "390"
   },
   {
     "level": "1",
@@ -1341,13 +1351,13 @@
   },
   {
     "level": "1",
-    "title": "STARGAZER [DELAYED]",
-    "artist": "SOMON / extra",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=133",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05033",
-    "md5": "7c6d0e0cd119632e0a7a90d37c19a6d9",
-    "comment": "sub st2/296",
-    "打鍵速度": "296"
+    "title": "SCARY BANQUET -Extrication-",
+    "artist": "NIKITA / Optie obj:1/8",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=104",
+    "url_diff": "http://oneeighth.web.fc2.com/",
+    "md5": "4b27ac124e5d92c71e9754099ca6dd5d",
+    "comment": "st1/250",
+    "打鍵速度": "250"
   },
   {
     "level": "1",
@@ -1368,6 +1378,16 @@
     "md5": "1d00ea6c61017d0e73685abd1c4b58a8",
     "comment": "250,499",
     "打鍵速度": "250、499"
+  },
+  {
+    "level": "1",
+    "title": "STARGAZER [DELAYED]",
+    "artist": "SOMON / extra",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05033",
+    "md5": "7c6d0e0cd119632e0a7a90d37c19a6d9",
+    "comment": "sub st2/296",
+    "打鍵速度": "296"
   },
   {
     "level": "1",
@@ -1601,6 +1621,16 @@
   },
   {
     "level": "2",
+    "title": "oceanbirdelay [ANOTHER]",
+    "artist": "Xacla / obj:sarada BGA:TOHRU MiTSUHASHi",
+    "url": "https://www.axfc.net/u/3689643",
+    "url_diff": "https://www.axfc.net/u/3689643",
+    "md5": "6692bbad5039819f0049071493b145a9",
+    "comment": "274",
+    "打鍵速度": "274"
+  },
+  {
+    "level": "2",
     "title": "Psalms ～魂の還るばしょ～ [ANGELUS]",
     "artist": "qfeileadh＆レゾナンスもえこ mov:Maeus",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=133",
@@ -1618,6 +1648,16 @@
     "md5": "5bc86616c301d03d027881c256d2f748",
     "comment": "st2/382",
     "打鍵速度": "382"
+  },
+  {
+    "level": "2",
+    "title": "SERIOUS ERROR[INSANE]",
+    "artist": "Laur",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
+    "url_diff": "同梱譜面",
+    "md5": "d34dae6084a8d2e994c1598857a46a6f",
+    "comment": "st2/240",
+    "打鍵速度": "240"
   },
   {
     "level": "2",
@@ -1721,6 +1761,16 @@
   },
   {
     "level": "2",
+    "title": "わたしはうたう -Hopeless-",
+    "artist": "plastic feat.呉舞かなと obj:七海千秋",
+    "url": "https://www.axfc.net/u/3870511",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03126",
+    "md5": "fddf1691ca0a7080a01a2f29e6c0d63d",
+    "comment": "sub st4/444?",
+    "打鍵速度": "444?"
+  },
+  {
+    "level": "2",
     "title": "天叢雲剣 [Type-D]",
     "artist": "しらいし / obj.ぶんぺ～",
     "url": "https://www.axfc.net/u/2301392",
@@ -1778,6 +1828,16 @@
     "md5": "5d053aef2e8612f5105dda1b7e9e039b",
     "comment": "st2 ▼22/376",
     "打鍵速度": "376"
+  },
+  {
+    "level": "2",
+    "title": "虹微笑x1肌色扇情扇情 -Despair-",
+    "artist": "The Lovers / obj:七海千秋",
+    "url": "http://tm2.toymusical.net/index.html",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02551",
+    "md5": "983f3a4976573b78d92f49fa8e4fde90",
+    "comment": "260",
+    "打鍵速度": "260"
   },
   {
     "level": "2",
@@ -1971,16 +2031,6 @@
   },
   {
     "level": "3",
-    "title": "oceanbirdelay [ANOTHER]",
-    "artist": "Xacla / obj:sarada BGA:TOHRU MiTSUHASHi",
-    "url": "https://www.axfc.net/u/3689643",
-    "url_diff": "https://www.axfc.net/u/3689643",
-    "md5": "6692bbad5039819f0049071493b145a9",
-    "comment": "274",
-    "打鍵速度": "274"
-  },
-  {
-    "level": "3",
     "title": "OR [Insane]",
     "artist": "Shinji Hirano / obj:Rian",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=131",
@@ -2121,6 +2171,26 @@
   },
   {
     "level": "4",
+    "title": "A Gleam for the Sightless [First Dimension]",
+    "artist": "Lidelle × BilliumMoto Movie: 八重幸 / Illustrations: ShaLink / extra",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=369&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1345",
+    "md5": "105b3ca0e16a39309b6105e0340e130c",
+    "comment": "348?",
+    "打鍵速度": "348?"
+  },
+  {
+    "level": "4",
+    "title": "Angel dust -Abyss-",
+    "artist": "LV.4/http://d.hatena.ne.jp/xki/",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "url_diff": "http://xki.is.land.to/bms/sabun.html",
+    "md5": "fb7a747a5115a4a4739397d17ccb26bb",
+    "comment": "sub st4,★★4,★24/340",
+    "打鍵速度": "340"
+  },
+  {
+    "level": "4",
     "title": "Angelic layer [mildelayTRAINING]",
     "artist": "SHIKI obj.n",
     "url": "http://shiki2.sakura.ne.jp/",
@@ -2248,6 +2318,26 @@
     "md5": "68f709ad576392f57fcbee4b0df88fe3",
     "comment": "st4/364",
     "打鍵速度": "364"
+  },
+  {
+    "level": "4",
+    "title": "fushigichan -32分音符ちゃんと不思議なディレイ-",
+    "artist": "牧野 // 前頭葉",
+    "url": "https://dropbox.bms.ms/u/64302289/makino_fushigichan.rar",
+    "url_diff": "https://www.dropbox.com/s/60j3w3uftzqdb8s/_fushigichan_fushigidelay.bms?dl=0",
+    "md5": "4789c9dbcd0fc509370a4adec3640849",
+    "comment": "sub st1/390",
+    "打鍵速度": "390"
+  },
+  {
+    "level": "4",
+    "title": "Fusionik -FINAL BOSS-",
+    "artist": "はがね obj. B_K + Lapis",
+    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=68",
+    "url_diff": "http://lapisbms.xyz/",
+    "md5": "28fe78d9880c1c06bb298ebb4528565f",
+    "comment": "st4/240",
+    "打鍵速度": "240"
   },
   {
     "level": "4",
@@ -2471,6 +2561,16 @@
   },
   {
     "level": "4",
+    "title": "わたしはうたう -Despair- ",
+    "artist": "plastic feat.呉舞かなと obj:七海千秋",
+    "url": "https://www.axfc.net/u/3870511",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03126",
+    "md5": "636193b8213e87172adb8c4e0b8e27a2",
+    "comment": "sub st4/444?",
+    "打鍵速度": "444?"
+  },
+  {
+    "level": "4",
     "title": "天叢雲剣",
     "artist": "しらいし / obj:夢瑠",
     "url": "https://drive.google.com/uc?id=1DDYNKu-oiHdEFkPnnvLOCmvJkaQpuNq1",
@@ -2558,16 +2658,6 @@
     "md5": "8e156b6a2016d9b6c1383eae74aae742",
     "comment": "310",
     "打鍵速度": "310"
-  },
-  {
-    "level": "5",
-    "title": "Angel dust -Abyss-",
-    "artist": "LV.4/http://d.hatena.ne.jp/xki/",
-    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-    "url_diff": "http://xki.is.land.to/bms/sabun.html",
-    "md5": "fb7a747a5115a4a4739397d17ccb26bb",
-    "comment": "★★4,★24/340",
-    "打鍵速度": "340"
   },
   {
     "level": "5",
@@ -2698,6 +2788,16 @@
     "md5": "e66315cf388455c3dbe0c05033b50cce",
     "comment": "st5/378",
     "打鍵速度": "378"
+  },
+  {
+    "level": "5",
+    "title": "EVERLASTING HAPPiNESS↑ [EXTREME]",
+    "artist": "psi obj.fuko",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+    "url_diff": "https://stellabms.xyz/upload/1338",
+    "md5": "3c377ec541f5154546575af1777c99a4",
+    "comment": "242",
+    "打鍵速度": "242"
   },
   {
     "level": "5",
@@ -3176,7 +3276,7 @@
     "url": "http://otafukun.s1009.xrea.com/bms.html",
     "url_diff": "https://darksabun.github.io/event/irbattle/",
     "md5": "94b7577cbb11b9205653b694ff8012e9",
-    "comment": "sub st6/284",
+    "comment": "st6/284",
     "打鍵速度": "284"
   },
   {
@@ -3511,16 +3611,6 @@
   },
   {
     "level": "6",
-    "title": "日溜りのディレイ－？あ！？－",
-    "artist": "猫蟹丸 / obj: qtp13",
-    "url": "https://web.archive.org/web/20120507163231/http://knm.sakura.ne.jp/z_index2.html",
-    "url_diff": "https://stellabms.xyz/upload/1252",
-    "md5": "1a7a9428f08c944939867d69da8f296b",
-    "comment": "412",
-    "打鍵速度": "412"
-  },
-  {
-    "level": "6",
     "title": "平衡世界 [miracle]",
     "artist": "daisan/obj.もにもに",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
@@ -3651,16 +3741,6 @@
   },
   {
     "level": "7",
-    "title": "Legend of Seeker [FULL]",
-    "artist": "remixed celas / obj : cieu",
-    "url": "https://web.archive.org/web/20161022231551/http://creation-records.info/bms/seeker_r_ogg.rar",
-    "url_diff": "http://cieu.web.fc2.com/",
-    "md5": "cfad3baadce9e02c45021963453d7c94",
-    "comment": "★★5/344",
-    "打鍵速度": "344"
-  },
-  {
-    "level": "7",
     "title": "Leonids -Spiral galaxy-",
     "artist": "horoscope / selene.",
     "url": "http://nekokan.dyndns.info/~pmcc/pmcc2/index.html",
@@ -3708,6 +3788,16 @@
     "md5": "d492ffcb095efd6771e230990b2828e8",
     "comment": "432",
     "打鍵速度": "432"
+  },
+  {
+    "level": "7",
+    "title": "Reason of being [genesis]",
+    "artist": "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
+    "url_diff": "同梱譜面",
+    "md5": "8808f736cb16968a5e0647a80e6aee47",
+    "comment": "st7/380",
+    "打鍵速度": "380"
   },
   {
     "level": "7",
@@ -3871,6 +3961,16 @@
   },
   {
     "level": "7",
+    "title": "日溜りのディレイ－？あ！？－",
+    "artist": "猫蟹丸 / obj: qtp13",
+    "url": "https://web.archive.org/web/20120507163231/http://knm.sakura.ne.jp/z_index2.html",
+    "url_diff": "https://stellabms.xyz/upload/1252",
+    "md5": "1a7a9428f08c944939867d69da8f296b",
+    "comment": "412",
+    "打鍵速度": "412"
+  },
+  {
+    "level": "7",
     "title": "迦楼羅-OriginalMix- [天之頂]",
     "artist": "うまるつふり",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=83",
@@ -4018,6 +4118,16 @@
     "md5": "f7e83915560157e64aeb5e4656a8b989",
     "comment": "sub st8/244.5",
     "打鍵速度": "244.5"
+  },
+  {
+    "level": "8",
+    "title": "res extensa [EX]",
+    "artist": "adamthix/さ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=83",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "md5": "4417ce8ee8ebbfe6f54603633cea42fd",
+    "comment": "362",
+    "打鍵速度": "362"
   },
   {
     "level": "8",
@@ -4301,6 +4411,26 @@
   },
   {
     "level": "9",
+    "title": "Legend of Seeker [FULL]",
+    "artist": "remixed celas / obj : cieu",
+    "url": "https://web.archive.org/web/20161022231551/http://creation-records.info/bms/seeker_r_ogg.rar",
+    "url_diff": "http://cieu.web.fc2.com/",
+    "md5": "cfad3baadce9e02c45021963453d7c94",
+    "comment": "sub st9,★★5/344",
+    "打鍵速度": "344"
+  },
+  {
+    "level": "9",
+    "title": "Lolita Scaffold [FATALITY]",
+    "artist": "Iron Maiden Strength / obj:O BGA / Seagle Asakura",
+    "url": "https://www.dropbox.com/s/wnf5tkrgilxgqp2/Lolita%20Scaffold.zip?dl=0",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00695",
+    "md5": "a548a8658498fe3d51ba66ae0c8a9340",
+    "comment": "st9/250",
+    "打鍵速度": ""
+  },
+  {
+    "level": "9",
     "title": "MooN -Infinite-",
     "artist": "Is-m obj:firi. BGA:coda obj:firi.",
     "url": "http://www.is-m.jp/bms/",
@@ -4347,6 +4477,16 @@
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01829",
     "md5": "30273c4c75d134eac343c6435523d6f4",
     "comment": "st9/360",
+    "打鍵速度": "360"
+  },
+  {
+    "level": "9",
+    "title": "Sense [Final Dimension] ",
+    "artist": "BilliumMoto × Silentroom Movie: mahinii / extra",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1333",
+    "md5": "2cd8cc106ddf1574ff80b54dc1bc59df",
+    "comment": "360",
     "打鍵速度": "360"
   },
   {
@@ -4401,6 +4541,16 @@
   },
   {
     "level": "9",
+    "title": "エモ幼女爆発四散",
+    "artist": "DJKurara & 九八式旋回機関銃 & Kyou1110",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=474&event=110",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01230",
+    "md5": "e030b55943d450c35e8ed5db9fa7aeb7",
+    "comment": "sub st9,240,480",
+    "打鍵速度": "240480"
+  },
+  {
+    "level": "9",
     "title": "エモ幼女爆発四散 -Execution-",
     "artist": "DJKurara & 九八式旋回機関銃 & Kyou1110 reobj:七海",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=474&event=110",
@@ -4408,6 +4558,16 @@
     "md5": "6e38f8fa4603edcf4eb9245682a025ac",
     "comment": "240,480",
     "打鍵速度": "240480"
+  },
+  {
+    "level": "9",
+    "title": "キミとボクへの葬送歌 [Absolutely kill]",
+    "artist": "ROKINA/obj:仙人掌の人 BGA:REI-K",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=4",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up5955.zip",
+    "md5": "3be50a201d92af20051b6e2eec673bad",
+    "comment": "st9,440?",
+    "打鍵速度": "440?"
   },
   {
     "level": "9",
@@ -4476,6 +4636,16 @@
     "url": "本体公開終了",
     "url_diff": "http://sagena.harisen.jp/",
     "md5": "07689c68c76b26e59e5cc9cd292875c9",
+    "comment": "sub st9/380",
+    "打鍵速度": "380"
+  },
+  {
+    "level": "9",
+    "title": "夢、幻。 [infinity]",
+    "artist": "NIKITA / misokabocha/∞",
+    "url": "https://dl.dropboxusercontent.com/s/hbd3fm7tlkqp5np/yumemaboroshi_ogg.zip?dl=1&token_hash=AAHvr6XDAXuRGGo7pNfo7SukdijOHfLijMFTNSa05MT4RQ",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5656.rar",
+    "md5": "2c4e3404356bdb4b75108afdee91a792",
     "comment": "sub st9/380",
     "打鍵速度": "380"
   },
@@ -4621,6 +4791,16 @@
   },
   {
     "level": "10",
+    "title": "NS18 [7key Amother]",
+    "artist": "3034 Anomie / IllusionRain / obj:mfmf",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
+    "url_diff": "http://web.archive.org/web/20150627023157/http://page.freett.com/mooooooop/index.htm",
+    "md5": "019ac1a99cd2e4e1d971e85089ec474a",
+    "comment": "★★6/230～245",
+    "打鍵速度": "’230～245"
+  },
+  {
+    "level": "10",
     "title": "Pandemonium [FX]",
     "artist": "xi / extra",
     "url": "https://web.archive.org/web/20140120135056/http://tbstk.main.jp/extreme/everyone/xi_Pandemonium_ogg.zip",
@@ -4698,6 +4878,16 @@
     "md5": "2fa8758cd65dc98ce69f72b632bdc17b",
     "comment": "322,430,645",
     "打鍵速度": "322、430、645"
+  },
+  {
+    "level": "10",
+    "title": "日溜りの街－あ！－ (BMS MASTER)",
+    "artist": "猫蟹丸 / obj: black train",
+    "url": "http://web.archive.org/web/20041211212724/http://knm.sakura.ne.jp/pms/key/key11.html",
+    "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
+    "md5": "5c02488ed7f347cf9b78398fa8982e69",
+    "comment": "st10/309",
+    "打鍵速度": "309"
   },
   {
     "level": "10",
@@ -4911,6 +5101,16 @@
   },
   {
     "level": "11",
+    "title": "ルーネイトエルフ～霧の湖の物語～ [Hexagon]",
+    "artist": "9-zen obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "d1fc498ec94329859e58c3a96253ad76",
+    "comment": "308",
+    "打鍵速度": "308"
+  },
+  {
+    "level": "11",
     "title": "覚醒フィールド -DEATHER-",
     "artist": "cosMo / nmk / ドフォーレ商会",
     "url": "http://www1.axfc.net/uploader/Li/so/65292.zip",
@@ -4951,6 +5151,16 @@
   },
   {
     "level": "12",
+    "title": "0xFFF [HYPER DIMENSION]",
+    "artist": "ROKINA / obj:O",
+    "url": "https://onedrive.live.com/?id=A0C4279F1B037701%21468&cid=A0C4279F1B037701",
+    "url_diff": "http://onmacodayo.web.fc2.com/0728/000-0xfff_O.bms",
+    "md5": "b2f7473368d7e566e605ca6d0e01236e",
+    "comment": "sub st12/255",
+    "打鍵速度": "255"
+  },
+  {
+    "level": "12",
     "title": "Air -Ragnarok-",
     "artist": "SHIKI",
     "url": "http://shiki2.sakura.ne.jp/bms.shtml",
@@ -4986,8 +5196,18 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up4590.zip",
     "md5": "8b8c7d0f14de2fe75acc4ca8e738f273",
-    "comment": "510680",
+    "comment": "510,680",
     "打鍵速度": "510680"
+  },
+  {
+    "level": "12",
+    "title": "bEyOnD",
+    "artist": "Lime / Crude Sound Adder",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "url_diff": "https://bms.parksulab.xyz/",
+    "md5": "cdf5b366fc7e518bcb9ea1e9a169e5ea",
+    "comment": "sub st11/276",
+    "打鍵速度": "276"
   },
   {
     "level": "12",

@@ -12236,6 +12236,18 @@
     "votePercent": 0
   },
   {
+    "level": "3",
+    "md5": "7cec43dd444f082b2ad30c94e85b6073",
+    "sha256": "80d07224dccb19933a8176e4205553c23a92a31f4d745988e620cfe41ba91514",
+    "title": "RAY -diffuse-",
+    "artist": "MILK / obj:京都306",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00381",
+    "url": "https://onedrive.live.com/?id=BEA3EA5126192983!113&cid=BEA3EA5126192983",
+    "proposer": "AXION",
+    "submission": 948,
+    "proposerLr2id": 37523
+  },
+  {
     "md5": "3b5915001d3dac6b7a4ff942f3f6ea38",
     "sha256": "824d1a3c8057c5bbf5df90ad962a306cd19408198b0d1fd929ec5e7f46e7ed2c",
     "title": "ray of hope [RED]",
@@ -15415,18 +15427,6 @@
     "proposerLr2id": 141043
   },
   {
-    "level": "4",
-    "md5": "7cec43dd444f082b2ad30c94e85b6073",
-    "sha256": "80d07224dccb19933a8176e4205553c23a92a31f4d745988e620cfe41ba91514",
-    "title": "RAY -diffuse-",
-    "artist": "MILK / obj:京都306",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00381",
-    "url": "https://onedrive.live.com/?id=BEA3EA5126192983!113&cid=BEA3EA5126192983",
-    "proposer": "AXION",
-    "submission": 948,
-    "proposerLr2id": 37523
-  },
-  {
     "md5": "de06eb6de297d1a53cf93431956baa83",
     "sha256": "96128f672cbde1897ffd8d299f2caec2be6982df42993cf3ac9607b83f30b06d",
     "title": "Reason of being [ZOI]",
@@ -16503,19 +16503,6 @@
     "proposer": "selene.",
     "submission": 1040,
     "proposerLr2id": 84521
-  },
-  {
-    "md5": "83855e7be644eef3af16b58a704fc77b",
-    "sha256": "ec729fb68597915190bcea69812f726c3838592bd19b7630d191151a2de53495",
-    "title": "Alastor [Nigh]",
-    "artist": "鳩 Obj.Triforce",
-    "url_diff": "https://trfce.github.io/sabun/(107)Alastor_Triforce.zip",
-    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-    "level": "5",
-    "comment": "体力系、難易度自体は★4~5級ですが疲れやすいのでsl4に",
-    "proposer": "MarySue",
-    "submission": 1324,
-    "proposerLr2id": 147889
   },
   {
     "md5": "1e4cf6ab1e453a9cc009753b3b69e341",
@@ -18860,6 +18847,19 @@
     "votePercent": 0
   },
   {
+    "md5": "83855e7be644eef3af16b58a704fc77b",
+    "sha256": "ec729fb68597915190bcea69812f726c3838592bd19b7630d191151a2de53495",
+    "title": "Alastor [Nigh]",
+    "artist": "鳩 Obj.Triforce",
+    "url_diff": "https://trfce.github.io/sabun/(107)Alastor_Triforce.zip",
+    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "level": "6",
+    "comment": "体力系、難易度自体は★4~5級ですが疲れやすいのでsl4に",
+    "proposer": "MarySue",
+    "submission": 1324,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "666f8b142728e934bb096a8028241591",
     "sha256": "99dfcee81f04e807e6d658f2583e27b280c786ff35db3582291a723424bbb6ed",
     "title": "Animatronics [Freddy]",
@@ -21182,6 +21182,19 @@
     "votePercent": 0
   },
   {
+    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
+    "sha256": "0b2319e1ade45661acc30f7b2d4f6561fe2d0175d3358be311130c3b776e3ae4",
+    "title": "Fireball -Hopeless-",
+    "artist": "tarolabo obj:七海",
+    "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
+    "level": "7",
+    "comment": "追加音がありまして ズレチェックは不可(あっぷろーだご参照)",
+    "proposer": "nozomi",
+    "submission": 2269,
+    "proposerLr2id": 115265
+  },
+  {
     "md5": "84611c0fdf98ee95d53ca8df510a5ce1",
     "sha256": "b1ffc2f5df4f0130ea7a2f13220c28205d2ea721dc434c9b1ae3726ae9c85860",
     "title": "Flame War [Maryther_fixed]",
@@ -22916,19 +22929,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
-    "sha256": "0b2319e1ade45661acc30f7b2d4f6561fe2d0175d3358be311130c3b776e3ae4",
-    "title": "Fireball -Hopeless-",
-    "artist": "tarolabo obj:七海",
-    "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
-    "level": "8",
-    "comment": "追加音がありまして ズレチェックは不可(あっぷろーだご参照)",
-    "proposer": "nozomi",
-    "submission": 2269,
-    "proposerLr2id": 115265
   },
   {
     "md5": "1d7d077fcc57b9a0983159e7c4ee8589",
@@ -25180,6 +25180,20 @@
     "proposerLr2id": 115381
   },
   {
+    "md5": "9afa9d358bc39357ad8c53450e545747",
+    "sha256": "b0add9d5bfc445a84e242adb9932c643db283ea3d1258f07c5051b15dfa69869",
+    "title": "Start over agaIn [memories]",
+    "artist": "Sakamiya feat.一花 img:ttv / obj.ぶんぺ～",
+    "url_diff": "https://stellabms.xyz/upload/810",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=133",
+    "level": "9",
+    "comment": "中速乱打",
+    "zureCount": 0,
+    "proposer": "ねおんし",
+    "submission": 2261,
+    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
+  },
+  {
     "md5": "8c4134058e20ada508642f24f96298ed",
     "sha256": "2a8b193c98d3c35ef1cc49f4dfbd489d7c3fdff9c6dda01591a487b8a16b7954",
     "title": "Subterranean Blastoff -Stellar Overhaul-",
@@ -26726,20 +26740,6 @@
     "proposer": "파이어",
     "submission": 1003,
     "proposerLr2id": 7290
-  },
-  {
-    "md5": "9afa9d358bc39357ad8c53450e545747",
-    "sha256": "b0add9d5bfc445a84e242adb9932c643db283ea3d1258f07c5051b15dfa69869",
-    "title": "Start over agaIn [memories]",
-    "artist": "Sakamiya feat.一花 img:ttv / obj.ぶんぺ～",
-    "url_diff": "https://stellabms.xyz/upload/810",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=133",
-    "level": "10",
-    "comment": "中速乱打",
-    "zureCount": 0,
-    "proposer": "ねおんし",
-    "submission": 2261,
-    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
   },
   {
     "md5": "1f1ada3e57c4ffeb74be2bbd9b01039c",
@@ -48613,22 +48613,6 @@
     "sha256": "903892f3cc2ca016676c73b4c7ad3682a54f1a392396ca0886fa54e16da27ec2"
   },
   {
-    "md5": "a2324e2eb0bc6fafc7387ce282c31583",
-    "title": "ゼフィランサス [Plus+]",
-    "artist": "2TORI/^o^",
-    "url_diff": "http://onmacodayo.web.fc2.com/bms0910/plus.bms",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=61",
-    "level": "18",
-    "comment": "高速物量",
-    "proposer": "onmaco",
-    "proposerLr2id": 47467,
-    "submission": 481,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "146198bf0202006ee5038230ea4c788c1f30ea85e6f75697ca769e853564cc98"
-  },
-  {
     "md5": "3ab8b871d49b22a206aa50f6add5f02f",
     "sha256": "ccb7fcf1fc5588526799af9fcd2b829e97255f710f60baae53a1e60acf306987",
     "title": "ソラハナ [SHD]",
@@ -49984,6 +49968,20 @@
     "sha256": "b4a121d003dc544f6839b9e6b3a9a081af3d5ae1316782ed3b28b2d81deea62e"
   },
   {
+    "md5": "464647e9e4f9d44d9c9d74aa9610bc20",
+    "sha256": "590232fe21265398848f5e34e0e8003006f68c5a3f28f59436a35eb0b0155264",
+    "title": "ZEUS † 666 for Magician",
+    "artist": "ルゼ obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04932",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=125",
+    "level": "19",
+    "comment": "BPM180 微縦",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1678,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "9bd201347125207b7acee0310a4d937b",
     "sha256": "a59ee05b2e0b4492cf15fd438ba99800ded62941134c95875a2149984169be18",
     "title": "あＡアぁ亜ａァ [Forgotten Hero]",
@@ -50051,6 +50049,22 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "99ee64f6806a8f7c11681c222007f3b1d5f67c901caa03698f17a1e7b574093e"
+  },
+  {
+    "md5": "a2324e2eb0bc6fafc7387ce282c31583",
+    "title": "ゼフィランサス [Plus+]",
+    "artist": "2TORI/^o^",
+    "url_diff": "http://onmacodayo.web.fc2.com/bms0910/plus.bms",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=61",
+    "level": "19",
+    "comment": "高速物量",
+    "proposer": "onmaco",
+    "proposerLr2id": 47467,
+    "submission": 481,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "146198bf0202006ee5038230ea4c788c1f30ea85e6f75697ca769e853564cc98"
   },
   {
     "level": "19",
@@ -51272,20 +51286,6 @@
     "proposer": "LUXURY♪",
     "submission": 1430,
     "proposerLr2id": 23110
-  },
-  {
-    "md5": "464647e9e4f9d44d9c9d74aa9610bc20",
-    "sha256": "590232fe21265398848f5e34e0e8003006f68c5a3f28f59436a35eb0b0155264",
-    "title": "ZEUS † 666 for Magician",
-    "artist": "ルゼ obj: qtp13",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04932",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=125",
-    "level": "20",
-    "comment": "BPM180 微縦",
-    "zureCount": 0,
-    "proposer": "垢伴次郎",
-    "submission": 1678,
-    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "298010e7cd72551b39926c32693c9de9",

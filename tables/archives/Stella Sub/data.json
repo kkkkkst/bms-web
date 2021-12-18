@@ -13737,7 +13737,7 @@
     "sha256": "a203faf83ca1ea9e6595df1218b6f82e3e4ffcae45c82d4b384ebb06606609b6",
     "title": "introspect [introspection]",
     "artist": "Lokan",
-    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
     "level": "4",
     "comment": "BPM\t127 - 145 連打複合",
@@ -17019,22 +17019,6 @@
     "sha256": "903892f3cc2ca016676c73b4c7ad3682a54f1a392396ca0886fa54e16da27ec2"
   },
   {
-    "md5": "a2324e2eb0bc6fafc7387ce282c31583",
-    "title": "ゼフィランサス [Plus+]",
-    "artist": "2TORI/^o^",
-    "url_diff": "http://onmacodayo.web.fc2.com/bms0910/plus.bms",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=61",
-    "level": "5",
-    "comment": "高速物量",
-    "proposer": "onmaco",
-    "proposerLr2id": 47467,
-    "submission": 481,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "146198bf0202006ee5038230ea4c788c1f30ea85e6f75697ca769e853564cc98"
-  },
-  {
     "md5": "3ab8b871d49b22a206aa50f6add5f02f",
     "sha256": "ccb7fcf1fc5588526799af9fcd2b829e97255f710f60baae53a1e60acf306987",
     "title": "ソラハナ [SHD]",
@@ -18390,6 +18374,20 @@
     "sha256": "b4a121d003dc544f6839b9e6b3a9a081af3d5ae1316782ed3b28b2d81deea62e"
   },
   {
+    "md5": "464647e9e4f9d44d9c9d74aa9610bc20",
+    "sha256": "590232fe21265398848f5e34e0e8003006f68c5a3f28f59436a35eb0b0155264",
+    "title": "ZEUS † 666 for Magician",
+    "artist": "ルゼ obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04932",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=125",
+    "level": "6",
+    "comment": "BPM180 微縦",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1678,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "9bd201347125207b7acee0310a4d937b",
     "sha256": "a59ee05b2e0b4492cf15fd438ba99800ded62941134c95875a2149984169be18",
     "title": "あＡアぁ亜ａァ [Forgotten Hero]",
@@ -18457,6 +18455,22 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "99ee64f6806a8f7c11681c222007f3b1d5f67c901caa03698f17a1e7b574093e"
+  },
+  {
+    "md5": "a2324e2eb0bc6fafc7387ce282c31583",
+    "title": "ゼフィランサス [Plus+]",
+    "artist": "2TORI/^o^",
+    "url_diff": "http://onmacodayo.web.fc2.com/bms0910/plus.bms",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=61",
+    "level": "6",
+    "comment": "高速物量",
+    "proposer": "onmaco",
+    "proposerLr2id": 47467,
+    "submission": 481,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "146198bf0202006ee5038230ea4c788c1f30ea85e6f75697ca769e853564cc98"
   },
   {
     "level": "6",
@@ -19678,20 +19692,6 @@
     "proposer": "LUXURY♪",
     "submission": 1430,
     "proposerLr2id": 23110
-  },
-  {
-    "md5": "464647e9e4f9d44d9c9d74aa9610bc20",
-    "sha256": "590232fe21265398848f5e34e0e8003006f68c5a3f28f59436a35eb0b0155264",
-    "title": "ZEUS † 666 for Magician",
-    "artist": "ルゼ obj: qtp13",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04932",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=125",
-    "level": "7",
-    "comment": "BPM180 微縦",
-    "zureCount": 0,
-    "proposer": "垢伴次郎",
-    "submission": 1678,
-    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "298010e7cd72551b39926c32693c9de9",
