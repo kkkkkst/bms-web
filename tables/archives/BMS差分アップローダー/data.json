@@ -1,18 +1,108 @@
 [
   {
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05829",
-    "genre": "FUSION POP",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05833",
+    "genre": "J-HAPPYHARDCORE",
     "folder": "2021/12",
     "keys": 7,
-    "lr2_bmsid": "305865",
-    "artist": "Lime mov:Roaring Flame / obj:スノート",
+    "lr2_bmsid": "",
+    "artist": "翡乃イスカ / extra",
     "level": "2021/12",
-    "comment": "速い！（超高速乱打）",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
-    "title": "BEYOND [Transcend]",
-    "md5": "f6c5a4ba8a5d1ec5004c0b56f9dcbf1c",
-    "adddate": "2021/12/18 02:06",
+    "comment": "05828 修正",
+    "url": "",
+    "title": "ワンダフォー・パラダイス [#?☆]",
+    "md5": "83f025480da7caa6a8c6ad45c9d3128b",
+    "adddate": "2021/12/24 05:23",
     "org_level": null
+  },
+  {
+    "adddate": "2021/12/19 19:23",
+    "artist": "SUSURU",
+    "comment": "強制的にS乱がかかる譜面です",
+    "folder": "2021/12",
+    "genre": "物真似",
+    "keys": 7,
+    "level": "2021/12",
+    "lr2_bmsid": "",
+    "md5": "bf90c9c1ca00458432aeb357e9d7fb5c",
+    "org_level": null,
+    "title": "やばいクレーマーのSUSURU TV [S-RANDOM]",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05832"
+  },
+  {
+    "adddate": "2021/12/18 17:50",
+    "artist": "BACO /obj.turbow",
+    "comment": "挑戦お待ちしております。/https://youtu.be/YbZbphgCF4o",
+    "folder": "2021/12",
+    "genre": "Metaverse",
+    "keys": 7,
+    "level": "2021/12",
+    "lr2_bmsid": "",
+    "md5": "11f93a70fd422cae9a1fc5c11f623254",
+    "org_level": null,
+    "title": "Whole World Simulator [Out of Bounds]",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05831"
+  },
+  {
+    "adddate": "2021/12/18 17:50",
+    "artist": "BACO /obj.turbow",
+    "comment": "挑戦お待ちしております。/https://youtu.be/YbZbphgCF4o",
+    "folder": "2021/12",
+    "genre": "Metaverse",
+    "keys": "7",
+    "level": "2021/12",
+    "lr2_bmsid": "",
+    "md5": "ad73f1611d098ddf00c212fed9b4cc34",
+    "org_level": null,
+    "title": "Whole World Simulator [Loading...]",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05831"
+  },
+  {
+    "adddate": "2021/12/18 17:50",
+    "artist": "BACO /obj.turbow",
+    "comment": "挑戦お待ちしております。/https://youtu.be/YbZbphgCF4o",
+    "folder": "2021/12",
+    "genre": "Metaverse",
+    "keys": 7,
+    "level": "2021/12",
+    "lr2_bmsid": "",
+    "md5": "2ae9e26b8073a3a99913df45cd02b3a3",
+    "org_level": null,
+    "title": "Whole World Simulator [Reload]",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05831"
+  },
+  {
+    "adddate": "2021/12/18 11:13",
+    "artist": "Kalse / obj: Mary_Sue",
+    "comment": "BOFXVII差分。高速乱打、ディレイ？ https://youtu.be/jtM1fb2AK50",
+    "folder": "2021/12",
+    "genre": "Gothic Hardcore",
+    "keys": "7",
+    "level": "2021/12",
+    "lr2_bmsid": "306017",
+    "md5": "36bb255cee12973b5a599b6b384c39a4",
+    "org_level": null,
+    "title": "Clockwork Grief [Uhrwerk]",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05830"
+  },
+  {
+    "adddate": "2021/12/18 02:06",
+    "artist": "Lime mov:Roaring Flame / obj:スノート",
+    "comment": "速い！（超高速乱打）",
+    "folder": "2021/12",
+    "genre": "FUSION POP",
+    "keys": 7,
+    "level": "2021/12",
+    "lr2_bmsid": "305865",
+    "md5": "f6c5a4ba8a5d1ec5004c0b56f9dcbf1c",
+    "org_level": null,
+    "title": "BEYOND [Transcend]",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05829"
   },
   {
     "adddate": "2021/12/14 08:29",
@@ -746,7 +836,7 @@
     "md5": "baca863b0de7d71f655c0f4f6951250a",
     "org_level": null,
     "title": "Lost of Fire [Lost in Sky]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=380&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05792"
   },
   {
@@ -761,7 +851,7 @@
     "md5": "72b9348d014afa88645a88651d39a19b",
     "org_level": null,
     "title": "Ulster [numuther]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05791"
   },
   {
@@ -776,7 +866,7 @@
     "md5": "e82a227726759bfca3ce74e0e3a2889f",
     "org_level": null,
     "title": "Ulster [numuther+]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05791"
   },
   {
@@ -806,7 +896,7 @@
     "md5": "e97bd593d21d83c74e84d7cd4c950930",
     "org_level": null,
     "title": "format0 [0x82D]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=127",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05789"
   },
   {
@@ -821,7 +911,7 @@
     "md5": "db95e914638ee28dbdff803d02f8fa46",
     "org_level": null,
     "title": "Non Return to Zero [numuther+]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05788"
   },
   {
@@ -836,7 +926,7 @@
     "md5": "f7e15a2a9cd0c3bbe7aaaa51b6cf3fdc",
     "org_level": null,
     "title": "Non Return to Zero [numuther]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05788"
   },
   {
@@ -851,7 +941,7 @@
     "md5": "baca863b0de7d71f655c0f4f6951250a",
     "org_level": null,
     "title": "Lost of Fire [Lost in Sky]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=380&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05787"
   },
   {
@@ -866,7 +956,7 @@
     "md5": "efd66f91938651be1116f6dbfcad4f8b",
     "org_level": null,
     "title": "Cold Street [lots respects]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=335",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05786"
   },
   {
@@ -881,7 +971,7 @@
     "md5": "a434bc4e3232b19ec1e10c1919115ad9",
     "org_level": null,
     "title": "Cold Street [CHAOS Special HARD]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=335",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05786"
   },
   {
@@ -896,7 +986,7 @@
     "md5": "027f7003a3e95ad45e70a079c003b392",
     "org_level": null,
     "title": "Cold Street [CHAOS Special]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=123",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05786"
   },
   {
@@ -911,7 +1001,7 @@
     "md5": "16ecccf5e95785340b800e8b46f22ef8",
     "org_level": null,
     "title": "valkyrie [numuther]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05785"
   },
   {
@@ -926,7 +1016,7 @@
     "md5": "8a29d27870dea6f04f3d4b588a515ed6",
     "org_level": null,
     "title": "valkyrie [numuther+]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05785"
   },
   {
@@ -941,7 +1031,7 @@
     "md5": "6651ac2a173d8adb00f1c5337d33ad71",
     "org_level": null,
     "title": "$trange Attraktor $(\"#noScratch\")",
-    "url": "",
+    "url": "https://1drv.ms/u/s!AgF3AxufJ8SgheVW76lqfMaq5Km-lQ",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05784"
   },
   {
@@ -956,7 +1046,7 @@
     "md5": "95fd5f19b1bb116f2de497dda0e93184",
     "org_level": null,
     "title": "PANDORA [strength]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05783"
   },
   {
@@ -986,7 +1076,7 @@
     "md5": "e7da878da61b604e9ab1891800e9c813",
     "org_level": null,
     "title": "Postliminium [numuther]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05781"
   },
   {
@@ -1001,7 +1091,7 @@
     "md5": "95cfe1ffcf50382a8f6eb55c121ddcee",
     "org_level": null,
     "title": "Postliminium [numuther+]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=137",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05781"
   },
   {
@@ -1046,7 +1136,7 @@
     "md5": "c31ad691f68099207c0fd55df2dba519",
     "org_level": null,
     "title": "Sgt. [L.S.D.]",
-    "url": "",
+    "url": "https://drive.google.com/file/d/1p4Zo2gFtCjFQGngAxDBrfI8Xq1wLq91r/view?usp=sharing",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05778"
   },
   {
@@ -2081,7 +2171,7 @@
     "md5": "f96b7b1d671b2bf04a2e5b6eeb2a9223",
     "org_level": null,
     "title": "Mr.かぼちゃ仮面 [Dance till you Die!]",
-    "url": "https://www.dropbox.com/s/jf3i2o7uxnrxf84/OGG%20kabotya.zip?dl=1",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05717"
   },
   {
@@ -2096,7 +2186,7 @@
     "md5": "c1532e4e3c7ce74dd10a740638bbc3c2",
     "org_level": null,
     "title": "八大地獄邪魂転生狂葬散火歌 [灼熱地獄]",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05716"
   },
   {
@@ -2126,7 +2216,7 @@
     "md5": "e970547db01462f251a545383071a393",
     "org_level": null,
     "title": "八大地獄邪魂転生狂葬散火歌 [無間地獄]",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05716"
   },
   {
@@ -2321,7 +2411,7 @@
     "md5": "0f84e921baf2887b2ae6b7e2d8f7cd91",
     "org_level": null,
     "title": "VG (Radio Edit) [ATHLETICS]",
-    "url": "https://www.nekomirin.com/bms/nekomirin_vg_HQogg.zip",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05706"
   },
   {
@@ -2336,7 +2426,7 @@
     "md5": "9b06d5c2b63c2c8ffa41060dec09d31f",
     "org_level": null,
     "title": "Snowfairy [Absolute Zero]",
-    "url": "https://1drv.ms/u/s!AkHILFwfHSyzgQq9h_F43s8uxLLc?e=uTNxHe",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05705"
   },
   {
@@ -2351,7 +2441,7 @@
     "md5": "7361ac11cf3dc42affe3803a6f2f6844",
     "org_level": null,
     "title": "Aloof Wolf [UNITHER]",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=504&event=133",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05704"
   },
   {
@@ -2366,7 +2456,7 @@
     "md5": "30266deb37923c257aa8701f713fe178",
     "org_level": null,
     "title": "Fast Citrus [Color Change]",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=207&event=133",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05702"
   },
   {
@@ -2381,7 +2471,7 @@
     "md5": "846346b51e39713b22247f03c2ffdea8",
     "org_level": null,
     "title": "闘気に満ちた草原 [もふもふ！]",
-    "url": "http://www.yw-works.com/bms_pms.htm",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05701"
   },
   {
@@ -2396,7 +2486,7 @@
     "md5": "562b96a22a9084d6bc5059a34c3a9616",
     "org_level": null,
     "title": "on Principle -Philosophy-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=127",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05700"
   },
   {
@@ -2426,7 +2516,7 @@
     "md5": "38e8eec9831456f09e51ef1f89a4035e",
     "org_level": null,
     "title": "Subjection Method [人を怒らせる方法]",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=459",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05698"
   },
   {
@@ -2501,7 +2591,7 @@
     "md5": "03c8a1d49b59e92da62c978500e2ed93",
     "org_level": null,
     "title": "妹が愛を込めて作った音楽 - 媚薬混入 [Maryther]",
-    "url": "https://ux.getuploader.com/otofu_original/download/10",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05693"
   },
   {
@@ -2531,7 +2621,7 @@
     "md5": "bd5009e73a4a2b28c026ca4a0a4b9cbf",
     "org_level": null,
     "title": "divide [UNITHER]",
-    "url": "https://web.archive.org/web/20120616034820/http://tsubu.ath.cx/~electrogic/bms/divide.rar",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05691"
   },
   {
@@ -3446,7 +3536,7 @@
     "md5": "0c743a2d771c22f1d7a45e40a299c454",
     "org_level": null,
     "title": "[line:theta] [HYPERLIMINAL]",
-    "url": "https://dl.dropboxusercontent.com/s/1wbit5p08wqyxmm/%5Bline%EF%BC%9Atheta%5D%20%28by%20nitro%29.rar",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05637"
   },
   {
@@ -3551,7 +3641,7 @@
     "md5": "e872129b43a27d3703b85ec26505e71d",
     "org_level": null,
     "title": "Celestial Axes [潰滅]",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=119",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05630"
   },
   {
@@ -3581,7 +3671,7 @@
     "md5": "77bafbba1eea24fa9774830eae5bdbb3",
     "org_level": null,
     "title": "R-9 [R-18]",
-    "url": "https://www.dropbox.com/s/sb1wh138665tflp/ScampBMS.rar?dl=0",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05628"
   },
   {
@@ -3611,7 +3701,7 @@
     "md5": "5ca2b5c74653e14d7fab577f84db748b",
     "org_level": null,
     "title": "Blue-White Crazystars [GOD]",
-    "url": "http://offtime.sakura.ne.jp/bms/",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05626"
   },
   {
@@ -3746,7 +3836,7 @@
     "md5": "343d28d1663545201cefa34d2889f7a0",
     "org_level": null,
     "title": "macron -demission-",
-    "url": "https://onedrive.live.com/?id=F61C1F8825F0CF46%21159&cid=F61C1F8825F0CF46",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05618"
   },
   {
@@ -3761,7 +3851,7 @@
     "md5": "6f2c03e178fece617d4a5a93d1beb54b",
     "org_level": null,
     "title": "baby blue blanquer -demission-",
-    "url": "https://www.dropbox.com/sh/xrr3fvlhagzsmm2/Wo6KvwhFql/bms",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05617"
   },
   {
@@ -3776,7 +3866,7 @@
     "md5": "c60d87b0fd93fc80bf80ad73d1b58c2b",
     "org_level": null,
     "title": "Brink [R5]",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=120",
+    "url": "",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05616"
   },
   {
@@ -4241,7 +4331,7 @@
     "md5": "8d3c2f672f347b4544bbef0da10309a6",
     "org_level": null,
     "title": "Reason [Full down]",
-    "url": "",
+    "url": "https://dropbox.bms.ms/u/59988778/Juno%20-%20Reason.zip",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05594"
   },
   {
@@ -4256,7 +4346,7 @@
     "md5": "ea40f7ebcd69c8d8417bedbe5e380de6",
     "org_level": null,
     "title": "Reason [Alretnate]",
-    "url": "",
+    "url": "https://dropbox.bms.ms/u/59988778/Juno%20-%20Reason.zip",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05593"
   },
   {
@@ -4271,7 +4361,7 @@
     "md5": "7c7f236a0ea9111d229e21c276e3f809",
     "org_level": null,
     "title": "赤色のアザレア [にゃむてる]",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=415&event=133",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05592"
   },
   {

@@ -862,19 +862,6 @@
     "votePercent": 0
   },
   {
-    "md5": "7a780449282194d9d390fc9305dfc5c5",
-    "sha256": "bc73ee88558c1db5d39f3d4f022d0faa35e308d77af45db68e7db522798c479f",
-    "title": "Destr0yer [ANOTHER]",
-    "artist": "削除 feat. Nikki Simmons Movie:Radiosity&yoshimo",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
-    "level": "0",
-    "comment": "",
-    "proposer": "canary",
-    "submission": 2276,
-    "proposerMinirid": "a9b53b7a-2c28-4928-9964-b126c2974e48"
-  },
-  {
     "md5": "4b24f76a59fd2f89838e1ecb985a662c",
     "sha256": "caf83e15b54718ff95cfeba89012e0c873fc2cb9256fa6896a357d3e64a5a6b1",
     "title": "devote [sp another]",
@@ -4695,6 +4682,19 @@
     "votePercent": 0
   },
   {
+    "md5": "7a780449282194d9d390fc9305dfc5c5",
+    "sha256": "bc73ee88558c1db5d39f3d4f022d0faa35e308d77af45db68e7db522798c479f",
+    "title": "Destr0yer [ANOTHER]",
+    "artist": "削除 feat. Nikki Simmons Movie:Radiosity&yoshimo",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+    "level": "1",
+    "comment": "",
+    "proposer": "canary",
+    "submission": 2276,
+    "proposerMinirid": "a9b53b7a-2c28-4928-9964-b126c2974e48"
+  },
+  {
     "level": "1",
     "comment": "☆11強？皿複合 高速乱打",
     "md5": "e50d342e7ba934b97080a5b070cca22b",
@@ -7839,7 +7839,7 @@
     "artist": "Est / obj:緒方智絵里",
     "url_diff": "http://akred.web.fc2.com/baecon/072_clover_7heart.bme",
     "url": "http://estish.nobody.jp/index1.html",
-    "level": "2",
+    "level": "3",
     "comment": "シンプルな物量",
     "zureCount": 0,
     "proposer": "10c*",
@@ -45331,7 +45331,7 @@
     "sha256": "a203faf83ca1ea9e6595df1218b6f82e3e4ffcae45c82d4b384ebb06606609b6",
     "title": "introspect [introspection]",
     "artist": "Lokan",
-    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
     "level": "17",
     "comment": "BPM\t127 - 145 連打複合",

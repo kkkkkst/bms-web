@@ -3590,7 +3590,6 @@
     "sha256": "3347bd877402d1339f0005d2052c49d09a105f1119691eddc961a3e8991f1b0e"
   },
   {
-    "state": "1",
     "title": "O-E-D-KI-SE-RU(がんばれゴエモン！ からくり道中 Stage1)[SP Hyper]",
     "level": "☆10",
     "comment": "F / 2 ",
@@ -3601,7 +3600,6 @@
     "sha256": "aab57dd9d8afe24b6cf9d0f43829ce9ced4c400a47b14cce46e3e089daeb3104"
   },
   {
-    "state": "1",
     "title": "The Monobits 93sec*8kHzCrunch [7k Another]",
     "level": "☆10",
     "comment": "FT / 1 ",
@@ -3612,7 +3610,6 @@
     "sha256": "abccd6177436f5c6bb3ecdbfd7f0d744fab961f1b7181e10ce509789c391ec70"
   },
   {
-    "state": "1",
     "title": "まどろみ [ANOTHER]",
     "level": "☆10",
     "comment": "FI / 3 ",
@@ -3623,7 +3620,6 @@
     "sha256": "59bb5233bb8035d5de571e2ad4fc02be3894146cdbdbc2d96d3cb2305194a7a4"
   },
   {
-    "state": "1",
     "title": "冥く、玲瓏たる",
     "level": "★6",
     "comment": "I / 5 ジャリジャリ",
@@ -3634,7 +3630,6 @@
     "sha256": "ce327aaadd27baa1ca1087e92ec0478015de5ea06f62dcb9bb360d93c1ff5aeb"
   },
   {
-    "state": "1",
     "title": "Unterbewusstsein [ES]",
     "level": "★3",
     "comment": "FIT / 4 LN、皿",
@@ -3645,7 +3640,6 @@
     "sha256": "cb59154a325a20565221cbadd3324880657c79766980f29d10684df79a580658"
   },
   {
-    "state": "1",
     "title": "ROCKET KID [another]",
     "level": "☆11",
     "comment": "IT / 4 皿複合",
@@ -3656,7 +3650,6 @@
     "sha256": "13e25fb2cacc89b7d7fb95ff185dbefeecd26b178ad279af628d47286c3bc9f3"
   },
   {
-    "state": "1",
     "title": "Demagogie (ANOTHER)",
     "level": "★1",
     "comment": "FI / 4 縦連、LN",
@@ -3667,7 +3660,6 @@
     "sha256": "616aa0d90314425c0b5169a600c800d6b3eced88302a4ce7d01254e281383713"
   },
   {
-    "state": "1",
     "title": "Aquahighway[ANOTHER]",
     "level": "★1",
     "comment": "T / 2 ",
@@ -3678,7 +3670,6 @@
     "sha256": "a2ab12bcee4c1d8ac1b151ee2dbf24a8f187b7dd023b324cbbd6aba396ee6cb4"
   },
   {
-    "state": "1",
     "title": "かえるのうたとさくらさくら混ぜ混ぜリミックス（っ´ω`c) [SP ANOTHER]",
     "level": "☆11",
     "comment": "F / 3 ",
@@ -3689,7 +3680,6 @@
     "sha256": "f5b851a564b4b9450b4fb6813f436bfea3b1b368383e0863ba590abd86c01a8a"
   },
   {
-    "state": "1",
     "title": "Funny Funky Freaky Futurity [ZOI]",
     "level": "★2",
     "comment": "FI / 4 LN、皿複合",
@@ -3700,7 +3690,6 @@
     "sha256": "777e983df7020881c78d7e9dfc97bee0a9548477bdf5c624399491da2519c586"
   },
   {
-    "state": "1",
     "title": "u gotta party (ANOTHER)",
     "level": "☆11",
     "comment": "FIT / 3 皿複合",
@@ -3709,5 +3698,258 @@
     "url_diff": "",
     "md5": "2d1182f52cb125ae379dc2cf23512823",
     "sha256": "7bb709dbbed4adfa7ae51ae2a4044a6c1aaf0f2976f84cd9be2f37e536c85243"
+  },
+  {
+    "state": "1",
+    "title": "BRAIN HACKER[HYPER]",
+    "level": "☆11",
+    "comment": "IT / 5 皿",
+    "artist": "SOMON",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=137",
+    "url_diff": "",
+    "md5": "5ad93a439dc8ae1f009ad5724bfbe07c",
+    "sha256": "0c39083c3e76aa33d805c15152f73651cb8045e67b33e854f5577ddb3a4308d8"
+  },
+  {
+    "state": "1",
+    "title": "endemize[ANOTHER]",
+    "level": "☆11",
+    "comment": "FT / 2 ",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
+    "url_diff": "",
+    "md5": "dfb188bcf9506f9f00626c5263a84366",
+    "sha256": "d6228c0bd343fbef055154d06913c130bf3e8de74f435fa7c351f8982500467f"
+  },
+  {
+    "state": "1",
+    "title": "Fungus Dance [ANOTHER]",
+    "level": "☆11",
+    "comment": "F / 2 ",
+    "artist": "paraneumann mov:FGD",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=137",
+    "url_diff": "",
+    "md5": "fcbf2f4fe811a8877556fea027f3b4c1",
+    "sha256": "cdfc216d22e034d88003406aee4d78274332e075aedbbb699037e3a4a949c61b"
+  },
+  {
+    "state": "1",
+    "title": "silly-willy-nilly [ANOTHER]",
+    "level": "☆12",
+    "comment": "FI / 4 LN",
+    "artist": "かたぎり BGA: 水無月☆★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=137",
+    "url_diff": "",
+    "md5": "d2d5792aa418494573c6885c6b8f85f7",
+    "sha256": "c0e61a8b0ea9548b9b82286806ea252df3ee62e11db8c25c6160582cd337ed67"
+  },
+  {
+    "state": "1",
+    "title": "俗物フェスティバル[ANOTHER]",
+    "level": "☆12",
+    "comment": "F / 2 ",
+    "artist": "Micelle feat.Yshida",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
+    "url_diff": "",
+    "md5": "b2dc9be72c4c4b00a5c253d2022e88ce",
+    "sha256": "21a4cfce8d6b82ad9a0561323f2fc72430ca4ced62e18e7775d77c8dcf2b7232"
+  },
+  {
+    "state": "1",
+    "title": "縦二ツ ｜IC｜",
+    "level": "☆10",
+    "comment": "FI / 3 ",
+    "artist": "RykSeb",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=137",
+    "url_diff": "",
+    "md5": "ceb2bbf7b208e97db116d6a7cbc8605a",
+    "sha256": "4173c8c0a24fa5369c905ad424028c6c2ac76d8b1b6c776f215ecc1c7ec42732"
+  },
+  {
+    "state": "1",
+    "title": "DIGITAL DIVER 20XX",
+    "level": "☆10",
+    "comment": "F / 2 ",
+    "artist": "くるぶっこちゃん Movie:サム",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=137",
+    "url_diff": "",
+    "md5": "19354fd367c0cba92241b8e9e1d0bc60",
+    "sha256": "ee107a8f5994e50a07b0f28ad53038e70173a855523d0e84cd7ee87ebce97559"
+  },
+  {
+    "state": "1",
+    "title": "Head BONK ache",
+    "level": "★4",
+    "comment": "FI / 3 ",
+    "artist": "saaa ft. MC iwata Bros. / BGA : 空読無 白眼",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=137",
+    "url_diff": "",
+    "md5": "4ce3d407b67d1edf3106d40731beac8a",
+    "sha256": "2f85ee9933af5b80697fb4dd138a3fd581d5bfb18089299a0b5bfbeb4df7c6d0"
+  },
+  {
+    "state": "1",
+    "title": "Forever Happiely [SP ANOTHER]",
+    "level": "☆11",
+    "comment": "F / 2 ",
+    "artist": "ohon",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=137",
+    "url_diff": "",
+    "md5": "4d29bfab15e8118f0bbda8e4a62a31dc",
+    "sha256": "2c42d79a0092532c08d5bea127ab5603d0393cec9b63fb98c955c59237c76980"
+  },
+  {
+    "state": "1",
+    "title": "glacier's poetry",
+    "level": "☆12",
+    "comment": "F / 3 ",
+    "artist": "VeetaCrush & ProjectG bga: linglvz obj: iPhonon",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=137",
+    "url_diff": "",
+    "md5": "b494aae56ef6112bcd69eb529cef023e",
+    "sha256": "79fce90c8e0a399e27914e82ee845f1cab4933de8b5c21e478ccd409b1d96a12"
+  },
+  {
+    "state": "1",
+    "title": "ハッピーフェイクショー[SP Another]",
+    "level": "★1",
+    "comment": "F / 2 ",
+    "artist": "Ponchi♪ feat.はぁち obj:mathath",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
+    "url_diff": "",
+    "md5": "b05196e19567cd6bbed47a10057b203c",
+    "sha256": "bc1d2ef19fb8f714c69f45c3a6c0baaa6afe34b094a7d02dc6e09a92104387c3"
+  },
+  {
+    "state": "1",
+    "title": "アジサイ [SP Another]",
+    "level": "★2",
+    "comment": "I / 4 ",
+    "artist": "litmus* feat. 薛南",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=137",
+    "url_diff": "",
+    "md5": "a0b6f358ac13ad0443a19b93441810a0",
+    "sha256": "caa97d919c54c3d4d87c6d5356d495ade48840ecfc12992d0a61162b0753e570"
+  },
+  {
+    "state": "1",
+    "title": "Cool Blue Shark Girl",
+    "level": "☆10",
+    "comment": "FIT / 5 皿",
+    "artist": "megawolf77 bga & obj. PizeroFox",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=137",
+    "url_diff": "",
+    "md5": "282393eaae97ad3e3157359e88d3c2e3",
+    "sha256": "cb03eb783485cdb7c09fcbf936a2c3d39c908fb3381b5e566c01a38ada574498"
+  },
+  {
+    "state": "1",
+    "title": "KKKYK",
+    "level": "☆10",
+    "comment": "I / 4 LN",
+    "artist": "tigerlily",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=403&event=137",
+    "url_diff": "",
+    "md5": "d785c02b48f89e4c8ad6fc0bbd71dbf2",
+    "sha256": "2f2b980aff1fd4639115610bc79730d04976e930817c1a99a8e06d668426e6b6"
+  },
+  {
+    "state": "1",
+    "title": "Philadelphia Xperiment",
+    "level": "★1",
+    "comment": "I / 5 ",
+    "artist": "Xacla",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=137",
+    "url_diff": "",
+    "md5": "cb903bb302d818630d657eaf651013f1",
+    "sha256": "c72b7fb5f5b69866808146b4af4bb104b2c5fd1eb51e6a5b754018194775975a"
+  },
+  {
+    "state": "1",
+    "title": "pseudonymph [7K ANOTHER]",
+    "level": "☆10",
+    "comment": "FI / 4 ",
+    "artist": "のの",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=137",
+    "url_diff": "",
+    "md5": "",
+    "sha256": "9b300ce8ad07b4574359df34ab0df5c8207a10be14f617cdb3f67daaf2532577"
+  },
+  {
+    "state": "1",
+    "title": "Can U Feel It [Another]",
+    "level": "★1",
+    "comment": "FI / 3 ",
+    "artist": "siqlo Movie:わっふゑ / obj:DJ.END",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=137",
+    "url_diff": "",
+    "md5": "d489eb4db28fcb6d8c6f42bc39c4057b",
+    "sha256": "7e29a95c8649ada9ad4782b14f7e14e82c36915f8725d54f1643f575d38e6e30"
+  },
+  {
+    "state": "1",
+    "title": "しゃんはいに行きませんか(Another)",
+    "level": "☆11",
+    "comment": "FI / 3 ",
+    "artist": "ですワ",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=137",
+    "url_diff": "",
+    "md5": "31dca1368833010fe143af608135adeb",
+    "sha256": "020124b617de4537cada1d2552fb6019ea5812164271b5f8482ae34a3bffe038"
+  },
+  {
+    "state": "1",
+    "title": "S.Q.4.D.",
+    "level": "★1",
+    "comment": "I / 4 ",
+    "artist": "牧野",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=137",
+    "url_diff": "",
+    "md5": "a7dfcc7788b6df46fdbf32f1758f1d5e",
+    "sha256": "fb9938fca17a22eac54cbcdc9f53c2653875bcd320b157b04943882d51975b8d"
+  },
+  {
+    "state": "1",
+    "title": "!nterroban(?,",
+    "level": "★2",
+    "comment": "F / 3 ",
+    "artist": "Aoi mov:出前",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=407&event=137",
+    "url_diff": "",
+    "md5": "72c1fe89ed189673c8d1e2f6e54c1d21",
+    "sha256": "dff26e95715ee6282c0774a7f7b1758637824c5ab253020ca7ae7cdeafd838e0"
+  },
+  {
+    "state": "1",
+    "title": "Radiata [ANOTHER7]",
+    "level": "☆11",
+    "comment": "F / 2 ",
+    "artist": "Kankitsu / Roaring Flame",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=137",
+    "url_diff": "",
+    "md5": "7c8d882462ca5437b22c79f08a21ba31",
+    "sha256": "e3f977146afe6fa4bc07a95e1261326be5f53b428a4bc632d341c234d7d754d8"
+  },
+  {
+    "state": "1",
+    "title": "スナレ",
+    "level": "★6",
+    "comment": "IT / 5 ジャリジャリ",
+    "artist": "Zris feat. Green",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "url_diff": "",
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c"
+  },
+  {
+    "state": "1",
+    "title": "bad_psychic",
+    "level": "★5",
+    "comment": "I / 5 縦連、低速",
+    "artist": "doloky",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=137",
+    "url_diff": "",
+    "md5": "7f3e14f8fc2ffc3ad9aa9fe1a824a42b",
+    "sha256": "be1026454884258b535895617a2fa20071b4835e5677023b1718b178ad8da414"
   }
 ]
