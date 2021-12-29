@@ -236,20 +236,6 @@
     "proposerLr2id": 53819
   },
   {
-    "md5": "197f79072827b1c0c329edbe85fee7cd",
-    "sha256": "561e2c1a2bc8825b2282de340a0efc6a288a0e3731d4268bc1c0bbb1041ba838",
-    "title": "H.S : Hadron Strike [DP1104H]",
-    "artist": "zest:rave/obj:1104",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/210",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=85",
-    "level": "0",
-    "comment": "0?",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 644,
-    "proposerLr2id": 128228
-  },
-  {
     "level": "0",
     "comment": "簡単？",
     "md5": "ec4243482ebd4758419cdd5f0dbcd93d",
@@ -914,6 +900,20 @@
     "comment": "1?、同梱譜面",
     "proposer": "JHS",
     "submission": 643,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "197f79072827b1c0c329edbe85fee7cd",
+    "sha256": "561e2c1a2bc8825b2282de340a0efc6a288a0e3731d4268bc1c0bbb1041ba838",
+    "title": "H.S : Hadron Strike [DP1104H]",
+    "artist": "zest:rave/obj:1104",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/210",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=85",
+    "level": "1",
+    "comment": "0?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 644,
     "proposerLr2id": 128228
   },
   {

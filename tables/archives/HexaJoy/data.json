@@ -223,7 +223,7 @@
     "level": "0",
     "title": "情熱の大阪",
     "artist": "morigasigeru",
-    "comment_raw": "目標かぁ…　びんしょうになる？",
+    "comment_raw": "やっぱし天才にはかなわへんねやろかぁー",
     "state": "",
     "md5": "961618e954a9d2e870af548fce62c55f",
     "url": "https://web.archive.org/web/20070216150851/https://page.freett.com/mekurumeku/bms.html",
@@ -237,7 +237,7 @@
     "notes": "1788",
     "score_type": "ガチ押し",
     "name_diff": "",
-    "comment": "(ガチ押し) 目標かぁ…　びんしょうになる？"
+    "comment": "(ガチ押し) やっぱし天才にはかなわへんねやろかぁー"
   },
   {
     "level": "1",
@@ -2621,6 +2621,26 @@
   },
   {
     "level": "?",
+    "title": "Crystal Snow [Hexagon]",
+    "artist": "HaL feat. riri",
+    "comment_raw": "連打系",
+    "state": "1",
+    "md5": "40128ff819e524e01b5f06d56bbed2ca\r",
+    "url": "http://web.archive.org/web/20060621123759/http://www.remarkablesense.org:80/~hal/waveceptor/bms/bms_crystal.zip",
+    "url_diff": "https://bms.hexlataia.xyz/sabun/crystal_snow.zip",
+    "org_md5": "1bd487b1160bdb879ca933d9062dd3ed\r",
+    "url_pack": "",
+    "name_pack": "",
+    "date": "Sat Dec 25 2021 00:00:00 GMT+0900 (日本標準時)",
+    "main_bpm": "135",
+    "total": "240",
+    "notes": "1823",
+    "score_type": "ガチ押し",
+    "name_diff": "",
+    "comment": "(ガチ押し) 連打系"
+  },
+  {
+    "level": "?",
     "title": "False Friend [筋トレ]",
     "artist": "Flont Twiright",
     "comment_raw": "乱で腕押し力 S乱で認識力 お好みの freq を添えて",
@@ -2658,6 +2678,26 @@
     "score_type": "連打",
     "name_diff": "",
     "comment": "(連打) LR2IR Battle 提出譜面"
+  },
+  {
+    "level": "?",
+    "title": "O Holy Night Randomizer",
+    "artist": "Christmas Song",
+    "comment_raw": "holy",
+    "state": "1",
+    "md5": "7b39500250c071684a4f49f55700620d",
+    "url": "https://www.mediafire.com/file/n267ngycfv8dw7h/O_Holy_Night_%25282011_Renote%2529.rar/file",
+    "url_diff": "https://bms.hexlataia.xyz/sabun/o-holy-night-randomizer.zip",
+    "org_md5": "b103d170d029a35eca1c829bdb7c63c2",
+    "url_pack": "",
+    "name_pack": "",
+    "date": "Sat Dec 25 2021 00:00:00 GMT+0900 (日本標準時)",
+    "main_bpm": "68",
+    "total": "300",
+    "notes": "3744",
+    "score_type": "ガチ押し？",
+    "name_diff": "",
+    "comment": "(ガチ押し？) holy"
   },
   {
     "level": "?",

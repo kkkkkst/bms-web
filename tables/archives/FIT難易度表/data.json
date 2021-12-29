@@ -3944,12 +3944,34 @@
   {
     "state": "1",
     "title": "bad_psychic",
-    "level": "★5",
+    "level": "★4",
     "comment": "I / 5 縦連、低速",
     "artist": "doloky",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=137",
     "url_diff": "",
     "md5": "7f3e14f8fc2ffc3ad9aa9fe1a824a42b",
     "sha256": "be1026454884258b535895617a2fa20071b4835e5677023b1718b178ad8da414"
+  },
+  {
+    "state": "1",
+    "title": "BASS KICK YAKUZA [ANOTHER]",
+    "level": "★5",
+    "comment": "FI / 4 皿複合",
+    "artist": "DARKSIDE APPROACH obj:Kucchi",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=137",
+    "url_diff": "",
+    "md5": "5755b92c5f188ee1e30a803b4b98e875",
+    "sha256": "caa2bc9140a4fef65a12b8298d2b883b3f0b5cc7b4ebc62794929488f677d324"
+  },
+  {
+    "state": "1",
+    "title": "Rebirth of the MYTH [Another]",
+    "level": "★2",
+    "comment": "FT / 3 ",
+    "artist": "s-don・サム・さるきむ",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=137",
+    "url_diff": "",
+    "md5": "26cc95474f4fbd196e395a9185d065ba",
+    "sha256": "4b7c23af6acb0cc155943991d4649819844656cd5386d2a270952952bdfcba17"
   }
 ]

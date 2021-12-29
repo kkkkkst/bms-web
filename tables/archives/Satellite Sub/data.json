@@ -891,19 +891,6 @@
     "votePercent": 0
   },
   {
-    "md5": "5f219830b3c12bd694ae098e70f441e6",
-    "sha256": "963dacfde184ce036572ecb942701d664e293aa05ebae177be4623eb1e815c41",
-    "title": "Drift TAXI [7k Another]",
-    "artist": "∀S∀",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=126",
-    "level": "0",
-    "comment": "同梱譜面。",
-    "proposer": "quinto",
-    "submission": 1558,
-    "proposerLr2id": 141043
-  },
-  {
     "md5": "b2b580c550f35d4e02db6fdb9e6103a7",
     "sha256": "babc4beb90fbec3fabcc5c99d1ffed04dd86d8763ac92800e981315069efa374",
     "title": "Drizzle -Parking Area-",
@@ -4782,6 +4769,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "5f219830b3c12bd694ae098e70f441e6",
+    "sha256": "963dacfde184ce036572ecb942701d664e293aa05ebae177be4623eb1e815c41",
+    "title": "Drift TAXI [7k Another]",
+    "artist": "∀S∀",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=126",
+    "level": "1",
+    "comment": "同梱譜面。",
+    "proposer": "quinto",
+    "submission": 1558,
+    "proposerLr2id": 141043
+  },
+  {
     "md5": "f1cc09f3fad6dde73d4bbc856aba59e2",
     "sha256": "69028db3bb139bab14414245b2b9d0c1389e1d8dbb3d443dd03b177e32e05729",
     "title": "dry flower -ANOTHER-",
@@ -7831,20 +7831,6 @@
     "proposer": "|/|",
     "submission": 1592,
     "proposerLr2id": 147895
-  },
-  {
-    "md5": "b67f47e5fd9e690178454be01f4456a5",
-    "sha256": "48448b2ce4055d842c0c6629fdb63ce4cd924b2ea3aeee01927c87bcb56545cd",
-    "title": "Clover (BMS Edit) -heart-",
-    "artist": "Est / obj:緒方智絵里",
-    "url_diff": "http://akred.web.fc2.com/baecon/072_clover_7heart.bme",
-    "url": "http://estish.nobody.jp/index1.html",
-    "level": "3",
-    "comment": "シンプルな物量",
-    "zureCount": 0,
-    "proposer": "10c*",
-    "submission": 2256,
-    "proposerLr2id": 170055
   },
   {
     "md5": "fe8301f2d87b4a2cfa525234ee01607d",
@@ -11175,6 +11161,20 @@
     "proposerLr2id": 147642
   },
   {
+    "md5": "b67f47e5fd9e690178454be01f4456a5",
+    "sha256": "48448b2ce4055d842c0c6629fdb63ce4cd924b2ea3aeee01927c87bcb56545cd",
+    "title": "Clover (BMS Edit) -heart-",
+    "artist": "Est / obj:緒方智絵里",
+    "url_diff": "http://akred.web.fc2.com/baecon/072_clover_7heart.bme",
+    "url": "http://estish.nobody.jp/index1.html",
+    "level": "3",
+    "comment": "シンプルな物量",
+    "zureCount": 0,
+    "proposer": "10c*",
+    "submission": 2256,
+    "proposerLr2id": 170055
+  },
+  {
     "md5": "dcc40c45d2502f31f4e4c2f35bfc8c58",
     "title": "Colour My Sky [Cartelet]",
     "artist": "Kuwagata",
@@ -12851,6 +12851,20 @@
     "proposer": "quinto",
     "submission": 1685,
     "proposerLr2id": 141043
+  },
+  {
+    "md5": "a71537335d29219b96f41f182e2547b1",
+    "sha256": "154aba14e2513afd22eada8933309d8c8d0f8d1fdc13446c359f35f246815e58",
+    "title": "YOU from \"ひぐらしのなく頃に\"",
+    "artist": "composed by だい / arranged by dn3r obj:業",
+    "url_diff": "https://stellabms.xyz/upload/1196",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=131",
+    "level": "3",
+    "comment": "たのしい",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2211,
+    "proposerLr2id": 84597
   },
   {
     "level": "3",
@@ -15830,20 +15844,6 @@
     "proposer": "Triforce",
     "submission": 1420,
     "proposerLr2id": 18553
-  },
-  {
-    "md5": "a71537335d29219b96f41f182e2547b1",
-    "sha256": "154aba14e2513afd22eada8933309d8c8d0f8d1fdc13446c359f35f246815e58",
-    "title": "YOU from \"ひぐらしのなく頃に\"",
-    "artist": "composed by だい / arranged by dn3r obj:業",
-    "url_diff": "https://stellabms.xyz/upload/1196",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=131",
-    "level": "4",
-    "comment": "たのしい",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2211,
-    "proposerLr2id": 84597
   },
   {
     "md5": "f06660c61e2db1da1e3b2e6853c5bdd2",
@@ -19153,6 +19153,19 @@
     "proposerLr2id": 115265
   },
   {
+    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
+    "sha256": "0b2319e1ade45661acc30f7b2d4f6561fe2d0175d3358be311130c3b776e3ae4",
+    "title": "Fireball -Hopeless-",
+    "artist": "tarolabo obj:七海",
+    "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
+    "level": "6",
+    "comment": "追加音がありまして ズレチェックは不可(あっぷろーだご参照)",
+    "proposer": "nozomi",
+    "submission": 2269,
+    "proposerLr2id": 115265
+  },
+  {
     "md5": "080c24d8abe265284cb30effe548ff50",
     "sha256": "29b34592439ac7e6713c3eb4dc86a4cf2bee48a50b1e87bf054196fd4d0ecd23",
     "title": "Freja [yumether]",
@@ -21180,19 +21193,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
-    "sha256": "0b2319e1ade45661acc30f7b2d4f6561fe2d0175d3358be311130c3b776e3ae4",
-    "title": "Fireball -Hopeless-",
-    "artist": "tarolabo obj:七海",
-    "url_diff": "https://www.dropbox.com/s/a0nq0m7p88lbmqw/fireball_nanami.zip?dl=1",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
-    "level": "7",
-    "comment": "追加音がありまして ズレチェックは不可(あっぷろーだご参照)",
-    "proposer": "nozomi",
-    "submission": 2269,
-    "proposerLr2id": 115265
   },
   {
     "md5": "84611c0fdf98ee95d53ca8df510a5ce1",
