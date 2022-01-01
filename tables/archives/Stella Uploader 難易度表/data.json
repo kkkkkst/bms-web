@@ -32522,7 +32522,7 @@
     "comment": "(level:≡10 by:うに) [連打] 筋トレ壁連打 回復量は約0.25%/note"
   },
   {
-    "level": "st5",
+    "level": "st4",
     "title": "炎花 - flameflower - [Quadruple]",
     "entryNo": "1432",
     "level_raw": "★24",
@@ -32568,7 +32568,7 @@
     "comment": "(level:sl11 by:nozomi) [乱打, ガチ押し, 連打, ズレ, 局所難] SPA基準ズレX"
   },
   {
-    "level": "st2",
+    "level": "st4",
     "title": "バーチャルセラピー [インサニティ]",
     "entryNo": "1435",
     "level_raw": "st2?",
@@ -32591,7 +32591,7 @@
     "comment": "(level:st2? by:めた) [乱打, 連打, 局所難] 微縦連と長い縦連 ラスト少し回復"
   },
   {
-    "level": "st2",
+    "level": "st1",
     "title": "Celestial Axes [700nm]",
     "entryNo": "1436",
     "level_raw": "st2?",
@@ -32614,7 +32614,7 @@
     "comment": "(level:st2? by:めた) [乱打, 皿] 高速皿と鍵盤"
   },
   {
-    "level": "st2",
+    "level": "st0",
     "title": "$trange Attraktor [$cramble]",
     "entryNo": "1437",
     "level_raw": "★22",
@@ -32658,5 +32658,28 @@
     "comment_raw": "曲が良いので無難な感じに。同梱穴のCNを無くしやや密度上げ。",
     "publishedTime": "2021-12-31T02:58:24.200Z",
     "comment": "(level:sl0 by:papk) [乱打] 曲が良いので無難な感じに。同梱穴のCNを無くしやや密度上げ。"
+  },
+  {
+    "level": "?",
+    "title": "Metronogik [---/---]",
+    "entryNo": "1439",
+    "level_raw": "G2",
+    "event": "BOFXVII",
+    "minbpm": "1",
+    "maxbpm": "1810180",
+    "total": "234",
+    "judgeText": "NORMAL",
+    "notes": "696",
+    "sha256": "04aedd9e55887c04dc1aa6d2a78acb947385404034288b1f7364c7b02ff5f108",
+    "md5": "a3ec67228d19085465c0d921e221c361",
+    "tags": "ギミック",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=400&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1439",
+    "artist": "Nasvine",
+    "proposer": "sera",
+    "proposerLr2id": "",
+    "comment_raw": "1339 fixed ver SORRY",
+    "publishedTime": "2021-12-31T14:39:28.095Z",
+    "comment": "(level:G2 by:sera) [ギミック] 1339 fixed ver SORRY"
   }
 ]
