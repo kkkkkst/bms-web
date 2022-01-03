@@ -31862,7 +31862,7 @@
     "artist": "utah",
     "comment": "ガチ押し　連打",
     "md5": "ea1f458f83fa845c8287d8a5910e39bb",
-    "max_bpm": "",
+    "max_bpm": "128",
     "url": "",
     "url_diff": ""
   },
@@ -31873,7 +31873,7 @@
     "artist": "Qyubey feat. Juudenki obj.nozomi",
     "comment": "ガチ押し",
     "md5": "0e703be7df59106b08e3ea64b87376e9",
-    "max_bpm": "",
+    "max_bpm": "130",
     "url": "",
     "url_diff": ""
   },
@@ -31884,7 +31884,7 @@
     "artist": "TamaDo (Obj: ReiOW)",
     "comment": "多要素",
     "md5": "4623f7121ee721e27094d211d161ecac",
-    "max_bpm": "",
+    "max_bpm": "174",
     "url": "",
     "url_diff": ""
   },
@@ -31895,7 +31895,7 @@
     "artist": "VeetaCrush & ProjectG bga: linglvz obj: tyrcs",
     "comment": "多要素",
     "md5": "16a7c7bad1dacb7fed698639c3574ec6",
-    "max_bpm": "",
+    "max_bpm": "168",
     "url": "",
     "url_diff": ""
   },
@@ -31906,7 +31906,7 @@
     "artist": "ZUN",
     "comment": "(NORMAL)",
     "md5": "f4fdfce37896dc80d25b6102779d63dd",
-    "max_bpm": "",
+    "max_bpm": "149",
     "url": "",
     "url_diff": ""
   },
@@ -31917,7 +31917,7 @@
     "artist": "Y.W",
     "comment": "",
     "md5": "4ac1641440a2760d5a98c345889e6b96",
-    "max_bpm": "",
+    "max_bpm": "149",
     "url": "",
     "url_diff": ""
   },
@@ -31928,8 +31928,8 @@
     "artist": "sasakure.UK",
     "comment": "",
     "md5": "c61cce5440f8d1c0ebc40a8444b2e120",
-    "max_bpm": "",
-    "url": "",
+    "max_bpm": "145",
+    "url": "http://manbow.nothing.sh/event/explus/ex_revival/music.html",
     "url_diff": ""
   },
   {
@@ -31939,8 +31939,8 @@
     "artist": "sasakure.UK(obj.WAS)",
     "comment": "",
     "md5": "b02f97b60bb9ad8fbb97aaf93d5ad8c6",
-    "max_bpm": "",
-    "url": "",
+    "max_bpm": "145",
+    "url": "http://manbow.nothing.sh/event/explus/ex_revival/music.htmll",
     "url_diff": ""
   },
   {
@@ -31949,8 +31949,8 @@
     "title": "Regain [True End Stories]",
     "artist": "ProjectG obj.ProjectH",
     "comment": "ガチ押し",
-    "md5": "558777ba43146eee26976c1ef66f2d8a",
-    "max_bpm": "",
+    "md5": "419580b963e408ab3eb4bf225ea78af5",
+    "max_bpm": "140",
     "url": "",
     "url_diff": ""
   },
@@ -31961,8 +31961,129 @@
     "artist": "ZUN",
     "comment": "同梱",
     "md5": "dbae2d57643088711fd85785e71bfbe0",
-    "max_bpm": "",
+    "max_bpm": "156",
     "url": "",
     "url_diff": ""
+  },
+  {
+    "id": "1779",
+    "level": "-1",
+    "title": "Outernoid -Xe-",
+    "artist": "Aoi feat. Airi illus:榊原またぎ / obj:LindBlum",
+    "comment": "",
+    "md5": "35fbe7611db6cd78255d25e0608999a5",
+    "max_bpm": "172",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/"
+  },
+  {
+    "id": "1780",
+    "level": "2",
+    "title": "Whole World Simulator -Xe-",
+    "artist": "BACO obj:LindBlum",
+    "comment": "乱打　微連打",
+    "md5": "724b325ee482e0b7182606b1f9d26dcc",
+    "max_bpm": "160",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "1781",
+    "level": "5",
+    "title": "プラネタ＊ヒストリア [Abusive]",
+    "artist": "TKR Illust : Yu_2_mc9r / obj.:ctc",
+    "comment": "ガチ押し",
+    "md5": "ac33feb8711ad800d559f314957c6f5c",
+    "max_bpm": "140",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "1782",
+    "level": "2",
+    "title": "Icyxis [Abusive]",
+    "artist": "Raimukun / obj:.ctc",
+    "comment": "高速",
+    "md5": "74c59d7a22a79c3e53c7d75da2c0a373",
+    "max_bpm": "222",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "1783",
+    "level": "☆",
+    "title": "Beau Rivage-7A[SCRATCH PARADISE]-",
+    "artist": "naotyu-",
+    "comment": "",
+    "md5": "cac4ed3dc24a1ffb6b05274750ffd4d0",
+    "max_bpm": "130",
+    "url": "http://web.archive.org/web/20070526053116/http://www.naotyu-studio7.com/music/bms.html",
+    "url_diff": ""
+  },
+  {
+    "id": "1784",
+    "level": "◎",
+    "title": "Beau Rivage -（’皿’）-",
+    "artist": "naotyu- / obj:あるふす",
+    "comment": "",
+    "md5": "1cb309b5a498c6fc06734d71f383893f",
+    "max_bpm": "130",
+    "url": "http://web.archive.org/web/20070526053116/http://www.naotyu-studio7.com/music/bms.htmll",
+    "url_diff": ""
+  },
+  {
+    "id": "1785",
+    "level": "-2",
+    "title": "Beau Rivage [Illuminati]",
+    "artist": "naotyu- // obj:箕作",
+    "comment": "",
+    "md5": "928a516f2a06ebac439e340fc3ef87bb",
+    "max_bpm": "130",
+    "url": "http://web.archive.org/web/20070526053116/http://www.naotyu-studio7.com/music/bms.html",
+    "url_diff": "http://www.box.net/shared/jprovejadk"
+  },
+  {
+    "id": "1786",
+    "level": "3",
+    "title": "バーチャルセラピー [インサニティ]",
+    "artist": "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / obj:meta",
+    "comment": "連打",
+    "md5": "69596e485c42ad27314bae774506c718",
+    "max_bpm": "166",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
+    "url_diff": "https://stellabms.xyz/upload/1435"
+  },
+  {
+    "id": "1787",
+    "level": "4",
+    "title": "イナリッチ [BAYMAX]",
+    "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj:alt",
+    "comment": "微連打",
+    "md5": "b5c1c4df5628f614e528c5c58ff14856",
+    "max_bpm": "165",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/"
+  },
+  {
+    "id": "1788",
+    "level": "4",
+    "title": "Crush Alcohol [dumpass]",
+    "artist": "shadow_bling obj. tyrcs",
+    "comment": "ディレイ",
+    "md5": "ecb2d3f70570c3a3b45941ecc72c6b04",
+    "max_bpm": "180",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/"
+  },
+  {
+    "id": "1789",
+    "level": "5",
+    "title": "スナレ",
+    "artist": "Zris feat. Green obj. tyrcs",
+    "comment": "ディレイ",
+    "md5": "82aeb140cc56a5618c14cffc97c60d47",
+    "max_bpm": "149",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/"
   }
 ]
