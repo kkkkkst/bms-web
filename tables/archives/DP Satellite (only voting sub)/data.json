@@ -1,5 +1,31 @@
 [
   {
+    "md5": "352daa323679928542d7609219dfcc99",
+    "sha256": "46b7cfbbba5ba6fbed7e2f811309c6e1a6ae161b29498d4095c1485301d18f71",
+    "title": "IMPULSE [DP INSANE]",
+    "artist": "Riya / Limite",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=137",
+    "level": "2",
+    "comment": "2～3?",
+    "proposer": "Telperion",
+    "submission": 650,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
+  },
+  {
+    "md5": "21c2b88393298e4e93c67a42d68e3df1",
+    "sha256": "431f0d37b53a15cbb83d22f9b27070ca6aa02e9b6a7ff2c0702763b2c76b4e4a",
+    "title": "Trahison [DP ANOTHER]",
+    "artist": "be5moti / うまるつふり obj:hi-low",
+    "url_diff": "",
+    "url": "https://dropbox.bms.ms/u/64455831/Trahison_ogg.rar",
+    "level": "4",
+    "comment": "4?, 同梱譜面",
+    "proposer": "JHS",
+    "submission": 652,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "e2edf260dcc761e258f1d2fda3380b19",
     "sha256": "68e0212c8bdfa43e3017df28b4983769463b0e265fb7b6cd035635a460e6f73d",
     "title": "rainbow [DP]",
@@ -39,5 +65,17 @@
     "proposer": "にゃむ",
     "submission": 635,
     "proposerLr2id": 139958
+  },
+  {
+    "md5": "27a6ac517eb18cd3105be73818bc656b",
+    "sha256": "34f8a4eb713a1df663f354b4cb737c71f7439c90d7ce235ab9625411ccf61cb6",
+    "title": "玉響サーチライト [DP INSANE]",
+    "artist": "otoshi.b × みゅい & tolz × はしたかさん & Yosk!",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=137",
+    "level": "10",
+    "proposer": "Telperion",
+    "submission": 651,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
   }
 ]
