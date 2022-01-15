@@ -600,18 +600,6 @@
     "submission": 382
   },
   {
-    "title": "DOLL [DP ANOTHER]",
-    "artist": "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:フォルティッシモ",
-    "url": "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04599",
-    "md5": "2a5fd0ec256acc51bafaadae24b0351a",
-    "sha256": "677aea891a3324927a77287236ae8a5df37c764f4b6bdf606e44a05ed6c0c838",
-    "level": "1",
-    "proposer": "にゃむ",
-    "comment": "折り返し、片手階段",
-    "submission": 405
-  },
-  {
     "title": "especies exoticas",
     "artist": "spine",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=534&event=110",
@@ -1150,6 +1138,18 @@
     "proposer": "JHS",
     "comment": "2?",
     "submission": 478
+  },
+  {
+    "title": "DOLL [DP ANOTHER]",
+    "artist": "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:フォルティッシモ",
+    "url": "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04599",
+    "md5": "2a5fd0ec256acc51bafaadae24b0351a",
+    "sha256": "677aea891a3324927a77287236ae8a5df37c764f4b6bdf606e44a05ed6c0c838",
+    "level": "2",
+    "proposer": "にゃむ",
+    "comment": "折り返し、片手階段",
+    "submission": 405
   },
   {
     "title": "ELIMINATOR [DP ANOTHER]",

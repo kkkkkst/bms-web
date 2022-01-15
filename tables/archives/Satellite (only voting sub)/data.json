@@ -1,5 +1,18 @@
 [
   {
+    "md5": "d700d48be863fcbe8f153b7d6f02d977",
+    "sha256": "242687ddf6e8322500aa91d760f66674bcac8b662b5eaaa4f8ea8710b9e22798",
+    "title": "GOODDRILL [A]",
+    "artist": "EBIMAYO",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=137",
+    "level": "0",
+    "comment": "",
+    "proposer": "canary",
+    "submission": 2310,
+    "proposerMinirid": "a9b53b7a-2c28-4928-9964-b126c2974e48"
+  },
+  {
     "md5": "aba51fecec92154987d239d502509e59",
     "sha256": "44e4cf2f4d8a66470ab510e075476d16ff899eb0dba313b0ccf5225a8089083f",
     "title": "PHAZE UPPER [HONEZT]",
@@ -14,19 +27,6 @@
     "proposerLr2id": 147895
   },
   {
-    "md5": "d361afb95b321792bf485431c6387c7c",
-    "sha256": "389180a47ada0b8ee94ad5f4a42dcda7c5401f6626da643c4aceff6832fa4389",
-    "title": "Random [SP ANOTHER]",
-    "artist": "Sobrem × Silentroom Movie: Harkiadel",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=372&event=137",
-    "level": "0",
-    "comment": "BOFXVII",
-    "proposer": "ИиИ",
-    "submission": 2282,
-    "proposerLr2id": 147895
-  },
-  {
     "md5": "c1e94d7f7bc7a6f140d70f2df8d27069",
     "sha256": "e8cbbbcd1d573dcb9906475c37ac30cbee23282589aa3ebf9b72b3f86a74a94c",
     "title": "Stream Amalgamate [SP ANOTHER]",
@@ -38,6 +38,19 @@
     "proposer": "Mary_Sue",
     "submission": 2299,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "7ed8c5bd26607cf757784ac4f633ca67",
+    "sha256": "c91328652369b18f5977f853fb337ef8ac62c24484958f215769a7175fb7ec68",
+    "title": "Anotherkinetic [7KEY]",
+    "artist": "zatsuzatsu",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=137",
+    "level": "1",
+    "comment": "BPM148 微連打",
+    "proposer": "SHAX.",
+    "submission": 2304,
+    "proposerLr2id": 65624
   },
   {
     "title": "BRIGHTONE 7A",
@@ -55,19 +68,6 @@
     "votePercent": 83.33333333333334,
     "voteVersion": 2,
     "proposerLr2id": 146726
-  },
-  {
-    "md5": "dac15a1f208dcd9f9c67cfadec2c7d61",
-    "sha256": "de0c6f707a53fad4660c6f8897b80363c82bd58fca54b5c5f9f84bb6dba739e7",
-    "title": "Crush Alcohol [SP ANOTHER]",
-    "artist": "shadow_bling obj:Scely",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137",
-    "level": "1",
-    "comment": "0~1",
-    "proposer": "mqppppp",
-    "submission": 2289,
-    "proposerMinirid": "da079373-08be-4151-a76f-8ed44123949a"
   },
   {
     "md5": "b434d831df082ccdd560d0bf82bb1797",
@@ -203,19 +203,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "cb09e5721278a1e02e6a70f058aa6ad7",
-    "sha256": "b3f47bbd90bc21c8c54cd38506a5dbeca038070bc806f30fb320928d4750fd6b",
-    "title": "Jet to 1990",
-    "artist": "Nakaiankow obj:SANY",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=133",
-    "level": "2",
-    "comment": "BPM134 多要素",
-    "proposer": "SHAX.",
-    "submission": 2275,
-    "proposerLr2id": 65624
-  },
-  {
     "md5": "325836401cc255f8b521e2b24516a2f1",
     "sha256": "8a9e19e633d1b040ebb4adfbd8d4e3a20dc148faf3e474c5eb53273fca4c46a9",
     "title": "Ms. Steam [Another]",
@@ -227,6 +214,20 @@
     "proposer": "H∀H",
     "submission": 2291,
     "proposerLr2id": 152181
+  },
+  {
+    "md5": "889f9a6b4361412b29b5604a7922a78a",
+    "sha256": "6d488a3336ac6f367d383a28521ac5315976776a8e1ba143e1a562714c4db872",
+    "title": "Philadelphia Xperiment [Experiments]",
+    "artist": "Xacla Obj.Triforce",
+    "url_diff": "https://stellabms.xyz/upload/1477",
+    "url": "https://drive.google.com/uc?export=download&id=10AZ2UT-6teweRnM1JVul7Otx_AuLuLB5",
+    "level": "2",
+    "comment": "楽しいな 従連打 入門",
+    "zureCount": 0,
+    "proposer": "nozomi",
+    "submission": 2309,
+    "proposerLr2id": 115265
   },
   {
     "md5": "e2c6d9010ce270b191eabb5aa2968449",
@@ -242,23 +243,6 @@
     "proposerLr2id": 145204
   },
   {
-    "title": "starless [Delay]",
-    "artist": "Ym1024 feat. lamie* / obj.siokaze",
-    "url": "http://yellowmapleleaf.com/",
-    "url_diff": "http://siokazebms.web.fc2.com/",
-    "md5": "899434561415ad75dc9940f4f1f45c4a",
-    "sha256": "2523582abd640ab200d28b4446503ef1263359ec8d1b42e6f813268c1e551717",
-    "proposer": "ふかけん",
-    "level": "2",
-    "submission": 1662,
-    "voteYes": 11,
-    "voteNeutral": 0,
-    "voteNo": 3,
-    "votePercent": 78.57142857142857,
-    "voteVersion": 2,
-    "proposerLr2id": 145204
-  },
-  {
     "md5": "34954e3ba8268b27d33fdae2f89f00af",
     "sha256": "05b6e7851f26ff622dc55b02abda1b8df84c4a59b113cb94948de80c81078f72",
     "title": "What Lies Below [7K ANOTHER]",
@@ -270,6 +254,19 @@
     "proposer": "AYhaz",
     "submission": 2295,
     "proposerLr2id": 123475
+  },
+  {
+    "md5": "ade87c17cb41efd9146f2709940d6bfe",
+    "sha256": "619a64f30f0bbc2763ff58be13b324b9d8350ee8a7eb443d2de58d3328b28763",
+    "title": "わるいコ [7keys ANOTHER]",
+    "artist": "nekomimi_STRaw",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
+    "level": "2",
+    "comment": "1~2?",
+    "proposer": "七海",
+    "submission": 2307,
+    "proposerLr2id": 84597
   },
   {
     "title": "路上のギリジン-Shou+rt Mix- [7key_EX]",
@@ -302,6 +299,20 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "4623f7121ee721e27094d211d161ecac",
+    "sha256": "50b60a9d204e5d0a166bf1c1ad3679487b247ec1099e2d4c8ae4f153f6d1b4ca",
+    "title": "Peacemaker [NS-S]",
+    "artist": "TamaDo (Obj: ReiOW)",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=137",
+    "level": "3",
+    "comment": "BPM174 多要素",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2305,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "1ce4647af15a4a40410f9309b0d37378",
     "sha256": "ef99f69de333b78c8147123eba203b88f417f8bdb43309f946df0d5a753e7d5d",
     "title": "Postliminium [SP INSANE]",
@@ -313,20 +324,6 @@
     "proposer": "Mary_Sue",
     "submission": 2298,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "95cf88518665f665177629cdd6ba7fae",
-    "sha256": "e07c0c9bfd9d32b55b4b78ba2b63bb693e535c704c38e797ceaa58fb3af9f883",
-    "title": "てんてん -dawn-",
-    "artist": "都来りねとKeisuke Hattoriと#ねここ14歳 obj: Haze*",
-    "url_diff": "https://stellabms.xyz/upload/1112",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=196&event=74",
-    "level": "3",
-    "comment": "swing",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2278,
-    "proposerLr2id": 84597
   },
   {
     "md5": "c9a4b05532d3ca8c765f6489b6cc25eb",
@@ -372,6 +369,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
+    "sha256": "211b0edc5f02575840fc7e436a6b5ac2260445ed80d75c6fd3d396ac99970c27",
+    "title": "田中 [ANOTHER]",
+    "artist": "立秋 feat.ちょこ",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=137",
+    "level": "3",
+    "comment": "同梱譜面",
+    "proposer": "nozomi",
+    "submission": 2308,
+    "proposerLr2id": 115265
+  },
+  {
     "title": "Theme [Omen]",
     "artist": "ProjectG Obj.Triforce",
     "url": "https://drive.google.com/open?id=1nyoPVH3KPgCQYWABFG9SGjXHgOxb01y1",
@@ -389,108 +399,17 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "6382797789a4791da0e5750fb34d1fb2",
-    "sha256": "f4be11d3bb50025ad58789708da19d8783b1ef21dea043bcb60951cc66ffc6d5",
-    "title": "Wonderful Tomorrow [WONDER]",
-    "artist": "Dolphin feat. Sennzai BGA: Mali Evjen",
+    "md5": "ee1964b81c382bd4b3106d24f8cc7238",
+    "sha256": "37c5dee4f39388572879e7eb462a9eb2cd3c6fcf47ac0305ab147399c9eb0db7",
+    "title": "Kirakirize World [INSANE]",
+    "artist": "kooridori BGA:MUSH.T / obj.rat",
     "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=137",
-    "level": "4",
-    "proposer": "七海",
-    "submission": 2281,
-    "proposerLr2id": 84597
-  },
-  {
-    "md5": "1651f324deb7945654424e48df355fa2",
-    "sha256": "7e8d19e963f84db55ec24ae8d9a94e60d94d9fa6faa78f2bb86139900089dc3f",
-    "title": "Mirror Bell [ZOI]",
-    "artist": "careless obj:SUZUKAZEΛ",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "url": "http://web.archive.org/web/20050127195431/http://www.geocities.co.jp/Playtown-Spade/2455/Mirror.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=168&event=137",
     "level": "5",
-    "comment": "ちょっとソフラン",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2279,
-    "proposerLr2id": 84597
-  },
-  {
-    "md5": "fa091c23a08d1c74c0de7db004f0c8b5",
-    "sha256": "b4ace323b191649d418190f339e4af053a311b1a7b3f6bece9d2703ee6ba20d5",
-    "title": "七月の仇/十月のワンダーランド -Hopeless-",
-    "artist": "麦コロッケ obj:七海",
-    "url_diff": "https://www.dropbox.com/s/teqikddhs85d6u8/nana_nanami.zip?dl=1",
-    "url": "https://cerebralmuddystream.nekokan.dyndns.info/BCII/wo.zip",
-    "level": "6",
-    "comment": "同時押し、微連打、LNなどの多要素。",
-    "zureCount": 0,
-    "proposer": "Mary_Sue",
-    "submission": 2272,
-    "proposerLr2id": 147889
-  },
-  {
-    "md5": "e1471b2ec2de2a67c3aaff31a1f60011",
-    "sha256": "0f4ad2930e93482c3d2c07620e7eb392b9e3fc5b312f08f1d0747219030eb4bc",
-    "title": "endemize [INSANE]",
-    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
-    "level": "7",
-    "comment": "同梱譜面",
-    "proposer": "SUZUKAZEΛ",
-    "submission": 2286,
-    "proposerLr2id": 111239
-  },
-  {
-    "title": "Reptile Dance [Tob]",
-    "artist": "Lxiqy Obj: Toby",
-    "url": "https://www.dropbox.com/s/xky2a2kwvg7jtky/lx_R_D.zip",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04806",
-    "md5": "d53f6a5ad2dd0a804567c2ef84189976",
-    "sha256": "9eb3cc7a9ed2661814f8226033657ae5ba372f6a359084b2a65f9126d2645c1d",
-    "proposer": "SHAX.",
-    "level": "7",
-    "submission": 1703,
-    "voteYes": 8,
-    "voteNeutral": 2,
-    "voteNo": 4,
-    "votePercent": 64.28571428571429,
-    "voteVersion": 2,
-    "proposerLr2id": 65624
-  },
-  {
-    "title": "Sylvie [Teaching Feeling]",
-    "artist": "U.P. obj : Mary_Sue",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=145&event=65",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "md5": "08d506ee9afb235809c8ea64d1aba522",
-    "sha256": "46d46496f9da4fe86561251a34b012bb6802b7345cf2b106c017511a1b218ba1",
-    "proposer": "moka",
-    "level": "7",
-    "submission": 1603,
-    "voteYes": 11,
-    "voteNeutral": 1,
-    "voteNo": 0,
-    "votePercent": 95.83333333333334,
-    "voteVersion": 2,
-    "proposerLr2id": 167326
-  },
-  {
-    "title": "Happico Happico -Luna-",
-    "artist": "Music:しらいし / selene.",
-    "url": "https://drive.google.com/uc?id=1CfewRcEBfI4HNQ3CwW_bp0qTDynkd35S",
-    "url_diff": "https://stellabms.xyz/upload/358",
-    "md5": "de6004b969883d422f7cac5528b58119",
-    "sha256": "3d366d47e5fec39db360b30b9d4c8a682b9d2989f65290db513f1f4f5ceafefd",
-    "proposer": "ふかけん",
-    "level": "8",
-    "submission": 1672,
-    "voteYes": 10,
-    "voteNeutral": 0,
-    "voteNo": 0,
-    "votePercent": 100,
-    "voteVersion": 2,
-    "proposerLr2id": 145204
+    "comment": "楽しい乱打",
+    "proposer": "otoshi.b",
+    "submission": 2306,
+    "proposerLr2id": 87474
   },
   {
     "title": "CRUSH THE PARTY [yumether]",
@@ -552,6 +471,23 @@
     "proposer": "Mallow♪",
     "submission": 2297,
     "proposerLr2id": 154796
+  },
+  {
+    "title": "endemize [RE:RIZE]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス obj:Lian",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
+    "url_diff": "",
+    "md5": "97ac4aa319e5e38381636889a5438133",
+    "sha256": "044df37a14396121de5ef5ceeb2f53ea7021fbff0ec0c133f0374cbafa56f8db",
+    "proposer": "qtp13",
+    "level": "11",
+    "submission": 2260,
+    "voteYes": 1,
+    "voteNeutral": 0,
+    "voteNo": 1,
+    "votePercent": 50,
+    "voteVersion": 2,
+    "proposerLr2id": 86559
   },
   {
     "md5": "32384e2ce36d8da907072a4a70f42497",

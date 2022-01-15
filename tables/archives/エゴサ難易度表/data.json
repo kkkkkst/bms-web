@@ -35,7 +35,7 @@
     "url_diff": "",
     "name_diff": "",
     "comment": "自作BMS",
-    "state": "1",
+    "state": "",
     "date": "Sat May 22 2021 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -61,7 +61,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/kanokoku_nanami.zip",
     "name_diff": "",
     "comment": "",
-    "state": "1",
+    "state": "3",
     "date": "Tue Nov 09 2021 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -347,7 +347,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/dba2012_nanami01.bme",
     "name_diff": "",
     "comment": "",
-    "state": "3",
+    "state": "",
     "date": "Sat Oct 27 2018 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -542,7 +542,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/teddy%20bear%20in%20my%20room.zip",
     "name_diff": "",
     "comment": "",
-    "state": "",
+    "state": "3",
     "date": "Tue Dec 10 2019 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -685,7 +685,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/gunto_nanami.zip",
     "name_diff": "",
     "comment": "",
-    "state": "3",
+    "state": "",
     "date": "Fri Oct 23 2020 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -1014,6 +1014,19 @@
     "date": "Thu Jun 14 2018 16:00:00 GMT+0900 (JST)"
   },
   {
+    "level": "5",
+    "md5": "0433ff25c2ec3a87ef3049a26338a7d5",
+    "movie_link": "https://youtu.be/xs5TewHC_lY",
+    "title": "わるいコ -希望-",
+    "artist": "nekomimi_STRaw / obj:七海",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
+    "url_diff": "https://egosa0424.github.io/sabun/waruiko_nanami.zip",
+    "name_diff": "",
+    "comment": "",
+    "state": "1",
+    "date": "Fri Jan 14 2022 17:00:00 GMT+0900 (JST)"
+  },
+  {
     "level": "6",
     "md5": "5c5fdbb4051fc0b2b7831f54466b2fa7",
     "movie_link": "https://youtu.be/GnKmeMruByY",
@@ -1127,7 +1140,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/taketrans_nanami.zip",
     "name_diff": "",
     "comment": "",
-    "state": "1",
+    "state": "3",
     "date": "Tue Oct 05 2021 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -1262,6 +1275,19 @@
   },
   {
     "level": "7",
+    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
+    "movie_link": "https://youtu.be/X5wDiJmi52Q",
+    "title": "Fireball -Hopeless-",
+    "artist": "tarolabo obj:七海",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
+    "url_diff": "https://egosa0424.github.io/sabun/fireball_nanami.zip",
+    "name_diff": "",
+    "comment": "sl6",
+    "state": "2",
+    "date": "Tue Nov 02 2021 16:00:00 GMT+0900 (JST)"
+  },
+  {
+    "level": "7",
     "md5": "6e11da8e42c4d65619f2bdf50e9d45d9",
     "movie_link": "https://youtu.be/t_G4QrJ78R4",
     "title": "LOSHAXI -Hopeless-",
@@ -1335,21 +1361,8 @@
     "url_diff": "https://egosa0424.github.io/sabun/Couple_7egs.bme",
     "name_diff": "",
     "comment": "",
-    "state": "3",
+    "state": "",
     "date": "Fri May 25 2018 16:00:00 GMT+0900 (JST)"
-  },
-  {
-    "level": "8",
-    "md5": "5701a1cb14007b1b0adb79e7df9af30c",
-    "movie_link": "https://youtu.be/X5wDiJmi52Q",
-    "title": "Fireball -Hopeless-",
-    "artist": "tarolabo obj:七海",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Fireball%20(by%20tarolabo).rar",
-    "url_diff": "https://egosa0424.github.io/sabun/fireball_nanami.zip",
-    "name_diff": "",
-    "comment": "",
-    "state": "1",
-    "date": "Tue Nov 02 2021 16:00:00 GMT+0900 (JST)"
   },
   {
     "level": "8",
@@ -1607,8 +1620,8 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=160&event=137",
     "url_diff": "https://egosa0424.github.io/sabun/energy_revivel_nanami(fix).zip",
     "name_diff": "",
-    "comment": "fix ver",
-    "state": "1",
+    "comment": "",
+    "state": "3",
     "date": "Sat Nov 13 2021 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -1623,19 +1636,6 @@
     "comment": "",
     "state": "",
     "date": "Sat Oct 22 2016 16:00:00 GMT+0900 (JST)"
-  },
-  {
-    "level": "10",
-    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
-    "movie_link": "https://youtu.be/sZWlSOuTrbc",
-    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
-    "artist": "ptar124 BGA: Yumemochi, OBJ:七海",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=402&event=133",
-    "url_diff": "https://egosa0424.github.io/sabun/pba_nanami.zip",
-    "name_diff": "",
-    "comment": "sl10",
-    "state": "2",
-    "date": "Fri Mar 12 2021 17:00:00 GMT+0900 (JST)"
   },
   {
     "level": "10",
@@ -1717,6 +1717,19 @@
   },
   {
     "level": "11",
+    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+    "movie_link": "https://youtu.be/sZWlSOuTrbc",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
+    "artist": "ptar124 BGA: Yumemochi, OBJ:七海",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=402&event=133",
+    "url_diff": "https://egosa0424.github.io/sabun/pba_nanami.zip",
+    "name_diff": "",
+    "comment": "sl11",
+    "state": "2",
+    "date": "Fri Mar 12 2021 17:00:00 GMT+0900 (JST)"
+  },
+  {
+    "level": "11",
     "md5": "38646dac34dc2130ce02648361bee04c",
     "movie_link": "https://youtu.be/gHHWcEPoE1E",
     "title": "Preta -Hope-",
@@ -1764,7 +1777,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/papipo_nanami_fix.zip",
     "name_diff": "",
     "comment": "",
-    "state": "1",
+    "state": "3",
     "date": "Thu Dec 30 2021 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -1842,7 +1855,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/brink_nanami_fix.zip",
     "name_diff": "",
     "comment": "fix ver",
-    "state": "1",
+    "state": "",
     "date": "Thu Sep 23 2021 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -1932,8 +1945,8 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=96",
     "url_diff": "https://egosa0424.github.io/sabun/holy_night_nanami.zip",
     "name_diff": "",
-    "comment": "",
-    "state": "1",
+    "comment": "st0",
+    "state": "2",
     "date": "Mon Nov 29 2021 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -2024,7 +2037,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/ReviXy_nanami01.bms",
     "name_diff": "",
     "comment": "",
-    "state": "3",
+    "state": "",
     "date": "Thu May 16 2019 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -2154,7 +2167,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/zokubutsu_nanami.zip",
     "name_diff": "",
     "comment": "",
-    "state": "1",
+    "state": "3",
     "date": "Wed Nov 03 2021 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -2193,7 +2206,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/tanaka_nanami.zip",
     "name_diff": "",
     "comment": "",
-    "state": "1",
+    "state": "3",
     "date": "Mon Nov 08 2021 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -2687,7 +2700,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/inarich_nanamary.zip",
     "name_diff": "",
     "comment": "Mary_Sueさんと合作",
-    "state": "1",
+    "state": "3",
     "date": "Sun Nov 07 2021 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -2700,7 +2713,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/komorinu_nanami.zip",
     "name_diff": "",
     "comment": "",
-    "state": "1",
+    "state": "3",
     "date": "Tue Nov 30 2021 17:00:00 GMT+0900 (JST)"
   },
   {
@@ -2715,6 +2728,19 @@
     "comment": "",
     "state": "3",
     "date": "Mon Aug 06 2018 16:00:00 GMT+0900 (JST)"
+  },
+  {
+    "level": "14",
+    "md5": "de47ec858496f28f2f07e97ca211c0d5",
+    "movie_link": "https://youtu.be/WEbri7NRo-g",
+    "title": "わるいコ -絶望-",
+    "artist": "nekomimi_STRaw / obj:七海",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
+    "url_diff": "https://egosa0424.github.io/sabun/waruiko_nanami.zip",
+    "name_diff": "",
+    "comment": "",
+    "state": "1",
+    "date": "Thu Jan 13 2022 17:00:00 GMT+0900 (JST)"
   },
   {
     "level": "15",
@@ -2952,6 +2978,19 @@
   },
   {
     "level": "15",
+    "md5": "a5fe61fcc3b1ffdc27189b1b2d985f39",
+    "movie_link": "https://youtu.be/KGADAPiH9ws",
+    "title": "でじたるふぁじー！ -Radio Edit- [でぃすぺあ]",
+    "artist": "ねこみりん / 小宮真央 / わんびぃ / obj:七海",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=65",
+    "url_diff": "https://egosa0424.github.io/sabun/digital_nanami.zip",
+    "name_diff": "",
+    "comment": "",
+    "state": "1",
+    "date": "Tue Jan 11 2022 17:00:00 GMT+0900 (JST)"
+  },
+  {
+    "level": "15",
     "md5": "4046f83d44c5facbc52c759c271908f0",
     "movie_link": "https://youtu.be/kNFzkcMALIg",
     "title": "なんかたのしいことないかな -Despair-",
@@ -3082,6 +3121,19 @@
   },
   {
     "level": "16",
+    "md5": "ea469ce9eb240d9689a39440f6ea456e",
+    "movie_link": "https://youtu.be/OlSFKa5nvxg",
+    "title": "Merry Christmas Mr.環",
+    "artist": "sasakure.UK obj:七海",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Merry%20Christmas%20Mr.%20(by%20sasakure.UK).rar",
+    "url_diff": "https://egosa0424.github.io/sabun/merry_kan_nanami.zip",
+    "name_diff": "",
+    "comment": "For 環",
+    "state": "",
+    "date": "Wed Dec 22 2021 17:00:00 GMT+0900 (JST)"
+  },
+  {
+    "level": "16",
     "md5": "faa61e81aa657997fb443dca9a1ce894",
     "movie_link": "https://youtu.be/Hirh-7OY1uQ",
     "title": "mom [コッコロ]",
@@ -3142,7 +3194,7 @@
     "url_diff": "https://egosa0424.github.io/sabun/kiyubic_nanamary.zip",
     "name_diff": "",
     "comment": "Mary_Sueさんと合作",
-    "state": "1",
+    "state": "3",
     "date": "Fri Nov 05 2021 16:00:00 GMT+0900 (JST)"
   },
   {
@@ -3248,19 +3300,6 @@
     "comment": "",
     "state": "",
     "date": "Thu Jan 02 2020 17:00:00 GMT+0900 (JST)"
-  },
-  {
-    "level": "17",
-    "md5": "ea469ce9eb240d9689a39440f6ea456e",
-    "movie_link": "https://youtu.be/OlSFKa5nvxg",
-    "title": "Merry Christmas Mr.環",
-    "artist": "sasakure.UK obj:七海",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Merry%20Christmas%20Mr.%20(by%20sasakure.UK).rar",
-    "url_diff": "https://egosa0424.github.io/sabun/merry_kan_nanami.zip",
-    "name_diff": "",
-    "comment": "For 環",
-    "state": "",
-    "date": "Wed Dec 22 2021 17:00:00 GMT+0900 (JST)"
   },
   {
     "level": "17",
@@ -3508,6 +3547,19 @@
     "comment": "(ネタ差分) For blurtic",
     "state": "",
     "date": "Sun Nov 06 2016 16:00:00 GMT+0900 (JST)"
+  },
+  {
+    "level": "???",
+    "md5": "af834f38582f7efc48cc2c07b2ca876b",
+    "movie_link": "https://youtu.be/JROUlnLsftw",
+    "title": "requiem for the crazy girl -Despair-",
+    "artist": "SKz / obj:七海",
+    "url": "http://www.mediafire.com/file/xzuc5adk0g9fzyr/requiem_for_the_crazy_girl_LQ.zip",
+    "url_diff": "https://egosa0424.github.io/sabun/requiem_for_nanami.zip",
+    "name_diff": "",
+    "comment": "瞬間発狂",
+    "state": "1",
+    "date": "Tue Jan 11 2022 17:00:00 GMT+0900 (JST)"
   },
   {
     "level": "???",

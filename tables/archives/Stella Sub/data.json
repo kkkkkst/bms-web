@@ -2122,19 +2122,6 @@
     "proposerLr2id": 40621
   },
   {
-    "md5": "64c5d825e6b4eb6d288270719aedb793",
-    "sha256": "96af739f628445b18acfb330771b0d319617e7c58d62e25b59bfe63907a4c37c",
-    "title": "ハッピーフェイクショー [SP INSANE]",
-    "artist": "Ponchi♪ feat.はぁち obj:mathath",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
-    "level": "0",
-    "comment": "sl12~st1?",
-    "proposer": "qtp13",
-    "submission": 1700,
-    "proposerLr2id": 86559
-  },
-  {
     "md5": "b2d0911f389aab92b4f7b0ff5ca345e0",
     "title": "ハニエルのうた [EXTRA]",
     "artist": "sak feat.みゅい BGI:球根",
@@ -8934,18 +8921,6 @@
     "sha256": "6be63d4fd95c0429c92647bf7a7f902d16dc3705714872c1c8fa325328450bdc"
   },
   {
-    "md5": "2192cc7b27d7afad57a2aba085f94b2f",
-    "sha256": "31e664fd51dd24c1668ff39ffd162d0e9d84b4171066a4c291ae8e1ce00f8ba5",
-    "title": "アルスノヴァに喝采を [ANGUISHFUL]",
-    "artist": "qfeileadh feat.レゾナンスもえこ movie:アカイユウ / illust:ねるぞう",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=137",
-    "level": "2",
-    "proposer": "七海",
-    "submission": 1702,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "ea755ec70f08d00c44fb0bd7fabac19d",
     "sha256": "665e65d8a80f6710d6e3970cee2c9e1d6158f38a20de08dff8b906ebb35f6d01",
     "title": "イノリ [Hexagon]",
@@ -9069,6 +9044,19 @@
     "proposer": "歳納京子",
     "submission": 1708,
     "proposerLr2id": 75332
+  },
+  {
+    "md5": "196b23d514f7831e2c40f094a23e476e",
+    "sha256": "94a473b3d75015c6c847823cb229fb1e2153b4c031181d563e31e09bdb256692",
+    "title": "ハッピーフェイクショー [Haven't you heard?]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
+    "level": "2",
+    "comment": "ディレイ",
+    "proposer": "七海",
+    "submission": 1723,
+    "proposerLr2id": 84597
   },
   {
     "md5": "985e91ac0ba1460509416ad164e793db",
@@ -10086,6 +10074,19 @@
     "proposer": "氷城つるぎ",
     "submission": 1116,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "8d40da5d7d90987566297ef621c2d3ef",
+    "sha256": "733f2e9c743bdb2fb1c80ded2ec2c2df58c421e153b9cff7400ba5013457fa82",
+    "title": "Butterfly Effect [INSANE]",
+    "artist": "NE/BGI:MASH",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=137",
+    "level": "3",
+    "comment": "高速物量",
+    "proposer": "みあ",
+    "submission": 1724,
+    "proposerLr2id": 110345
   },
   {
     "md5": "b3cb3cb61f7f1de982223ef4e037e02e",
@@ -12303,6 +12304,18 @@
     "votePercent": 0
   },
   {
+    "md5": "2192cc7b27d7afad57a2aba085f94b2f",
+    "sha256": "31e664fd51dd24c1668ff39ffd162d0e9d84b4171066a4c291ae8e1ce00f8ba5",
+    "title": "アルスノヴァに喝采を [ANGUISHFUL]",
+    "artist": "qfeileadh feat.レゾナンスもえこ movie:アカイユウ / illust:ねるぞう",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=137",
+    "level": "3",
+    "proposer": "七海",
+    "submission": 1702,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "e9fc82f22a048d62165c482841eb0d33",
     "sha256": "a79ade67dbbd658d996489ed64d9d649a95514ccb2ee7590f824da23441fac00",
     "title": "ウタカタ・サマーメモリーズ -To The Future-",
@@ -14125,6 +14138,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "76d6653579c2d6e0ccee8806a75636c3",
+    "sha256": "8cceb99832731fc17734bebba00dbb67110e1cbca760e15f774170729e4aaed2",
+    "title": "March 27 [卒論]",
+    "artist": "nkmm妖精s",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=104",
+    "level": "4",
+    "comment": "物量-乱打",
+    "proposer": "はしたかさん",
+    "submission": 1720,
+    "proposerLr2id": 120169
+  },
+  {
     "md5": "e332debea050f1700fd92aa40dfc8e0b",
     "title": "MASAMUNE [Hexagon]",
     "artist": "NS-Factory obj.hex",
@@ -14939,6 +14965,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "aa75655a1d0b2fa2456ce0eaf73d55973997123eff052477706fb0245383bdaf"
+  },
+  {
+    "md5": "671cb497784c661436febd42784b9953",
+    "sha256": "295195f8b5e42fa5b5e1b22eaa795d91e724604e199d81d23b8680e8d82daef4",
+    "title": "Wonderful Tomorrow [Powerful Days]",
+    "artist": "Dolphin feat. Sennzai BGA: Mali Evjen OBJ: D'Ascuruk-Henkeric",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=137",
+    "level": "4",
+    "comment": "BPM120 ガチ押し ズレ",
+    "proposer": "SHAX.",
+    "submission": 1719,
+    "proposerLr2id": 65624
   },
   {
     "md5": "a453ecdda9bf2161f38aa69dd5493ed9",
@@ -16124,6 +16163,19 @@
     "sha256": "037db65c353d6bdc8bb9d4841e76f7d6c2cebfcbd1fa8414894f4a76fb2bca8c"
   },
   {
+    "md5": "be7fac015e47e921a2cb02623bc1ec41",
+    "sha256": "2e954b2e66ce277e884ae698c403e4cbdbf2e7e7b5f48800d8ea8d5e721f3980",
+    "title": "FUELBLOODS -GOD-",
+    "artist": "callasoiled / obj. marie",
+    "url_diff": "",
+    "url": "https://www.dropbox.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip?dl=0",
+    "level": "5",
+    "comment": "ステラ難易度表メインテーマ歌います  ティナイタスアザーのように 譜面よ　練習になれ （BGM: tinnitus / SP#)",
+    "proposer": "AYhaz",
+    "submission": 1721,
+    "proposerLr2id": 123475
+  },
+  {
     "md5": "403e9511dd9b029a22cdf45e55f36384",
     "sha256": "c9c5a786c5b805f72c1d4ef81c7d2edf1d93508155710fd662c794db9028a0c5",
     "title": "G e n g a o z o - f o n",
@@ -16693,6 +16745,19 @@
     "zureCount": 0,
     "proposer": "SHAX.",
     "submission": 1488,
+    "proposerLr2id": 65624
+  },
+  {
+    "md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "sha256": "3c87e11179bbbb9a04d2f3b39620245a23eb16336926daf9d0ccfb2444d27154",
+    "title": "Regain [///]",
+    "artist": "ProjectG obj tyrcs",
+    "url_diff": "https://stellabms.xyz/upload/1335",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137",
+    "level": "5",
+    "comment": "BPM140 ディレイ",
+    "proposer": "SHAX.",
+    "submission": 1718,
     "proposerLr2id": 65624
   },
   {
@@ -19729,21 +19794,6 @@
     "sha256": "8156f77d7daa49355978caee1dedd6a521bcdd9efc2cc478cb0e255fe867ae9b"
   },
   {
-    "title": "Reason of being [genesis]",
-    "artist": "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
-    "url_diff": "",
-    "md5": "8808f736cb16968a5e0647a80e6aee47",
-    "level": "7",
-    "proposer": "sak",
-    "comment": "",
-    "submission": 181,
-    "votePercent": 0,
-    "voteYes": 0,
-    "voteNo": 0,
-    "sha256": "3481e384c2550a958da19c09599b12bca71621b4838d0f429ee7ab2d13221268"
-  },
-  {
     "title": "Rhadamanthys",
     "artist": "風鈴奏 Rustin",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=100",
@@ -21978,6 +22028,19 @@
     "sha256": "49081bac5292fc57f62a85ff8d5cf50bddf9b73e121ed335b8f881aa96e4ccaa"
   },
   {
+    "md5": "ddde6edd6b9c08fb198bfb82b48e743c",
+    "sha256": "a61a554b86bf9533cbee5336bc07738381005dd50a1abf36d3c1eca2ada24c64",
+    "title": "アルスノヴァに喝采を [SUPERNOVA]",
+    "artist": "qfeileadh feat.レゾナンスもえこ movie:アカイユウ / illust:ねるぞう",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=137",
+    "level": "9",
+    "comment": "ごまかし系ディレイ Total高め",
+    "proposer": "otoshi.b",
+    "submission": 1722,
+    "proposerLr2id": 87474
+  },
+  {
     "md5": "ae9b5e367d53f7f5018a3cb3e17f3788",
     "title": "アレア→イデア [プラズマ+]",
     "artist": "ケットシー @main obj:firi.",
@@ -22088,6 +22151,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "0c0ec192fd893bc45535b53f1550a011549cd7723a6cd2f21837a8596af36330"
+  },
+  {
+    "md5": "d86579349c8ddce8c35b28f60d25a05e",
+    "sha256": "096adc606cc0ec361e311115aa80fe0f8379119178382d597eb4cb8b89654815",
+    "title": "田中 [RESTORATION]",
+    "artist": "立秋 feat.ちょこ / extra",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=137",
+    "level": "9",
+    "comment": "日本４位",
+    "zureCount": 0,
+    "proposer": "心愛れもん",
+    "submission": 1717,
+    "proposerLr2id": 61019
   },
   {
     "md5": "30ffe778cecf1dc7109faf38015a0f0f",
@@ -22817,19 +22894,6 @@
     "proposerLr2id": 86559
   },
   {
-    "md5": "cdf5b366fc7e518bcb9ea1e9a169e5ea",
-    "sha256": "335013a3b8fb95e537c9f72c70a10758fbac57bbdb4a1d206be55f46d4fd2811",
-    "title": "bEyOnD",
-    "artist": "Lime / Crude Sound Adder",
-    "url_diff": "https://bms.parksulab.xyz",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
-    "level": "11",
-    "comment": "人間にできるか不明だけど曲と譜面に魅力を感じたため。リドミ的にはズレ無しらしい。",
-    "proposer": "turbow",
-    "submission": 1498,
-    "proposerMinirid": "6ff4a3e0-3764-464e-ba27-37e10197ee2a"
-  },
-  {
     "md5": "4663109750a2e9ca7a108fa534547a04",
     "sha256": "215cc31e88a74b3bb38b0ba8c6bec9628be8dc16374f562973a2455d082c0713",
     "title": "Black Lotus -Bismarck-",
@@ -23246,6 +23310,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "c1d6e20ee6a6ced21a6afcf41cde07a949000dd8b56fe7e479f67ac7d897d0fa"
+  },
+  {
+    "md5": "cdf5b366fc7e518bcb9ea1e9a169e5ea",
+    "sha256": "335013a3b8fb95e537c9f72c70a10758fbac57bbdb4a1d206be55f46d4fd2811",
+    "title": "bEyOnD",
+    "artist": "Lime / Crude Sound Adder",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "level": "12",
+    "comment": "人間にできるか不明だけど曲と譜面に魅力を感じたため。リドミ的にはズレ無しらしい。",
+    "proposer": "turbow",
+    "submission": 1498,
+    "proposerMinirid": "6ff4a3e0-3764-464e-ba27-37e10197ee2a"
   },
   {
     "title": "Dusk Recapture [AB]",
