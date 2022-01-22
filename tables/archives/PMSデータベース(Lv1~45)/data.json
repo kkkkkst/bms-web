@@ -76570,6 +76570,25 @@
     "state": "3"
   },
   {
+    "level": "44",
+    "title": "Goliath [PMSON差分]",
+    "md5": "bccc2a06da12526d41a8ff8f9a52be97",
+    "sha256": "b12424dc8a36ef56920513e2b576a7708b89effe2e1b58cec008f1a1382365af",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html",
+    "artist": "exclusion",
+    "notes": "849",
+    "total": "430 (0.506%/note)",
+    "memo": "BOF2016",
+    "comment": "bmson対応本体 (beatoraja等) でプレイしてください  /  難易度更新:lv24→26",
+    "no": "11249.5",
+    "state": "3"
+  },
+  {
     "level": "42",
     "title": "Gut Shot",
     "md5": "77186a71b9984aa1b2b92564ed8523f3",
@@ -108997,7 +109016,7 @@
     "artist": "NEKOTEK (TM2)",
     "notes": "489",
     "total": "250 (0.511%/note)",
-    "memo": "",
+    "memo": "TM2",
     "comment": "NORMAL判定",
     "no": "23240",
     "state": "1"
@@ -109016,7 +109035,7 @@
     "artist": "じゅーるん (TM2)",
     "notes": "610",
     "total": "276 (0.452%/note)",
-    "memo": "",
+    "memo": "TM2",
     "comment": "NORMAL判定　難易度更新: lv29(+6)→37",
     "no": "23241",
     "state": "1"
@@ -109035,7 +109054,7 @@
     "artist": "sek (TM2)",
     "notes": "780",
     "total": "260 (0.333%/note)",
-    "memo": "",
+    "memo": "TM2",
     "comment": "NORMAL判定",
     "no": "23242",
     "state": "1"
@@ -109054,7 +109073,7 @@
     "artist": "Yamajet (TM2)",
     "notes": "500",
     "total": "299 (0.598%/note)",
-    "memo": "",
+    "memo": "TM2",
     "comment": "NORMAL判定, 地雷あり 難易度更新: 83 → lv?",
     "no": "23243",
     "state": "1"

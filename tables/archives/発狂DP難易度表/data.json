@@ -964,7 +964,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 5,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -1914,7 +1914,7 @@
     "eval": 0,
     "v_vote": 6,
     "v_good": 5,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -1952,7 +1952,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 5,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -4004,7 +4004,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 5,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -4080,7 +4080,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 5,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -4175,7 +4175,7 @@
     "eval": 0,
     "v_vote": 4,
     "v_good": 4,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -5089,6 +5089,25 @@
     "v_good": 0,
     "state": 0,
     "delete": null,
+    "tag": null
+  },
+  {
+    "lr2_bmsid": 292946,
+    "md5": "ed4920db5c733d06b3c0cbaadc990cad",
+    "sha256": "bedc456a34914264a7f047d61e6a0ca2987420022fa74ff0a6fce330d1c1b07d",
+    "level": 5,
+    "title": "新 漢江水打令 [DP LEGGENDARIA]",
+    "artist": "Sound piercer feat.ΣX mov.Ratif",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=133",
+    "url_diff": "",
+    "name_diff": "",
+    "comment": "同梱",
+    "reg_date": " ",
+    "eval": 0,
+    "v_vote": 4,
+    "v_good": 4,
+    "state": 1,
+    "delete": 0,
     "tag": null
   },
   {
@@ -6817,7 +6836,7 @@
     "v_vote": 0,
     "v_good": 0,
     "state": 0,
-    "delete": null,
+    "delete": 0,
     "tag": null
   },
   {
@@ -9571,7 +9590,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 0,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -9649,25 +9668,6 @@
     "v_good": 1,
     "state": 0,
     "delete": 0,
-    "tag": null
-  },
-  {
-    "lr2_bmsid": 73659,
-    "md5": "89cdd16f4d5035509fe52fca32192515",
-    "sha256": "6bccf22c04faf6b659ee1fb47732240f2289e78c3134349efb9c1e30664256bd",
-    "level": 10,
-    "title": "Ms.Naive Princess [DP Prince]",
-    "artist": "xenothium obj:NEPIA",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=64",
-    "url_diff": "http://nepiadpbms.nobu-naga.net/",
-    "name_diff": "",
-    "comment": "差分はhttp://dpbms.at-ninja.jp/nepia/nepia.html",
-    "reg_date": " ",
-    "eval": 0,
-    "v_vote": 0,
-    "v_good": 0,
-    "state": 0,
-    "delete": null,
     "tag": null
   },
   {
@@ -10336,6 +10336,25 @@
     "tag": null
   },
   {
+    "lr2_bmsid": 73659,
+    "md5": "89cdd16f4d5035509fe52fca32192515",
+    "sha256": "6bccf22c04faf6b659ee1fb47732240f2289e78c3134349efb9c1e30664256bd",
+    "level": 11,
+    "title": "Ms.Naive Princess [DP Prince]",
+    "artist": "xenothium obj:NEPIA",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=64",
+    "url_diff": "http://nepiadpbms.nobu-naga.net/",
+    "name_diff": "",
+    "comment": "差分はhttp://dpbms.at-ninja.jp/nepia/nepia.html",
+    "reg_date": " ",
+    "eval": 0,
+    "v_vote": 4,
+    "v_good": 1,
+    "state": 1,
+    "delete": 0,
+    "tag": null
+  },
+  {
     "lr2_bmsid": 206570,
     "md5": "607ec91677b404762223cbb5273c58fe",
     "sha256": "49cfb46df98a3744d12041b7f56974cfe2c232fc981ef945b56113eda51f0301",
@@ -10768,7 +10787,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 4,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -10825,7 +10844,7 @@
     "eval": 0,
     "v_vote": 6,
     "v_good": 0,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -10996,7 +11015,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 0,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -11148,7 +11167,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 1,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -11225,6 +11244,25 @@
     "v_vote": 3,
     "v_good": 3,
     "state": 0,
+    "delete": 0,
+    "tag": null
+  },
+  {
+    "lr2_bmsid": 285915,
+    "md5": "d79eb1fa30f29569e4d269765bdfd1a1",
+    "sha256": "6a70b9740da6edc28773cd7c179a77193ac394846dfbfda656094fea4fd66884",
+    "level": 12,
+    "title": "MARENOL [Nightmare]",
+    "artist": "LeaF / obj@PEN Movie:Optie&Fiz",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/839",
+    "name_diff": "",
+    "comment": "",
+    "reg_date": " ",
+    "eval": 0,
+    "v_vote": 4,
+    "v_good": 3,
+    "state": 1,
     "delete": 0,
     "tag": null
   },
@@ -11376,7 +11414,7 @@
     "eval": 0,
     "v_vote": 3,
     "v_good": 3,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -11452,7 +11490,7 @@
     "eval": 0,
     "v_vote": 4,
     "v_good": 4,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },
@@ -11718,7 +11756,7 @@
     "eval": 0,
     "v_vote": 5,
     "v_good": 5,
-    "state": 1,
+    "state": 0,
     "delete": 0,
     "tag": null
   },

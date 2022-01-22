@@ -1200,6 +1200,19 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "d700d48be863fcbe8f153b7d6f02d977",
+    "sha256": "242687ddf6e8322500aa91d760f66674bcac8b662b5eaaa4f8ea8710b9e22798",
+    "title": "GOODDRILL [A]",
+    "artist": "EBIMAYO",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=137",
+    "level": "0",
+    "comment": "",
+    "proposer": "canary",
+    "submission": 2310,
+    "proposerMinirid": "a9b53b7a-2c28-4928-9964-b126c2974e48"
+  },
+  {
     "md5": "76b1a277369cb77868d1ec35d452a31f",
     "sha256": "1477f8e564c7d087766346c4dd6d84090d39fe0db76660bf07a3161afd5d9538",
     "title": "GOODWORLD [A]",
@@ -9349,6 +9362,20 @@
     "proposerLr2id": 93763
   },
   {
+    "md5": "889f9a6b4361412b29b5604a7922a78a",
+    "sha256": "6d488a3336ac6f367d383a28521ac5315976776a8e1ba143e1a562714c4db872",
+    "title": "Philadelphia Xperiment [Experiments]",
+    "artist": "Xacla Obj.Triforce",
+    "url_diff": "https://stellabms.xyz/upload/1477",
+    "url": "https://drive.google.com/uc?export=download&id=10AZ2UT-6teweRnM1JVul7Otx_AuLuLB5",
+    "level": "2",
+    "comment": "楽しいな 従連打 入門",
+    "zureCount": 0,
+    "proposer": "nozomi",
+    "submission": 2309,
+    "proposerLr2id": 115265
+  },
+  {
     "md5": "4de642df5814292d66db1f011f63a676",
     "sha256": "8d1d1deb26bf3331a6b4c0933aa4475d11bf5a91ced162a2faed7d8e895bf9c2",
     "title": "Prismrose [Blossom]",
@@ -10158,6 +10185,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "ade87c17cb41efd9146f2709940d6bfe",
+    "sha256": "619a64f30f0bbc2763ff58be13b324b9d8350ee8a7eb443d2de58d3328b28763",
+    "title": "わるいコ [7keys ANOTHER]",
+    "artist": "nekomimi_STRaw",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
+    "level": "2",
+    "comment": "1~2?",
+    "proposer": "七海",
+    "submission": 2307,
+    "proposerLr2id": 84597
   },
   {
     "level": "2",
@@ -13776,6 +13816,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
+    "sha256": "211b0edc5f02575840fc7e436a6b5ac2260445ed80d75c6fd3d396ac99970c27",
+    "title": "田中 [ANOTHER]",
+    "artist": "立秋 feat.ちょこ",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=137",
+    "level": "3",
+    "comment": "同梱譜面",
+    "proposer": "nozomi",
+    "submission": 2308,
+    "proposerLr2id": 115265
   },
   {
     "md5": "6ad63bdfce1072784d7903ca542e7608",
@@ -20633,6 +20686,19 @@
     "proposer": "moka",
     "submission": 1907,
     "proposerLr2id": 167326
+  },
+  {
+    "md5": "afbac5a87e521f83da946fe1a0ef6182",
+    "sha256": "0e6f96dcf7bf08d21754dba8c39ad07eefdf8b37f0e5a1d4a84dd187df9403d6",
+    "title": "ミライトコネクト [SP ANOTHER]",
+    "artist": "Sound piercer & ginkiha (feat.柚子花 & NeLiME)",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=137",
+    "level": "6",
+    "comment": "BOFXVII/同梱譜面",
+    "proposer": "ねおんし",
+    "submission": 2311,
+    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
   },
   {
     "md5": "5eac82485a4e1a9d5a8ed50957726194",
@@ -40995,6 +41061,19 @@
     "proposerLr2id": 75332
   },
   {
+    "md5": "196b23d514f7831e2c40f094a23e476e",
+    "sha256": "94a473b3d75015c6c847823cb229fb1e2153b4c031181d563e31e09bdb256692",
+    "title": "ハッピーフェイクショー [Haven't you heard?]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
+    "level": "15",
+    "comment": "ディレイ",
+    "proposer": "七海",
+    "submission": 1723,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "985e91ac0ba1460509416ad164e793db",
     "title": "ハローワールド (EX)",
     "artist": "koushirou（卑屈P）/さ",
@@ -42010,6 +42089,19 @@
     "proposer": "氷城つるぎ",
     "submission": 1116,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "8d40da5d7d90987566297ef621c2d3ef",
+    "sha256": "733f2e9c743bdb2fb1c80ded2ec2c2df58c421e153b9cff7400ba5013457fa82",
+    "title": "Butterfly Effect [INSANE]",
+    "artist": "NE/BGI:MASH",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=137",
+    "level": "16",
+    "comment": "高速物量",
+    "proposer": "みあ",
+    "submission": 1724,
+    "proposerLr2id": 110345
   },
   {
     "md5": "b3cb3cb61f7f1de982223ef4e037e02e",
