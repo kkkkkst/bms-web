@@ -928,20 +928,6 @@
     "proposerLr2id": 72753
   },
   {
-    "md5": "aee6452b4b7478a03f738482f38ccdb9",
-    "sha256": "99185aec7a3476e06f51b151e1199bf2afa32d9798f7f451a37b347ad619dce0",
-    "title": "Flashdance [DP-sagANOTHER]",
-    "artist": "music:litmus* / bms: :Poin7less / obj:sagoo movie:directed by litmus*",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/565",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
-    "level": "1",
-    "comment": "0~1? 階段",
-    "zureCount": 0,
-    "proposer": "にゃむ",
-    "submission": 337,
-    "proposerLr2id": 139958
-  },
-  {
     "md5": "224ce2a5d7ac3a808e2c859aa0575eac",
     "sha256": "c1e56177acf712f4837c4e52d9066b6792358d4b937e35792e71ee18104767bb",
     "title": "GET ON WiTH FUNKOT [DP HARD]",
@@ -1634,6 +1620,20 @@
     "proposer": "Tyro",
     "submission": 85,
     "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
+  },
+  {
+    "md5": "aee6452b4b7478a03f738482f38ccdb9",
+    "sha256": "99185aec7a3476e06f51b151e1199bf2afa32d9798f7f451a37b347ad619dce0",
+    "title": "Flashdance [DP-sagANOTHER]",
+    "artist": "music:litmus* / bms: :Poin7less / obj:sagoo movie:directed by litmus*",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/565",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
+    "level": "2",
+    "comment": "0~1? 階段",
+    "zureCount": 0,
+    "proposer": "にゃむ",
+    "submission": 337,
+    "proposerLr2id": 139958
   },
   {
     "md5": "11eff40ac61fd7e7de3443f213285b05",
@@ -4131,20 +4131,6 @@
     "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
   },
   {
-    "md5": "e2edf260dcc761e258f1d2fda3380b19",
-    "sha256": "68e0212c8bdfa43e3017df28b4983769463b0e265fb7b6cd035635a460e6f73d",
-    "title": "rainbow [DP]",
-    "artist": "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]  [Obj：LetsOTL]",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/493",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=123",
-    "level": "5",
-    "comment": "5?",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 649,
-    "proposerLr2id": 128228
-  },
-  {
     "md5": "0c5f9d1948d964fb20696261f632a199",
     "sha256": "bd4f1d7a0119fef01229279529f1ab263ff7ce869993ee86929c20c0a676119f",
     "title": "reverieland [DPYoither]",
@@ -5088,6 +5074,20 @@
     "proposer": "sagoo",
     "submission": 173,
     "proposerLr2id": 72753
+  },
+  {
+    "md5": "e2edf260dcc761e258f1d2fda3380b19",
+    "sha256": "68e0212c8bdfa43e3017df28b4983769463b0e265fb7b6cd035635a460e6f73d",
+    "title": "rainbow [DP]",
+    "artist": "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]  [Obj：LetsOTL]",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/493",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=123",
+    "level": "6",
+    "comment": "5?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 649,
+    "proposerLr2id": 128228
   },
   {
     "md5": "81cfbebe5ede1a0c5ba73770cbc22501",

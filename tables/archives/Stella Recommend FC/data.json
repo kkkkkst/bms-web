@@ -2,12 +2,12 @@
   {
     "md5": "e97bd593d21d83c74e84d7cd4c950930",
     "title": "format0 [0x82D]",
-    "level": "4.8"
+    "level": "5.0"
   },
   {
     "md5": "961618e954a9d2e870af548fce62c55f",
     "title": "情熱の大阪",
-    "level": "5.0"
+    "level": "5.1"
   },
   {
     "md5": "24b3d27b614f51a0e317027f7eca93b6",
@@ -17,6 +17,11 @@
   {
     "md5": "8ee7fc1c67826e7437e07b5e1f92d601",
     "title": "stairway to the universe [laner]",
+    "level": "5.2"
+  },
+  {
+    "md5": "4d9f062b2048d3c11062449b48e81488",
+    "title": "ラケシスと永遠の祈祷者 [Stella]",
     "level": "5.2"
   },
   {
@@ -52,11 +57,6 @@
   {
     "md5": "b364f6f23032b1f0c63d710996113002",
     "title": "パステルプラネット [Fairy Tale]",
-    "level": "5.3"
-  },
-  {
-    "md5": "4d9f062b2048d3c11062449b48e81488",
-    "title": "ラケシスと永遠の祈祷者 [Stella]",
     "level": "5.3"
   },
   {
@@ -102,6 +102,11 @@
   {
     "md5": "3446b35b6a81083d79665abffb0f0a79",
     "title": "KRAKEN -Poseidon-",
+    "level": "5.4"
+  },
+  {
+    "md5": "1d28ce2b812bee70b5ec8f9010fb29b7",
+    "title": "L9 -Heaven-",
     "level": "5.4"
   },
   {
@@ -162,11 +167,6 @@
   {
     "md5": "3a1661a3eaafa13f976e1010d5b87ca0",
     "title": "reAdvenTia [Pentagon]",
-    "level": "5.4"
-  },
-  {
-    "md5": "635c5caa8da5bdbb712e35b5f564a11c",
-    "title": "あにまら (・ω・)",
     "level": "5.4"
   },
   {
@@ -275,11 +275,6 @@
     "level": "5.5"
   },
   {
-    "md5": "1d28ce2b812bee70b5ec8f9010fb29b7",
-    "title": "L9 -Heaven-",
-    "level": "5.5"
-  },
-  {
     "md5": "f649c932d7df6ba14f3c7c4ef69cce4e",
     "title": "Lyrith -迷宮リリス- [INSANE]",
     "level": "5.5"
@@ -317,6 +312,11 @@
   {
     "md5": "5a92a023a9746fdbc031a94aadc89a82",
     "title": "ΩXIII [GOD]",
+    "level": "5.5"
+  },
+  {
+    "md5": "635c5caa8da5bdbb712e35b5f564a11c",
+    "title": "あにまら (・ω・)",
     "level": "5.5"
   },
   {
@@ -440,6 +440,11 @@
     "level": "6.5"
   },
   {
+    "md5": "38490fdc959ecfb13d943e1cc7cc7aaf",
+    "title": "Lovers, [Hoppers,]",
+    "level": "6.5"
+  },
+  {
     "md5": "bf1d6e8f15d53bdd35c3160b1f4567a8",
     "title": "Luv of Magical Synth [サテラ×ステラ]",
     "level": "6.5"
@@ -495,11 +500,6 @@
     "level": "6.6"
   },
   {
-    "md5": "38490fdc959ecfb13d943e1cc7cc7aaf",
-    "title": "Lovers, [Hoppers,]",
-    "level": "6.6"
-  },
-  {
     "md5": "d26ad712ceef97a5a843226bd77553eb",
     "title": "Lucid Dreaming [キャワ]",
     "level": "6.6"
@@ -525,11 +525,6 @@
     "level": "6.6"
   },
   {
-    "md5": "9f65db9775f16e4438eccec2036cd43b",
-    "title": "Weaponhuman [Ultimate]",
-    "level": "6.6"
-  },
-  {
     "md5": "5375e99d530e6712c0977a3cf02b50f2",
     "title": "ひよっ子サンタと雪の街 [クリスマスの悪夢]",
     "level": "6.6"
@@ -550,11 +545,6 @@
     "level": "6.6"
   },
   {
-    "md5": "4101dd74b1eb5fcb04dd892a1eff3e76",
-    "title": "追憶の森 -Voices of the Earth- [wide]",
-    "level": "6.6"
-  },
-  {
     "md5": "792b8daa37dea9193a0e3d92ecc6da75",
     "title": "Absolute Future [Fortunately]",
     "level": "6.7"
@@ -572,6 +562,11 @@
   {
     "md5": "81e64663f569b063438a7309753fcfc5",
     "title": "Arioso Killer [Howling]",
+    "level": "6.7"
+  },
+  {
+    "md5": "8cdcb6ae2ac0d4313b12b89da0227561",
+    "title": "Awaking Beat-From the next generation- [yumether]",
     "level": "6.7"
   },
   {
@@ -705,6 +700,11 @@
     "level": "6.7"
   },
   {
+    "md5": "9f65db9775f16e4438eccec2036cd43b",
+    "title": "Weaponhuman [Ultimate]",
+    "level": "6.7"
+  },
+  {
     "md5": "6f60bd5416e02d2f988f28d0c21333d7",
     "title": "XIII Charlotte [yumether]",
     "level": "6.7"
@@ -832,6 +832,11 @@
   {
     "md5": "fc269db1ba717f4f49398edad3f941c4",
     "title": "永劫綺譚の純潔葬花 -Yellow Lily-",
+    "level": "6.7"
+  },
+  {
+    "md5": "4101dd74b1eb5fcb04dd892a1eff3e76",
+    "title": "追憶の森 -Voices of the Earth- [wide]",
     "level": "6.7"
   },
   {
@@ -1325,6 +1330,11 @@
     "level": "10.2"
   },
   {
+    "md5": "48f60fd3e3d2c830ddbe932e6c1b0898",
+    "title": "サクライロフワリ (mania7)",
+    "level": "10.2"
+  },
+  {
     "md5": "82c1314cf8ab2c96321aaf67eb16c83c",
     "title": "壊廊 [Hexagon]",
     "level": "10.2"
@@ -1377,11 +1387,6 @@
   {
     "md5": "75dbbeafa761965969f4b0bb95cd4091",
     "title": "さよならコスモノート [SpaceX]",
-    "level": "10.3"
-  },
-  {
-    "md5": "48f60fd3e3d2c830ddbe932e6c1b0898",
-    "title": "サクライロフワリ (mania7)",
     "level": "10.3"
   },
   {
@@ -1475,13 +1480,13 @@
     "level": "13.8"
   },
   {
-    "md5": "5b125766f8a8ccfbecf172ca03961d07",
-    "title": "Chronomia -LAST BOSS-",
-    "level": "13.9"
-  },
-  {
     "md5": "2c903e074b3072b88905794db36f767e",
     "title": "Jasmine Tea Girl",
+    "level": "13.8"
+  },
+  {
+    "md5": "5b125766f8a8ccfbecf172ca03961d07",
+    "title": "Chronomia -LAST BOSS-",
     "level": "13.9"
   },
   {
@@ -1762,11 +1767,6 @@
   {
     "md5": "dfa03b5772241cbec0945ebc7a41b964",
     "title": "Angel dust -C17H25N-",
-    "level": "Infinity"
-  },
-  {
-    "md5": "8cdcb6ae2ac0d4313b12b89da0227561",
-    "title": "Awaking Beat-From the next generation- [yumether]",
     "level": "Infinity"
   },
   {
@@ -2302,6 +2302,11 @@
   {
     "md5": "893a66d993d988e2dbc8538f13efb10f",
     "title": "FIRST PROMIZE [REZOLVE]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "62ee831c874ec747772c86744ed6c7ba",
+    "title": "FUELBLOODS (KF)",
     "level": "Infinity"
   },
   {
@@ -3195,6 +3200,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "2192cc7b27d7afad57a2aba085f94b2f",
+    "title": "アルスノヴァに喝采を [ANGUISHFUL]",
+    "level": "Infinity"
+  },
+  {
     "md5": "e9fc82f22a048d62165c482841eb0d33",
     "title": "ウタカタ・サマーメモリーズ -To The Future-",
     "level": "Infinity"
@@ -3492,6 +3502,11 @@
   {
     "md5": "f7bd694275b231527556d74bca2e436c",
     "title": "Inherited World [cliche]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "5a1ba2cd11aae96fbc7268c19345cec7",
+    "title": "Intercosmic travel [cosmos]",
     "level": "Infinity"
   },
   {
@@ -3855,6 +3870,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "f19e43deacedd0cd190ce7aa75c67479",
+    "title": "俗物フェスティバル [无何之郷]",
+    "level": "Infinity"
+  },
+  {
     "md5": "39251109d3301719a118e293357b34dd",
     "title": "天叢雲剣",
     "level": "Infinity"
@@ -3872,6 +3892,11 @@
   {
     "md5": "df692f0447ec63f7d578947fd26a3c46",
     "title": "明日をけっとばせ！ [腕をぶっこわせ！]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "5bec55352a1e9c1ae777c8fd43a17fde",
+    "title": "玉響サーチライト [陽溜ファーストステップ]",
     "level": "Infinity"
   },
   {
@@ -4570,6 +4595,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "02a3f3b4707f863469ac7c67e12e9365",
+    "title": "endemize [triumph]",
+    "level": "Infinity"
+  },
+  {
     "md5": "72c6bc7a3fb300b930c4abcf908e6468",
     "title": "five rhythm [lanest]",
     "level": "Infinity"
@@ -4607,6 +4637,11 @@
   {
     "md5": "9bd201347125207b7acee0310a4d937b",
     "title": "あＡアぁ亜ａァ [Forgotten Hero]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "23c01dd80a6220d250371992a1cf80cd",
+    "title": "イナリッチ [POOR]",
     "level": "Infinity"
   },
   {
@@ -5197,6 +5232,11 @@
   {
     "md5": "6ef32f385b60a56e1a2583de6e619ee1",
     "title": "oceanbird -LAST BOSS-",
+    "level": "Infinity"
+  },
+  {
+    "md5": "d91df9283a09dba6a7bfb1d45ef15f77",
+    "title": "∀ [Rebuild]",
     "level": "Infinity"
   },
   {

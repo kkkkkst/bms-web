@@ -32195,5 +32195,27 @@
     "max_bpm": "256",
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/1471"
+  },
+  {
+    "id": "1795",
+    "level": "3",
+    "title": "Fungus Dance [Maryther]",
+    "artist": "paraneumann / obj:Mary_Sue mov:FGD",
+    "comment": "微連打　ズレ",
+    "md5": "48781dd8c716418d15045b590cd8e854",
+    "max_bpm": "133",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=137",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/"
+  },
+  {
+    "id": "1795",
+    "level": "?",
+    "title": "LIGHTS (Original Mix) [LuNLuN]",
+    "artist": "クラムノプ (KLAMNOP)/obj.WAS",
+    "comment": "LN",
+    "md5": "856f3b0ea9e1522ade0bb6c1b550e475",
+    "max_bpm": "128",
+    "url": "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=59",
+    "url_diff": "http://2nd.geocities.jp/yoshi_65c816/was/list.html"
   }
 ]
