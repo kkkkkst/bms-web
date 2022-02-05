@@ -461,6 +461,16 @@
   },
   {
     "level": "-2",
+    "title": "イナリッチ [MONEY]",
+    "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj: Lennon",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=1377",
+    "url_diff": "https://stellabms.xyz/upload/1502",
+    "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
+    "comment": "sub sl10/330",
+    "打鍵速度": "330"
+  },
+  {
+    "level": "-2",
     "title": "テウメッサ [にゃーん]",
     "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : ★11夕凪の丘S乱に失敗した猫さん",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
@@ -1851,16 +1861,6 @@
   },
   {
     "level": "2",
-    "title": "unquenchable 2 -Eclipse-",
-    "artist": "Extrose / selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=116",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01891",
-    "md5": "0fa04d1dfc4b9d23a1daa8e44de52097",
-    "comment": "250",
-    "打鍵速度": "250"
-  },
-  {
-    "level": "2",
     "title": "あなた [Delay32]",
     "artist": "mitssi feat. SeeU obj:goe Movie: Sabhwa",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
@@ -2288,6 +2288,16 @@
     "md5": "fab53f275e14bf8d8850ddf7fc5ab561",
     "comment": "sub st3/382",
     "打鍵速度": "382"
+  },
+  {
+    "level": "3",
+    "title": "unquenchable 2 -Eclipse-",
+    "artist": "Extrose / selene.",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=116",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01891",
+    "md5": "0fa04d1dfc4b9d23a1daa8e44de52097",
+    "comment": "250",
+    "打鍵速度": "250"
   },
   {
     "level": "3",
@@ -2736,7 +2746,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
     "url_diff": "https://stellabms.xyz/upload/1328",
     "md5": "128d9f5885624da74a56c192dad41e5a",
-    "comment": "330",
+    "comment": "sub st4/330",
     "打鍵速度": "330"
   },
   {
@@ -5641,16 +5651,6 @@
   },
   {
     "level": "12",
-    "title": "運命論 [CrazyMoon]",
-    "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト / obj:Criyajuh",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4590.rar",
-    "md5": "8b8c7d0f14de2fe75acc4ca8e738f273",
-    "comment": "510,680",
-    "打鍵速度": "510680"
-  },
-  {
-    "level": "12",
     "title": "bEyOnD",
     "artist": "Lime / Crude Sound Adder",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
@@ -5751,6 +5751,16 @@
   },
   {
     "level": "12",
+    "title": "運命論 [CrazyMoon]",
+    "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト / obj:Criyajuh",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4590.rar",
+    "md5": "8b8c7d0f14de2fe75acc4ca8e738f273",
+    "comment": "510,680",
+    "打鍵速度": "510680"
+  },
+  {
+    "level": "12",
     "title": "天空の城ヴェリエル [ルシェくんと愉快なディレイたち]",
     "artist": "うえつ氏 (obj.Rche)",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
@@ -5788,5 +5798,15 @@
     "md5": "8614682b7a5826e4fe3e35adc7d10fd7",
     "comment": "464、928、1856",
     "打鍵速度": "464、928、1856"
+  },
+  {
+    "level": " DELAY MASTER",
+    "title": "運命論 -Finis Stella-",
+    "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05924",
+    "md5": "f015f8671b5b042832f48da40a141893",
+    "comment": "464、928、1020、1856",
+    "打鍵速度": "464、928、1020、1856"
   }
 ]

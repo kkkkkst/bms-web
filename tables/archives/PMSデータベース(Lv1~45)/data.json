@@ -25897,7 +25897,7 @@
     "state": ""
   },
   {
-    "level": "44",
+    "level": "40",
     "title": "キミを守る剣",
     "md5": "be437192f9caf76e3c2cb9f15d54b03d",
     "sha256": "43c15ee852be394f0d32cf4d6894747b0cc7d7a93db1bb875aab8b69c6c6f7e6",
@@ -25911,9 +25911,9 @@
     "notes": "733",
     "total": "345 (0.471%/note)",
     "memo": "A9S2013",
-    "comment": "",
+    "comment": "難易度更新:lv44→40",
     "no": "1372",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "30",
@@ -27474,7 +27474,7 @@
     "state": ""
   },
   {
-    "level": "41",
+    "level": "43",
     "title": "温舞 雪の章",
     "md5": "0682c0e24152549cb203af6fe20461c4",
     "sha256": "ebe8f3d5319784e4e9d9d1d8926ebe54a89d57a4c100e5e4a18f51914e0966b8",
@@ -27490,7 +27490,7 @@
     "memo": "W9S2015",
     "comment": "NORMAL判定, ソフラン(AVG-FIXもしくはFIX-OFF推奨, 要対策)",
     "no": "1456",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "11",
@@ -27588,7 +27588,7 @@
     "state": ""
   },
   {
-    "level": "39",
+    "level": "35",
     "title": "死んだ子の影の上で踊る",
     "md5": "f11b47465a5cc2cace83d04babe09ec7",
     "sha256": "34ccaabf2f01e6fa30bd300c22019436d2e33583e0692c56c907694e42c7288c",
@@ -27602,9 +27602,9 @@
     "notes": "551",
     "total": "345 (0.626%/note)",
     "memo": "W9S2015",
-    "comment": "",
+    "comment": "難易度更新:lv39→35",
     "no": "1462",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "24",
@@ -29507,7 +29507,7 @@
     "state": ""
   },
   {
-    "level": "30",
+    "level": "34",
     "title": "Adansonia",
     "md5": "2e2c4f53a7b2e647b24fd7b5fe8ed1d4",
     "sha256": "672f064e3df7eda7f2790993b4c0f534823ebb65eabb900563c5df3fe32370c4",
@@ -29523,7 +29523,7 @@
     "memo": "",
     "comment": "NORMAL判定",
     "no": "2081",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "41",
@@ -31122,7 +31122,7 @@
     "state": ""
   },
   {
-    "level": "45",
+    "level": "45+",
     "title": "B.L.S.M.C.S.",
     "md5": "79318b529acbdb8b25b2ecdd0a825fa5",
     "sha256": "35b6bcb2e4dbba790d845e1bd55644f15b841c73568def7a7058cd0df57fa8e9",
@@ -31138,7 +31138,7 @@
     "memo": "",
     "comment": "ソフラン(MAX-FIX推奨, 要対策), LN複合",
     "no": "2166",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "32",
@@ -35188,7 +35188,7 @@
     "state": ""
   },
   {
-    "level": "25",
+    "level": "27",
     "title": "DRAGONLADY",
     "md5": "77cfef0300152953e3911889cf2baf1a",
     "sha256": "a26cc4295a5be97e556ba2894f53b7af7ee6d4947c2916565c6fca55aaae66c0",
@@ -35202,9 +35202,9 @@
     "notes": "412",
     "total": "220 (0.534%/note)",
     "memo": "",
-    "comment": "",
+    "comment": "難易度更新:lv25→27",
     "no": "2380",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "35",
@@ -57570,7 +57570,7 @@
     "state": ""
   },
   {
-    "level": "45+",
+    "level": "44",
     "title": "ひとひら",
     "md5": "f5b59d374355d7e22e68c6dc72dc6c41",
     "sha256": "e9d15e27cf6f8bb7c16dcb17dd787ba613253a9af9ba0c89fbb02e75e6ed98f6",
@@ -57586,7 +57586,7 @@
     "memo": "",
     "comment": "NORMAL判定 ●◆1査定済み 難易度更新 lv37(+6)→lv45",
     "no": "3558",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "32",
@@ -63327,7 +63327,7 @@
     "state": ""
   },
   {
-    "level": "45+",
+    "level": "?",
     "title": "風の憧憬",
     "md5": "30a02b96b244e212032b0b98de11edc6",
     "sha256": "21707eba559e1943153be6afb38ec077ea08104597e5c1198cc7107124d018ed",
@@ -63343,7 +63343,7 @@
     "memo": "",
     "comment": "●◆1査定済み 難易度更新 lv42(+6)→45 低TOTAL(160)",
     "no": "3861",
-    "state": ""
+    "state": "2"
   },
   {
     "level": "25",
@@ -64977,7 +64977,7 @@
     "memo": "旧案内所",
     "comment": "難易度更新: P●1 → PLv45  (旧案内所コメント)乱打譜面だが、水平配置が混ざるため完全分割の乱打にはならない。ラスト前の赤をどっちで取るかの判断が少し難しい。",
     "no": "4780",
-    "state": "2"
+    "state": ""
   },
   {
     "level": "44",
@@ -65265,7 +65265,7 @@
     "state": "3"
   },
   {
-    "level": "36",
+    "level": "42",
     "title": "Circuitry",
     "md5": "d6ffa2aa8cc1568a52a13f3956ce1777",
     "sha256": "a0a4dc1e32214226cf967d2fedbbbf7b71c0fe5183f4dde94c24226c97da0e09",
@@ -65281,7 +65281,7 @@
     "memo": "BOF2013",
     "comment": "",
     "no": "10018",
-    "state": "3"
+    "state": "2"
   },
   {
     "level": "42",
@@ -65911,7 +65911,7 @@
     "state": "3"
   },
   {
-    "level": "30",
+    "level": "33",
     "title": "Phunk Drunk Love Life [5BUTTONS]",
     "md5": "a6d3e93dfd3115ba29bab5a5a246fd7e",
     "sha256": "f900921cbdd878c67333f6ee255f113265f0d1419e6eac164c99fe2e663b8a52",
@@ -65927,7 +65927,7 @@
     "memo": "BOF2013",
     "comment": "",
     "no": "10052",
-    "state": "3"
+    "state": "2"
   },
   {
     "level": "3",
@@ -77517,7 +77517,7 @@
     "memo": "BOF2016",
     "comment": "難易度更新:lv26→23",
     "no": "11366",
-    "state": "2"
+    "state": "3"
   },
   {
     "level": "42",
@@ -77786,7 +77786,7 @@
     "state": "3"
   },
   {
-    "level": "45+",
+    "level": "44",
     "title": "Scaffold",
     "md5": "b3527e6838e7b1d8bfd75196b2729455",
     "sha256": "62e801e1154c2d92c3c1f5e70375acf4844d217c3d079cab794d3f91bf6f3127",
@@ -77802,7 +77802,7 @@
     "memo": "BOF2016",
     "comment": "高TOTAL(500), LN複合 ●◆1査定済み lv27→lv45",
     "no": "11406",
-    "state": "3"
+    "state": "2"
   },
   {
     "level": "31",
@@ -105599,7 +105599,7 @@
     "memo": "",
     "comment": "NORMAL判定",
     "no": "20643",
-    "state": "2"
+    "state": ""
   },
   {
     "level": "39",
@@ -105618,7 +105618,7 @@
     "memo": "",
     "comment": "NORMAL判定",
     "no": "20644",
-    "state": "2"
+    "state": ""
   },
   {
     "level": "32",
@@ -106967,7 +106967,7 @@
     "memo": "",
     "comment": "難易度更新:P●1 → PLv44",
     "no": "21270",
-    "state": "2"
+    "state": ""
   },
   {
     "level": "38",
@@ -108943,7 +108943,7 @@
     "memo": "",
     "comment": "難易度更新: lv10→41",
     "no": "23234",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "14",
@@ -108962,7 +108962,7 @@
     "memo": "",
     "comment": "NORMAL判定",
     "no": "23235",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "28",
@@ -108981,7 +108981,7 @@
     "memo": "",
     "comment": "NORMAL判定",
     "no": "23236",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "44",
@@ -109000,7 +109000,7 @@
     "memo": "",
     "comment": "NORMAL判定",
     "no": "23237",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "32",
@@ -109019,7 +109019,7 @@
     "memo": "TM2",
     "comment": "NORMAL判定",
     "no": "23240",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "37",
@@ -109038,7 +109038,7 @@
     "memo": "TM2",
     "comment": "NORMAL判定　難易度更新: lv29(+6)→37",
     "no": "23241",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "37",
@@ -109057,7 +109057,7 @@
     "memo": "TM2",
     "comment": "NORMAL判定",
     "no": "23242",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "?",
@@ -109076,7 +109076,7 @@
     "memo": "TM2",
     "comment": "NORMAL判定, 地雷あり 難易度更新: 83 → lv?",
     "no": "23243",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "20",
@@ -109095,7 +109095,7 @@
     "memo": "",
     "comment": "",
     "no": "23285",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "24",
@@ -109114,7 +109114,7 @@
     "memo": "",
     "comment": "難易度更新:lv23→24",
     "no": "23286",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "39",
@@ -109133,7 +109133,7 @@
     "memo": "",
     "comment": "",
     "no": "23287",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "42",
@@ -109152,6 +109152,253 @@
     "memo": "",
     "comment": "",
     "no": "23294",
+    "state": ""
+  },
+  {
+    "level": "32",
+    "title": "Henry Henry",
+    "md5": "0740126d7188f2723ee651a86f44d219",
+    "sha256": "c15d3b8738521c35f89c385d58fe8d5db872a15fdbceb1257555cfa55ffa8c97",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/UwhnHCDJ#jhMorelMzkl7tKTlBKfcFsDLoaXYXZo8J65q2G6Sh70",
+    "artist": "Michira & Ogu (9line & original)",
+    "notes": "288",
+    "total": "0 (0%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新: lv21(+6) →32",
+    "no": "23301",
+    "state": "1"
+  },
+  {
+    "level": "?",
+    "title": "Meccha Tsukaeru Male Voice Samples",
+    "md5": "f75882e3288f03f45189b7e3b985260c",
+    "sha256": "8ae9bb20b2690402a18444b927034865bb76dd2a700133c041cf44b381403b46",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=138",
+    "artist": "Meccha Tsukawareru Otoko (BOFOONXVII)",
+    "notes": "113",
+    "total": "301 (2.664%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新: lv5→lv?",
+    "no": "23304",
+    "state": "1"
+  },
+  {
+    "level": "35",
+    "title": "rryam rir ccrlyw (つけ麺ですが何か問題でも？mix)",
+    "md5": "7c1841e97e27274cb0371601da5171b9",
+    "sha256": "d8cdc55f5f9286933861cc2f04f9740204177faee20ceeef14019537a1a98e45",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "narve feat. Po(かりくん)",
+    "notes": "418",
+    "total": "250 (0.598%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新:lv32→35",
+    "no": "23312",
+    "state": "1"
+  },
+  {
+    "level": "32",
+    "title": "rryam rir ccrlyw (つけ麺ですが何か問題でも？mix)",
+    "md5": "14341e7fb9381c71ccfdf49839f0ec28",
+    "sha256": "df760cf5606cff4208ffa70f5fea21c9cc91b42ab0d3485e9e4543a958af23fa",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "narve feat. Po(かりくん)",
+    "notes": "347",
+    "total": "280 (0.807%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新:lv28→32",
+    "no": "23313",
+    "state": "1"
+  },
+  {
+    "level": "41",
+    "title": "うぃんくきらー",
+    "md5": "9f31da66958bc3aa35a4fb20d45fcebc",
+    "sha256": "9d84ab6cabf7319d598d5766c01638fc5f3d82a45458cd548cc0a17c01359f03",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "ぽ(かりくん) & 193",
+    "notes": "380",
+    "total": "220 (0.579%/note)",
+    "memo": "見てない難易度",
+    "comment": "",
+    "no": "23314",
+    "state": "1"
+  },
+  {
+    "level": "34",
+    "title": "うぃんくきらー",
+    "md5": "ab5e7c3217ab44abb92e387a88a31bb4",
+    "sha256": "1a900b0ab258ebc1915b3468cdef85cb6e68f8a11248f61a1fe6d76b70e3c97e",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "ぽ(かりくん) & 193",
+    "notes": "283",
+    "total": "230 (0.813%/note)",
+    "memo": "見てない難易度",
+    "comment": "",
+    "no": "23315",
+    "state": "1"
+  },
+  {
+    "level": "45",
+    "title": "DJ PO",
+    "md5": "f648c315e57b4e568d241ae532d0e7f0",
+    "sha256": "8fd2b0fdd2c765148c2df4c5316d5002c576e5486edb256585588f60fcc9f858",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "ぽ(かりくん)",
+    "notes": "631",
+    "total": "270 (0.428%/note)",
+    "memo": "見てない難易度",
+    "comment": "",
+    "no": "23316",
+    "state": "1"
+  },
+  {
+    "level": "42",
+    "title": "DJ PO",
+    "md5": "a864eb6cc3f7cd543455906e4873fb18",
+    "sha256": "60377844da2fa72b61532b405533aa59affe7180f07f19719b221846c62470de",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "ぽ(かりくん)",
+    "notes": "508",
+    "total": "270 (0.531%/note)",
+    "memo": "見てない難易度",
+    "comment": "",
+    "no": "23317",
+    "state": "1"
+  },
+  {
+    "level": "35",
+    "title": "カニゼミニッツ-蟹上陸作戦Mix-",
+    "md5": "cc078d7157751be3d45f27bde7451e98",
+    "sha256": "cfed558945b5c5da2d84385669b633266e7199a2d67f8834414f5144841271a8",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "ぽ(かりくん)",
+    "notes": "401",
+    "total": "280 (0.698%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新:lv39→35",
+    "no": "23319",
+    "state": "1"
+  },
+  {
+    "level": "44",
+    "title": "黄身が誉",
+    "md5": "c2f2727671631b9e9903fa5761ed6b86",
+    "sha256": "47ce6be74cdb6b7fda3fcf409623f351af8370523ee65b05d8df3d1838db8b16",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://mega.nz/file/clxwACBI#XCJXPxpzl4FRsZwlSsM7WL5EJXvOoYhmOTAHpZ1Z548",
+    "artist": "ぽ(かりくん)",
+    "notes": "291",
+    "total": "250 (0.859%/note)",
+    "memo": "見てない難易度",
+    "comment": "",
+    "no": "23321",
+    "state": "1"
+  },
+  {
+    "level": "20",
+    "title": "Highlander",
+    "md5": "3743700cecf97f1ff2cfa4320bbfe127",
+    "sha256": "36be9c24da28d8cbd450e6103503ee77ff7b61ae486cee8439851808d1abaf77",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/201",
+    "artist": "kotaro.oya",
+    "notes": "218",
+    "total": "250 (1.147%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新:lv16→20",
+    "no": "23322",
+    "state": "1"
+  },
+  {
+    "level": "40",
+    "title": "Highlander",
+    "md5": "fda790e166df52576474bb965aead99c",
+    "sha256": "ca1e8b4f197e94e31603814ffcd8a269cb16b571bce94492aaf9ad9fea66dc6e",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/201",
+    "artist": "kotaro.oya",
+    "notes": "629",
+    "total": "268 (0.426%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新:lv38→40",
+    "no": "23323",
+    "state": "1"
+  },
+  {
+    "level": "43",
+    "title": "ユガミカケル！",
+    "md5": "a7bfee81d140a78963575fce8ceb0c1d",
+    "sha256": "b2a3507c8d95afff04aba6983ff7a7b62d4dbb8fe33cddf1009b3fd18af2cf58",
+    "video1": "",
+    "video2": "",
+    "video3": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05890",
+    "name_diff": "スイクマギヤマ",
+    "url": "https://drive.google.com/drive/folders/1R8T6s8es02eJczB9ykg0Zrr5DYt6oCKl",
+    "artist": "次元大介 / 東大路憲太 / PEN (BOF2006)",
+    "notes": "927",
+    "total": "391 (0.422%/note)",
+    "memo": "見てない難易度",
+    "comment": "難易度更新:lv42→43",
+    "no": "23325",
     "state": "1"
   },
   {

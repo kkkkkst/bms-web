@@ -11491,7 +11491,7 @@
     "md5": "767999b4af9bf3e467d1c7d1308eb3e8",
     "title": "Non-singularity [Abnormal]",
     "artist": "UraL vs LiaN BGA:ujina Obj:SANY",
-    "url_diff": "https://www.dropbox.com/s/k8dcinjwv4zdt4i/SANY_niji.zip?dl=1",
+    "url_diff": "https://sanyparo.github.io/sanysabunn/bms.html",
     "url": "http://www.dropbox.com/s/ojuxjj281775flw/Non-singularity_fix.zip?dl=1",
     "level": "3",
     "comment": "微縦連・乱打・ズレ　総合譜面",
@@ -14069,6 +14069,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "8ea6711c0891e00dc0e724977ce36c06",
+    "sha256": "c0a5adc2df16dcac0c6532e8408f0ef211e6ae564d9c24fc9aae3905c48b102f",
+    "title": "Krave [Hexagon]",
+    "artist": "litmus* as Ester movie:なおや / obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+    "level": "4",
+    "comment": "BPM192の16分乱打。st4の同譜面傾向では中～上位？",
+    "zureCount": 0,
+    "proposer": "ふかけん",
+    "submission": 1738,
+    "proposerLr2id": 145204
+  },
+  {
     "md5": "d15fa5e17826c126357f03aca678ccbb",
     "sha256": "c5ff2ccb71ea741f7515db41dbc9c06e9ab3e177c01d34f48ca402e8ece333d7",
     "title": "L (LOKINOTHER)",
@@ -15262,6 +15276,20 @@
     "proposer": "qtp13",
     "submission": 975,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "128d9f5885624da74a56c192dad41e5a",
+    "sha256": "a48862e897e1731a5435093a10992f845d43f049c11a48d4ebefbefcfa07ca65",
+    "title": "イナリッチ -midnight-",
+    "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj:Haze*",
+    "url_diff": "https://stellabms.xyz/upload/1328",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
+    "level": "4",
+    "comment": "カワイ…ゴリィディレイ（00_inarich_spbと01_inarich_spn基準でズレなし）",
+    "zureCount": 0,
+    "proposer": "ふかけん",
+    "submission": 1739,
+    "proposerLr2id": 145204
   },
   {
     "title": "サクライロフワリ (mania7)",
