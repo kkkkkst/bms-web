@@ -1,10 +1,5 @@
 [
   {
-    "md5": "e97bd593d21d83c74e84d7cd4c950930",
-    "title": "format0 [0x82D]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "a35134b89ac127ad89b96169828ed1e7",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [INFERNO]",
     "level": "5.00...5.50"
@@ -97,6 +92,11 @@
   {
     "md5": "91a3e765da4f1a52d2b53a5f3410cb90",
     "title": "First Creation -Restart-",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "e97bd593d21d83c74e84d7cd4c950930",
+    "title": "format0 [0x82D]",
     "level": "5.00...5.50"
   },
   {
@@ -900,6 +900,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "87dceba058d279b5c7f6a6a1bc5b9e28",
+    "title": "Disco☆Girl -踊る少女-",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "5f39e01adf89be8aeb0052f62168e40e",
     "title": "dolor∞peccatum [fantasy7]",
     "level": "7.50...8.00"
@@ -1115,6 +1120,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "9a110d94d62a74daa5d503f5b0f0f17f",
+    "title": "Chatblanc [La Scala]",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "9cd5a316117bce74196a4fc94d56e39c",
     "title": "DEYANEN [Hexagon]",
     "level": "8.50...9.00"
@@ -1172,11 +1182,6 @@
   {
     "md5": "eca9b88bf38ea3bd5ab234c04453a65d",
     "title": "Bohemian Chic [Eloise]",
-    "level": "9.00...9.50"
-  },
-  {
-    "md5": "9a110d94d62a74daa5d503f5b0f0f17f",
-    "title": "Chatblanc [La Scala]",
     "level": "9.00...9.50"
   },
   {
@@ -1900,6 +1905,11 @@
     "level": "-"
   },
   {
+    "md5": "fcb129f3e5fb637407aaebbefc150c05",
+    "title": "bEyond",
+    "level": "-"
+  },
+  {
     "md5": "dd36e9c11a77222a64e7f4e39deec7a3",
     "title": "BIG CHUNGUS -IR-",
     "level": "-"
@@ -2430,6 +2440,11 @@
     "level": "-"
   },
   {
+    "md5": "0b518dd7b6e46c147245a7b9d4a6dcc7",
+    "title": "Disco☆Girl -踊る少女-",
+    "level": "-"
+  },
+  {
     "md5": "087f77e584f4d0e3cca833e4a868ab19",
     "title": "Disorder -Despair-",
     "level": "-"
@@ -2497,6 +2512,11 @@
   {
     "md5": "2b1ae8441aeee72aaa68362edccd2601",
     "title": "Dstorv [undefined]",
+    "level": "-"
+  },
+  {
+    "md5": "8b312d3e85bbae454ba7c5bd76cbe706",
+    "title": "DUARRIER [Twin Stream]",
     "level": "-"
   },
   {
@@ -2877,6 +2897,11 @@
   {
     "md5": "62ee831c874ec747772c86744ed6c7ba",
     "title": "FUELBLOODS (KF)",
+    "level": "-"
+  },
+  {
+    "md5": "be7fac015e47e921a2cb02623bc1ec41",
+    "title": "FUELBLOODS -GOD-",
     "level": "-"
   },
   {
@@ -3455,6 +3480,11 @@
     "level": "-"
   },
   {
+    "md5": "6edb09c73a5d5296af82ea181a612aa3",
+    "title": "Lethal Strike [DENIAL]",
+    "level": "-"
+  },
+  {
     "md5": "fdb9d7d8eaca594231dda88b539253cb",
     "title": "Life is PIANO [Other]",
     "level": "-"
@@ -3537,6 +3567,11 @@
   {
     "md5": "1bca8c429f5edf8c46ee749999be7845",
     "title": "Maharaja Trance [simultaneous]",
+    "level": "-"
+  },
+  {
+    "md5": "76d6653579c2d6e0ccee8806a75636c3",
+    "title": "March 27 [卒論]",
     "level": "-"
   },
   {
@@ -4057,6 +4092,11 @@
   {
     "md5": "1342a07e38a6ebdef32a827a81b0f065",
     "title": "Reason of being [INFERNO]",
+    "level": "-"
+  },
+  {
+    "md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "title": "Regain [///]",
     "level": "-"
   },
   {
@@ -4670,6 +4710,11 @@
     "level": "-"
   },
   {
+    "md5": "ee24c4fe2e7784fa46b87d905da6df32",
+    "title": "Volt [Maryther]",
+    "level": "-"
+  },
+  {
     "md5": "d2e04ef21a4815c7de50cbb2926e5e5d",
     "title": "Vorota Collapse [Catastrophe]",
     "level": "-"
@@ -4717,6 +4762,11 @@
   {
     "md5": "aa4279b54d8ffbd8f8f6f5ebf228d83a",
     "title": "Wonder World! (GOD)",
+    "level": "-"
+  },
+  {
+    "md5": "671cb497784c661436febd42784b9953",
+    "title": "Wonderful Tomorrow [Powerful Days]",
     "level": "-"
   },
   {
@@ -4955,6 +5005,11 @@
     "level": "-"
   },
   {
+    "md5": "ddde6edd6b9c08fb198bfb82b48e743c",
+    "title": "アルスノヴァに喝采を [SUPERNOVA]",
+    "level": "-"
+  },
+  {
     "md5": "23c01dd80a6220d250371992a1cf80cd",
     "title": "イナリッチ [POOR]",
     "level": "-"
@@ -5012,6 +5067,11 @@
   {
     "md5": "1278a7f680f3438cf5c753a5637e6e7b",
     "title": "ココナツ・アバンチュール [Hexagon]",
+    "level": "-"
+  },
+  {
+    "md5": "b999d0c6c03f26642f14833d0ad31ad2",
+    "title": "コモリヌ -Despair & Hope-",
     "level": "-"
   },
   {
@@ -5150,6 +5210,16 @@
     "level": "-"
   },
   {
+    "md5": "196b23d514f7831e2c40f094a23e476e",
+    "title": "ハッピーフェイクショー [Haven't you heard?]",
+    "level": "-"
+  },
+  {
+    "md5": "99bacb3c81efb069023beaaf3fb14b94",
+    "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
+    "level": "-"
+  },
+  {
     "md5": "16e3a4a9890414bd2963c9b016c4615a",
     "title": "ヒメタイプ -Finale-",
     "level": "-"
@@ -5277,6 +5347,11 @@
   {
     "md5": "a8b084e3af0b3a9b02c932bcb03bff7c",
     "title": "人里に下ったアタイがいつの間にか社畜になっていた件 [白面金毛九尾の狐降臨]",
+    "level": "-"
+  },
+  {
+    "md5": "1810130fde5b434f4008a215b57f82cc",
+    "title": "俗物フェスティバル -Despair-",
     "level": "-"
   },
   {
@@ -5625,6 +5700,11 @@
     "level": "-"
   },
   {
+    "md5": "8244df1b6371ba82d8cf3c2374d3b91a",
+    "title": "織姫(Independent from God, Everlasting love remix) [gratitude]",
+    "level": "-"
+  },
+  {
     "md5": "346c53f7ed3a654a24a8d037b5929200",
     "title": "聖戦の輪舞 [DELAYMASTER]",
     "level": "-"
@@ -5657,6 +5737,11 @@
   {
     "md5": "83589087b6c8e6a79998be146b2a24de",
     "title": "貴女と秘密の… (ヤンデレ)",
+    "level": "-"
+  },
+  {
+    "md5": "b9c427ba4286cb9b962208f50935f87e",
+    "title": "退屈シンクアロング [THREE DIMENSIONS]",
     "level": "-"
   },
   {

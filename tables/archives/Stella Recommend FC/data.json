@@ -55,11 +55,6 @@
     "level": "5.3"
   },
   {
-    "md5": "b364f6f23032b1f0c63d710996113002",
-    "title": "パステルプラネット [Fairy Tale]",
-    "level": "5.3"
-  },
-  {
     "md5": "0e1e496945f9f1b7b55f46cff48686aa",
     "title": "音弾超人ゴリライザー [ステライザー]",
     "level": "5.3"
@@ -177,6 +172,11 @@
   {
     "md5": "b2e0a5d984b39b9a17451000ead86071",
     "title": "バーチャルセラピー [超物量セラピー]",
+    "level": "5.4"
+  },
+  {
+    "md5": "b364f6f23032b1f0c63d710996113002",
+    "title": "パステルプラネット [Fairy Tale]",
     "level": "5.4"
   },
   {
@@ -425,9 +425,14 @@
     "level": "5.5"
   },
   {
+    "md5": "9a71a30bb7aabb4fcacd9094d1dfaa45",
+    "title": "Snow in February [Hexagon]",
+    "level": "6.4"
+  },
+  {
     "md5": "38e8eec9831456f09e51ef1f89a4035e",
     "title": "Subjection Method [人を怒らせる方法]",
-    "level": "6.3"
+    "level": "6.4"
   },
   {
     "md5": "cd69c9ad8fdc2e11340361aaccecd9e7",
@@ -452,11 +457,6 @@
   {
     "md5": "0f8009c475de88d1fce903ffb0824f44",
     "title": "Once in my life [Kaiden House]",
-    "level": "6.5"
-  },
-  {
-    "md5": "9a71a30bb7aabb4fcacd9094d1dfaa45",
-    "title": "Snow in February [Hexagon]",
     "level": "6.5"
   },
   {
@@ -838,6 +838,11 @@
     "md5": "4101dd74b1eb5fcb04dd892a1eff3e76",
     "title": "追憶の森 -Voices of the Earth- [wide]",
     "level": "6.7"
+  },
+  {
+    "md5": "87dceba058d279b5c7f6a6a1bc5b9e28",
+    "title": "Disco☆Girl -踊る少女-",
+    "level": "7.7"
   },
   {
     "md5": "90349f13c4f8d8523ac800269b00e0a1",
@@ -1505,11 +1510,6 @@
     "level": "15.0"
   },
   {
-    "md5": "22a3242fd697083d5f3cfc74d96c0031",
-    "title": "炎花 - flameflower - [life]",
-    "level": "15.0"
-  },
-  {
     "md5": "2a85cd860a97105ce2e5f84e619c0cce",
     "title": "ATHAZA [　　　　　。]",
     "level": "15.1"
@@ -1527,6 +1527,11 @@
   {
     "md5": "809eb5f660e9f231688d906458c7d6a0",
     "title": "ハニエルのうた [GOD]",
+    "level": "15.1"
+  },
+  {
+    "md5": "22a3242fd697083d5f3cfc74d96c0031",
+    "title": "炎花 - flameflower - [life]",
     "level": "15.1"
   },
   {
@@ -1587,6 +1592,11 @@
   {
     "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
     "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "0b518dd7b6e46c147245a7b9d4a6dcc7",
+    "title": "Disco☆Girl -踊る少女-",
     "level": "Infinity"
   },
   {
@@ -1880,6 +1890,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "62ee831c874ec747772c86744ed6c7ba",
+    "title": "FUELBLOODS (KF)",
+    "level": "Infinity"
+  },
+  {
     "md5": "de7c678fc38a5831d01b772f35ced46b",
     "title": "FUTURE 1999 [FUTURE 2020]",
     "level": "Infinity"
@@ -2115,6 +2130,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "1810130fde5b434f4008a215b57f82cc",
+    "title": "俗物フェスティバル -Despair-",
+    "level": "Infinity"
+  },
+  {
     "md5": "fb41cc2e68fe23cc49378a58e02eb9a7",
     "title": "先天性エゴサ依存症候群 [Twitch TV]",
     "level": "Infinity"
@@ -2302,11 +2322,6 @@
   {
     "md5": "893a66d993d988e2dbc8538f13efb10f",
     "title": "FIRST PROMIZE [REZOLVE]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "62ee831c874ec747772c86744ed6c7ba",
-    "title": "FUELBLOODS (KF)",
     "level": "Infinity"
   },
   {
@@ -2610,8 +2625,18 @@
     "level": "Infinity"
   },
   {
+    "md5": "b999d0c6c03f26642f14833d0ad31ad2",
+    "title": "コモリヌ -Despair & Hope-",
+    "level": "Infinity"
+  },
+  {
     "md5": "ac34963a383348ff2451ca3a57baaaf2",
     "title": "シオカラ節 (Club & FM Remix) [S+99]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "196b23d514f7831e2c40f094a23e476e",
+    "title": "ハッピーフェイクショー [Haven't you heard?]",
     "level": "Infinity"
   },
   {
@@ -3415,6 +3440,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "8b312d3e85bbae454ba7c5bd76cbe706",
+    "title": "DUARRIER [Twin Stream]",
+    "level": "Infinity"
+  },
+  {
     "md5": "2b1ae8441aeee72aaa68362edccd2601",
     "title": "Dstorv [undefined]",
     "level": "Infinity"
@@ -3552,6 +3582,11 @@
   {
     "md5": "4cae94c0cab5d4e1e811916e89c50db2",
     "title": "Lebensumlauf [BEHEMOTH]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "6edb09c73a5d5296af82ea181a612aa3",
+    "title": "Lethal Strike [DENIAL]",
     "level": "Infinity"
   },
   {
@@ -3700,8 +3735,18 @@
     "level": "Infinity"
   },
   {
+    "md5": "ee24c4fe2e7784fa46b87d905da6df32",
+    "title": "Volt [Maryther]",
+    "level": "Infinity"
+  },
+  {
     "md5": "aa4279b54d8ffbd8f8f6f5ebf228d83a",
     "title": "Wonder World! (GOD)",
+    "level": "Infinity"
+  },
+  {
+    "md5": "671cb497784c661436febd42784b9953",
+    "title": "Wonderful Tomorrow [Powerful Days]",
     "level": "Infinity"
   },
   {
@@ -3900,6 +3945,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "8244df1b6371ba82d8cf3c2374d3b91a",
+    "title": "織姫(Independent from God, Everlasting love remix) [gratitude]",
+    "level": "Infinity"
+  },
+  {
     "md5": "346c53f7ed3a654a24a8d037b5929200",
     "title": "聖戦の輪舞 [DELAYMASTER]",
     "level": "Infinity"
@@ -4030,6 +4080,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "be7fac015e47e921a2cb02623bc1ec41",
+    "title": "FUELBLOODS -GOD-",
+    "level": "Infinity"
+  },
+  {
     "md5": "87b6810739d2f3761300e8180b543dbe",
     "title": "Fake it [INSANE]",
     "level": "Infinity"
@@ -4110,6 +4165,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "76d6653579c2d6e0ccee8806a75636c3",
+    "title": "March 27 [卒論]",
+    "level": "Infinity"
+  },
+  {
     "md5": "55608d3ca34e95dfebbe874babe0c536",
     "title": "Meaning of Existence [magical]",
     "level": "Infinity"
@@ -4147,6 +4207,11 @@
   {
     "md5": "ecafeddfc8731c5243ce3c5165767715",
     "title": "Rabbits [Maryther]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "title": "Regain [///]",
     "level": "Infinity"
   },
   {
@@ -4655,6 +4720,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "99bacb3c81efb069023beaaf3fb14b94",
+    "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
+    "level": "Infinity"
+  },
+  {
     "md5": "e60b85c94680409543f1eb4f9ebc898b",
     "title": "ピアノ協奏曲第１番\"蠍火\"（なんでも吸い込むピンク色のための）",
     "level": "Infinity"
@@ -4702,6 +4772,11 @@
   {
     "md5": "6b78a9b0e966625f24140a86438803c1",
     "title": "私たちの恋は観音開き  三(i)(i)三",
+    "level": "Infinity"
+  },
+  {
+    "md5": "b9c427ba4286cb9b962208f50935f87e",
+    "title": "退屈シンクアロング [THREE DIMENSIONS]",
     "level": "Infinity"
   },
   {
@@ -4932,6 +5007,11 @@
   {
     "md5": "dcf8869b8ccdc96f249eeda05f94a2ee",
     "title": "Yes namer",
+    "level": "Infinity"
+  },
+  {
+    "md5": "fcb129f3e5fb637407aaebbefc150c05",
+    "title": "bEyond",
     "level": "Infinity"
   },
   {
@@ -5487,6 +5567,11 @@
   {
     "md5": "4920e601bc093e6bc627babb06763cc6",
     "title": "tinnitus音頭",
+    "level": "Infinity"
+  },
+  {
+    "md5": "ddde6edd6b9c08fb198bfb82b48e743c",
+    "title": "アルスノヴァに喝采を [SUPERNOVA]",
     "level": "Infinity"
   },
   {

@@ -1606,10 +1606,10 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Poppy_Opium.zip",
     "name_diff": "",
-    "comment": "BOFXVII差分。高速乱打など。本体リンクからダウンロードできる[saika]Poppy_empty.bms 基準ズレ抜けなし。",
+    "comment": "st2 BOFXVII差分。高速乱打など。本体リンクからダウンロードできる[saika]Poppy_empty.bms 基準ズレ抜けなし。",
     "movie_link": "https://youtu.be/8HoTzkbHqU4",
     "date": "Sun Nov 28 2021 00:00:00 GMT+0900 (日本標準時)",
-    "state": "2"
+    "state": "1"
   },
   {
     "md5": "36bb255cee12973b5a599b6b384c39a4",
@@ -1632,9 +1632,35 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=137",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/FungusDance_Maryther.zip",
     "name_diff": "",
-    "comment": "(NEW!) BOFXVII差分。微連打、ガチ押し少し。0_fgd_mihaiti基準ズレ抜けなし。",
+    "comment": "BOFXVII差分。微連打、ガチ押し少し。0_fgd_mihaiti基準ズレ抜けなし。",
     "movie_link": "https://youtu.be/qkoo21oX-Dk",
     "date": "Sun Jan 16 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": "2"
+  },
+  {
+    "md5": "11d4c942c510d1c6c90d87d11e3145b9",
+    "title": "佐藤さんの韓国出張 - 佐藤さんは契約を獲得しなければならない [オサレ]",
+    "artist": "KINETC / obj: Mary_Sue",
+    "level": "X",
+    "url": "https://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/70/",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Enka of Satou_Mary_Sue.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 糞譜面",
+    "movie_link": "https://youtu.be/vJU93glvTIk",
+    "date": "Fri Feb 11 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": "3"
+  },
+  {
+    "md5": "3d06b6088fa391ebb6de7a20f4dc56a3",
+    "title": "Purely Runes 〔SP Maryther 7keys〕",
+    "artist": "GU-Note / obj: Mary_Sue Character:UC-Team Sound",
+    "level": "23",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=110",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Purely_Runes_00Maryther_fix.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 高速乱打、皿、連打、12分少し。修正版です。",
+    "movie_link": "https://youtu.be/1aTehgjdJC0",
+    "date": "Sat Feb 12 2022 00:00:00 GMT+0900 (日本標準時)",
     "state": "3"
   }
 ]

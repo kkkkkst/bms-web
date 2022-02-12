@@ -469,19 +469,6 @@
     "proposerLr2id": 73160
   },
   {
-    "level": "0",
-    "comment": "BOF2017",
-    "md5": "24b84a5f70b67bb54b4da39bcead1e56",
-    "sha256": "6e2ab79323e2ec82e7a867335df09eff33eb11133a268edd870000b125dfd9d7",
-    "title": "Orbitaloid [DP ANOTHER]",
-    "artist": "Chart BGA:二条せらふ / obj:みすげ～",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=116",
-    "proposer": "Tyro",
-    "submission": 131,
-    "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
-  },
-  {
     "md5": "d7e305a2f3685592730aae1baea5735e",
     "sha256": "7fb66a8649a86370eacd0951622510a90a2ca1fc8b4e2aeb6c150ebfd059bf2b",
     "title": "Out of Sense [DPA]",
@@ -902,6 +889,19 @@
     "proposerLr2id": 84521
   },
   {
+    "md5": "c02de0206f910240a0b9ed86858969cd",
+    "sha256": "f88500848ab848033b7dbf5a1eb0d81825ff98453ba25b3dd87f525bb278bda1",
+    "title": "Dream in the girl -DP ANOTHER-",
+    "artist": "music:yuyuyu illust:killcy / Obj:ゆ～兎",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=102",
+    "level": "1",
+    "comment": "片手CN+片手乱打、両手同時押し地帯がいい塩梅でした",
+    "proposer": "ふかけん",
+    "submission": 674,
+    "proposerLr2id": 145204
+  },
+  {
     "level": "1",
     "comment": "BOF2016, normal judge",
     "md5": "5dedb908c2d0fc61a09a2499ace14ee7",
@@ -1148,6 +1148,19 @@
     "proposer": "にゃむ",
     "submission": 165,
     "proposerLr2id": 139958
+  },
+  {
+    "level": "1",
+    "comment": "BOF2017",
+    "md5": "24b84a5f70b67bb54b4da39bcead1e56",
+    "sha256": "6e2ab79323e2ec82e7a867335df09eff33eb11133a268edd870000b125dfd9d7",
+    "title": "Orbitaloid [DP ANOTHER]",
+    "artist": "Chart BGA:二条せらふ / obj:みすげ～",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=116",
+    "proposer": "Tyro",
+    "submission": 131,
+    "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
   },
   {
     "level": "1",
@@ -7561,20 +7574,6 @@
     "proposerLr2id": 139958
   },
   {
-    "md5": "889439f50329c7d90a071e6dba4a3d17",
-    "sha256": "962381167521d972289fec1db365317389ef98dce40f957051c022f5e652deeb",
-    "title": "EXTRAPHANTASM [DP INSANE]",
-    "artist": "P4koo/ZUN Obj:ゆ～兎",
-    "url_diff": "http://flowermaster.web.fc2.com/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=102",
-    "level": "10",
-    "comment": "11? 片手発狂、連打、LN",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 610,
-    "proposerLr2id": 128228
-  },
-  {
     "level": "10",
     "comment": "★★3?、244BPM同時押し、甘ゲージ",
     "md5": "bdc0ccf60becab6c4abad8056c984dc9",
@@ -8035,6 +8034,20 @@
     "proposer": "にゃむ",
     "submission": 574,
     "proposerLr2id": 139958
+  },
+  {
+    "md5": "889439f50329c7d90a071e6dba4a3d17",
+    "sha256": "962381167521d972289fec1db365317389ef98dce40f957051c022f5e652deeb",
+    "title": "EXTRAPHANTASM [DP INSANE]",
+    "artist": "P4koo/ZUN Obj:ゆ～兎",
+    "url_diff": "http://flowermaster.web.fc2.com/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=102",
+    "level": "11",
+    "comment": "11? 片手発狂、連打、LN",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 610,
+    "proposerLr2id": 128228
   },
   {
     "md5": "0a9f7d1b536532badc1a7851a037a241",

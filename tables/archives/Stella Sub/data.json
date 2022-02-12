@@ -482,6 +482,19 @@
     "votePercent": 0
   },
   {
+    "md5": "4048a3584f4975e8609c1430448f125b",
+    "sha256": "2576def7394d497a64b580c229c6f64d5e4e5b3874fb600b6c6a5473d2b1495f",
+    "title": "Defeat awaken battle ship (SP DEFEAT)",
+    "artist": "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00581",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=112",
+    "level": "0",
+    "comment": "SPI.bms基準73小節に07キー音のズレが一つありますがディレイ配置関連のズレなのでプレーには実質的に問題なさそうです",
+    "proposer": "Mary_Sue",
+    "submission": 1744,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "5aea9abfab56021fadff6ce8f05c16fd",
     "sha256": "055478fc303900949fc25b21da9f51a0d4c28559863b745adce155b68a817e3e",
     "title": "denebora (A_LUZE)",
@@ -493,6 +506,20 @@
     "proposer": "파이어",
     "submission": 1372,
     "proposerLr2id": 7290
+  },
+  {
+    "md5": "0b518dd7b6e46c147245a7b9d4a6dcc7",
+    "sha256": "13a628803e3dacec7d72147e1f443a1bbb8dd10980e11ef3e2e281bf7cbac3ce",
+    "title": "Disco☆Girl -踊る少女-",
+    "artist": "T2o Feat 盧静 obj. tyrcs",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=137",
+    "level": "0",
+    "comment": "from Satellite",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 1740,
+    "proposerLr2id": 23110
   },
   {
     "md5": "3bc50ae766596c725d4aad5db93968a0",
@@ -1967,6 +1994,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "ad5dcb25f64868e63f88a6588e91c124b4c03337feb567b92bc7189fe06d1df9"
+  },
+  {
+    "md5": "2f9dceeeb47589af21588e871c6eff82",
+    "sha256": "3cc6f5174962a1b8e0cbf087d97d9c954638909d463c3e695c817cc7235b5d36",
+    "title": "ぼくらの惑星創造計画 -流星の双子-",
+    "artist": "Cassius object 蘇芳",
+    "url_diff": "http://www.ribbit.xyz/bms/mirror/uploader/src/up6365.rar",
+    "url": "https://drive.google.com/open?id=0B7qCw4hNijr4eV9rdHVqMlZuVWc",
+    "level": "0",
+    "comment": "ニュータイプ譜面",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1745,
+    "proposerLr2id": 147889
   },
   {
     "md5": "54122c5fe4306ef765cff0433b5a7176",
@@ -4617,19 +4658,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "eafe8edece05aba427de3e0fff8df89e687f240154af25a50f6020fdf0462e89"
-  },
-  {
-    "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
-    "sha256": "e6c2bac7d7f5e27b1f24610d8eb2e8ec40bf6860847160d7ec8ceb877a7f05ac",
-    "title": "Poppy [Opium]",
-    "artist": "Columba(Daily vs. Roon_kun) / obj: Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
-    "level": "1",
-    "comment": "[saika]Poppy_empty.bms 基準ズレ抜けなし",
-    "proposer": "七海",
-    "submission": 1734,
-    "proposerLr2id": 84597
   },
   {
     "md5": "6ecd2a7a0223ce5dec3fb7756d03799b",
@@ -8028,19 +8056,6 @@
     "votePercent": 0
   },
   {
-    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
-    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
-    "title": "No namer [Pentagon]",
-    "artist": "削除 obj.hex",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
-    "url": "https://www.axfc.net/u/956768&key=bms",
-    "level": "2",
-    "comment": "BPM168 連打、アレンジ差分",
-    "proposer": "SHAX.",
-    "submission": 1197,
-    "proposerLr2id": 65624
-  },
-  {
     "level": "2",
     "comment": "高速",
     "md5": "dc0c62e5c809c1a75460edb5f4640006",
@@ -8107,6 +8122,19 @@
     "proposer": "qtp13",
     "submission": 1177,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
+    "sha256": "e6c2bac7d7f5e27b1f24610d8eb2e8ec40bf6860847160d7ec8ceb877a7f05ac",
+    "title": "Poppy [Opium]",
+    "artist": "Columba(Daily vs. Roon_kun) / obj: Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
+    "level": "2",
+    "comment": "[saika]Poppy_empty.bms 基準ズレ抜けなし",
+    "proposer": "七海",
+    "submission": 1734,
+    "proposerLr2id": 84597
   },
   {
     "md5": "79c1ad2bd63bd1c2595e5ee3db2e25fd",
@@ -9377,6 +9405,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "9b2cdb55202fcae8161433669a3d0bc26f1072905efaa88ad3d941702ade42ee"
+  },
+  {
+    "md5": "5dd3d0e5f0dce9ce6549b8efa56e678f",
+    "sha256": "7da85729ef8910c3380ca6d0030dcf8084906ac0dcd702f2eafd3bc5a9cd117e",
+    "title": "無機質世界に彩を [Monochrome]",
+    "artist": "MisomyL /obj.turbow",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=137",
+    "level": "2",
+    "comment": "BPM155 多要素",
+    "proposer": "SHAX.",
+    "submission": 1741,
+    "proposerLr2id": 65624
   },
   {
     "md5": "543523332bfdc7b8cbf2ffb06e02052f",
@@ -11488,6 +11529,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
+    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
+    "title": "No namer [Pentagon]",
+    "artist": "削除 obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "https://www.axfc.net/u/956768&key=bms",
+    "level": "3",
+    "comment": "BPM168 連打、アレンジ差分",
+    "proposer": "SHAX.",
+    "submission": 1197,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "767999b4af9bf3e467d1c7d1308eb3e8",
     "title": "Non-singularity [Abnormal]",
     "artist": "UraL vs LiaN BGA:ujina Obj:SANY",
@@ -12182,6 +12236,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "bee234369e07e2c892905b0543ccfdf19674a1bd9e82efcaa28212ebec26a214"
+  },
+  {
+    "md5": "724b325ee482e0b7182606b1f9d26dcc",
+    "sha256": "2c097d4e10fd449acc69f672436a57bcbe9ec2069115854660efc118db7981b9",
+    "title": "Whole World Simulator -Xe-",
+    "artist": "BACO obj:LindBlum",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05848",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=393&event=137",
+    "level": "3",
+    "comment": "2~3? 11_wws_7stdとズレがありますが、キー音を切ったものなので問題なし",
+    "proposer": "七海",
+    "submission": 1747,
+    "proposerLr2id": 84597
   },
   {
     "md5": "e1bd1d999a8d1ff5df27cc8ed60e840a",
@@ -13162,6 +13229,20 @@
     "sha256": "61f1433b6c83dd902d1eb3f1cac5e30e210cfd3aca280ac10e6ea68e12b2add8"
   },
   {
+    "md5": "bda60ea2c577b5efa76b360d21bd0181",
+    "sha256": "926b3cd37bde56a6dc984dba7579dd85154f3da7e994f00b09b2a6aa253c98b6",
+    "title": "BEYOND [MORITHER]",
+    "artist": "Lime mov:Roaring Flame obj.東風谷早苗",
+    "url_diff": "https://drive.google.com/file/d/1ZsLesVTJxRd-KiTlnqV_N83kxfgJMDWu/view?usp=sharing",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "level": "4",
+    "comment": "stream",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1742,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "a129e26fb60d6381fd44b07fd0ab9725",
     "sha256": "7d1f4cd30830e75e82edf22c89be7e73231dc8e6b8eade14a309bc69b1d48397",
     "title": "Bittersweet Magic -To The Future-",
@@ -13757,6 +13838,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "48781dd8c716418d15045b590cd8e854",
+    "sha256": "a2b90aa28f1232a1369abf99ee1991c400e2d8380d702d49afb6771e7dc0c575",
+    "title": "Fungus Dance [Maryther]",
+    "artist": "paraneumann / obj:Mary_Sue mov:FGD",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=137",
+    "level": "4",
+    "comment": "BPM133 ズレ混じりの微連打",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1743,
+    "proposerLr2id": 65624
   },
   {
     "title": "Fusionik -FINAL BOSS-",
@@ -16193,6 +16288,19 @@
     "proposerLr2id": 7290
   },
   {
+    "md5": "02a3f3b4707f863469ac7c67e12e9365",
+    "sha256": "515e7fe7402ac01f06a3a88922c0b7dde6fcc79acef3495ed3041b007ad83d5e",
+    "title": "endemize [triumph]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj:BAECON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
+    "level": "5",
+    "comment": "BPM150 微縦連",
+    "proposer": "kai",
+    "submission": 1709,
+    "proposerLr2id": 9235
+  },
+  {
     "md5": "f7313cd04f913c2c6cfd3a9a23662eed",
     "sha256": "1b02c50586fd104a0aa0f7b67f043d74a255b92d52fba1e42465f0586b9da4e5",
     "title": "ETERNAL DRAIN (ETERNAL DELAYMASTER＋)",
@@ -18143,19 +18251,6 @@
     "proposer": "SHAX.",
     "submission": 1670,
     "proposerLr2id": 65624
-  },
-  {
-    "md5": "02a3f3b4707f863469ac7c67e12e9365",
-    "sha256": "515e7fe7402ac01f06a3a88922c0b7dde6fcc79acef3495ed3041b007ad83d5e",
-    "title": "endemize [triumph]",
-    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj:BAECON",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
-    "level": "6",
-    "comment": "BPM150 微縦連",
-    "proposer": "kai",
-    "submission": 1709,
-    "proposerLr2id": 9235
   },
   {
     "md5": "ccdbd7df4c2a0a2af1cdc1cbba7b083f",
@@ -20474,6 +20569,20 @@
     "proposerLr2id": 23110
   },
   {
+    "md5": "5026c88dc5986a429a869495528ade14",
+    "sha256": "cb74480dba25b8048c4adae20bf0fe601a74b96fcee974678529d628e22ca407",
+    "title": "CAR SEX HOT NIGHT [えち]",
+    "artist": "taqumi obj:垢伴次郎",
+    "url_diff": "https://stellabms.xyz/upload/1514",
+    "url": "https://ux.getuploader.com/bmshokan/download/1",
+    "level": "8",
+    "comment": "gachi",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1748,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "e5df9853b21157b064fc9f428cff026e",
     "title": "Celestial Axes  -Ragnarok-",
     "artist": "nmk / わっふゑ / selene.",
@@ -21329,6 +21438,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "6d00c418b106f2e3fb2726d02f3323e70be0be8a501395e1e2f9f6568b97729f"
+  },
+  {
+    "md5": "b2a686e09393dbcce8992e8813fdf437",
+    "sha256": "4742a30b3ec43d9ff742198bd0766e25f054847dfc6dd32c33766505b41312be",
+    "title": "ハッピーフェイクショー [Alternative Break]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
+    "level": "8",
+    "comment": "8~9?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1746,
+    "proposerLr2id": 84597
   },
   {
     "md5": "809eb5f660e9f231688d906458c7d6a0",
