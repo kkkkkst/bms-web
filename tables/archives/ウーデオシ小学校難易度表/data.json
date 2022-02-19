@@ -121,7 +121,7 @@
     "title": "NEW ANACHRONISM -もう、主人公になれない- (dream side)",
     "artist": "SECRET HEROINE 朝霧-ASAGI- / obj:水素 地球勇者キャプテン・ゴードン",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=65",
-    "url_diff": "http://www.ribbit.xyz/bms/mirror/uploader/src/up3841.zip",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3841.zip",
     "md5": "6a9742bbe2de9cdf0f9e5dc0a6a662c3",
     "comment": "sl0/122"
   },
@@ -175,7 +175,7 @@
     "title": "Right Back",
     "artist": "ag obj.screw",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=88",
-    "url_diff": "http://absolute.pv.land.to/bof/src/up0410.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0410.rar",
     "md5": "94004c2dc16fb21a33dfb8646c97f2e8",
     "comment": "sl0/124"
   },
@@ -184,7 +184,7 @@
     "title": "stairway to the universe [A]",
     "artist": "maki / obj : apricot",
     "url": "http://aquaseeds.net/",
-    "url_diff": "http://absolute.pv.land.to/bof/src/up0659.zip",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0659.zip",
     "md5": "a212d584ecaa6f4b9cafe6a1666dfbd4",
     "comment": "sl0/114"
   },
@@ -355,7 +355,7 @@
     "title": "はるいろ こみち [春]",
     "artist": "Y.W / A",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=69",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5120.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5120.zip",
     "md5": "34aa8b9d669442d347dfd42833b67d6a",
     "comment": "sl1/72"
   },
@@ -373,7 +373,7 @@
     "title": "鳥の詩 - Euro Techno Mix - [plume]",
     "artist": "Remixed by votomu obj:れもんるり",
     "url": "http://media.outphase.com/bms_database/sen-goku/tori_eurotechno.rar",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6726.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6726.zip",
     "md5": "a876f5e44fa63f4b0ec59f0b0b066d8c",
     "comment": "sl1/83"
   },
@@ -427,7 +427,7 @@
     "title": "Love Blood [INSANE]",
     "artist": "ETIA. feat.Jenga jubeated",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=76",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3515.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3515.zip",
     "md5": "ab57c9999681616cf61bf746a6a4170a",
     "comment": "sl2/116"
   },
@@ -634,7 +634,7 @@
     "title": "Objection to the vortex [Max]",
     "artist": "RearDawn / obj:980円の人 BGA:zue-row",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=93",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4274.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4274.zip",
     "md5": "4997f0968a625f3b2de04fddd850dd96",
     "comment": "sl3/121"
   },
@@ -664,6 +664,15 @@
     "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
     "md5": "35fefef102b09edac139551e33568b11",
     "comment": "105"
+  },
+  {
+    "level": "3",
+    "title": "Unshakable [Spiral Horn]",
+    "artist": "RiraN / obj.7zs",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=110",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00392",
+    "md5": "7d6532887254b85e0b79c587f71e6706",
+    "comment": "sl3/150"
   },
   {
     "level": "3",
@@ -706,7 +715,7 @@
     "title": "空 [ZOI]",
     "artist": "Sakamiya feat.toz img:ぬけみち Lyrics:uoru obj:SUZUKAZEΛ",
     "url": "http://dipathos.web.fc2.com/BMS.html",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up7063.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up7063.zip",
     "md5": "9fcd8ed5738eeafee02f4261a29c2b58",
     "comment": "sl3/100"
   },
@@ -742,7 +751,7 @@
     "title": "Dai-katsugeki〔AMAZE Remix〕 [ZOI]",
     "artist": "minun♂ Remixed by AMAZE obj:SUZUKAZEΛ",
     "url": "http://starkey.ivory.ne.jp/hr/hr4/detail/view/5/",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6747.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6747.zip",
     "md5": "d70e2549e841819708d279d2478bb1e2",
     "comment": "★5/122"
   },
@@ -775,10 +784,19 @@
   },
   {
     "level": "4",
+    "title": "The Fate of The Fairies",
+    "artist": "大臣",
+    "url": "http://tm2.toymusical.net/download.html",
+    "url_diff": "https://onedrive.live.com/?authkey=%21ANz1HhHo25YLkO0&id=CE038C7E1045ACD3%21897&cid=CE038C7E1045ACD3",
+    "md5": "2c245b43e351a5bce7a114d920c6970b",
+    "comment": "sl4/86"
+  },
+  {
+    "level": "4",
     "title": "Vorota [sLUNATIC]",
     "artist": "Auratus / A.M. / obj.swa",
     "url": "http://onedrive.live.com/redir?resid=B34BD1F8ACE93FD7!138&authkey=!AJleBqQEnxtF-uQ&ithint=folder%2c.zip",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up0472.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up0472.zip",
     "md5": "e37d03dc1487200f376a52c491326ada",
     "comment": "★8/108.75"
   },
@@ -792,11 +810,20 @@
     "comment": "sl4,▼5/112"
   },
   {
+    "level": "4",
+    "title": "xifhy midnight party [首筋]",
+    "artist": "bad taste aquarium / obj. hplaner",
+    "url": "http://web.archive.org/web/20040614190724/http://hat774.hp.infoseek.co.jp/",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "md5": "525da1832a8f8595ec79e874d4a45c36",
+    "comment": "120"
+  },
+  {
     "level": "5",
     "title": "Arxisia [Max]",
     "artist": "wata / obj:980円の人",
     "url": "https://onedrive.live.com/?authkey=%21AHXNigSGRDZ6G8w&id=40805CD20B6241C6%212650&cid=40805CD20B6241C6",
-    "url_diff": "http://absolute.pv.land.to/bof/src/up0551.zip",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0551.zip",
     "md5": "e68861f4b2f74785e939c40511bd7829",
     "comment": "▼7/90"
   },
@@ -949,7 +976,7 @@
     "title": "Megalovania HardRockArrange [Do you wanna have a bad time?]",
     "artist": "tetorimino / A",
     "url": "http://drive.google.com/uc?export=download&id=14J5pZBCuCRrnefofUSufKD7VY6e7b-2v",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6883.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6883.zip",
     "md5": "7b877dceae4a8c706f7438be9f7742c9",
     "comment": "sl7/120"
   },
@@ -985,7 +1012,7 @@
     "title": "Stargazer [流星雨が降る夜に]",
     "artist": "Lime / A",
     "url": "http://kanki2.net/bms.html",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6107.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6107.zip",
     "md5": "66e1cf445cd971c7501a613010020a85",
     "comment": "★11/87"
   },
@@ -1021,7 +1048,7 @@
     "title": "にじいろクレヨン -Eb-",
     "artist": "kagerow / いいくつ",
     "url": "http://kagerow.net/bms/1",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6586.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6586.zip",
     "md5": "54c66b5c0597ca3b95672b2e7440433e",
     "comment": "sl6/90"
   },
@@ -1174,7 +1201,7 @@
     "title": "村 [村 of a Bitch]",
     "artist": "カラフル・サウンズ・ポート / obj:Lennon",
     "url": "https://web.archive.org/web/20180316032550/http://csport.me/bms/csp_mura_bms.zip",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up7155.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up7155.zip",
     "md5": "0a682def4c79d7bd55a5c885b4d85638",
     "comment": "sl7/85.5"
   },
@@ -1201,7 +1228,7 @@
     "title": "KRAKEN -Rave*it!!-",
     "artist": "HEXAHEDRA obj:v",
     "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21390&ithint=file,zip&authkey=!AGPAXusmRMWjV8s",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5046.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5046.zip",
     "md5": "6955441e03f98c867cebbd9e18eb8b59",
     "comment": "▼14/86"
   },
@@ -1228,7 +1255,7 @@
     "title": "クロートーと星の観測者 [MANIAC]",
     "artist": "しーけー obj.me$o",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=104",
-    "url_diff": "http://absolute.pv.land.to/bof/src/up0966.zip",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0966.zip",
     "md5": "4c1ca130592c2b0d1bd0b55cceb94f5c",
     "comment": "sl8,★13/115"
   },
@@ -1291,7 +1318,7 @@
     "title": "Arcadia -幻眠る-",
     "artist": "HaL feat. riri obj:れもんるり",
     "url": "http://web.archive.org/web/20060621124303/http://www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6139.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6139.zip",
     "md5": "4f062e0b6a5143dca909152a316f05de",
     "comment": "sl9/120"
   },
@@ -1330,6 +1357,15 @@
     "url_diff": "https://web.archive.org/web/20190322230312/https://www.hyper-laner.com/sabun/subcons_laner.bme",
     "md5": "9632fc6f473b1e380d43175f2ab40873",
     "comment": "102"
+  },
+  {
+    "level": "9",
+    "title": "underwater sunset [ご飯少なめ]",
+    "artist": "xarva / obj. laner",
+    "url": "http://web.archive.org/web/20090421064808/http://phantomscape.in/event/dl/underwater_sunset.html",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "md5": "2287d2c53d6d87df6364d68942a36f70",
+    "comment": "129"
   },
   {
     "level": "9",
@@ -1471,7 +1507,7 @@
     "title": "Love Blood [BLOODY]",
     "artist": "ETIA. feat.Jenga jubeated",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=76",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3515.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3515.zip",
     "md5": "c431cc653778a749320ed146c7981567",
     "comment": "sl11/116"
   },
@@ -1543,7 +1579,7 @@
     "title": "奏龍ピアソラ [T.Instinct]",
     "artist": "daisan",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=80",
-    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2876.zip",
     "md5": "119eea569c407f1b4539c3881738e40f",
     "comment": "★19,▼19/120"
   },
@@ -1570,7 +1606,7 @@
     "title": "点、線、面、立体 多胞体",
     "artist": "sound piercer / mov : kkkfff2",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=49",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3288.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3288.zip",
     "md5": "38d58d8b3783fdb66dbafd8405954e8d",
     "comment": "★19/124"
   },
@@ -1624,7 +1660,7 @@
     "title": "subconsciousness -KILL-",
     "artist": "guna with チーム・キュッキュ/ obj:窓つきもん",
     "url": "http://aquaseeds.net/",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2618.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2618.zip",
     "md5": "556ed0c159434dd1e7a252086482cfd2",
     "comment": "★19/102\n<p>GENOSIDE段位認定 発狂八段 1曲目<p/>"
   },
@@ -1690,6 +1726,15 @@
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
     "md5": "84f24615319041873d799faf257d86bf",
     "comment": "sl12/120"
+  },
+  {
+    "level": "12",
+    "title": "Verre -Sunset, ibiza Mix- [H]",
+    "artist": "TAK / ke / obj. laner",
+    "url": "https://onedrive.live.com/?authkey=%21ANyZD9QeOV1qq4k&cid=3078649C19F9CDD6&id=3078649C19F9CDD6%21898&parId=3078649C19F9CDD6%21105&action=locate",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "md5": "3c6e9b43572cfa67eee5aeb3283b21d8",
+    "comment": "128"
   },
   {
     "level": "12",
