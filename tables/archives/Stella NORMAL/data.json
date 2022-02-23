@@ -1,17 +1,7 @@
 [
   {
-    "md5": "0b518dd7b6e46c147245a7b9d4a6dcc7",
-    "title": "Disco☆Girl -踊る少女-",
-    "level": "-0.50...0.00"
-  },
-  {
     "md5": "e97bd593d21d83c74e84d7cd4c950930",
     "title": "format0 [0x82D]",
-    "level": "0.50...1.00"
-  },
-  {
-    "md5": "3446b35b6a81083d79665abffb0f0a79",
-    "title": "KRAKEN -Poseidon-",
     "level": "0.50...1.00"
   },
   {
@@ -22,11 +12,6 @@
   {
     "md5": "acb300af338f3fd83aa733952aed6261",
     "title": "P8107 (__)",
-    "level": "0.50...1.00"
-  },
-  {
-    "md5": "1810130fde5b434f4008a215b57f82cc",
-    "title": "俗物フェスティバル -Despair-",
     "level": "0.50...1.00"
   },
   {
@@ -122,6 +107,11 @@
   {
     "md5": "2eb20a32d1eb2609ba8743e8db75a8e5",
     "title": "holy night celebration -Despair & Hope-",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "3446b35b6a81083d79665abffb0f0a79",
+    "title": "KRAKEN -Poseidon-",
     "level": "1.00...1.50"
   },
   {
@@ -265,6 +255,11 @@
     "level": "1.00...1.50"
   },
   {
+    "md5": "3a78a2c372f4bf284d8b18d165234299",
+    "title": "田中 -中々-",
+    "level": "1.00...1.50"
+  },
+  {
     "md5": "0e1e496945f9f1b7b55f46cff48686aa",
     "title": "音弾超人ゴリライザー [ステライザー]",
     "level": "1.00...1.50"
@@ -312,6 +307,11 @@
   {
     "md5": "50bc3fa82a285a269fec54490af80c52",
     "title": "Cryonix [Assault_fix]",
+    "level": "1.50...2.00"
+  },
+  {
+    "md5": "0b518dd7b6e46c147245a7b9d4a6dcc7",
+    "title": "Disco☆Girl -踊る少女-",
     "level": "1.50...2.00"
   },
   {
@@ -485,6 +485,11 @@
     "level": "1.50...2.00"
   },
   {
+    "md5": "9f65db9775f16e4438eccec2036cd43b",
+    "title": "Weaponhuman [Ultimate]",
+    "level": "1.50...2.00"
+  },
+  {
     "md5": "22dc782a49fb3ff80c2de90fb10f62f9",
     "title": "x-Aria -frenzy mix- [Hexagon]",
     "level": "1.50...2.00"
@@ -525,6 +530,11 @@
     "level": "1.50...2.00"
   },
   {
+    "md5": "de47ec858496f28f2f07e97ca211c0d5",
+    "title": "わるいコ -絶望-",
+    "level": "1.50...2.00"
+  },
+  {
     "md5": "d63a80c94958ffa9df871c3fdf2b2e7d",
     "title": "オカ研 [Four-Dimensional Space]",
     "level": "1.50...2.00"
@@ -552,6 +562,11 @@
   {
     "md5": "315dc438337e581c92d43366640009d7",
     "title": "佐渡の二ッ岩 [LUNATIC]",
+    "level": "1.50...2.00"
+  },
+  {
+    "md5": "1810130fde5b434f4008a215b57f82cc",
+    "title": "俗物フェスティバル -Despair-",
     "level": "1.50...2.00"
   },
   {
@@ -620,11 +635,6 @@
     "level": "1.50...2.00"
   },
   {
-    "md5": "8cbb9953cc18436d5991105b6c5de0a6",
-    "title": "雪原と少女の冒険 [Insane]",
-    "level": "1.50...2.00"
-  },
-  {
     "md5": "2e2ec86581e880d8570d2f3b10c03fda",
     "title": "Aleph-0 [Ω]",
     "level": "2.00...2.50"
@@ -632,6 +642,11 @@
   {
     "md5": "06bce609c001cfd7ecf1b28a513b9a6c",
     "title": "Alice in Misanthrope -厭世アリス- [INSANE]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "dfa03b5772241cbec0945ebc7a41b964",
+    "title": "Angel dust -C17H25N-",
     "level": "2.00...2.50"
   },
   {
@@ -652,16 +667,6 @@
   {
     "md5": "a8d8b79e38535d10a68f17a811881820",
     "title": "Bloody Scarlet Nightmare [yumether]",
-    "level": "2.00...2.50"
-  },
-  {
-    "md5": "c16806baa62156c5819a029d5bd69fcb",
-    "title": "Break Through The Barrier [LIMITLESS]",
-    "level": "2.00...2.50"
-  },
-  {
-    "md5": "454d2e6762491f09893e0e6c605e115a",
-    "title": "C.T.C. [c.t.c.]",
     "level": "2.00...2.50"
   },
   {
@@ -742,6 +747,11 @@
   {
     "md5": "62657099eab2c1f0337e250c1f7cfdb0",
     "title": "Juliet [Wander]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "ad5917cc6e4c4c681cfc2e91620e3eb8",
+    "title": "JUMMER -Delayed-",
     "level": "2.00...2.50"
   },
   {
@@ -870,11 +880,6 @@
     "level": "2.00...2.50"
   },
   {
-    "md5": "9f65db9775f16e4438eccec2036cd43b",
-    "title": "Weaponhuman [Ultimate]",
-    "level": "2.00...2.50"
-  },
-  {
     "md5": "e86e5e6e9b5409e86cd40d6c8cb402f6",
     "title": "whence [whither]",
     "level": "2.00...2.50"
@@ -965,6 +970,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "8cbb9953cc18436d5991105b6c5de0a6",
+    "title": "雪原と少女の冒険 [Insane]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "a597752081cb02d716d0ed1e16f6a158",
     "title": "！？ -Despair-",
     "level": "2.00...2.50"
@@ -1002,11 +1012,6 @@
   {
     "md5": "3d052fad63621775580e943c97fb3d25",
     "title": "Anarchist [Libertarian]",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "dfa03b5772241cbec0945ebc7a41b964",
-    "title": "Angel dust -C17H25N-",
     "level": "2.50...3.00"
   },
   {
@@ -1050,8 +1055,18 @@
     "level": "2.50...3.00"
   },
   {
+    "md5": "c16806baa62156c5819a029d5bd69fcb",
+    "title": "Break Through The Barrier [LIMITLESS]",
+    "level": "2.50...3.00"
+  },
+  {
     "md5": "7cfe8f8e36f72128b2e26b39354d9296",
     "title": "BRILLIANT STAR ～煌星の雫～ [SUPERNOVA]",
+    "level": "2.50...3.00"
+  },
+  {
+    "md5": "454d2e6762491f09893e0e6c605e115a",
+    "title": "C.T.C. [c.t.c.]",
     "level": "2.50...3.00"
   },
   {
@@ -1092,11 +1107,6 @@
   {
     "md5": "508caa088da8d50603cfe1389585b0af",
     "title": "Destr0yer -Last Song-",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "87dceba058d279b5c7f6a6a1bc5b9e28",
-    "title": "Disco☆Girl -踊る少女-",
     "level": "2.50...3.00"
   },
   {
@@ -1177,11 +1187,6 @@
   {
     "md5": "df5b7926081c2a40bc79bf2d62200a62",
     "title": "Journey to the ∞BIT World [Celeritas]",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "ad5917cc6e4c4c681cfc2e91620e3eb8",
-    "title": "JUMMER -Delayed-",
     "level": "2.50...3.00"
   },
   {
@@ -1510,6 +1515,11 @@
     "level": "3.00...3.50"
   },
   {
+    "md5": "87dceba058d279b5c7f6a6a1bc5b9e28",
+    "title": "Disco☆Girl -踊る少女-",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "5f39e01adf89be8aeb0052f62168e40e",
     "title": "dolor∞peccatum [fantasy7]",
     "level": "3.00...3.50"
@@ -1590,6 +1600,11 @@
     "level": "3.00...3.50"
   },
   {
+    "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
+    "title": "Poppy [Opium]",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "c934c1f6398e334aa63f4494882bff9b",
     "title": "Radio Girl [Hexagon]",
     "level": "3.00...3.50"
@@ -1627,11 +1642,6 @@
   {
     "md5": "cf6201d2d84cd20628320ccaba9de49e",
     "title": "WE ARE HARDCORE [ARE YOU READY?]",
-    "level": "3.00...3.50"
-  },
-  {
-    "md5": "671cb497784c661436febd42784b9953",
-    "title": "Wonderful Tomorrow [Powerful Days]",
     "level": "3.00...3.50"
   },
   {
@@ -1975,6 +1985,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "25d3171fe166348423d6ab0e7feeb6ca",
+    "title": "sampleX [SP Xpert]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "5bc86616c301d03d027881c256d2f748",
     "title": "Satori ～3rd EyEs [DELAY]",
     "level": "3.50...4.00"
@@ -1987,11 +2002,6 @@
   {
     "md5": "4e9e2376f57290e0ef4d453c0c691b91",
     "title": "Schwoeren of tears [Liberation]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "fd1ea9686810b185a5eb15e37ad66a61",
-    "title": "searoad tracks [feverish]",
     "level": "3.50...4.00"
   },
   {
@@ -2095,6 +2105,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "3d460b72527d59879b9c7a78f8504289",
+    "title": "ハートマークとエンドロール [Finale]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "d415aa79f5fbd7f1a1944146afd5f9af",
     "title": "マッドメチャクチャニズム [INSANE]",
     "level": "3.50...4.00"
@@ -2122,11 +2137,6 @@
   {
     "md5": "794e0b5c0ad4ae1ecda47148171ba730",
     "title": "幽冥クライシス [INFERNO]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "b0029142ff060a50188a6597f9deb258",
-    "title": "愛と煩悩と輪廻と常識の極彩世界 [地力向上についての同時押しと縦連の極彩世界]",
     "level": "3.50...4.00"
   },
   {
@@ -2295,8 +2305,8 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "25d3171fe166348423d6ab0e7feeb6ca",
-    "title": "sampleX [SP Xpert]",
+    "md5": "fd1ea9686810b185a5eb15e37ad66a61",
+    "title": "searoad tracks [feverish]",
     "level": "4.00...4.50"
   },
   {
@@ -2352,6 +2362,11 @@
   {
     "md5": "6131e8e2099fa9771012386dd738b6a0",
     "title": "Ultra Happy Miracle Bazoooooka!! -Marmalade-",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "671cb497784c661436febd42784b9953",
+    "title": "Wonderful Tomorrow [Powerful Days]",
     "level": "4.00...4.50"
   },
   {
@@ -2412,6 +2427,16 @@
   {
     "md5": "55175a61f06b704b6c4849fbabd473cd",
     "title": "夜明けの少女たち [triple]",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "0b5f10cc5b6ee23dff60442b4f0ecd36",
+    "title": "少女の舞葬 [No_more]",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "b0029142ff060a50188a6597f9deb258",
+    "title": "愛と煩悩と輪廻と常識の極彩世界 [地力向上についての同時押しと縦連の極彩世界]",
     "level": "4.00...4.50"
   },
   {
@@ -2530,6 +2555,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "8b312d3e85bbae454ba7c5bd76cbe706",
+    "title": "DUARRIER [Twin Stream]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "9537a84edc60f14997d57061e16107e5",
     "title": "Endless Dream -Reminiscence-",
     "level": "4.50...5.00"
@@ -2575,11 +2605,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "d5f397b50d019d2e78565d0caa7ab0f9",
-    "title": "Grace Glaciaire [MASTER]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "2d1de5a9ae740b3e00abceb41d737d69",
     "title": "GREMLIN [EX]",
     "level": "4.50...5.00"
@@ -2592,6 +2617,11 @@
   {
     "md5": "a1962fc8fbe6a5af158b404ef163cc60",
     "title": "H.A.L. X-Form",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "237e643cf3bdc90367cbec3c634fcfdd",
+    "title": "Holyvenger [MASTER]",
     "level": "4.50...5.00"
   },
   {
@@ -2627,11 +2657,6 @@
   {
     "md5": "0ec589043f9527e1290b8cdcce1d8d71",
     "title": "Leonids -Eclipse-",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "6edb09c73a5d5296af82ea181a612aa3",
-    "title": "Lethal Strike [DENIAL]",
     "level": "4.50...5.00"
   },
   {
@@ -2765,6 +2790,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "a03bfdf932e76f4c23e3b0628a301781",
+    "title": "Twin☆kle Galaxies [Journey 2 Sparkling Galaxies!!]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "89a788ea8806be7351295c155a5988af",
     "title": "Unleashed World [terminus]",
     "level": "4.50...5.00"
@@ -2787,11 +2817,6 @@
   {
     "md5": "7b41576e882e8ad94b338b81eec952ed",
     "title": "ただいま、Bar“BOOMY” [ばぶぅみぃ]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "0cb2464f1b4d8a8f401b26e3cdd45e47",
-    "title": "でじこあ [MANIAC]",
     "level": "4.50...5.00"
   },
   {
@@ -2840,11 +2865,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "0b5f10cc5b6ee23dff60442b4f0ecd36",
-    "title": "少女の舞葬 [No_more]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "0991c218a17e1a2f26d31d7a719f1e0c",
     "title": "性的猟奇的無意味 [7key_Death]",
     "level": "4.50...5.00"
@@ -2880,8 +2900,18 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "8244df1b6371ba82d8cf3c2374d3b91a",
+    "title": "織姫(Independent from God, Everlasting love remix) [gratitude]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "fa8ef27697bd34adccb3862ac0a99d69",
     "title": "虹夜パレッド [Pentagon]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "8bddd756f48796c65c51f4d48535f10d",
+    "title": "重波Samba de Render",
     "level": "4.50...5.00"
   },
   {
@@ -2937,11 +2967,6 @@
   {
     "md5": "003cdfadaf22dade9cccd3ae0d814317",
     "title": "dolls wish... [EX]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "2b1ae8441aeee72aaa68362edccd2601",
-    "title": "Dstorv [undefined]",
     "level": "5.00...5.50"
   },
   {
@@ -3005,6 +3030,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "d5f397b50d019d2e78565d0caa7ab0f9",
+    "title": "Grace Glaciaire [MASTER]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "695543c1fa363b783d7a749524663102",
     "title": "HAMMER the TANGRAM　（ボケ+）",
     "level": "5.00...5.50"
@@ -3015,11 +3045,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "237e643cf3bdc90367cbec3c634fcfdd",
-    "title": "Holyvenger [MASTER]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "5a1ba2cd11aae96fbc7268c19345cec7",
     "title": "Intercosmic travel [cosmos]",
     "level": "5.00...5.50"
@@ -3027,6 +3052,11 @@
   {
     "md5": "fb35fdadfba4ac0ee9f3b33a70846e92",
     "title": "introspect [introspection]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "6edb09c73a5d5296af82ea181a612aa3",
+    "title": "Lethal Strike [DENIAL]",
     "level": "5.00...5.50"
   },
   {
@@ -3065,11 +3095,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "d8355db1f45727bcd468242ba751c307",
-    "title": "puppies [Pentagon]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "6f7efa0cc8600ea75ebef16b89e39bd2",
     "title": "Pure White † Crimson Coffin -Genocide-",
     "level": "5.00...5.50"
@@ -3105,13 +3130,13 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "a03bfdf932e76f4c23e3b0628a301781",
-    "title": "Twin☆kle Galaxies [Journey 2 Sparkling Galaxies!!]",
+    "md5": "94dd053331872ee0fcb858d86cefee74",
+    "title": "Valentine Memory [Hexagon]",
     "level": "5.00...5.50"
   },
   {
-    "md5": "94dd053331872ee0fcb858d86cefee74",
-    "title": "Valentine Memory [Hexagon]",
+    "md5": "ee24c4fe2e7784fa46b87d905da6df32",
+    "title": "Volt [Maryther]",
     "level": "5.00...5.50"
   },
   {
@@ -3122,6 +3147,11 @@
   {
     "md5": "c1b55ce3bea1965441355f042aa85727",
     "title": "その斯くも美しき紅に -IR-",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "0cb2464f1b4d8a8f401b26e3cdd45e47",
+    "title": "でじこあ [MANIAC]",
     "level": "5.00...5.50"
   },
   {
@@ -3185,21 +3215,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "5bec55352a1e9c1ae777c8fd43a17fde",
-    "title": "玉響サーチライト [陽溜ファーストステップ]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "346c53f7ed3a654a24a8d037b5929200",
-    "title": "聖戦の輪舞 [DELAYMASTER]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "8bddd756f48796c65c51f4d48535f10d",
-    "title": "重波Samba de Render",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "cd04e5f97fff7b0fc1d3f3129c5c3b92",
     "title": "銀の風邪",
     "level": "5.00...5.50"
@@ -3227,6 +3242,11 @@
   {
     "md5": "1570202b5ea4c4d2fcd0d85185a095e9",
     "title": "Alicia Story [po]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "530bb8a64ae5718c7485b28a8a930779",
+    "title": "arosonik'A [ヒム子]",
     "level": "5.50...6.00"
   },
   {
@@ -3267,6 +3287,11 @@
   {
     "md5": "049accd5306faaa7c668fab8b17e10e1",
     "title": "Deublithick [INFELNO]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "2b1ae8441aeee72aaa68362edccd2601",
+    "title": "Dstorv [undefined]",
     "level": "5.50...6.00"
   },
   {
@@ -3385,6 +3410,16 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "7a8cef929dd3003230cf03ee3952f978",
+    "title": "Princess × Pegasus [微縦乱舞]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "d8355db1f45727bcd468242ba751c307",
+    "title": "puppies [Pentagon]",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "6880dbeffc00e460a72d704be661a6ae",
     "title": "rabbit burrow [rabbit blow]",
     "level": "5.50...6.00"
@@ -3455,6 +3490,11 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "e5d9c4094ab7c6790e655ed95550a6ba",
+    "title": "Theine [GOD]",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "a4ec37bd57910cbb6649f6f376322db0",
     "title": "Time shrinker [PARADOX]",
     "level": "5.50...6.00"
@@ -3477,11 +3517,6 @@
   {
     "md5": "8785e08433db1d9089a58c3fcf5e7e56",
     "title": "Violet Haze [410nm]",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "ee24c4fe2e7784fa46b87d905da6df32",
-    "title": "Volt [Maryther]",
     "level": "5.50...6.00"
   },
   {
@@ -3525,11 +3560,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "99bacb3c81efb069023beaaf3fb14b94",
-    "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "a0e534d02c919996fef1f2a83c44c418",
     "title": "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
     "level": "5.50...6.00"
@@ -3550,6 +3580,16 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "5bec55352a1e9c1ae777c8fd43a17fde",
+    "title": "玉響サーチライト [陽溜ファーストステップ]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "346c53f7ed3a654a24a8d037b5929200",
+    "title": "聖戦の輪舞 [DELAYMASTER]",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "4076708c5cc91788f2ffcf65c72a4073",
     "title": "腹腹時計",
     "level": "5.50...6.00"
@@ -3562,11 +3602,6 @@
   {
     "md5": "e5d71ddb6aa7e626eb773be94ac0f92f",
     "title": "Arcanum Guardian [EX]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "530bb8a64ae5718c7485b28a8a930779",
-    "title": "arosonik'A [ヒム子]",
     "level": "6.00...6.50"
   },
   {
@@ -3637,6 +3672,11 @@
   {
     "md5": "61cf968ceb831b799b38a12c5b594451",
     "title": "emergency call: Xeno [World Destroyer]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "02a3f3b4707f863469ac7c67e12e9365",
+    "title": "endemize [triumph]",
     "level": "6.00...6.50"
   },
   {
@@ -3720,11 +3760,6 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "cf790901b8b0613fc179860eb21a87fa",
-    "title": "PAST FUTURE!!! [Maryther]",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "71380a9a6608851fcddcb7956c46b0ea",
     "title": "perfume of reunion [Hexagon]",
     "level": "6.00...6.50"
@@ -3737,11 +3772,6 @@
   {
     "md5": "8f4f76217b814c837860126cc0919eda",
     "title": "Plastic Mind [EX]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "7a8cef929dd3003230cf03ee3952f978",
-    "title": "Princess × Pegasus [微縦乱舞]",
     "level": "6.00...6.50"
   },
   {
@@ -3765,18 +3795,8 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "b68e4ddc153ab9b9391f3d9a2f856e7a",
-    "title": "Sunset Toybox [EXTRA]",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "755faa09c5b8fdd1798bf470ac6e32cb",
     "title": "The Angel That Announces Death",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "e5d9c4094ab7c6790e655ed95550a6ba",
-    "title": "Theine [GOD]",
     "level": "6.00...6.50"
   },
   {
@@ -3840,6 +3860,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "99bacb3c81efb069023beaaf3fb14b94",
+    "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "9a809321618ed550f31605f27117559f",
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 -Catastrophe-",
     "level": "6.00...6.50"
@@ -3857,11 +3882,6 @@
   {
     "md5": "44a242e411cb99e924b26cfa342413f1",
     "title": "宵桜回廊 [狂]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "b9c427ba4286cb9b962208f50935f87e",
-    "title": "退屈シンクアロング [THREE DIMENSIONS]",
     "level": "6.00...6.50"
   },
   {
@@ -3960,11 +3980,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "72c6bc7a3fb300b930c4abcf908e6468",
-    "title": "five rhythm [lanest]",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "403e9511dd9b029a22cdf45e55f36384",
     "title": "G e n g a o z o - f o n",
     "level": "6.50...7.00"
@@ -3977,6 +3992,11 @@
   {
     "md5": "ca4e55f005bbc1057c69cf3b6b0ccfbe",
     "title": "Gecko [Japonicus]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "fb7b8f686d74f8375019e5be2efce3ea",
+    "title": "GOODRAGE [FullThrottle]",
     "level": "6.50...7.00"
   },
   {
@@ -4010,6 +4030,11 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "b8e1c338ba07ce8a7d46d4a1d795e672",
+    "title": "Lonely One Christmas [Hexagon]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "0fda6555e8f6d19087d9a1f1d934fe12",
     "title": "Lu*nya*cy Act 2017 [Lunatic]",
     "level": "6.50...7.00"
@@ -4022,6 +4047,11 @@
   {
     "md5": "55608d3ca34e95dfebbe874babe0c536",
     "title": "Meaning of Existence [magical]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "cf790901b8b0613fc179860eb21a87fa",
+    "title": "PAST FUTURE!!! [Maryther]",
     "level": "6.50...7.00"
   },
   {
@@ -4055,13 +4085,18 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "7867d3bf5cc5af9289f33313eaceb2ed",
-    "title": "That's the style!! [Hexagon]",
+    "md5": "b68e4ddc153ab9b9391f3d9a2f856e7a",
+    "title": "Sunset Toybox [EXTRA]",
     "level": "6.50...7.00"
   },
   {
-    "md5": "20a377e80eedf8e40aa55db0b69ef632",
-    "title": "The Gorilla -Gorillize-",
+    "md5": "b4384ba2b90691b478a2e2454b097b93",
+    "title": "symbolic gear [この歯車だけなぜかおにぎりが挟まっている]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "7867d3bf5cc5af9289f33313eaceb2ed",
+    "title": "That's the style!! [Hexagon]",
     "level": "6.50...7.00"
   },
   {
@@ -4072,6 +4107,16 @@
   {
     "md5": "bda605e76d263c8fd5d62ab4c5dfc3e1",
     "title": "Unleashed World [INSANE]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "0778b9e2cd606daab91314b314066733",
+    "title": "whither [douvenonsnousquesommesnousouallonsnous]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "0891e141ced4a92903459947e234f296",
+    "title": "Wicked plot [^v^]",
     "level": "6.50...7.00"
   },
   {
@@ -4150,6 +4195,11 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "b9c427ba4286cb9b962208f50935f87e",
+    "title": "退屈シンクアロング [THREE DIMENSIONS]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "640e6e37458f1d25cf79c0d7a6f2a8e6",
     "title": "逆サマ譜面のイデオロギー",
     "level": "6.50...7.00"
@@ -4190,11 +4240,6 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "02a3f3b4707f863469ac7c67e12e9365",
-    "title": "endemize [triumph]",
-    "level": "7.00...7.50"
-  },
-  {
     "md5": "498a9623f48f6dc5a7fef4e21adfa80a",
     "title": "EVERLASTING HAPPiNESS↑ [AETERNUM]",
     "level": "7.00...7.50"
@@ -4202,6 +4247,11 @@
   {
     "md5": "b092c5e20dfcde2593fd9446c8f8d3ad",
     "title": "False Friend -Enemy-",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "72c6bc7a3fb300b930c4abcf908e6468",
+    "title": "five rhythm [lanest]",
     "level": "7.00...7.50"
   },
   {
@@ -4220,18 +4270,8 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "fb7b8f686d74f8375019e5be2efce3ea",
-    "title": "GOODRAGE [FullThrottle]",
-    "level": "7.00...7.50"
-  },
-  {
     "md5": "1e9c2d49a28494f5db6541e3bf1c2eae",
     "title": "JULIAN \"for B.O.F. 2009\"",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "b8e1c338ba07ce8a7d46d4a1d795e672",
-    "title": "Lonely One Christmas [Hexagon]",
     "level": "7.00...7.50"
   },
   {
@@ -4270,13 +4310,13 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "b4384ba2b90691b478a2e2454b097b93",
-    "title": "symbolic gear [この歯車だけなぜかおにぎりが挟まっている]",
+    "md5": "6c04278a8e45693e4128a8b7f3e0df24",
+    "title": "The Destructive Genesis",
     "level": "7.00...7.50"
   },
   {
-    "md5": "6c04278a8e45693e4128a8b7f3e0df24",
-    "title": "The Destructive Genesis",
+    "md5": "20a377e80eedf8e40aa55db0b69ef632",
+    "title": "The Gorilla -Gorillize-",
     "level": "7.00...7.50"
   },
   {
@@ -4287,16 +4327,6 @@
   {
     "md5": "6f7115ca4ed5c2af57950ea47a713264",
     "title": "Trinity [Monsther]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "0778b9e2cd606daab91314b314066733",
-    "title": "whither [douvenonsnousquesommesnousouallonsnous]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "0891e141ced4a92903459947e234f296",
-    "title": "Wicked plot [^v^]",
     "level": "7.00...7.50"
   },
   {
@@ -4370,8 +4400,18 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "fcb129f3e5fb637407aaebbefc150c05",
+    "title": "bEyond",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "8b8634ba54a3e177f0d174dfd0799843",
     "title": "Cold Breath -Ragnarok-",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "3b5a99eb97efa1552b66d0a3bbe4d824",
+    "title": "Conglomerate [INSANE]",
     "level": "7.50...8.00"
   },
   {
@@ -4615,11 +4655,6 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "3b5a99eb97efa1552b66d0a3bbe4d824",
-    "title": "Conglomerate [INSANE]",
-    "level": "8.00...8.50"
-  },
-  {
     "md5": "945186e72918774b15cff9a38fe7d8ec",
     "title": "CrucifiXus [THE JUDGEMENT DAY]",
     "level": "8.00...8.50"
@@ -4632,11 +4667,6 @@
   {
     "md5": "46a2c6c0f73f1520feac4228982eb17d",
     "title": "HEXPERUS [ZENITH]",
-    "level": "8.00...8.50"
-  },
-  {
-    "md5": "2c903e074b3072b88905794db36f767e",
-    "title": "Jasmine Tea Girl",
     "level": "8.00...8.50"
   },
   {
@@ -4665,11 +4695,6 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "08e499d3c49724fee3b1335708e4f208",
-    "title": "Tears of the Sunrise [No More Tears]",
-    "level": "8.00...8.50"
-  },
-  {
     "md5": "7722f93ce5a0358e080a3e1d24308981",
     "title": "VG (Radio Edit) [Hi]",
     "level": "8.00...8.50"
@@ -4677,6 +4702,11 @@
   {
     "md5": "5942a74d562881300f246d904a73cf9e",
     "title": "world DELAYed of you (fairydust radio edit // SP 立体音響)",
+    "level": "8.00...8.50"
+  },
+  {
+    "md5": "82aeb140cc56a5618c14cffc97c60d47",
+    "title": "スナレ",
     "level": "8.00...8.50"
   },
   {
@@ -4805,6 +4835,11 @@
     "level": "8.50...9.00"
   },
   {
+    "md5": "2c903e074b3072b88905794db36f767e",
+    "title": "Jasmine Tea Girl",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "efbb396630c9cace3fd15643ff33e041",
     "title": "Leonids -Spiral galaxy-",
     "level": "8.50...9.00"
@@ -4852,6 +4887,11 @@
   {
     "md5": "68b451ab1f2f6f9178fcf7b5c5dfdad4",
     "title": "STRAY CATS FESTIVAL [YABAI7]",
+    "level": "8.50...9.00"
+  },
+  {
+    "md5": "08e499d3c49724fee3b1335708e4f208",
+    "title": "Tears of the Sunrise [No More Tears]",
     "level": "8.50...9.00"
   },
   {
@@ -4937,11 +4977,6 @@
   {
     "md5": "321a0af93bf7306547b4b136b7701bcf",
     "title": "Bangin' Dumpin' Rumble Bomber [OVERHEAT]",
-    "level": "9.00...9.50"
-  },
-  {
-    "md5": "6c6a66565aed72bf10a57fa60007db34",
-    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
     "level": "9.00...9.50"
   },
   {
@@ -5047,6 +5082,11 @@
   {
     "md5": "a06c88e7421b463a9d2d8b0e606eea97",
     "title": "Chronostasis [Reincarnation]",
+    "level": "9.50...10.00"
+  },
+  {
+    "md5": "6c6a66565aed72bf10a57fa60007db34",
+    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
     "level": "9.50...10.00"
   },
   {
@@ -5665,11 +5705,6 @@
     "level": "-"
   },
   {
-    "md5": "fcb129f3e5fb637407aaebbefc150c05",
-    "title": "bEyond",
-    "level": "-"
-  },
-  {
     "md5": "4663109750a2e9ca7a108fa534547a04",
     "title": "Black Lotus -Bismarck-",
     "level": "-"
@@ -5697,11 +5732,6 @@
   {
     "md5": "3b8dc35b550dcd07876688d9cb0571f0",
     "title": "Doppelganger -雋ｴ譁ｹ縺ｯ豁ｻ繧薙□-",
-    "level": "-"
-  },
-  {
-    "md5": "8b312d3e85bbae454ba7c5bd76cbe706",
-    "title": "DUARRIER [Twin Stream]",
     "level": "-"
   },
   {
@@ -5802,11 +5832,6 @@
   {
     "md5": "9babdbf73ea3bee55904b664e8a236e4",
     "title": "夜騒曲 op.Q-ν [Nightmare]",
-    "level": "-"
-  },
-  {
-    "md5": "8244df1b6371ba82d8cf3c2374d3b91a",
-    "title": "織姫(Independent from God, Everlasting love remix) [gratitude]",
     "level": "-"
   },
   {

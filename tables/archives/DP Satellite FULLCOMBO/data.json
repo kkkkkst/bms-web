@@ -2,26 +2,6 @@
   {
     "md5": "d7e305a2f3685592730aae1baea5735e",
     "title": "Out of Sense [DPA]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
-    "title": "endemize [E-ANOTHER]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "ff267e261a1509f3f779c562710e2c61",
-    "title": "Hazy moon (DP HYPER)",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "927c7acd74be6c41415b540fcdec89a0",
-    "title": "Night view [DP ANOTHER]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "3e2b303f183b77fe7938104a8c7a8869",
-    "title": "Nu Flame [14K ANOTHER]",
     "level": "4.00...4.50"
   },
   {
@@ -37,11 +17,6 @@
   {
     "md5": "37f8adb59640710ad6ff0aadb3367ea2",
     "title": "Celeste [DP ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
-    "title": "Cutter [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -70,6 +45,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "ff267e261a1509f3f779c562710e2c61",
+    "title": "Hazy moon (DP HYPER)",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "6c7694578e4446c9a1ce3ca9b9a4ef91",
     "title": "Her Majesty [DP ANOTHER]",
     "level": "4.50...5.00"
@@ -90,33 +70,23 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "927c7acd74be6c41415b540fcdec89a0",
+    "title": "Night view [DP ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "3e2b303f183b77fe7938104a8c7a8869",
+    "title": "Nu Flame [14K ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "24b84a5f70b67bb54b4da39bcead1e56",
     "title": "Orbitaloid [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
-    "md5": "8115719f84c683cdc1dfd53efe0b92d7",
-    "title": "Peaceful Leafs",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "fa736e9530e3c7170c570efd03b69b07",
-    "title": "Postliminium [DP ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "f41a990d8137150f510e74468d9f2244",
     "title": "resonance [DP Another]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "6c0bba1647785f2d79cc41896118b656",
-    "title": "Save the Water",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "030056b702515b5f64d6b557513293a0",
-    "title": "Summer White [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -180,6 +150,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
+    "title": "Cutter [DP ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "a4645e6bf907e515763cfa7126555fe9",
     "title": "Dai-katsugeki(AMAZE Remix) [14ANOTHER]",
     "level": "5.00...5.50"
@@ -192,6 +167,11 @@
   {
     "md5": "d65aa7b67d31d9b20a87b47c92d02058",
     "title": "Encrux [DP]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
+    "title": "endemize [E-ANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -230,6 +210,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "8115719f84c683cdc1dfd53efe0b92d7",
+    "title": "Peaceful Leafs",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "5fc0f29f5ad725c1266991dd20c9b439",
     "title": "PLASTIC GIRLS (ft. Seorryang) [140000円]",
     "level": "5.00...5.50"
@@ -240,8 +225,23 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "fa736e9530e3c7170c570efd03b69b07",
+    "title": "Postliminium [DP ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "eda91b02fece36750c6a18afd2284527",
     "title": "Ring Ring Ring ☆ Let's H! [R-15]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "6c0bba1647785f2d79cc41896118b656",
+    "title": "Save the Water",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "030056b702515b5f64d6b557513293a0",
+    "title": "Summer White [DP ANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -705,6 +705,11 @@
     "level": "8.50...9.00"
   },
   {
+    "md5": "1352e568f8b1d3214619f7ca9211c67f",
+    "title": "リリカと魔法の言葉 [DP Magical]",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "137821b71aee5d8444e7fcc38cd5690c",
     "title": "織姫 [dpinsane]",
     "level": "8.50...9.00"
@@ -907,6 +912,11 @@
   {
     "md5": "bb648bb7b6d71d24ae931c3140cb806c",
     "title": "Noblesse Gloria [DP-sagANOTHER]",
+    "level": "12.50...13.00"
+  },
+  {
+    "md5": "50258f7ef907a028cd554710d8be1299",
+    "title": "pure maiden's treasure [double elder sister]",
     "level": "12.50...13.00"
   },
   {
@@ -1530,6 +1540,11 @@
     "level": "-"
   },
   {
+    "md5": "1ce0d95e27aab50479e3a726ef27b157",
+    "title": "IMPULSE [DP ANOTHER]",
+    "level": "-"
+  },
+  {
     "md5": "352daa323679928542d7609219dfcc99",
     "title": "IMPULSE [DP INSANE]",
     "level": "-"
@@ -1647,6 +1662,11 @@
   {
     "md5": "43033d8833436e482a5d745e0721b196",
     "title": "Light drivv -DP ANOTHER-",
+    "level": "-"
+  },
+  {
+    "md5": "0dd86631a775185e6c5a51d1a4d85fb8",
+    "title": "LOVE [DP Another LOVE]",
     "level": "-"
   },
   {
@@ -1830,11 +1850,6 @@
     "level": "-"
   },
   {
-    "md5": "50258f7ef907a028cd554710d8be1299",
-    "title": "pure maiden's treasure [double elder sister]",
-    "level": "-"
-  },
-  {
     "md5": "f933308f0963b29ad48b6fe249689560",
     "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "-"
@@ -1875,6 +1890,11 @@
     "level": "-"
   },
   {
+    "md5": "e9e8b841292f7d176accabae9f09e313",
+    "title": "Road to the future city [DP ANOTHER]",
+    "level": "-"
+  },
+  {
     "md5": "c8165d170ccb541a766ce33a74d284a7",
     "title": "S'il vous plait! [DP_Li]",
     "level": "-"
@@ -1897,6 +1917,11 @@
   {
     "md5": "a3a0fe509b86ba843ae1559397427844",
     "title": "Shape [14Ex]",
+    "level": "-"
+  },
+  {
+    "md5": "34687333636caf3ef26d5450bd1efae6",
+    "title": "Simurgh [DP ANOTHER]",
     "level": "-"
   },
   {
@@ -2155,8 +2180,18 @@
     "level": "-"
   },
   {
+    "md5": "b09b5e86185319b7e80ec54a37bd61b5",
+    "title": "スナレ",
+    "level": "-"
+  },
+  {
     "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
     "title": "トココ21 ⊂㌍㌢⊃",
+    "level": "-"
+  },
+  {
+    "md5": "3a9338257e96637378c6f7f4dac076f7",
+    "title": "ハッピーフェイクショー [DP Another]",
     "level": "-"
   },
   {
@@ -2227,11 +2262,6 @@
   {
     "md5": "71e18a6179ad7854b517a59409254926",
     "title": "ラケシスと永遠の祈祷者 [sub black another]",
-    "level": "-"
-  },
-  {
-    "md5": "1352e568f8b1d3214619f7ca9211c67f",
-    "title": "リリカと魔法の言葉 [DP Magical]",
     "level": "-"
   },
   {

@@ -73,6 +73,15 @@
   },
   {
     "level": "0",
+    "title": "ice valley \"beyond the searoad\" [EXTRA]",
+    "artist": "maki / obj:MineC24",
+    "url": "http://aquaseeds.net/",
+    "url_diff": "https://www.dropbox.com/s/ry3htedviqexvf0/icevalley_7e.bms?dl=0",
+    "md5": "271a8286f788ba1849aa0d2ae24a2df9",
+    "comment": "sl0/136"
+  },
+  {
+    "level": "0",
     "title": "lataia [Maniac7]",
     "artist": "onoken / obj.siokaze",
     "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
@@ -235,15 +244,6 @@
   },
   {
     "level": "0",
-    "title": "ハルトマンの妖怪少女～VirusⅤ [ANOTHER]",
-    "artist": "ZUN RMX By 44teru-k",
-    "url": "http://web.archive.org/web/20160101135626/http://creation-records.info/bms/koishi_virus5_44teru-k_ogg.rar",
-    "url_diff": "同梱譜面",
-    "md5": "ff9f25ad005083c6173b565d054405c0",
-    "comment": "★1/125"
-  },
-  {
-    "level": "0",
     "title": "村 [ENT]",
     "artist": "カラフル・サウンズ・ポート Obj.Triforce",
     "url": "https://web.archive.org/web/20180316032550/http://csport.me/bms/csp_mura_bms.zip",
@@ -268,15 +268,6 @@
     "url_diff": "https://www.dropbox.com/s/yjwisggiofy4p2d/ten_sen_men_rittai_sabun.lzh",
     "md5": "36611f2dbd11d859463efb6b4df59823",
     "comment": "★1/124"
-  },
-  {
-    "level": "1",
-    "title": "Arcadia -★1-",
-    "artist": "HaL feat. riri / NORE",
-    "url": "http://web.archive.org/web/20060621124303/www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
-    "url_diff": "http://web.archive.org/web/20150808221211/http://page.freett.com/bmssabunhokan/is.htm",
-    "md5": "f4c17f83cb7ba7ed6872ed001b5336e6",
-    "comment": "★1/120"
   },
   {
     "level": "1",
@@ -358,6 +349,15 @@
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5120.zip",
     "md5": "34aa8b9d669442d347dfd42833b67d6a",
     "comment": "sl1/72"
+  },
+  {
+    "level": "1",
+    "title": "ハルトマンの妖怪少女～VirusⅤ [ANOTHER]",
+    "artist": "ZUN RMX By 44teru-k",
+    "url": "http://web.archive.org/web/20160101135626/http://creation-records.info/bms/koishi_virus5_44teru-k_ogg.rar",
+    "url_diff": "同梱譜面",
+    "md5": "ff9f25ad005083c6173b565d054405c0",
+    "comment": "★1/125"
   },
   {
     "level": "1",
@@ -511,6 +511,15 @@
     "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/150",
     "md5": "d2c180271db16f3cbd34e53ed51123a5",
     "comment": "sl2/90"
+  },
+  {
+    "level": "2",
+    "title": "パラダイムシフト [SABOTHER]",
+    "artist": "むらしん /さ",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%95%E3%83%88%20(by%20%E3%82%80%E3%82%89%E3%81%97%E3%82%93).rar",
+    "url_diff": "https://web.archive.org/web/20170430201621/http://sabosabun.tank.jp/sabun/shift.zipp",
+    "md5": "d73228f1d448a258ed0717569cc5640b",
+    "comment": "100"
   },
   {
     "level": "2",
@@ -1168,6 +1177,15 @@
     "url_diff": "https://darksabun.github.io/Mary_Sue/",
     "md5": "8d5f4dac753571c8d448463dc9302406",
     "comment": "sl7/109"
+  },
+  {
+    "level": "7",
+    "title": "パラダイムシフト [EX]",
+    "artist": "むらしん /さ",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%95%E3%83%88%20(by%20%E3%82%80%E3%82%89%E3%81%97%E3%82%93).rar",
+    "url_diff": "https://web.archive.org/web/20170430201621/http://sabosabun.tank.jp/sabun/shift.zip",
+    "md5": "a44c6a91633ad746b2a724f4843157b7",
+    "comment": "100"
   },
   {
     "level": "7",

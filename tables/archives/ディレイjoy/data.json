@@ -231,6 +231,26 @@
   },
   {
     "level": " DELAY BEGINNER",
+    "title": "ひつぎとふたご [7KEY/AFOTHER]",
+    "artist": "plastic feat.サキト / yuyuko / nemes",
+    "url": "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1672.zip",
+    "md5": "80584225c6e81575ff8646e94b97c169",
+    "comment": "258516",
+    "打鍵速度": "258516"
+  },
+  {
+    "level": " DELAY BEGINNER",
+    "title": "ひつぎとふたご [7KEY/HuHiHiTHER]",
+    "artist": "plastic feat.サキト / obj:秘密",
+    "url": "https://web.archive.org/web/20110717154114/http://placase.bms.ms/music.htm",
+    "url_diff": "https://www.dropbox.com/s/jzfibeqdf1j30rc/%E3%81%B2%E3%81%A4%E3%81%8E%E3%81%A8%E3%81%B5%E3%81%9F%E3%81%94.zip?dl=1",
+    "md5": "7f4bc331a5273076bf498190110d14cc",
+    "comment": "258516",
+    "打鍵速度": "258516"
+  },
+  {
+    "level": " DELAY BEGINNER",
     "title": "ブラーブルー -Eternal-",
     "artist": "Caerula obj:monaka",
     "url": "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
@@ -798,16 +818,6 @@
     "md5": "c7f384d33fd08da0fda97112354a834c",
     "comment": "sl12/250,500",
     "打鍵速度": "250500"
-  },
-  {
-    "level": "-1",
-    "title": "ハニエルのうた [EXTRA]",
-    "artist": "sak feat.みゅい BGI:球根",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=120",
-    "url_diff": "同梱譜面",
-    "md5": "b2d0911f389aab92b4f7b0ff5ca345e0",
-    "comment": "sl12/275",
-    "打鍵速度": "275"
   },
   {
     "level": "-1",
@@ -1598,6 +1608,16 @@
     "md5": "8816823b398ee07c09f27f4f74b44c79",
     "comment": "元st1/330",
     "打鍵速度": "330"
+  },
+  {
+    "level": "1",
+    "title": "樟葉 [魔法の大激変]",
+    "artist": "-45 obj.nozomi",
+    "url": "http://malie.noor.jp/archive/kusuha.rar",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymj_z6T2oMrFubUnb?e=sIgepp",
+    "md5": "f7b45aea5f09b9a7e6bc479d9b96694f",
+    "comment": "312",
+    "打鍵速度": "312"
   },
   {
     "level": "1",
@@ -4411,16 +4431,6 @@
   },
   {
     "level": "8",
-    "title": "Nyan-Nyan Naughty Night [N,N,N′,N′-Tetramethylethylenediamine－]",
-    "artist": "かたぎり / おたく BGI: morph",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=127&event=133",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04837",
-    "md5": "57073fac4f6b8f6f298f1caf82effdb0",
-    "comment": "242",
-    "打鍵速度": "242"
-  },
-  {
-    "level": "8",
     "title": "oceanbird -LAST BOSS-",
     "artist": "Xacla / TOHRU MiTSUHASHi",
     "url": "https://onedrive.live.com/?cid=BEA3EA5126192983&id=BEA3EA5126192983%21112",
@@ -4538,6 +4548,16 @@
     "md5": "14555e1fc4e22f66bd9c05bff3d6fb18",
     "comment": "450?",
     "打鍵速度": "450?"
+  },
+  {
+    "level": "8",
+    "title": "ハッピーフェイクショー [Alternative Break]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1429",
+    "md5": "b2a686e09393dbcce8992e8813fdf437",
+    "comment": "st8/312,468",
+    "打鍵速度": "312,468"
   },
   {
     "level": "8",
@@ -4811,13 +4831,13 @@
   },
   {
     "level": "9",
-    "title": "Nyan-Nyan Naughty Night [ethylenediamine]",
-    "artist": "かたぎり BGI: morph obj: strongman",
-    "url": "http://music.geocities.jp/yutaortslabo/yutaortslabo_asianeuro_16ogg.zip",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05790",
-    "md5": "13aa9892cf054c3958b64c2298f03284",
-    "comment": "242",
-    "打鍵速度": ""
+    "title": "Nyan-Nyan Naughty Night [N,N,N′,N′-Tetramethylethylenediamine－]",
+    "artist": "かたぎり / おたく BGI: morph",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=127&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04837",
+    "md5": "57073fac4f6b8f6f298f1caf82effdb0",
+    "comment": "sub st9/242",
+    "打鍵速度": "242"
   },
   {
     "level": "9",
@@ -4988,16 +5008,6 @@
     "md5": "1cc0eb7a1d691fa53bfb4596c8eee6a7",
     "comment": "310",
     "打鍵速度": "310"
-  },
-  {
-    "level": "9",
-    "title": "ハッピーフェイクショー [Alternative Break]",
-    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
-    "url_diff": "https://stellabms.xyz/upload/1429",
-    "md5": "b2a686e09393dbcce8992e8813fdf437",
-    "comment": "312,468",
-    "打鍵速度": "312,468"
   },
   {
     "level": "9",
@@ -5228,6 +5238,16 @@
     "md5": "019ac1a99cd2e4e1d971e85089ec474a",
     "comment": "★★6/230～245",
     "打鍵速度": "’230～245"
+  },
+  {
+    "level": "10",
+    "title": "Nyan-Nyan Naughty Night [ethylenediamine]",
+    "artist": "かたぎり BGI: morph obj: strongman",
+    "url": "http://music.geocities.jp/yutaortslabo/yutaortslabo_asianeuro_16ogg.zip",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05790",
+    "md5": "13aa9892cf054c3958b64c2298f03284",
+    "comment": "242",
+    "打鍵速度": ""
   },
   {
     "level": "10",
