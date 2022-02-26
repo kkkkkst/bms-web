@@ -281,6 +281,19 @@
     "proposerLr2id": 155797
   },
   {
+    "md5": "7f871977f518b9e293df36415369b938",
+    "sha256": "4ae586454b25ba6efa887048e069721e416494fd16118effd8536b5b71e443fd",
+    "title": "Be Mirai Script - Past -",
+    "artist": "ルゼ Obj:PsiVictoria Movie:A-ZERO Project BGI:morph",
+    "url_diff": "https://stellabms.xyz/upload/1563",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=120",
+    "level": "5",
+    "comment": "burst,stream",
+    "proposer": "xz-st",
+    "submission": 2373,
+    "proposerLr2id": 170603
+  },
+  {
     "md5": "f6b9d4d2b0fc483bf36a28f0c7b08354",
     "sha256": "a55339a0e8df7ea22b83eb4c74d81069893e7cdcbc9348fb6e523bae4592bf6f",
     "title": "インフィニット・パラダイムシフト [SCIENTIFIC REVOLUTION]",
@@ -305,6 +318,19 @@
     "proposer": "511",
     "submission": 2357,
     "proposerLr2id": 141043
+  },
+  {
+    "md5": "28e0ceda665f6b2639562bfe8da740ed",
+    "sha256": "5935495ffd0ae518a855f60989dd98b988e826ceb0ede2e0e444efe42db7194e",
+    "title": "far in the blue sky... ANOTHER plus",
+    "artist": "saikoro / sorato",
+    "url_diff": "https://stellabms.xyz/upload/1562",
+    "url": "http://members3.jcom.home.ne.jp/shin510629/bmscolumn/03_fitbs.htm",
+    "level": "6",
+    "comment": "burst,shortrenda",
+    "proposer": "xz-st",
+    "submission": 2372,
+    "proposerLr2id": 170603
   },
   {
     "md5": "62e17e79a83361523d31f0a484cd2970",
@@ -334,6 +360,20 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "6bd9d020ba7f6544c9b5e0cc57da4d80",
+    "sha256": "0ee903524118169ce8703d8d79cc241a50b33837f4d675f843d0ba302ba1b8d9",
+    "title": "DUARRIER [numuther-]",
+    "artist": "Nuekawa / BGA:tayuru / Illust:神宮要 obj:numuto",
+    "url_diff": "https://ux.getuploader.com/numuther/download/33",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=137",
+    "level": "7",
+    "comment": "slX (not really sure with difficulty)",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2374,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "08b6c8951c71d6e02bb86c0a14576243",
     "sha256": "8b6a905aedbac4e816af0755d17e7243bb8af4d1614992f579b813efe19a86ea",
     "title": "ENDLESS RAIN [Endless Torture]",
@@ -344,6 +384,23 @@
     "comment": "同梱readmeによると、追加音源によるズレあり",
     "proposer": "Mary_Sue",
     "submission": 2342,
+    "proposerLr2id": 147889
+  },
+  {
+    "title": "Credits [Corporation]",
+    "artist": "Frums Obj.Triforce",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
+    "url_diff": "http://www.dropbox.com/s/bf2v6jnpit6jju6/_credits-triforce.bme?dl=0",
+    "md5": "cdab52f88644b32917e7292d4a190cbf",
+    "sha256": "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
+    "proposer": "Mary_Sue",
+    "level": "8",
+    "submission": 1290,
+    "voteYes": 8,
+    "voteNeutral": 4,
+    "voteNo": 1,
+    "votePercent": 76.92307692307693,
+    "voteVersion": 2,
     "proposerLr2id": 147889
   },
   {

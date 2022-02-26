@@ -215,7 +215,7 @@
     "url": "https://www.dropbox.com/s/b6dnxl0ui73py3a/cybermiso-Necromaneuver.rar?dl=1",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Necromaneuver.zip",
     "name_diff": "",
-    "comment": "HARD判定、皿、発狂、ソフラン、同時押し。癖コレサブ表に登載(¿¡24)。",
+    "comment": "¿¡24 HARD判定、皿、発狂、ソフラン、同時押し。",
     "movie_link": "https://youtu.be/pKIOgSBFgKA",
     "date": "Fri Jun 05 2020 00:00:00 GMT+0900 (日本標準時)",
     "state": "1"
@@ -1151,7 +1151,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=116",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/squeezeme_maryther.zip",
     "name_diff": "",
-    "comment": "st1 微連打、ガチ押しなど。同梱_beta.bms基準ズレなし。",
+    "comment": "st1 微連打、ガチ押しなど。",
     "movie_link": "https://youtu.be/tdLfC3EVJ6w",
     "date": "Fri Jun 04 2021 00:00:00 GMT+0900 (日本標準時)",
     "state": "1"
@@ -1164,7 +1164,7 @@
     "url": "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/pt5CmTpR",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/6_atomicsphere_amaranth_silly.zip",
     "name_diff": "",
-    "comment": "plugout3版の差分。乱打。",
+    "comment": "sl12 plugout3版の差分。乱打。",
     "movie_link": "https://youtu.be/HgEsIioEnN0",
     "date": "Thu Jun 10 2021 00:00:00 GMT+0900 (日本標準時)",
     "state": "1"
@@ -1658,10 +1658,10 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=110",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Purely_Runes_00Maryther_fix.zip",
     "name_diff": "",
-    "comment": "(NEW!) 高速乱打、皿、連打、12分少し。修正版です。",
+    "comment": "高速乱打、皿、連打、12分少し。修正版です。",
     "movie_link": "https://youtu.be/1aTehgjdJC0",
     "date": "Sat Feb 12 2022 00:00:00 GMT+0900 (日本標準時)",
-    "state": "3"
+    "state": ""
   },
   {
     "md5": "37aa10985dab90a7496c12b93a9b4e10",
@@ -1687,6 +1687,32 @@
     "comment": "(NEW!) BPM155 微連打の感じ、EASY判定",
     "movie_link": "https://youtu.be/lwXZkT0DgMM",
     "date": "Fri Feb 18 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": "3"
+  },
+  {
+    "md5": "f36821093520edfe10be7fe0ccfe10a5",
+    "title": "Kanoso64うぐぅ来訪者 - Last regrets [SILLY]",
+    "artist": "ひやめし / obj: Mary_Sue",
+    "level": "16",
+    "url": "https://web.archive.org/web/20011103071918/http://www.tkcity.net/~aabachi/kanoso64.exe",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/kanoso64-silly-.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 微連打、NORMAL判定など。",
+    "movie_link": "https://youtu.be/D8BsJCQC8Kg",
+    "date": "Wed Feb 23 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": "3"
+  },
+  {
+    "md5": "cab685fe017792197075fa72e6e78662",
+    "title": "天獄誅罰遊戯 [神幸]",
+    "artist": "かゆき / obj: Mary_Sue",
+    "level": "16",
+    "url": "https://mega.nz/file/ntMWDR4D#bFJ5dVzgXSu9GEp66kfJnU4736fw-SmHLfy8BZAvRi8",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/tengokutyuubatsu_Mary_Sue.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 乱打、二重階段、発狂、微連打など。",
+    "movie_link": "https://youtu.be/zOeoxwb5s-A",
+    "date": "Sat Feb 26 2022 00:00:00 GMT+0900 (日本標準時)",
     "state": "3"
   }
 ]
