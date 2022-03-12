@@ -2952,32 +2952,6 @@
   },
   {
     "level": "0",
-    "title": "ecstatic ghost party as Nightmare [Eb]",
-    "md5": "bdde6208f2562db84d7b171755ec4d9a",
-    "video1": "29700401",
-    "video2": "",
-    "url_diff": "http://eboots.ashigaru.jp/",
-    "name_diff": "いい靴",
-    "url": "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-    "artist": "cybermiso",
-    "comment": "ワープとSTOP",
-    "state": ""
-  },
-  {
-    "level": "0",
-    "title": "ecstatic ghost party as Nightmare",
-    "md5": "9b80d25b5b98636695f0e903932c9bd0",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "同梱",
-    "url": "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-    "artist": "cybermiso",
-    "comment": "演出ソフランとSTOP",
-    "state": ""
-  },
-  {
-    "level": "0",
     "title": "Virtual [7Extra]",
     "md5": "1a78a0c7b6c124188771c3e201f9ef6b",
     "video1": "",
@@ -5457,7 +5431,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=133",
     "artist": "芳野あんかけ",
     "comment": "ワープと穴抜き地雷",
-    "state": ""
+    "state": "1"
   },
   {
     "level": "0",
@@ -5470,7 +5444,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=133",
     "artist": "芳野あんかけ",
     "comment": "演出ソフランと地雷(即死)",
-    "state": ""
+    "state": "1"
   },
   {
     "level": "0",
@@ -5483,7 +5457,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=133",
     "artist": "Fl00t",
     "comment": "ガクガクソフランとBPM",
-    "state": ""
+    "state": "1"
   },
   {
     "level": "0",
@@ -5496,7 +5470,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=110",
     "artist": "dosugoge",
     "comment": "ガラスをぶち破る小節線",
-    "state": ""
+    "state": "1"
   },
   {
     "level": "3",
@@ -5509,71 +5483,6 @@
     "url": "https://event.yaruki0.net/BMSquare/impression/3",
     "artist": "pikomimi_STRaw",
     "comment": "地雷具現化と曲合わせピコピコソフラン",
-    "state": ""
-  },
-  {
-    "level": "0",
-    "title": "アルスノヴァに喝采を [SP HYPER]",
-    "md5": "74e356d8d8bf47cdf1dc2328931c75d4",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "同梱",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=137",
-    "artist": "qfeileadh feat.レゾナンスもえこ",
-    "comment": "小節線",
-    "state": "1"
-  },
-  {
-    "level": "1",
-    "title": "無機質世界に彩を [HYPER 7]",
-    "md5": "c845aec6c34a394b65c7a3ce3ef6e186",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "同梱",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=137",
-    "artist": "MisomyL",
-    "comment": "小節線とワープ",
-    "state": "1"
-  },
-  {
-    "level": "3",
-    "title": "Can U Feel It [Emotional]",
-    "md5": "42cd63ec2a0c0b56f24250963b73795d",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "同梱(DJ.END)",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=137",
-    "artist": "siqlo",
-    "comment": "地雷アートとエモソフラン",
-    "state": "1"
-  },
-  {
-    "level": "2",
-    "title": "Summer White [Emotional]",
-    "md5": "1cde9d68d3600b9b928765ea3babd5ff",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "同梱(DJ.END)",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=137",
-    "artist": "shimizushi",
-    "comment": "演出ソフランと地雷アニメ",
-    "state": "1"
-  },
-  {
-    "level": "3",
-    "title": "Starbowscapes* -Voyager*-",
-    "md5": "e3c1da8a1df8dfeda1223b6e132aa8c9",
-    "video1": "",
-    "video2": "rV6RuKr9kMs",
-    "url_diff": "",
-    "name_diff": "同梱",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=373&event=137",
-    "artist": "NASA",
-    "comment": "地雷とソフランで宇宙の旅",
     "state": "1"
   }
 ]

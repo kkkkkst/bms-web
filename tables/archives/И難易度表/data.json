@@ -522,7 +522,7 @@
     "movie_link": "https://youtu.be/S-eUeeJTUCE",
     "url": "https://web.archive.org/web/20030609160042/http://www3.ocn.ne.jp/~yosu/tyou.rar",
     "url_diff": "https://bms.parksulab.xyz/sabun/7/specimen_7_fixed.zip",
-    "state": "",
+    "state": "3",
     "name_diff": "",
     "url_pack": "",
     "name_pack": ""
@@ -2680,12 +2680,12 @@
     "comment": "自動生成譜面",
     "date": "Wed Jun 09 2021 00:00:00 GMT+0900 (JST)",
     "movie_link": "https://youtu.be/t-R4JkLqU_c",
-    "url": "https://darksabun.github.io/songs/lucas_OpenTTD_journey_ogg.zip",
+    "url": "https://darksabun.github.io/songs/lucas_OpenTTD_journey_new_ogg.zip",
     "url_diff": "",
     "state": "",
     "name_diff": "",
-    "url_pack": "",
-    "name_pack": ""
+    "url_pack": "https://darksabun.github.io/songs/lucas_OpenTTD_journey_ogg.zip",
+    "name_pack": "old ver"
   },
   {
     "level": "11",
@@ -3546,7 +3546,7 @@
     "movie_link": "https://youtu.be/YstCNB8mrzE",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
     "url_diff": "https://bms.parksulab.xyz/sabun/7/usugumo_7.zip",
-    "state": "",
+    "state": "3",
     "name_diff": "",
     "url_pack": "",
     "name_pack": ""

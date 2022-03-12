@@ -3648,19 +3648,6 @@
     "proposerLr2id": 147642
   },
   {
-    "md5": "c18070f175e21b39c45db3a6d6c7feb3",
-    "sha256": "1bed6c5886feecb269c18adc939dbbffaef4d0c6649bfb9c9ce0abf8d0331189",
-    "title": "ロリキート [SP ANOTHER]",
-    "artist": "黄泉路テヂーモ / 出前×篠乃ちよ",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=96",
-    "level": "0",
-    "comment": "BGA : https://dropbox.bms.ms/u/202644775/Ted_Lorikeet_ogg.zip",
-    "proposer": "ИИ",
-    "submission": 1979,
-    "proposerLr2id": 147895
-  },
-  {
     "md5": "060cd782f7c35c2b0f4f31f6e190ad2c",
     "sha256": "db17ecc12a240a4bec7146fc5c2ea0bd8902e9b04f7834cb74a2b92d34fc96f9",
     "title": "君の色に染まる [幸せの約束]",
@@ -8872,6 +8859,19 @@
     "proposerLr2id": 151185
   },
   {
+    "md5": "500b5596573db1796747421ecf23f5e0",
+    "sha256": "a8f64eb0ed2c153c4686c3f54669b5f70484cbab196d5b1b3a5106c1c39ee1a6",
+    "title": "HANiWA [Hard]",
+    "artist": "岸川クリステム(しなちくシステムとKiSHi) mov:げ～むばか/obj_にょん",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=547&event=110",
+    "level": "2",
+    "comment": "slX (not sure with difficulty; piano roll wall, with chords)",
+    "proposer": "qtp13",
+    "submission": 2382,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "dbe3af12208a816d6292ed5fc4ca4cfb",
     "sha256": "6b1cdbfa5eef8efb07abaaba1564bbd2e586a01e24d4f4b8dd8e2bfd2ec96861",
     "title": "Haunted◆Halloween [ZOI]",
@@ -12918,19 +12918,6 @@
     "proposerLr2id": 23110
   },
   {
-    "md5": "9ce00182078600ac9cc8b2460e4f7761",
-    "sha256": "59f3222a2ed93dbb2b38fa1c8d37a0b0677add70b70acca56c469dd89f48e7bf",
-    "title": "Rainbow Night Party [Arcoiris]",
-    "artist": "Yu^ta (movie: tolz)",
-    "url_diff": "",
-    "url": "https://venue.bmssearch.net/bmsshuin2/79",
-    "level": "3",
-    "comment": "",
-    "proposer": "10c*",
-    "submission": 2339,
-    "proposerLr2id": 170055
-  },
-  {
     "md5": "3400cd27d056469a79489e0bf8fbcfde",
     "sha256": "98afef361a532cd86e525f4f523b5ecc033b5850186d001d1fd945b4e6d6e5d3",
     "title": "Raspberry Memories [SP BLACK ANOTHER]",
@@ -13755,6 +13742,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "77bbe9873798146b3b2168c8684c2073",
+    "sha256": "81239f8597c05c1f0ba40f93bd4b1c0acefa29a780a163b3b99112652fc3a11f",
+    "title": "ぱぴぽ？ [あぶのーまる]",
+    "artist": "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか / obj.ノゾミ",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=137",
+    "level": "3",
+    "comment": "BPM変更以外のズレはなし",
+    "proposer": "七海",
+    "submission": 2386,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "fa40266d481e43f663d627341c9a6dfa",
     "sha256": "128b117a50cb4e7b48b908ca4797663cfac4d7efaaa4452295cd8b6dfefca0c0",
     "title": "もう一つのregrets -EX-",
@@ -14568,6 +14568,19 @@
     "proposer": "Restia",
     "submission": 1569,
     "proposerLr2id": 115265
+  },
+  {
+    "md5": "5a53e6174458bf4f59fa40a46a0812dc",
+    "sha256": "441bcc19f01d127194bde925c08ba380a166402d361fa54e126eff7f7d41c3c9",
+    "title": "Alice in the cyberland -Enchantment-",
+    "artist": "k0PP3P4n obj:1/8",
+    "url_diff": "http://oneeighth.web.fc2.com/patterns.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=108",
+    "level": "4",
+    "comment": "SPA譜面に対し、全体を一小節ずらしています。それを除けばズレ抜けはありません",
+    "proposer": "七海",
+    "submission": 2384,
+    "proposerLr2id": 84597
   },
   {
     "md5": "ebc3a0c7955b06d26883eec0d4e99bc2",
@@ -16189,6 +16202,19 @@
     "proposer": "qtp13",
     "submission": 1739,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "9ce00182078600ac9cc8b2460e4f7761",
+    "sha256": "59f3222a2ed93dbb2b38fa1c8d37a0b0677add70b70acca56c469dd89f48e7bf",
+    "title": "Rainbow Night Party [Arcoiris]",
+    "artist": "Yu^ta (movie: tolz)",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmsshuin2/79",
+    "level": "4",
+    "comment": "",
+    "proposer": "10c*",
+    "submission": 2339,
+    "proposerLr2id": 170055
   },
   {
     "md5": "0016ffd024c31943ca502f30258d336f",
@@ -29726,6 +29752,20 @@
     "proposerLr2id": 84521
   },
   {
+    "md5": "d292b5c6eacd78d7104ead204ed2192a",
+    "sha256": "4a9619d5c4ddf913c4dc15a180e85002afc85f7a15ba7761d54673c02b0b55de",
+    "title": "Rocketropolis [Tannhauser Gate]",
+    "artist": "sta / obj : Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://bit192.info/files/bms.html",
+    "level": "11",
+    "comment": "BPM153 乱打+α",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2383,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "4c0f369bdf3cd195fab755481a78bde8",
     "sha256": "5745b8545b132bb84bbf42a37afb063c87005e6a0699eb5f58429dbf493b2e97",
     "title": "Romancecar (Kukan Junkyu Edit) [Nemesis]",
@@ -31065,6 +31105,20 @@
     "proposer": "qtp13",
     "submission": 1664,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
+    "sha256": "0130eb359e43a849ef560323b63d49895315fccb8f5c6dc56b184d4d74052cd3",
+    "title": "Deublithick [HARDEST]",
+    "artist": "激辛マニア /差分赤い人",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/Deublithick-HARDEST.bme",
+    "url": "https://web.archive.org/web/20130608142017/http://kurenaissance.web6.jp/bms/deublithick.rar",
+    "level": "12",
+    "comment": "BPM228の16分乱打、打鍵速度を上げたい人へ",
+    "zureCount": 0,
+    "proposer": "ふかけん",
+    "submission": 2385,
+    "proposerLr2id": 145204
   },
   {
     "md5": "eb7dfdcc89dee36e55bb75bc438361b8",

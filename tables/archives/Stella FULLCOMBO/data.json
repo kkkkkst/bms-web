@@ -35,11 +35,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "3b3d206a284b5b246b3b413b75e41582",
-    "title": "Charlotte, -To The Future-",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "19b1f8f86e9c67b2399620dcc0cdd216",
     "title": "Chateau",
     "level": "5.00...5.50"
@@ -97,11 +92,6 @@
   {
     "md5": "91a3e765da4f1a52d2b53a5f3410cb90",
     "title": "First Creation -Restart-",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "e97bd593d21d83c74e84d7cd4c950930",
-    "title": "format0 [0x82D]",
     "level": "5.00...5.50"
   },
   {
@@ -300,6 +290,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "de47ec858496f28f2f07e97ca211c0d5",
+    "title": "わるいコ -絶望-",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "7efd0cb03da8a2e1a4daf76dbcf5f142",
     "title": "アトロポスと最果の探求者 -Despair & Hope-",
     "level": "5.00...5.50"
@@ -428,6 +423,11 @@
     "md5": "0e1e496945f9f1b7b55f46cff48686aa",
     "title": "音弾超人ゴリライザー [ステライザー]",
     "level": "5.00...5.50"
+  },
+  {
+    "md5": "38490fdc959ecfb13d943e1cc7cc7aaf",
+    "title": "Lovers, [Hoppers,]",
+    "level": "6.00...6.50"
   },
   {
     "md5": "bf1d6e8f15d53bdd35c3160b1f4567a8",
@@ -600,11 +600,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "38490fdc959ecfb13d943e1cc7cc7aaf",
-    "title": "Lovers, [Hoppers,]",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "161322732afc1a908920411562a81e84",
     "title": "Love☆Spellcard -Last Word-",
     "level": "6.50...7.00"
@@ -760,11 +755,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "de47ec858496f28f2f07e97ca211c0d5",
-    "title": "わるいコ -絶望-",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "91c4fcca7fd8f1373524c4f64944a31e",
     "title": "サクライロフワリ (puncture)",
     "level": "6.50...7.00"
@@ -772,6 +762,11 @@
   {
     "md5": "d986fb99cf1e76fd2ff9cd19c035de1e",
     "title": "スピカ [Supernova]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "dd93b8ee483f04d739a4d444d83d4cee",
+    "title": "ゼイタクするまで抱きしめて [SEXY]",
     "level": "6.50...7.00"
   },
   {
@@ -1145,11 +1140,6 @@
     "level": "8.50...9.00"
   },
   {
-    "md5": "d23a2e7dcf07ed2742477f09e50e1bf3",
-    "title": "Happico Happico -mundanity-",
-    "level": "8.50...9.00"
-  },
-  {
     "md5": "8a0a884357263b3403da4fc927a66a63",
     "title": "Kiss me, please. -To The Future-",
     "level": "8.50...9.00"
@@ -1237,6 +1227,11 @@
   {
     "md5": "340fe7012f7c80abdc531e33a5df209b",
     "title": "gazer [Delay MANIAQ]",
+    "level": "9.00...9.50"
+  },
+  {
+    "md5": "d23a2e7dcf07ed2742477f09e50e1bf3",
+    "title": "Happico Happico -mundanity-",
     "level": "9.00...9.50"
   },
   {
@@ -1792,6 +1787,11 @@
   {
     "md5": "66ad18dc4b94085c87324b757286755b",
     "title": "anti [anticipated]",
+    "level": "-"
+  },
+  {
+    "md5": "69aa4c9ecfa4480f18be61ee8f054fce",
+    "title": "Apocalypse Nemesis -Meteor Noise- [Disaster]",
     "level": "-"
   },
   {
@@ -2912,6 +2912,11 @@
   {
     "md5": "2ddf93339d130c3993c5d2567b33c8ba",
     "title": "Function Generator (Overflow)",
+    "level": "-"
+  },
+  {
+    "md5": "48781dd8c716418d15045b590cd8e854",
+    "title": "Fungus Dance [Maryther]",
     "level": "-"
   },
   {
@@ -4180,6 +4185,11 @@
     "level": "-"
   },
   {
+    "md5": "c50917f41ef776188f0269304af29692",
+    "title": "S.Q.4.D.",
+    "level": "-"
+  },
+  {
     "md5": "25d3171fe166348423d6ab0e7feeb6ca",
     "title": "sampleX [SP Xpert]",
     "level": "-"
@@ -4755,6 +4765,11 @@
     "level": "-"
   },
   {
+    "md5": "71aa87a7b5ca0c81010dd84728baac2c",
+    "title": "whither [Nemesis]",
+    "level": "-"
+  },
+  {
     "md5": "0891e141ced4a92903459947e234f296",
     "title": "Wicked plot [^v^]",
     "level": "-"
@@ -4980,6 +4995,11 @@
     "level": "-"
   },
   {
+    "md5": "2f9dceeeb47589af21588e871c6eff82",
+    "title": "ぼくらの惑星創造計画 -流星の双子-",
+    "level": "-"
+  },
+  {
     "md5": "0b1e8ad76e0865cd0f58a6ebbd416cfa",
     "title": "ぽっぷる！ [delay fantasy]",
     "level": "-"
@@ -5140,11 +5160,6 @@
     "level": "-"
   },
   {
-    "md5": "dd93b8ee483f04d739a4d444d83d4cee",
-    "title": "ゼイタクするまで抱きしめて [SEXY]",
-    "level": "-"
-  },
-  {
     "md5": "3ab8b871d49b22a206aa50f6add5f02f",
     "title": "ソラハナ [SHD]",
     "level": "-"
@@ -5222,6 +5237,11 @@
   {
     "md5": "9e66d7aafc73f2ce81bac20de2a73e15",
     "title": "ハイパーミラクルシューティングスター [Meteor shower]",
+    "level": "-"
+  },
+  {
+    "md5": "b2a686e09393dbcce8992e8813fdf437",
+    "title": "ハッピーフェイクショー [Alternative Break]",
     "level": "-"
   },
   {
@@ -5555,6 +5575,11 @@
     "level": "-"
   },
   {
+    "md5": "d0d976b650b4b0586cbb2b2d38dbb922",
+    "title": "愛歌「ネグラドルナ」 [EMOTIONAL EXCEPTION]",
+    "level": "-"
+  },
+  {
     "md5": "c3cfad8c0f1b1f6e31eb382b6dd52d82",
     "title": "新 疫病打令 (The New BOFXVID-19 Anthem)",
     "level": "-"
@@ -5647,11 +5672,6 @@
   {
     "md5": "a232f8241beb2dc1e14a413b78423828",
     "title": "白 [Project AG]",
-    "level": "-"
-  },
-  {
-    "md5": "de793985c3e85b2e493c26d1b6f06231",
-    "title": "白の魔剤の光 -ULTRA-",
     "level": "-"
   },
   {

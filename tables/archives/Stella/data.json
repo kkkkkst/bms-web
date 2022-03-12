@@ -169,17 +169,6 @@
     "submission": 1487
   },
   {
-    "title": "Charlotte, -To The Future-",
-    "artist": "Kuwagata obj:七海",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=110",
-    "url_diff": "https://www.dropbox.com/s/mfhxt4wxqi7c9l6/charlotte_fix.zip?dl=1",
-    "md5": "3b3d206a284b5b246b3b413b75e41582",
-    "sha256": "6a93796e20f2b37703a31cda5ffb24de66158dda06a462a5594c9da0d6555a61",
-    "level": "0",
-    "proposer": "MarySue",
-    "submission": 1138
-  },
-  {
     "title": "Chateau",
     "artist": "ξ青龍ξ / BGA:いかお",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=96",
@@ -383,18 +372,6 @@
     "proposer": "nono22",
     "comment": "物量乱打",
     "submission": 1017
-  },
-  {
-    "title": "format0 [0x82D]",
-    "artist": "雑味蔵 / obj. mawie",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=127",
-    "url_diff": "https://stellabms.xyz/upload/1356",
-    "md5": "e97bd593d21d83c74e84d7cd4c950930",
-    "sha256": "48fc67b3072d222bbd30de7b158e3afbd9d76f0ebeae0c6719b4c23637637414",
-    "level": "0",
-    "proposer": "SHAX.",
-    "comment": "BPM90 横に広い32分乱打",
-    "submission": 1689
   },
   {
     "title": "Gang Riots [INSANE]",
@@ -1009,6 +986,18 @@
     "proposer": "LUXURY♪",
     "comment": "from Stella",
     "submission": 1184
+  },
+  {
+    "title": "YUKINA [Maryther]",
+    "artist": "ROKINA BGA:TEKINA/obj:Mary_Sue",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=93",
+    "url_diff": "https://stellabms.xyz/upload/109",
+    "md5": "d1146edb960bf7cccb22f4134333e533",
+    "sha256": "7ed41967da4090629953285317d298e114497760d32fe753ae3d3efb2ff14122",
+    "level": "0",
+    "proposer": "MineC24",
+    "comment": "0~1?",
+    "submission": 1135
   },
   {
     "title": "ΩXIII [GOD]",
@@ -1727,6 +1716,18 @@
     "comment": "",
     "submission": 207,
     "sha256": "e4eb0ba6d1059859795d67a20fdcc55e91dfb45fe06f7947c81a77b1d2c7608c"
+  },
+  {
+    "title": "BRAIN HACKER [IMMORTAL]",
+    "artist": "SOMON obj.nozomi",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "md5": "5a3f37c7a2ca6e8445d74a30420e3297",
+    "sha256": "55e45a4b91aebef22da339f321ada5bb4169826b8a35438b958cbc45c1e9485d",
+    "level": "1",
+    "proposer": "SHAX.",
+    "comment": "BPM158 微連打",
+    "submission": 1752
   },
   {
     "title": "Break Through The Barrier [LIMITLESS]",
@@ -2985,18 +2986,6 @@
     "submission": 1272
   },
   {
-    "title": "YUKINA [Maryther]",
-    "artist": "ROKINA BGA:TEKINA/obj:Mary_Sue",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=93",
-    "url_diff": "https://stellabms.xyz/upload/109",
-    "md5": "d1146edb960bf7cccb22f4134333e533",
-    "sha256": "7ed41967da4090629953285317d298e114497760d32fe753ae3d3efb2ff14122",
-    "level": "1",
-    "proposer": "MineC24",
-    "comment": "0~1?",
-    "submission": 1135
-  },
-  {
     "title": "ZEUS † 666 [Fatality]",
     "artist": "ルゼ obj.Lapis",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=125",
@@ -3553,19 +3542,6 @@
     "proposer": "otoshi.b",
     "comment": "st2-3 高速物量・皿複合",
     "submission": 1155
-  },
-  {
-    "title": "* Crow Solace * (・∀・)",
-    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
-    "md5": "ad414de87289554a120ee7a4a4cdca24",
-    "level": "2",
-    "proposer": "LUXURY♪",
-    "comment": "物量",
-    "submission": 521,
-    "sha256": "99316caeca8db1cc88736c7f668bc16e50581c38b2780b73f5bbda4d1b68aad8",
-    "proposerLr2id": 23110
   },
   {
     "title": "+i m a z i n e x o+",
@@ -5470,6 +5446,19 @@
     "submission": 1349
   },
   {
+    "title": "* Crow Solace * (・∀・)",
+    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "md5": "ad414de87289554a120ee7a4a4cdca24",
+    "level": "3",
+    "proposer": "LUXURY♪",
+    "comment": "物量",
+    "submission": 521,
+    "sha256": "99316caeca8db1cc88736c7f668bc16e50581c38b2780b73f5bbda4d1b68aad8",
+    "proposerLr2id": 23110
+  },
+  {
     "title": "+84 [+200]",
     "artist": "はがね / И",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=110",
@@ -6570,18 +6559,6 @@
     "proposer": "SHAX.",
     "comment": "BPM182 同時押し、乱打、アレンジ差分",
     "submission": 1217
-  },
-  {
-    "title": "ophthalmomyiasis [SP ANOTHER]",
-    "artist": "xixuezique BGA : 空読無 白眼",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
-    "url_diff": "",
-    "md5": "c52eb8595741d5a6e90d1dee9db4cc28",
-    "sha256": "1586cbb04e7175c2c576f23305b3e9aa7f9d16ef36314522f55f8ddca42b3968",
-    "level": "3",
-    "proposer": "MineC24",
-    "comment": "ophthalmomyiasis",
-    "submission": 796
   },
   {
     "title": "OR [Insane]",
@@ -8364,6 +8341,18 @@
     "comment": "横に広い物量",
     "submission": 154,
     "sha256": "5847eeedc568e876e882968587939268c04bc3fd78d40ae8f77675469d6c340a"
+  },
+  {
+    "title": "ophthalmomyiasis [SP ANOTHER]",
+    "artist": "xixuezique BGA : 空読無 白眼",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+    "url_diff": "",
+    "md5": "c52eb8595741d5a6e90d1dee9db4cc28",
+    "sha256": "1586cbb04e7175c2c576f23305b3e9aa7f9d16ef36314522f55f8ddca42b3968",
+    "level": "4",
+    "proposer": "MineC24",
+    "comment": "ophthalmomyiasis",
+    "submission": 796
   },
   {
     "title": "perfume of reunion [Hexagon]",
@@ -10496,6 +10485,18 @@
     "sha256": "55e9a48637ac2aca43f45b0a263246a634c4b92bc51aa52ba775c68a5fd53865"
   },
   {
+    "title": "退屈シンクアロング [THREE DIMENSIONS]",
+    "artist": "Hate × tarolabo obj : LTFE♪",
+    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ!UB8gABwB",
+    "url_diff": "http://1drv.ms/1ImYtGZ",
+    "md5": "b9c427ba4286cb9b962208f50935f87e",
+    "sha256": "6747ab8d121e8b0e2d558667e79817a9fdf88bde9429116cde901df654e0fbfb",
+    "level": "5",
+    "proposer": "七海",
+    "comment": "5~6?",
+    "submission": 1089
+  },
+  {
     "title": "逆サマ譜面のイデオロギー",
     "artist": "o.s.gate / Ds",
     "url": "http://hiiiii.web.fc2.com/sabun/",
@@ -10906,6 +10907,18 @@
     "comment": "総合譜面",
     "submission": 191,
     "sha256": "bfe24ee79346c850e439e27d06097baee23463c79423111f256a266249596d60"
+  },
+  {
+    "title": "Marmot [BUSTER]",
+    "artist": "Lian",
+    "url": "https://venue.bmssearch.net/bmstukuru2020/12",
+    "url_diff": "",
+    "md5": "280769115bfe876243b1b03706ee0081",
+    "sha256": "3e85c9122734ef50d693ac02d88ab8c4ff48f85d1196deede8e3af0021754c76",
+    "level": "6",
+    "proposer": "qtp13",
+    "comment": "st5~; LaT 2",
+    "submission": 1750
   },
   {
     "title": "Modern Times -Charles Chaplin-",
@@ -11357,18 +11370,6 @@
     "comment": "ごまかし系",
     "submission": 299,
     "sha256": "87610d640265afed21bcc9ff9eae30f5b63dd2460bf58c5c0210cda0e1b91217"
-  },
-  {
-    "title": "退屈シンクアロング [THREE DIMENSIONS]",
-    "artist": "Hate × tarolabo obj : LTFE♪",
-    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ!UB8gABwB",
-    "url_diff": "http://1drv.ms/1ImYtGZ",
-    "md5": "b9c427ba4286cb9b962208f50935f87e",
-    "sha256": "6747ab8d121e8b0e2d558667e79817a9fdf88bde9429116cde901df654e0fbfb",
-    "level": "6",
-    "proposer": "七海",
-    "comment": "5~6?",
-    "submission": 1089
   },
   {
     "title": "#DoomeyTunes [phi]",
@@ -12099,18 +12100,6 @@
     "submission": 640,
     "sha256": "fe0101d63681803c786b57b3a575ed27b92d778f756684991e52ba10f8b46afa",
     "proposerLr2id": 87474
-  },
-  {
-    "title": "白の魔剤の光 -ULTRA-",
-    "artist": "こどものなみだ / obj:魔剤",
-    "url": "http://tm2.toymusical.net/",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01875",
-    "md5": "de793985c3e85b2e493c26d1b6f06231",
-    "sha256": "167df496081b3aafccd9f325a55afdc7db63146ed97533f4eae9ef7c34405b69",
-    "level": "7",
-    "proposer": "qtp13",
-    "comment": "might be fun, might be not (high total)",
-    "submission": 1471
   },
   {
     "title": "白狼",
@@ -12912,6 +12901,18 @@
     "comment": "",
     "submission": 1,
     "sha256": "be45b07af3cf1c9df54c448e72e34663628474913458c51eb203af733531c955"
+  },
+  {
+    "title": "薄雲 [六角形的+]",
+    "artist": "薄荷堂 龍 obj.hex / reobj.hoax",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
+    "url_diff": "https://bms.parksulab.xyz",
+    "md5": "51d1efb20773d137cbb5b7e7aef8d933",
+    "sha256": "45f2e9b89cf397774b76f1872375bec53e3a25d893a17f5593764886d31a5a15",
+    "level": "8",
+    "proposer": "qtp13",
+    "comment": "st7~8? Progressively difficult minijacks",
+    "submission": 1751
   },
   {
     "title": ")-@1くvz@",

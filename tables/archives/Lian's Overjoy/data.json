@@ -373,7 +373,7 @@
     "name_diff": "",
     "url": "",
     "artist": "SOMON",
-    "comment": "st4 皿要素なし　ひたすら連打複合",
+    "comment": "st4 連皿要素なし　ひたすら連打複合",
     "state": "1"
   },
   {
@@ -403,7 +403,7 @@
     "state": ""
   },
   {
-    "level": "4",
+    "level": "5",
     "title": "Marmot [BUSTER]",
     "md5": "280769115bfe876243b1b03706ee0081",
     "video1": "",
@@ -412,8 +412,8 @@
     "name_diff": "",
     "url": "",
     "artist": "Lian",
-    "comment": "一生ズレッズレ",
-    "state": ""
+    "comment": "st6 一生ズレッズレ",
+    "state": "1"
   },
   {
     "level": "4",
@@ -751,6 +751,84 @@
     "url": "",
     "artist": "+45",
     "comment": "G O D + 連 打 複 合",
+    "state": ""
+  },
+  {
+    "level": "4",
+    "title": "Lethal Strike [DENIAL]",
+    "md5": "6edb09c73a5d5296af82ea181a612aa3",
+    "video1": "",
+    "video2": "",
+    "url_diff": "同梱",
+    "name_diff": "",
+    "url": "",
+    "artist": "Lian",
+    "comment": "st4 高速　物量イパーイ",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "俗物フェスティバル [无何之郷]",
+    "md5": "f19e43deacedd0cd190ce7aa75c67479",
+    "video1": "",
+    "video2": "",
+    "url_diff": "同梱",
+    "name_diff": "",
+    "url": "",
+    "artist": "Micelle",
+    "comment": "st4 横に広い譜面だーいすき",
+    "state": "1"
+  },
+  {
+    "level": "3",
+    "title": "wOrthlEss [CRAZY]",
+    "md5": "654d63ac3f5d00af1fd04f258d588e7e",
+    "video1": "",
+    "video2": "",
+    "url_diff": "同梱",
+    "name_diff": "",
+    "url": "",
+    "artist": "Lian",
+    "comment": "ズレ　連打複合　グチャグチャ",
+    "state": ""
+  },
+  {
+    "level": "6",
+    "title": "wOrthlEss [END]",
+    "md5": "a7ba597f9388905d1cce7e5e265b8703",
+    "video1": "",
+    "video2": "",
+    "url_diff": "同梱",
+    "name_diff": "",
+    "url": "",
+    "artist": "Lian",
+    "comment": "いじわるしないでください…",
+    "state": ""
+  },
+  {
+    "level": "1",
+    "title": "ラストワード [WILL]",
+    "md5": "1a3dd33b6d8993f15f0ec313e1930955",
+    "video1": "",
+    "video2": "",
+    "url_diff": "同梱",
+    "name_diff": "",
+    "url": "",
+    "artist": "Lian",
+    "comment": "高速乱打",
+    "state": ""
+  },
+  {
+    "level": "4",
+    "title": "ラストワード [LAIKA]",
+    "md5": "b48c9bd8ce4b3eb20061dca7efa6ad31",
+    "video1": "",
+    "video2": "",
+    "url_diff": "同梱",
+    "name_diff": "",
+    "url": "",
+    "artist": "Lian",
+    "comment": "強化版高速乱打　5-1配置もあり",
     "state": ""
   }
 ]
