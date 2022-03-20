@@ -1251,16 +1251,6 @@
   },
   {
     "level": "1",
-    "title": "Angelic layer [mildelay]",
-    "artist": "SHIKI obj.n",
-    "url": "http://shiki2.sakura.ne.jp/",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
-    "md5": "26b9b7bb2e8059d321d386a3fc66fc2e",
-    "comment": "sub st1/292",
-    "打鍵速度": "292"
-  },
-  {
-    "level": "1",
     "title": "BrownWater [Navy]",
     "artist": "aym / obj:qfeileadh",
     "url": "http://aym.pekori.to/",
@@ -1388,16 +1378,6 @@
     "md5": "37bd5d43b121b45c9e6e92723622ed9a",
     "comment": "st1/489",
     "打鍵速度": "489"
-  },
-  {
-    "level": "1",
-    "title": "Heart Melting Color [ ]",
-    "artist": "bakamin / AAAAAAAA",
-    "url": "https://www.dropbox.com/s/x5271z6w4oro1y7/bakamin_heartmelt_ogg.zip?dl=0",
-    "url_diff": "",
-    "md5": "368676fc9f3e701d163231eaf0788edb",
-    "comment": "st1/400?",
-    "打鍵速度": "400?"
   },
   {
     "level": "1",
@@ -1611,16 +1591,6 @@
   },
   {
     "level": "1",
-    "title": "樟葉 [魔法の大激変]",
-    "artist": "-45 obj.nozomi",
-    "url": "http://malie.noor.jp/archive/kusuha.rar",
-    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymj_z6T2oMrFubUnb?e=sIgepp",
-    "md5": "f7b45aea5f09b9a7e6bc479d9b96694f",
-    "comment": "312",
-    "打鍵速度": "312"
-  },
-  {
-    "level": "1",
     "title": "硬核機動 -Assault D-",
     "artist": "しらいし / obj.ぶんぺ～",
     "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/odcQ0DRL",
@@ -1701,6 +1671,26 @@
   },
   {
     "level": "2",
+    "title": "Angelic layer [mildelay]",
+    "artist": "SHIKI obj.n",
+    "url": "http://shiki2.sakura.ne.jp/",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
+    "md5": "26b9b7bb2e8059d321d386a3fc66fc2e",
+    "comment": "sub st1/292",
+    "打鍵速度": "292"
+  },
+  {
+    "level": "2",
+    "title": "Apocalypse Nemesis -Meteor Noise- [Disaster]",
+    "artist": "kanone(BGI:TAKA.S) obj:1008",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05928",
+    "md5": "69aa4c9ecfa4480f18be61ee8f054fce",
+    "comment": "st2/512",
+    "打鍵速度": "512"
+  },
+  {
+    "level": "2",
     "title": "before... [Delay]",
     "artist": "やっす～ obj:LIEF",
     "url": "http://sound.jp/brilliantharmony/",
@@ -1748,16 +1738,6 @@
     "md5": "0de2de0ae1b4759cdaee94654cff7544",
     "comment": "344",
     "打鍵速度": "344"
-  },
-  {
-    "level": "2",
-    "title": "Egypt [!!]",
-    "artist": "judithz / И",
-    "url": "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03077",
-    "md5": "e3d7ca9239ac9baf3238014d7bff30b8",
-    "comment": "360",
-    "打鍵速度": "360"
   },
   {
     "level": "2",
@@ -2001,6 +1981,16 @@
   },
   {
     "level": "2",
+    "title": "樟葉 [魔法の大激変]",
+    "artist": "-45 obj.nozomi",
+    "url": "http://malie.noor.jp/archive/kusuha.rar",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymj_z6T2oMrFubUnb?e=sIgepp",
+    "md5": "f7b45aea5f09b9a7e6bc479d9b96694f",
+    "comment": "312",
+    "打鍵速度": "312"
+  },
+  {
+    "level": "2",
     "title": "白と臙脂のオモチャバコ [DELAYMASTER]",
     "artist": "BACO feat. るぜ /差分 赤い人",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=207&event=83",
@@ -2128,6 +2118,16 @@
     "md5": "079949de9a444aba5f34aa85fe68fcce",
     "comment": "348",
     "打鍵速度": "348"
+  },
+  {
+    "level": "3",
+    "title": "Egypt [!!]",
+    "artist": "judithz / И",
+    "url": "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03077",
+    "md5": "e3d7ca9239ac9baf3238014d7bff30b8",
+    "comment": "360",
+    "打鍵速度": "360"
   },
   {
     "level": "3",
@@ -2431,16 +2431,6 @@
   },
   {
     "level": "4",
-    "title": "Apocalypse Nemesis -Meteor Noise- [Disaster]",
-    "artist": "kanone(BGI:TAKA.S) obj:1008",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05928",
-    "md5": "69aa4c9ecfa4480f18be61ee8f054fce",
-    "comment": "sub st2/512",
-    "打鍵速度": "512"
-  },
-  {
-    "level": "4",
     "title": "Babel -絶望の塔-",
     "artist": "Nizikawa feat. nayuta, obj.SeunghoLee Movie: Air",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
@@ -2588,16 +2578,6 @@
     "md5": "0d2167c24de685d7ba965301eb5b3d76",
     "comment": "306?",
     "打鍵速度": "306?"
-  },
-  {
-    "level": "4",
-    "title": "HAELEQUIN (・∀・)",
-    "artist": "orangentle / deadblue238/さ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
-    "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
-    "md5": "ec2f71d78f73e243dfeebd88a535704d",
-    "comment": "st4/334?",
-    "打鍵速度": "334"
   },
   {
     "level": "4",
@@ -2848,6 +2828,16 @@
     "md5": "4724abf1ae1b9a575abc966c22cd331f",
     "comment": "sub st4/400?",
     "打鍵速度": "400?"
+  },
+  {
+    "level": "4",
+    "title": "少女幻葬　～ Necro-Fantasy +[]",
+    "artist": "由蘭 ^^^^^^",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=5654",
+    "md5": "c59c3b9a5e94b5d6091408d3f3cb278b",
+    "comment": "326",
+    "打鍵速度": "326"
   },
   {
     "level": "4",
@@ -3571,6 +3561,16 @@
   },
   {
     "level": "6",
+    "title": "clutch (Burst)",
+    "artist": "ルゼ obj:O",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=80",
+    "url_diff": "http://onmacodayo.web.fc2.com/bms0910/9999_clutch.bme",
+    "md5": "77c525033034637abec5f9f45cd40952",
+    "comment": "dy1/320",
+    "打鍵速度": "320"
+  },
+  {
+    "level": "6",
     "title": "congress <not> progress [delaying address]",
     "artist": "NASA",
     "url": "https://www.dropbox.com/s/skx2vf8rii9ai7a/congress_x_progress.zip?dl=0",
@@ -4118,6 +4118,16 @@
     "md5": "7559c77888500b76925c668924c8d120",
     "comment": "390?",
     "打鍵速度": "390?"
+  },
+  {
+    "level": "7",
+    "title": "Mr.RENDA [Mr.DELAY]",
+    "artist": "縦連田 勝己 obj tyrcs",
+    "url": "https://venue.bmssearch.net/bmsshuin3/29",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05301",
+    "md5": "ae3386e69b12c5df3b5e96992d34468a",
+    "comment": "dy2/444",
+    "打鍵速度": "444"
   },
   {
     "level": "7",
@@ -4698,6 +4708,16 @@
     "md5": "1b7ff5d1a268b56f491fc3b098e4d245",
     "comment": "340",
     "打鍵速度": "340"
+  },
+  {
+    "level": "9",
+    "title": "Apocalypse Nemesis -Meteor Noise- [Catastrophe]",
+    "artist": "kanone(BGI:TAKA.S) obj:1008",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05928",
+    "md5": "a1b0cffc57e1c0376b6980480212e864",
+    "comment": "dy4/256,512?",
+    "打鍵速度": "256,512?"
   },
   {
     "level": "9",
@@ -5361,6 +5381,26 @@
   },
   {
     "level": "10",
+    "title": "ゲルニカの壁 [Demon Wall]",
+    "artist": "LOKI / Cecil",
+    "url": "http://loki-okiba.net/",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00157",
+    "md5": "bcfbd9219552fae2b6cb2e9821422010",
+    "comment": "268",
+    "打鍵速度": "268"
+  },
+  {
+    "level": "10",
+    "title": "少女幻葬　～ Necro-Fantasy ++[]",
+    "artist": "由蘭 ^^^^^^",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=5654",
+    "md5": "21a3a92d76e5b79a620ee2fffc3884fc",
+    "comment": "dy10,388",
+    "打鍵速度": "388"
+  },
+  {
+    "level": "10",
     "title": "日溜りの街－あ！－ (BMS MASTER)",
     "artist": "猫蟹丸 / obj: black train",
     "url": "http://web.archive.org/web/20041211212724/http://knm.sakura.ne.jp/pms/key/key11.html",
@@ -5425,9 +5465,19 @@
     "artist": "beta / obj:Monsta",
     "url": "http://offtime.sakura.ne.jp/bms/bwc_stars.rar",
     "url_diff": "",
-    "md5": "33501ab0c77e8a87cf2d395449d86d3a&p=2",
+    "md5": "33501ab0c77e8a87cf2d395449d86d3a&p",
     "comment": "580",
     "打鍵速度": ""
+  },
+  {
+    "level": "11",
+    "title": "Blue-White Crazystars [GOD]",
+    "artist": "beta obj:otoshi.b",
+    "url": "http://offtime.sakura.ne.jp/bms/",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05626",
+    "md5": "5ca2b5c74653e14d7fab577f84db748b",
+    "comment": "dy6/580?",
+    "打鍵速度": "580?"
   },
   {
     "level": "11",
@@ -5686,8 +5736,18 @@
     "url": "http://shiki2.sakura.ne.jp/bms.shtml",
     "url_diff": "https://stellabms.xyz/upload/797",
     "md5": "92955b6d004d6d611e393fba5dd671cf",
-    "comment": "360",
+    "comment": "dy7/360",
     "打鍵速度": "360"
+  },
+  {
+    "level": "12",
+    "title": "Apocalypse Nemesis -Meteor Noise- [Ultimate Fate]",
+    "artist": "kanone(BGI:TAKA.S) obj:1008",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05928",
+    "md5": "a1bb0700bccc0d5636129805bb5e56dd",
+    "comment": "dy7/256,512",
+    "打鍵速度": "256512"
   },
   {
     "level": "12",
@@ -5696,16 +5756,6 @@
     "url": "http://offtime.sakura.ne.jp/bms/bwc_stars.rar",
     "url_diff": "同梱譜面",
     "md5": "534c651fd6374929436668aad7c7b805",
-    "comment": "290",
-    "打鍵速度": "290"
-  },
-  {
-    "level": "12",
-    "title": "Blue-White Crazystars [BLACKHOLE]",
-    "artist": "beta",
-    "url": "http://offtime.sakura.ne.jp/bms/bwc_stars.rar",
-    "url_diff": "同梱譜面",
-    "md5": "f7d95659f52bc943b0ff18a51d2a587d",
     "comment": "290",
     "打鍵速度": "290"
   },
@@ -5821,6 +5871,16 @@
   },
   {
     "level": "12",
+    "title": "少女幻葬　～ Necro-Fantasy +++[]",
+    "artist": "由蘭 ^^^^^^",
+    "url": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=5654",
+    "md5": "7c5715d97324c2ee34f5f833db51d660",
+    "comment": "444",
+    "打鍵速度": "444"
+  },
+  {
+    "level": "12",
     "title": "天空の城ヴェリエル [ルシェくんと愉快なディレイたち]",
     "artist": "うえつ氏 (obj.Rche)",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
@@ -5828,6 +5888,16 @@
     "md5": "404ac3ad1fac53a25a6b370116f959cd",
     "comment": "444",
     "打鍵速度": "444"
+  },
+  {
+    "level": " DELAY MASTER",
+    "title": "Blue-White Crazystars [BLACKHOLE]",
+    "artist": "beta",
+    "url": "http://offtime.sakura.ne.jp/bms/bwc_stars.rar",
+    "url_diff": "同梱譜面",
+    "md5": "f7d95659f52bc943b0ff18a51d2a587d",
+    "comment": "290",
+    "打鍵速度": "290"
   },
   {
     "level": " DELAY MASTER",

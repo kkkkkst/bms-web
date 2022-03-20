@@ -27,6 +27,34 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "b2a4415a41d0ecab0b138fc7aa9dac1d",
+    "sha256": "47110cd200f3cc08e1732dda73fd6756cb363d330f0166e299fd38d5290a3163",
+    "title": "DUARRIER [numuther]",
+    "artist": "Nuekawa / BGA:tayuru / Illust:神宮要 obj:numuto",
+    "url_diff": "https://ux.getuploader.com/numuther/download/33",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=137",
+    "level": "1",
+    "comment": "乱打 / デニム / 2~3重階段",
+    "zureCount": 0,
+    "proposer": "ぶんぺ～",
+    "submission": 1772,
+    "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
+    "md5": "22ebf416100df556dcd2b1ab52bbd6cc",
+    "sha256": "0655c831b45d1967466ff446199842200ff4fb37ae21f02bd8940f75489a1018",
+    "title": "Enigma [Gestaltzerfall]",
+    "artist": "polycube / obj.swa mov : 140",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01668",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Enigma%20(by%20polycube).rar",
+    "level": "1",
+    "comment": "BPM150 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1771,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "5dd3d0e5f0dce9ce6549b8efa56e678f",
     "sha256": "7da85729ef8910c3380ca6d0030dcf8084906ac0dcd702f2eafd3bc5a9cd117e",
     "title": "無機質世界に彩を [Monochrome]",
@@ -94,6 +122,19 @@
     "proposer": "ふかけん",
     "submission": 1766,
     "proposerLr2id": 145204
+  },
+  {
+    "md5": "540d7e617bf5eff92459dd6957d55d47",
+    "sha256": "8806591f8ecd7a796ca34909dca3342528751e455afe185fa7b843bd84c6e5cb",
+    "title": "Endkraft -Ω-",
+    "artist": "polysha movie:Optie / obj:BAECON",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=96",
+    "level": "4",
+    "comment": "st4~5; hidden file (end_O.b)",
+    "proposer": "qtp13",
+    "submission": 1774,
+    "proposerLr2id": 86559
   },
   {
     "md5": "34bd456aae9005cecc7c6065caaa77b4",
@@ -260,5 +301,18 @@
     "proposer": "yune",
     "submission": 1767,
     "proposerLr2id": 139618
+  },
+  {
+    "md5": "5877233cbccd098147669abc5a5703e6",
+    "sha256": "ff40a3199ecce473e9f493a8dbf9a6eb9b2707607d4d0670b5e3cda3abb76fdd",
+    "title": "3XTRA3XPR3SS [TR4IND3LAY3D]",
+    "artist": "ragia / 0",
+    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=1879",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=121",
+    "level": "9",
+    "comment": "misalignment by requantization from 16ths to 24ths (#070~#076)",
+    "proposer": "qtp13",
+    "submission": 1773,
+    "proposerLr2id": 86559
   }
 ]
