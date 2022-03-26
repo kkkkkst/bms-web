@@ -1,10 +1,5 @@
 [
   {
-    "md5": "e97bd593d21d83c74e84d7cd4c950930",
-    "title": "format0 [0x82D]",
-    "level": "5.1"
-  },
-  {
     "md5": "961618e954a9d2e870af548fce62c55f",
     "title": "情熱の大阪",
     "level": "5.1"
@@ -12,6 +7,11 @@
   {
     "md5": "24b3d27b614f51a0e317027f7eca93b6",
     "title": "Metropolis [7key,BITTER]",
+    "level": "5.2"
+  },
+  {
+    "md5": "e97bd593d21d83c74e84d7cd4c950930",
+    "title": "format0 [0x82D]",
     "level": "5.2"
   },
   {
@@ -32,11 +32,6 @@
   {
     "md5": "15884a34d21ebcdf55d9924f2e640a10",
     "title": "GREENS 2012 [Real Dark Matter]",
-    "level": "5.3"
-  },
-  {
-    "md5": "de568a953fd06180b6b0462cb20e0789",
-    "title": "Ophelia [Phamrsolone]",
     "level": "5.3"
   },
   {
@@ -137,6 +132,11 @@
   {
     "md5": "af820edea8ad204ee94cfea7070f9a3b",
     "title": "OAA-γ [過労死]",
+    "level": "5.4"
+  },
+  {
+    "md5": "de568a953fd06180b6b0462cb20e0789",
+    "title": "Ophelia [Phamrsolone]",
     "level": "5.4"
   },
   {
@@ -470,11 +470,6 @@
     "level": "6.5"
   },
   {
-    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
-    "title": "Tangerine Dawn -IR-",
-    "level": "6.5"
-  },
-  {
     "md5": "8cbb9953cc18436d5991105b6c5de0a6",
     "title": "雪原と少女の冒険 [Insane]",
     "level": "6.5"
@@ -532,6 +527,11 @@
   {
     "md5": "4a142bd47e18d95a266becb6d178ec7f",
     "title": "Squeeze Me [Maryther]",
+    "level": "6.6"
+  },
+  {
+    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
+    "title": "Tangerine Dawn -IR-",
     "level": "6.6"
   },
   {
@@ -1020,6 +1020,11 @@
     "level": "7.9"
   },
   {
+    "md5": "1706b5d59b7c09ea492b76747cd3593f",
+    "title": "Rockstar [KOZUExtra]",
+    "level": "7.9"
+  },
+  {
     "md5": "d34dae6084a8d2e994c1598857a46a6f",
     "title": "SERIOUS ERROR [INSANE]",
     "level": "7.9"
@@ -1165,6 +1170,11 @@
     "level": "9.0"
   },
   {
+    "md5": "59fa39acd45bc64f9fa1f29d8bbef02d",
+    "title": "Midnight Driving",
+    "level": "9.0"
+  },
+  {
     "md5": "7308ca05265bdaded630375665e7b0b3",
     "title": "Rigel [mayones]",
     "level": "9.0"
@@ -1197,6 +1207,11 @@
   {
     "md5": "0b5f10cc5b6ee23dff60442b4f0ecd36",
     "title": "少女の舞葬 [No_more]",
+    "level": "9.0"
+  },
+  {
+    "md5": "749d0e7676dff38580f1db98db8d8f65",
+    "title": "黄昏のメロディア [黄泉の歌]",
     "level": "9.0"
   },
   {
@@ -1262,11 +1277,6 @@
   {
     "md5": "baffb208283c72d92adf2b2b7899ca11",
     "title": "Mario Paint (Time Regression Mix for BMS) [D-ANOTHER]",
-    "level": "9.1"
-  },
-  {
-    "md5": "59fa39acd45bc64f9fa1f29d8bbef02d",
-    "title": "Midnight Driving",
     "level": "9.1"
   },
   {
@@ -1458,6 +1468,11 @@
     "md5": "1b1b4ccac295b1369af50edc300d0042",
     "title": "虹夜パレッド [Hexagon]",
     "level": "11.5"
+  },
+  {
+    "md5": "99bacb3c81efb069023beaaf3fb14b94",
+    "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
+    "level": "12.6"
   },
   {
     "md5": "b29aef69cc169439f35332a56e2e0164",
@@ -1802,6 +1817,11 @@
   {
     "md5": "dd36e9c11a77222a64e7f4e39deec7a3",
     "title": "BIG CHUNGUS -IR-",
+    "level": "Infinity"
+  },
+  {
+    "md5": "5a3f37c7a2ca6e8445d74a30420e3297",
+    "title": "BRAIN HACKER [IMMORTAL]",
     "level": "Infinity"
   },
   {
@@ -2497,11 +2517,6 @@
   {
     "md5": "9da1984a1465ca327dcdbbc9b2b791f7",
     "title": "R.I.P.",
-    "level": "Infinity"
-  },
-  {
-    "md5": "1706b5d59b7c09ea492b76747cd3593f",
-    "title": "Rockstar [KOZUExtra]",
     "level": "Infinity"
   },
   {
@@ -3377,11 +3392,6 @@
   {
     "md5": "cd04e5f97fff7b0fc1d3f3129c5c3b92",
     "title": "銀の風邪",
-    "level": "Infinity"
-  },
-  {
-    "md5": "749d0e7676dff38580f1db98db8d8f65",
-    "title": "黄昏のメロディア [黄泉の歌]",
     "level": "Infinity"
   },
   {
@@ -4655,6 +4665,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "280769115bfe876243b1b03706ee0081",
+    "title": "Marmot [BUSTER]",
+    "level": "Infinity"
+  },
+  {
     "md5": "e66f8a55c7ebc39b6548cb527805a3a6",
     "title": "Modern Times -Charles Chaplin-",
     "level": "Infinity"
@@ -4767,11 +4782,6 @@
   {
     "md5": "c9d719eebcb6f25cfb4977bababe9115",
     "title": "トルコ行進曲 (Hd-NRG mix) [s-ther]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "99bacb3c81efb069023beaaf3fb14b94",
-    "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
     "level": "Infinity"
   },
   {
@@ -5432,6 +5442,11 @@
   {
     "md5": "5accb2f61f444dc721f23f244db00936",
     "title": "綺機 ～あやはずみ～ [25回秘密箱]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "51d1efb20773d137cbb5b7e7aef8d933",
+    "title": "薄雲 [六角形的+]",
     "level": "Infinity"
   },
   {
