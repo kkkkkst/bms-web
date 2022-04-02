@@ -545,6 +545,18 @@
     "proposerMinirid": "59104b4a-91a7-41e5-837f-f5ef64375db6"
   },
   {
+    "md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
+    "sha256": "3101d144010f4d879b37da3cdb9647b0080bd0c15c5eb79f245bc340a0b41aeb",
+    "title": "Caffeine Overdose Girl [Another]",
+    "artist": "litmus* feat. Conyabata",
+    "url_diff": "",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=22&num=13&order=reg&odtype=a",
+    "level": "0",
+    "proposer": "moka",
+    "submission": 2413,
+    "proposerLr2id": 167326
+  },
+  {
     "md5": "e6d59faa8aa2708d4faaa3013d136e40",
     "sha256": "eece9da05b5a81dcc821d103e35b0ffc7aa37e7d7d34a2692a6af4623c1dab3f",
     "title": "Calamity Fortune [HARD]",
@@ -1648,6 +1660,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "ff560cd20c4885a371ef6976c0c07e5a",
+    "sha256": "4e70ac3cfd9948eea8d3781b1b3b3c30cf1630f759edcf9e8461381e9607eb22",
+    "title": "Life::Acceleration [Hyper]",
+    "artist": "CHUBAY BGA:keitomo",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=133",
+    "level": "0",
+    "comment": "sl0入門(製作者のつけた難易度は☆10ですが、ラストはぎりぎり☆11はあると思います)",
+    "proposer": "sangonana",
+    "submission": 2409,
+    "proposerLr2id": 148764
   },
   {
     "md5": "0a3c046f60b71eb86731cb75173a0d5b",
@@ -7646,6 +7671,20 @@
     "votePercent": 0
   },
   {
+    "md5": "43d3933e8ff2190fd8154802dcdd6ba8",
+    "sha256": "62b1aefb7e3311312f097adb8b4267cc10ad527d094844611ae5931704e705a7",
+    "title": "雪月風花 ～Silver Moon -Hard-",
+    "artist": "おみー obj : monaka",
+    "url_diff": "http://ux.getuploader.com/monaka_sabun_2/download/70/silver_moon.zip",
+    "url": "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=4",
+    "level": "1",
+    "comment": "中速物量乱打/sl0上位-sl1下位",
+    "zureCount": 0,
+    "proposer": "DJ_Kuroakari",
+    "submission": 2416,
+    "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
+  },
+  {
     "md5": "a876f5e44fa63f4b0ec59f0b0b066d8c",
     "sha256": "ae18a06b9bcfc770765a946ecc2ecf4e0e0a9dfbbce11d4047a546d2564fc5d5",
     "title": "鳥の詩 - Euro Techno Mix - [plume]",
@@ -9638,6 +9677,19 @@
     "proposerLr2id": 87756
   },
   {
+    "md5": "4f60d60fb3195fbc0e198bdc08e64aac",
+    "sha256": "a28713cc0cfa847c772c05cf23886dd3f9b4c989a82748f7a18349a3cab57306",
+    "title": "Orbital Drive",
+    "artist": "kas_0120 BGA: かんてん",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=137",
+    "level": "2",
+    "comment": "同梱譜面、BPM160 乱打",
+    "proposer": "72k",
+    "submission": 2414,
+    "proposerLr2id": 93239
+  },
+  {
     "md5": "69ca3f64e59c20a04e28579aa810ef64",
     "sha256": "9880d3e60bc79784908b06557b5c6cca60aca3ca2cedf702ad076615375be584",
     "title": "Paracelestia [EX]",
@@ -10969,6 +11021,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 112136
+  },
+  {
+    "md5": "4477569e9d0bee33ad929ec1cf0de878",
+    "sha256": "d95173db461cf5c96a9a368d701f9bae35fa2f1c80428dea9aaa55fd442e6b13",
+    "title": "杪冬の願い [ANOTHER]",
+    "artist": "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/33",
+    "level": "2",
+    "comment": "乱打",
+    "proposer": "ぶんぺ～",
+    "submission": 2415,
+    "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
   },
   {
     "level": "2",
@@ -15587,6 +15652,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "fda9c90f716be783b598609b93642596",
+    "sha256": "1dd9aa2699413497c1bc66127e3bd8b6dc724e35ce159b25dbfd8f2f8295528d",
+    "title": "hurt, scenery, groundrainbow [Chords Practice_Hyper]",
+    "artist": "syatten + coda",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://web.archive.org/web/20130210075745/http://www.planetoid.biz/bms/hsgr.rar",
+    "level": "4",
+    "comment": "みんな大好きな同時押し練習。#RANDOM譜面だからズレ抜けチェックはできません。",
+    "proposer": "Mary_Sue",
+    "submission": 2410,
+    "proposerLr2id": 147889
   },
   {
     "level": "4",
@@ -21655,6 +21733,20 @@
     "sha256": "011bc56700223282e19916c7bb2e52bb55b478838575114b5392990e972d79de"
   },
   {
+    "md5": "33c3cafaf673d495e84e697768421a0a",
+    "sha256": "88805444bbfb72de1957a3c45e70b886b9e5142f7299554f3240658077461683",
+    "title": "星少女ステラユニオン -Defense System-",
+    "artist": "LiA BGA:Milk_tya / Illust:hrchem / obj:monaka",
+    "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/130",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=116",
+    "level": "6",
+    "comment": "sl5～sl6？",
+    "zureCount": 0,
+    "proposer": "TA2YA.",
+    "submission": 2407,
+    "proposerLr2id": 64145
+  },
+  {
     "level": "6",
     "comment": "高速乱打(SPB基準ズレなし)",
     "md5": "0bf31b7065975f58a983142a3146da1d",
@@ -27137,6 +27229,19 @@
     "proposerLr2id": 115381
   },
   {
+    "md5": "54983990c9fab723813cea42feb65b20",
+    "sha256": "f524b1caa40025740e818c76a642592c648b4485fd51fe792fb35ce83b23f576",
+    "title": "assemblage -IR-",
+    "artist": "czardas obj.hex",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "url": "https://drive.google.com/file/d/1SxIwnsL4jI4XrwuezsJwr5m0poG5XJQy/view?usp=sharing",
+    "level": "10",
+    "comment": "BPM129-131 皿 連打複合 ",
+    "proposer": "SHAX.",
+    "submission": 2408,
+    "proposerLr2id": 65624
+  },
+  {
     "level": "10",
     "comment": "乱打/二重階段",
     "md5": "f6d9d7e536801d45e3126493842dbc40",
@@ -30811,6 +30916,20 @@
     "votePercent": 0
   },
   {
+    "md5": "795a24b8ba28acacb78144f2b9f19980",
+    "sha256": "ff7affe540de900316258775abc4738240938e5f4ba776fbb6922baecddf1626",
+    "title": "3.14 (TT mix) [White Day of Horror]",
+    "artist": "ルゼ obj.ProjectH",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymkYkdfkZdeEHjZN-?e=Reeazh",
+    "url": "https://mega.nz/#!tdNBzAZK!OJnmd3N7o0p7bBUNTjZymjwtGUovFPKmSaqtAxMIp6Y",
+    "level": "12",
+    "comment": "みんな大好きな判定練習です。",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2411,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "b53162a6ed6659406cae48612e943faf",
     "title": "7SP:雪の少女-MorningDash!Mix- [EXTREME]",
     "artist": "猫蟹丸 / obj: black train",
@@ -30824,6 +30943,19 @@
     "votePercent": 0,
     "sha256": "8bb38247d45d854aa6fb5b6b07ae7ea5af2a54aff06f38ed6be642408d6a4d78",
     "proposerLr2id": 7290
+  },
+  {
+    "md5": "ca6365bcf929f8e3856c771665976bec",
+    "sha256": "d0fad0de499b686ce07800960f2fb15e403e6c0f30bd4cbdfea9e3d12f2af496",
+    "title": "A BEAUTIFUL WINGS -GOD-",
+    "artist": "SHIKI",
+    "url_diff": "http://www.ribbit.xyz/bms/mirror/uploader/src/up0301.zip",
+    "url": "http://shiki2.sakura.ne.jp/",
+    "level": "12",
+    "zureCount": 0,
+    "proposer": "moka",
+    "submission": 2412,
+    "proposerLr2id": 167326
   },
   {
     "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",

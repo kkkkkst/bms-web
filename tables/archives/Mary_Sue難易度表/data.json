@@ -1602,7 +1602,7 @@
     "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
     "title": "Poppy [Opium]",
     "artist": "Columba(Daily vs. Roon_kun) / obj: Mary_Sue",
-    "level": "23",
+    "level": "22",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Poppy_Opium.zip",
     "name_diff": "",
@@ -1723,10 +1723,10 @@
     "url": "https://mega.nz/file/v5MTSapB#d32Au6zrKvL6wOI-WlyBQquzTwn3M4bA-zjrV3SkshQ",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/warau_silly.zip",
     "name_diff": "",
-    "comment": "(NEW!) 微連打",
+    "comment": "微連打",
     "movie_link": "https://youtu.be/OlAf3gOKm6Y",
     "date": "Sat Mar 05 2022 00:00:00 GMT+0900 (日本標準時)",
-    "state": "3"
+    "state": ""
   },
   {
     "md5": "423ec8fca7883234f92ebc1f3e78ad03",
@@ -1736,10 +1736,10 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=137",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/tise_no_sekai_7M.zip",
     "name_diff": "",
-    "comment": "(NEW!) みんな大好きなStella向けの譜面です",
+    "comment": "みんな大好きなStella向けの譜面です",
     "movie_link": "https://youtu.be/zwYbo85xUWI",
     "date": "Sat Mar 05 2022 00:00:00 GMT+0900 (日本標準時)",
-    "state": "3"
+    "state": ""
   },
   {
     "md5": "72b6dc4f1ae4801fc794199b798677c7",
@@ -1749,9 +1749,35 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=86",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/04_ftshino-maryther.zip",
     "name_diff": "",
-    "comment": "(NEW!) 乱打、重発狂、微連打、ソフランなど。",
+    "comment": "乱打、重発狂、微連打、ソフランなど。",
     "movie_link": "https://youtu.be/Y6YU3yzIapo",
     "date": "Fri Mar 18 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": ""
+  },
+  {
+    "md5": "40f91bd0b884a8ae85deab162aeb0083",
+    "title": "Perseids [WTF]",
+    "artist": "Alex Turell / obj: Mary_Sue",
+    "level": "X",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=137",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Perseids_WTF_final.zip",
+    "name_diff": "",
+    "comment": "from WTF3、2nd STAGE → https://darksabun.github.io/event/wtf3/",
+    "movie_link": "https://youtu.be/Kdvhg7RHzDw",
+    "date": "Sun Mar 27 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": ""
+  },
+  {
+    "md5": "8068e5206ab112165cc468ba9abf6a73",
+    "title": "Adorable Ammunition [mAryther]",
+    "artist": "Azusa tofuyA / obj: mAry_sue",
+    "level": "23",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=96",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/03_ftremix-maryther.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 高速乱打、ソフラン",
+    "movie_link": "https://youtu.be/1iS8J8wtGHs",
+    "date": "Fri Apr 01 2022 00:00:00 GMT+0900 (日本標準時)",
     "state": "3"
   }
 ]
