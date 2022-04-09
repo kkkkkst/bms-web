@@ -5,11 +5,6 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "ed80010b2c83d8667fbbefbbbd8a588b",
-    "title": "Once in my life [LovePlus+]",
-    "level": "3.00...3.50"
-  },
-  {
     "md5": "c120662343f4a211a71750d491cc56ac",
     "title": "rough [7key,Hyper+]",
     "level": "3.00...3.50"
@@ -62,6 +57,11 @@
   {
     "md5": "3c1b0c08bb95416e97a385bb6b0d241b",
     "title": "on the WAVE -EXTRA-",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "ed80010b2c83d8667fbbefbbbd8a588b",
+    "title": "Once in my life [LovePlus+]",
     "level": "3.50...4.00"
   },
   {
@@ -290,6 +290,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "310372ffd72050362763ed477a862274",
+    "title": "SpellBound [7KEYS ANOTHER]",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "fa0a38f2a1a45edbf0388492fde8c35b",
     "title": "SpellBound [CHARM]",
     "level": "4.00...4.50"
@@ -332,11 +337,6 @@
   {
     "md5": "151c530571c2d311ff953b7092f1abb8",
     "title": "シグナルほっぴんぐ [Another]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "4c7c8b03fb3f7e3e399571a9b30a58f5",
-    "title": "チョウの標本 [Practice]",
     "level": "4.00...4.50"
   },
   {
@@ -685,11 +685,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "310372ffd72050362763ed477a862274",
-    "title": "SpellBound [7KEYS ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "bdf775009c3f52721ed6687835481f20",
     "title": "the Only one Reverberation feat.波音リツ",
     "level": "4.50...5.00"
@@ -722,6 +717,11 @@
   {
     "md5": "9498378a847b94b949d11a566a86d3c0",
     "title": "アトロポスと最果の探求者",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "4c7c8b03fb3f7e3e399571a9b30a58f5",
+    "title": "チョウの標本 [Practice]",
     "level": "4.50...5.00"
   },
   {
@@ -812,6 +812,11 @@
   {
     "md5": "9f03d0a2965b56338d6fa975777662be",
     "title": "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "5a135cc3c2272e5279dcc7c3b0f9f1ed",
+    "title": "Love☆Love☆Christmas -Hope-",
     "level": "5.00...5.50"
   },
   {
@@ -965,6 +970,11 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "990df60870aedb80cc22233ea30583b4",
+    "title": "KRAKEN",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "3a280bea979e53edccbcd56eb9209cae",
     "title": "Late Summer [Another+]",
     "level": "5.50...6.00"
@@ -977,11 +987,6 @@
   {
     "md5": "326516db79007abb6717d31fbceeb2b7",
     "title": "Little Guardian [ANOTHER]",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "5a135cc3c2272e5279dcc7c3b0f9f1ed",
-    "title": "Love☆Love☆Christmas -Hope-",
     "level": "5.50...6.00"
   },
   {
@@ -1265,11 +1270,6 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "990df60870aedb80cc22233ea30583b4",
-    "title": "KRAKEN",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "2a8367c798afb98a48de0473952937fb",
     "title": "La souvenir",
     "level": "6.00...6.50"
@@ -1362,6 +1362,11 @@
   {
     "md5": "97a569396ff351c00deafaa5256c5985",
     "title": "Princess × Pegasus [ANOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "0cbc7b980f664e7e0eb2214c965c2180",
+    "title": "Regain [EGO DEATH]",
     "level": "6.00...6.50"
   },
   {
@@ -1535,6 +1540,11 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "393690659885f5d73e838b43a6345333",
+    "title": "BEYOND [ANOTHER7]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "d22b1e2a3e758c4d4627d230eb90e8f5",
     "title": "Diachronic Reflection (SP Insane)",
     "level": "6.50...7.00"
@@ -1575,6 +1585,16 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "6382797789a4791da0e5750fb34d1fb2",
+    "title": "Wonderful Tomorrow [WONDER]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "a71537335d29219b96f41f182e2547b1",
+    "title": "YOU from \"ひぐらしのなく頃に\"",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "ecea3b8c103b84be7771cfb8afc06682",
     "title": "サラダ [Touch Grass]",
     "level": "6.50...7.00"
@@ -1602,11 +1622,6 @@
   {
     "md5": "7a784e83d0693a02e44ce7a59ca265a1",
     "title": "-雪月花- [ZOI]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "393690659885f5d73e838b43a6345333",
-    "title": "BEYOND [ANOTHER7]",
     "level": "7.00...7.50"
   },
   {
@@ -1762,11 +1777,6 @@
   {
     "md5": "bb51e06228e7279b47120b9a5c527421",
     "title": "Love☆Spellcard [ZOI]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "b4d33ad62e4e4ac6b443e03346bb22b0",
-    "title": "Lucid Dreaming [U]",
     "level": "7.00...7.50"
   },
   {
@@ -2075,6 +2085,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "b4d33ad62e4e4ac6b443e03346bb22b0",
+    "title": "Lucid Dreaming [U]",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "7ed81895343bb928baaef5916c78f441",
     "title": "Midnight o'clock -DREAMING-",
     "level": "7.50...8.00"
@@ -2185,6 +2200,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "9c0840b4bc096ab32d4173bb4b4c148a",
+    "title": "夢、幻。 -Hope-",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "4a11ad87a53029ad93eeaa7936cdcdb8",
     "title": "森 [炎]",
     "level": "7.50...8.00"
@@ -2290,16 +2310,6 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "6382797789a4791da0e5750fb34d1fb2",
-    "title": "Wonderful Tomorrow [WONDER]",
-    "level": "8.00...8.50"
-  },
-  {
-    "md5": "a71537335d29219b96f41f182e2547b1",
-    "title": "YOU from \"ひぐらしのなく頃に\"",
-    "level": "8.00...8.50"
-  },
-  {
     "md5": "58b9afa7ad0340e0fbad864ee1727250",
     "title": "シグナルほっぴんぐ [⌒c(∪・x・)]",
     "level": "8.00...8.50"
@@ -2320,8 +2330,8 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "9c0840b4bc096ab32d4173bb4b4c148a",
-    "title": "夢、幻。 -Hope-",
+    "md5": "9fcd8ed5738eeafee02f4261a29c2b58",
+    "title": "空 [ZOI]",
     "level": "8.00...8.50"
   },
   {
@@ -2760,11 +2770,6 @@
     "level": "8.50...9.00"
   },
   {
-    "md5": "9fcd8ed5738eeafee02f4261a29c2b58",
-    "title": "空 [ZOI]",
-    "level": "8.50...9.00"
-  },
-  {
     "md5": "b096eb7be1ff27a5c5fa52abd272d421",
     "title": "虫 [Insecta]",
     "level": "8.50...9.00"
@@ -2800,6 +2805,11 @@
     "level": "9.00...9.50"
   },
   {
+    "md5": "f2b941d23b71d6fa37781b74b0028af5",
+    "title": "5.1.1(ReMix) [73Another]",
+    "level": "9.50...10.00"
+  },
+  {
     "md5": "1950f0e6809f704ac5ec63969ae24f9f",
     "title": "Amethyst Moon -Pure White Crystal-",
     "level": "9.50...10.00"
@@ -2827,6 +2837,11 @@
   {
     "md5": "fb6ecaf4baf23f69371010ce707fe0be",
     "title": "Busy Factory [Append]",
+    "level": "9.50...10.00"
+  },
+  {
+    "md5": "ee052e1d172c65635fb20f158e4a1082",
+    "title": "carnation [ZOI]",
     "level": "9.50...10.00"
   },
   {
@@ -2935,6 +2950,11 @@
     "level": "9.50...10.00"
   },
   {
+    "md5": "9ce00182078600ac9cc8b2460e4f7761",
+    "title": "Rainbow Night Party [Arcoiris]",
+    "level": "9.50...10.00"
+  },
+  {
     "md5": "f51c0d0df34f3bb9894336e031d150dd",
     "title": "Romantic Children [SP ANOTHER2]",
     "level": "9.50...10.00"
@@ -3005,11 +3025,6 @@
     "level": "9.50...10.00"
   },
   {
-    "md5": "f2b941d23b71d6fa37781b74b0028af5",
-    "title": "5.1.1(ReMix) [73Another]",
-    "level": "10.00...10.50"
-  },
-  {
     "md5": "deab2d7c66503690608c04e5c5211f6d",
     "title": "Adularescence [ANOTHER]",
     "level": "10.00...10.50"
@@ -3067,11 +3082,6 @@
   {
     "md5": "f411c4238964a737c32afb414241337b",
     "title": "Blazing Blizzard -Frostbite-",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "ee052e1d172c65635fb20f158e4a1082",
-    "title": "carnation [ZOI]",
     "level": "10.00...10.50"
   },
   {
@@ -3222,11 +3232,6 @@
   {
     "md5": "32eacd8032ca8155a1cc80e39753aabb",
     "title": "Pusha Plucka!! -SWAGGER-",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "9ce00182078600ac9cc8b2460e4f7761",
-    "title": "Rainbow Night Party [Arcoiris]",
     "level": "10.00...10.50"
   },
   {
@@ -4052,6 +4057,11 @@
   {
     "md5": "1e6243c8347baf7922ba4c1e957af332",
     "title": "Elina (feat. Reislaufer) [HARDEST]",
+    "level": "12.50...13.00"
+  },
+  {
+    "md5": "99d193847df4af6a01987b7357c6af68",
+    "title": "ETERNiZE [INSANE]",
     "level": "12.50...13.00"
   },
   {
@@ -5680,6 +5690,11 @@
     "level": "18.00...18.50"
   },
   {
+    "md5": "d292b5c6eacd78d7104ead204ed2192a",
+    "title": "Rocketropolis [Tannhauser Gate]",
+    "level": "18.00...18.50"
+  },
+  {
     "md5": "24ccef65138cbd461f82780aca4f7e47",
     "title": "黄昏のメロディア [トワイライト]",
     "level": "18.00...18.50"
@@ -6422,11 +6437,6 @@
   {
     "md5": "07d0643bd73d5aba7415b513003b38cf",
     "title": "ENERGY SYNERGY MATRIX [Nemesis]",
-    "level": "-"
-  },
-  {
-    "md5": "99d193847df4af6a01987b7357c6af68",
-    "title": "ETERNiZE [INSANE]",
     "level": "-"
   },
   {

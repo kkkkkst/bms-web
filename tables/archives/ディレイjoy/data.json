@@ -1071,16 +1071,6 @@
   },
   {
     "level": "0",
-    "title": "ZENITHALIZE [SP 発汗]",
-    "artist": "姉ヶ崎 寧々 / obj:発汗BMS BGA : photonskyto",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=60",
-    "url_diff": "http://hakkanbms.web.fc2.com/sabun/zenithalize_hakkan.zip",
-    "md5": "e43605b0b64aa8543021d2d9be56a611",
-    "comment": "300?",
-    "打鍵速度": "300?"
-  },
-  {
-    "level": "0",
     "title": "あなた -EX-",
     "artist": "mitssi feat. SeeU/さ Movie: Sabhwa Note: LiTaNia",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
@@ -1548,6 +1538,16 @@
     "md5": "8f95b939b2215f52e457407361815840",
     "comment": "364",
     "打鍵速度": "364"
+  },
+  {
+    "level": "1",
+    "title": "ZENITHALIZE [SP 発汗]",
+    "artist": "姉ヶ崎 寧々 / obj:発汗BMS BGA : photonskyto",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=60",
+    "url_diff": "http://hakkanbms.web.fc2.com/sabun/zenithalize_hakkan.zip",
+    "md5": "e43605b0b64aa8543021d2d9be56a611",
+    "comment": "300?",
+    "打鍵速度": "300?"
   },
   {
     "level": "1",
@@ -2611,16 +2611,6 @@
   },
   {
     "level": "4",
-    "title": "Lambda Driver [Side:A]",
-    "artist": "SPELL BREAK/obj:Charlotte HEART BREAK",
-    "url": "http://3t1a.net/bms/lambda_driver_ogg.zip",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2877.zip",
-    "md5": "55172d3b87f791e0198f81d466552523",
-    "comment": "st4/310",
-    "打鍵速度": "310"
-  },
-  {
-    "level": "4",
     "title": "Lapis [miracle]",
     "artist": "SHIKI/obj.もにもに",
     "url": "http://shiki2.sakura.ne.jp/shiki_lapismq.rar",
@@ -2678,6 +2668,16 @@
     "md5": "e73457a90730035c6178f9f339eea553",
     "comment": "st4/400",
     "打鍵速度": "400"
+  },
+  {
+    "level": "4",
+    "title": "Sound of Monochrome [Splitting's Error]",
+    "artist": "くるぶっこちゃん BGA : geniway / obj.nozomi vs Restia",
+    "url": "https://dropbox.bms.ms/u/87375397/%5BBOFU2015%5DSound%20of%20Monochrome%28ogg%29%5BKurubukko%5D.zip",
+    "url_diff": "",
+    "md5": "20c5afa9cd5ecfcae0db3653781d9848",
+    "comment": "284",
+    "打鍵速度": "284"
   },
   {
     "level": "4",
@@ -2931,6 +2931,16 @@
   },
   {
     "level": "5",
+    "title": "CROSS†SOUL [7key Challenger]",
+    "artist": "HyuN feat. Syepias / extra",
+    "url": "https://www.mediafire.com/file/6fk6tybshd8buyl/CROSSSOUL.zip/file",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05502",
+    "md5": "85533d3572edf715c119deebf160c078",
+    "comment": "dy0/400",
+    "打鍵速度": "400"
+  },
+  {
+    "level": "5",
     "title": "Crush Alcohol [dumpass]",
     "artist": "shadow_bling obj. tyrcs",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137",
@@ -3001,16 +3011,6 @@
   },
   {
     "level": "5",
-    "title": "eth剣 [Monsther]",
-    "artist": "BOKKEN PINK BOKKEN DODOME+MAGENTA / obj:Monsta",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=65",
-    "url_diff": "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/",
-    "md5": "e66315cf388455c3dbe0c05033b50cce",
-    "comment": "st5/378",
-    "打鍵速度": "378"
-  },
-  {
-    "level": "5",
     "title": "EVERLASTING HAPPiNESS↑ [AETERNUM]",
     "artist": "psi obj:mute",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
@@ -3038,6 +3038,16 @@
     "md5": "56b38da7cbbf93202f5f72f2a6dd0fd0",
     "comment": "st5/330",
     "打鍵速度": "330"
+  },
+  {
+    "level": "5",
+    "title": "G e n g a o z o - f o o n 榘ｫｯｫｨ",
+    "artist": "455-38B / obj : k_f / tomoru",
+    "url": "http://www5.pf-x.net/~malie/",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1949.zip",
+    "md5": "ca191e1cf78804f471f7ab3c944f472e",
+    "comment": "dy0/306",
+    "打鍵速度": "306"
   },
   {
     "level": "5",
@@ -3131,6 +3141,16 @@
   },
   {
     "level": "5",
+    "title": "Orbitaloid [Milkyway]",
+    "artist": "Chart obj:otoshi.b",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Orbitaloid%20(by%20Chart).rar",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02015",
+    "md5": "6c09438da4eddf4b17ef0bb1a781d4ad",
+    "comment": "sub st5/290",
+    "打鍵速度": "290"
+  },
+  {
+    "level": "5",
     "title": "Out of control (神)",
     "artist": "Shinwoir / 紫電車",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=131",
@@ -3138,6 +3158,16 @@
     "md5": "f6366e5d36a9e5403cba3da7e87cc5aa",
     "comment": "sub st5/537",
     "打鍵速度": "537"
+  },
+  {
+    "level": "5",
+    "title": "Plastic Mind　　Sensitive 7",
+    "artist": "ZUN / arr.みょん / iimode-do / かげきち / SHOT-U",
+    "url": "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1550.lzh",
+    "md5": "c42fe77547a72b6f10e33c6f499abc97",
+    "comment": "dy5/400",
+    "打鍵速度": "400"
   },
   {
     "level": "5",
@@ -3218,6 +3248,16 @@
     "md5": "41d00f29d592ff58b369ccfefac0b48b",
     "comment": "344、516",
     "打鍵速度": "344、516"
+  },
+  {
+    "level": "5",
+    "title": "Sacred Scarlet ～ 真紅の魔奏 [CRIMSON]",
+    "artist": "カノン・ソルフェージュ/obj:cinq",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=127",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04412",
+    "md5": "f7ee1947ea4b7c0ce0438bc8bd0a3c01",
+    "comment": "dy0/320",
+    "打鍵速度": "320"
   },
   {
     "level": "5",
@@ -3386,7 +3426,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
     "url_diff": "https://stellabms.xyz/upload/1429",
     "md5": "8c9f968797e05e308bdd5d9e0dac9c1a",
-    "comment": "sub st5/312,468",
+    "comment": "st5/312,468",
     "打鍵速度": "312,468"
   },
   {
@@ -3448,16 +3488,6 @@
     "md5": "fab3a7d103ad7294e35db8130745bb91",
     "comment": "364",
     "打鍵速度": "364"
-  },
-  {
-    "level": "5",
-    "title": "天空の城ヴェリエル -ディレイ城-",
-    "artist": "うえつ氏 / obj morio",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
-    "url_diff": "http://ux.getuploader.com/sinmoriosabun/download/11/Tenkuujyou.zip",
-    "md5": "26be5770b15207a0957087791b2e21f4",
-    "comment": "sub st6/444",
-    "打鍵速度": "444"
   },
   {
     "level": "5",
@@ -4711,6 +4741,16 @@
   },
   {
     "level": "8",
+    "title": "天空の城ヴェリエル -ディレイ城-",
+    "artist": "うえつ氏 / obj morio",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
+    "url_diff": "http://ux.getuploader.com/sinmoriosabun/download/11/Tenkuujyou.zip",
+    "md5": "26be5770b15207a0957087791b2e21f4",
+    "comment": "sub st6/444",
+    "打鍵速度": "444"
+  },
+  {
+    "level": "8",
     "title": "特効薬はカニピラフ -KAKANINIDELAF Delay-",
     "artist": "セナ/ obj:KCOOL BGA：Milk_tya Illust：神奈川わか奈",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=88",
@@ -5896,7 +5936,7 @@
     "url": "http://iimode-do.jp/obj/m/m11_plastic.zip",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05408",
     "md5": "a17d2fd1c0821f63f9a17a87daca8cf3",
-    "comment": "400",
+    "comment": "dy7/400",
     "打鍵速度": "400"
   },
   {

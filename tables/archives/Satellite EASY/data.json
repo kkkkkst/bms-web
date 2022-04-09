@@ -1170,6 +1170,11 @@
     "level": "0.00...0.50"
   },
   {
+    "md5": "0cbc7b980f664e7e0eb2214c965c2180",
+    "title": "Regain [EGO DEATH]",
+    "level": "0.00...0.50"
+  },
+  {
     "md5": "d193fc202d138cde3b270a4331ae2fd1",
     "title": "Repeat⇔Again [SP DEFEATED]",
     "level": "0.00...0.50"
@@ -1550,11 +1555,6 @@
     "level": "0.50...1.00"
   },
   {
-    "md5": "c660ba7698940e75a9ff45af488cc2e0",
-    "title": "Luminaria [ANOTHER7]",
-    "level": "0.50...1.00"
-  },
-  {
     "md5": "e27a5d3958df862a2fb38a8fa393a18f",
     "title": "Natullary [Hi]",
     "level": "0.50...1.00"
@@ -1627,6 +1627,16 @@
   {
     "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
     "title": "WAYLAID (Additional)",
+    "level": "0.50...1.00"
+  },
+  {
+    "md5": "6382797789a4791da0e5750fb34d1fb2",
+    "title": "Wonderful Tomorrow [WONDER]",
+    "level": "0.50...1.00"
+  },
+  {
+    "md5": "a71537335d29219b96f41f182e2547b1",
+    "title": "YOU from \"ひぐらしのなく頃に\"",
     "level": "0.50...1.00"
   },
   {
@@ -1922,6 +1932,11 @@
   {
     "md5": "b4d33ad62e4e4ac6b443e03346bb22b0",
     "title": "Lucid Dreaming [U]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "c660ba7698940e75a9ff45af488cc2e0",
+    "title": "Luminaria [ANOTHER7]",
     "level": "1.00...1.50"
   },
   {
@@ -2510,11 +2525,6 @@
     "level": "1.50...2.00"
   },
   {
-    "md5": "6382797789a4791da0e5750fb34d1fb2",
-    "title": "Wonderful Tomorrow [WONDER]",
-    "level": "1.50...2.00"
-  },
-  {
     "md5": "503fa3c8a93f4000b19857443e9edbf1",
     "title": "XVOTO [ZOI]",
     "level": "1.50...2.00"
@@ -2522,11 +2532,6 @@
   {
     "md5": "1eabef57130f6e66f6b46e3fb0f6e9d9",
     "title": "YAKEKUSO BOYS [ヤケメシ]",
-    "level": "1.50...2.00"
-  },
-  {
-    "md5": "a71537335d29219b96f41f182e2547b1",
-    "title": "YOU from \"ひぐらしのなく頃に\"",
     "level": "1.50...2.00"
   },
   {
@@ -3715,11 +3720,6 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "6e3a179e98fcaddc08bf998c7462cf88",
-    "title": "太陽と月の宴",
-    "level": "3.00...3.50"
-  },
-  {
     "md5": "5e22cad170ef35cb488de29d67c14775",
     "title": "星屑アポトーシス [Monsther]",
     "level": "3.00...3.50"
@@ -3925,11 +3925,6 @@
     "level": "3.50...4.00"
   },
   {
-    "md5": "c982becdce32626a23083d798b02ede1",
-    "title": "Total Eclipse of the Sun -Howling-",
-    "level": "3.50...4.00"
-  },
-  {
     "md5": "93b312dfa1860a001b620d2a4e3d8e5c",
     "title": "Trick or Treat? [Extra]",
     "level": "3.50...4.00"
@@ -3977,6 +3972,11 @@
   {
     "md5": "5c5fdbb4051fc0b2b7831f54466b2fa7",
     "title": "今日一日も全力疾走！ -Hope-",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "6e3a179e98fcaddc08bf998c7462cf88",
+    "title": "太陽と月の宴",
     "level": "3.50...4.00"
   },
   {
@@ -4215,6 +4215,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "c982becdce32626a23083d798b02ede1",
+    "title": "Total Eclipse of the Sun -Howling-",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "c4bb75ec414177e4c1d9f5bafae4cca2",
     "title": "WHIRLWIND [EXTRA]",
     "level": "4.00...4.50"
@@ -4257,6 +4262,11 @@
   {
     "md5": "cab2ba456434dfa111b4acb76a391496",
     "title": "オトゲラヴ！ [男の娘ラヴ！]",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "f1040af1f00fa49ea68ed6e9ab3aa2e9",
+    "title": "ハッピーフェイクショー [ホントノシアワセ]",
     "level": "4.00...4.50"
   },
   {
@@ -4460,11 +4470,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "bf296157872d81d25a170a3d0bdd7c09",
-    "title": "Number Y [INSANE]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "b31d63e8f79e8655fc461a9202a6f93c",
     "title": "Orfevre -Expert-",
     "level": "4.50...5.00"
@@ -4605,16 +4610,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "502f2e31b37878df952c8bcd54b4e1b3",
-    "title": "スーパーイザナギオブジェクト [yumether]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "f1040af1f00fa49ea68ed6e9ab3aa2e9",
-    "title": "ハッピーフェイクショー [ホントノシアワセ]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "9d70d0f80d97d0143f86dec260216f8b",
     "title": "プナイプナイせんそう [LITTLE DAEMON]",
     "level": "4.50...5.00"
@@ -4662,11 +4657,6 @@
   {
     "md5": "28e74356833a56b4673905fa2940a205",
     "title": "3.14 @`・ ω ・´@",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "1e0216061051fb1999ed52ff2ce22851",
-    "title": "[line-epsilon] -DriFter-",
     "level": "5.00...5.50"
   },
   {
@@ -4755,6 +4745,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "bf296157872d81d25a170a3d0bdd7c09",
+    "title": "Number Y [INSANE]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
     "title": "PhonDrome! [GALAPAGOS']",
     "level": "5.00...5.50"
@@ -4820,6 +4815,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "502f2e31b37878df952c8bcd54b4e1b3",
+    "title": "スーパーイザナギオブジェクト [yumether]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "dc77bd7acccaeb391ea39043736cb72c",
     "title": "ナツイノ [涼風]",
     "level": "5.00...5.50"
@@ -4878,6 +4878,11 @@
     "md5": "cc711d3cb0c68216693debfe73e102ac",
     "title": "摩訶幻想マジトリク [K-T]",
     "level": "5.00...5.50"
+  },
+  {
+    "md5": "1e0216061051fb1999ed52ff2ce22851",
+    "title": "[line-epsilon] -DriFter-",
+    "level": "5.50...6.00"
   },
   {
     "md5": "aad5ec4218a33048c3cd18eb9e182ac5",
@@ -5150,11 +5155,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "40332a570fe97c487da227a7bdcf28a2",
-    "title": "新たなる決意 -黎明-",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "4191102b46752138740949f43ba6a3f5",
     "title": "星屑アポトーシス [Monsther+]",
     "level": "5.50...6.00"
@@ -5395,6 +5395,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "40332a570fe97c487da227a7bdcf28a2",
+    "title": "新たなる決意 -黎明-",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "7447b9bd0efd6be281e7307a4a62235e",
     "title": "時架け -Luna-",
     "level": "6.00...6.50"
@@ -5437,6 +5442,11 @@
   {
     "md5": "f6d9d7e536801d45e3126493842dbc40",
     "title": "Aurora [Northern Frontier]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "24c869a51384af113e9271a766e7d4be",
+    "title": "Central Nucleus [INFERNO]",
     "level": "6.50...7.00"
   },
   {
@@ -5605,13 +5615,13 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "23108f44859ef37e013fa9bd4df08b72",
-    "title": "your wind, my blind [Etude]",
+    "md5": "8be565db62cb59739c827c5ee0884801",
+    "title": "Zero Feet [INSANE]",
     "level": "6.50...7.00"
   },
   {
-    "md5": "8be565db62cb59739c827c5ee0884801",
-    "title": "Zero Feet [INSANE]",
+    "md5": "32384e2ce36d8da907072a4a70f42497",
+    "title": "ぱぴぽ？ -でぃすぺあ-",
     "level": "6.50...7.00"
   },
   {
@@ -5717,11 +5727,6 @@
   {
     "md5": "c16ad6046d2f0d5f65a66bbbba6aaaa8",
     "title": "Central GRAY [Crazy]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "24c869a51384af113e9271a766e7d4be",
-    "title": "Central Nucleus [INFERNO]",
     "level": "7.00...7.50"
   },
   {
@@ -5835,6 +5840,11 @@
     "level": "7.00...7.50"
   },
   {
+    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
+    "level": "7.00...7.50"
+  },
+  {
     "md5": "1ebf61990256b79628c9dee6a926ad39",
     "title": "PEACE BREAKER [HARDEST]",
     "level": "7.00...7.50"
@@ -5890,8 +5900,13 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "32384e2ce36d8da907072a4a70f42497",
-    "title": "ぱぴぽ？ -でぃすぺあ-",
+    "md5": "23108f44859ef37e013fa9bd4df08b72",
+    "title": "your wind, my blind [Etude]",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "4c4e384172c5eb1cdea72752430bebae",
+    "title": "インフィニット・パラダイムシフト [yumether]",
     "level": "7.00...7.50"
   },
   {
@@ -5917,6 +5932,11 @@
   {
     "md5": "acde9160cc8b668d78580fc8cc247116",
     "title": "白と臙脂のオモチャバコ [Dead]",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "c2a1e4e5727f42a0222f3553f6839502",
+    "title": "神様の恋心 [KANITHER]",
     "level": "7.00...7.50"
   },
   {
@@ -5957,11 +5977,6 @@
   {
     "md5": "c6e40998c81fbf3ae79484adc8975280",
     "title": "After Burner [SKY HIGH]",
-    "level": "7.50...8.00"
-  },
-  {
-    "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
-    "title": "AIWS [chiral]",
     "level": "7.50...8.00"
   },
   {
@@ -6025,11 +6040,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "2d034bffd18881fe6757706d6729eb33",
-    "title": "Drop! [SABOTHER]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "3ca65d64697a61e3a0d705ed05696c22",
     "title": "emergency call: Xeno [Unknown Encountered]",
     "level": "7.50...8.00"
@@ -6077,6 +6087,11 @@
   {
     "md5": "824c719686aa341376ea86eb6800acea",
     "title": "Gothic System -C.H.S_NRG Mix- [yumether]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "daabea71e949e92d5718ae7ba27ca0a5",
+    "title": "Hi-Fi-Story [SP EXTRA]",
     "level": "7.50...8.00"
   },
   {
@@ -6135,11 +6150,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
-    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "b142278d297ff2a5988b4e33687a24ab",
     "title": "Pure White † Crimson Coffin -Luna-",
     "level": "7.50...8.00"
@@ -6162,6 +6172,11 @@
   {
     "md5": "b09567badbbb7f9719f771fa23676926",
     "title": "Ready to Go (^ω^;)",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "d292b5c6eacd78d7104ead204ed2192a",
+    "title": "Rocketropolis [Tannhauser Gate]",
     "level": "7.50...8.00"
   },
   {
@@ -6250,11 +6265,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "4c4e384172c5eb1cdea72752430bebae",
-    "title": "インフィニット・パラダイムシフト [yumether]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "afe8cdbcaa8f6edeba182ecb9b266fb5",
     "title": "テウメッサ [にゃーん]",
     "level": "7.50...8.00"
@@ -6300,11 +6310,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "c2a1e4e5727f42a0222f3553f6839502",
-    "title": "神様の恋心 [KANITHER]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "d6992c5eedc7555c00b5ce6dfa27e0fb",
     "title": "空",
     "level": "7.50...8.00"
@@ -6325,8 +6330,8 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "5aa0517a13933707497024a8bb54100c",
-    "title": "Akasagarbha  [yumether]",
+    "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
+    "title": "AIWS [chiral]",
     "level": "8.00...8.50"
   },
   {
@@ -6380,6 +6385,11 @@
     "level": "8.00...8.50"
   },
   {
+    "md5": "0613c5e457a4ce1f7b6fa2a4f1a7f554",
+    "title": "Creamy Sky [SP HELL]",
+    "level": "8.00...8.50"
+  },
+  {
     "md5": "a7aa3265770a80dcf136a91bdea02b42",
     "title": "Cross Galaxy [INFELNO]",
     "level": "8.00...8.50"
@@ -6402,6 +6412,11 @@
   {
     "md5": "0f02775a367c932432b0e31bb38acc3b",
     "title": "DEATH SENTENCE [Eliminator]",
+    "level": "8.00...8.50"
+  },
+  {
+    "md5": "2d034bffd18881fe6757706d6729eb33",
+    "title": "Drop! [SABOTHER]",
     "level": "8.00...8.50"
   },
   {
@@ -6432,11 +6447,6 @@
   {
     "md5": "8f1bfa14a5bb435b315d364ee2c785c8",
     "title": "hemorrhoids",
-    "level": "8.00...8.50"
-  },
-  {
-    "md5": "daabea71e949e92d5718ae7ba27ca0a5",
-    "title": "Hi-Fi-Story [SP EXTRA]",
     "level": "8.00...8.50"
   },
   {
@@ -6487,11 +6497,6 @@
   {
     "md5": "56ef487b38517cae523b4720d6898dd3",
     "title": "Poisonous Peach [Eb]",
-    "level": "8.00...8.50"
-  },
-  {
-    "md5": "0f5b2b2df091b511e311873204203dcc",
-    "title": "Psychedelic Ritual -Despair-",
     "level": "8.00...8.50"
   },
   {
@@ -6630,11 +6635,6 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "12fbbbc30ea8fbe85c3a27ad35eed419",
-    "title": "織姫 -EX-",
-    "level": "8.00...8.50"
-  },
-  {
     "md5": "a3053a25cb3c319260188fff4d006350",
     "title": "非徘徊主義 (-ω-)",
     "level": "8.00...8.50"
@@ -6647,6 +6647,11 @@
   {
     "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 -L u N A-",
+    "level": "8.50...9.00"
+  },
+  {
+    "md5": "5aa0517a13933707497024a8bb54100c",
+    "title": "Akasagarbha  [yumether]",
     "level": "8.50...9.00"
   },
   {
@@ -6677,11 +6682,6 @@
   {
     "md5": "534409cbca9a2be1c13378da90b0be67",
     "title": "Cosmogazer [2844.10.10]",
-    "level": "8.50...9.00"
-  },
-  {
-    "md5": "0613c5e457a4ce1f7b6fa2a4f1a7f554",
-    "title": "Creamy Sky [SP HELL]",
     "level": "8.50...9.00"
   },
   {
@@ -6717,6 +6717,11 @@
   {
     "md5": "8c5fad5786d67093ef4d4a35f462a031",
     "title": "My Little Sweet Kitty [Append+]",
+    "level": "8.50...9.00"
+  },
+  {
+    "md5": "0f5b2b2df091b511e311873204203dcc",
+    "title": "Psychedelic Ritual -Despair-",
     "level": "8.50...9.00"
   },
   {
@@ -6797,6 +6802,11 @@
   {
     "md5": "687a49d3b6d25d8fac7b7879515ae83b",
     "title": "絵空事の世界と私 -aletheia-",
+    "level": "8.50...9.00"
+  },
+  {
+    "md5": "12fbbbc30ea8fbe85c3a27ad35eed419",
+    "title": "織姫 -EX-",
     "level": "8.50...9.00"
   },
   {

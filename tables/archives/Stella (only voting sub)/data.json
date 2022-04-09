@@ -1,17 +1,16 @@
 [
   {
-    "md5": "5a4cc103241e499c4c7d7448984dd94b",
-    "sha256": "003d3396399a63d00df92fa786775d5600b5bcfb3316c517d0ae08f37a32d4e9",
-    "title": "紫陽花の忘れ物 [GLACIAL7]",
-    "artist": "ルゼ / obj:fexaaaaa",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4377.zip",
-    "url": "http://www.luzeria.net/music/bms.htm",
+    "md5": "c7e70ebf1632e663996b35118c160c8e",
+    "sha256": "7e598f1455a24c502d89547d5d919e2942ed14f4fa76aa9db8a4738db1db0f1e",
+    "title": "Taken The First Step -CRYSTAL Edit- [yumether]",
+    "artist": "DashRaver feat. RainbowColors illust:れおん / obj:夢瑠",
+    "url_diff": "http://yumerusabun.web.fc2.com/nue.html  ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=107",
     "level": "0",
-    "comment": "★15の強化版？48分、乱打",
-    "zureCount": 0,
-    "proposer": "Mary_Sue",
-    "submission": 1759,
-    "proposerLr2id": 147889
+    "comment": "(7KEYS ANOTHER)と比較してズレありだが、同梱側の配置ミスのため問題ない(詳しくはReadme参照)",
+    "proposer": "ねおんし",
+    "submission": 1803,
+    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
   },
   {
     "md5": "22ebf416100df556dcd2b1ab52bbd6cc",
@@ -45,16 +44,17 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "60bc96c61bfc3d42c765ddb329a79b9c",
-    "sha256": "4e073eb2aafe8d29753911238767adbbb29bc19dac34b8c5482a43a2fa5eb419",
-    "title": "玉響サーチライト [Little Little Unisons]",
-    "artist": "otoshi.b × みゅい & tolz × はしたかさん & mute",
+    "md5": "d2f7390b1b12e9973b47a90f1343e8e0",
+    "sha256": "5a11db7f4c55dad91126c7bf5c12d7e79986c82966a764c21dbbc0b3842b0f96",
+    "title": "Toxic Rain [EXTREME 7]",
+    "artist": "air chart:air",
     "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=137",
+    "url": "http://14b.starfree.jp/",
     "level": "1",
-    "proposer": "LUXURY♪",
-    "submission": 1780,
-    "proposerLr2id": 23110
+    "comment": "BPM150 乱打 微連打",
+    "proposer": "SHAX.",
+    "submission": 1794,
+    "proposerLr2id": 65624
   },
   {
     "md5": "9ffe6d40a71d10474ef59ea1c66498bc",
@@ -96,17 +96,17 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
-    "md5": "e96936e8020f18571103ef7259f4b138",
-    "sha256": "0c3b5db6bdceed6ef48f572bf3f4f3b44b05dc05bc7d660e898ae820d30e3dea",
-    "title": "Levitation [Pentagon]",
-    "artist": "TAK / 140 obj.hex",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
-    "url": "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
+    "md5": "f2e1f5d41e5eb7f88723589a9010f33e",
+    "sha256": "b20fb00d1fdf84f27ce0a58e8009d32bb0755c1149010ac9ac1ae1b4c273793e",
+    "title": "o2is (絶)",
+    "artist": "Octa the B.G. / obj.LUZE + Rian",
+    "url_diff": "http://bmsk.web.fc2.com/2013hyouninaikikaku/",
+    "url": "https://web.archive.org/web/20110613022744/http://www3.pf-x.net/~boxism-8500/bms/o2is.rar",
     "level": "2",
-    "comment": "misalignment by additional keysound",
-    "proposer": "LUXURY♪",
-    "submission": 1779,
-    "proposerLr2id": 23110
+    "comment": "x1_o2is_7utage.bms base, removed excessive ending",
+    "proposer": "qtp13",
+    "submission": 1796,
+    "proposerLr2id": 86559
   },
   {
     "md5": "e5d92afea976383e1c8726db5a0703be",
@@ -136,21 +136,31 @@
     "proposerLr2id": 84597
   },
   {
-    "title": "BMS [7SABUN]",
-    "artist": "Blue-J / LuvTek",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=127",
+    "md5": "4ff5ec9aa5c7961c90e1f6167afe2ebd",
+    "sha256": "e82504a86b879e104a313b2553edf62c51f3b875d37666d03320df316a65b0a6",
+    "title": "You are a liar. [for some reason]",
+    "artist": "kunzite pattern for some reason",
     "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
-    "md5": "9e67f1cddf1251ac694fd41fe3b3fdc1",
-    "sha256": "3e86bf5db1cb17689fd57ab3d2a48710567e5c60fcec1884a10cfed67623535f",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=129",
+    "level": "2",
+    "comment": "同梱a_liar_template.tmp基準ズレ抜けなし",
     "proposer": "Mary_Sue",
-    "level": "3",
-    "submission": 1088,
-    "voteYes": 5,
-    "voteNeutral": 0,
-    "voteNo": 0,
-    "votePercent": 100,
-    "voteVersion": 2,
+    "submission": 1802,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "bb7e2f3040f07e965ba6026f8447821a",
+    "sha256": "e5002658564af29100a0088669bc7a19341cc0eff433109c0ee27f081b3320f2",
+    "title": "馴鹿之骸 [Winter]",
+    "artist": "tcheb / mov:マスティ obj:D'Ascuruk-Henkeric",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=137",
+    "level": "2",
+    "comment": "ガチ押し+連打",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1800,
+    "proposerLr2id": 84597
   },
   {
     "md5": "dc5b7f8bd62f2162b014da04a4c7d559",
@@ -248,6 +258,23 @@
     "proposerLr2id": 145204
   },
   {
+    "title": "Krave [Hexagon]",
+    "artist": "litmus* as Ester movie:なおや / obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "8ea6711c0891e00dc0e724977ce36c06",
+    "sha256": "c0a5adc2df16dcac0c6532e8408f0ef211e6ae564d9c24fc9aae3905c48b102f",
+    "proposer": "歳納京子",
+    "level": "4",
+    "submission": 1738,
+    "voteYes": 5,
+    "voteNeutral": 1,
+    "voteNo": 0,
+    "votePercent": 91.66666666666666,
+    "voteVersion": 2,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "faa61e81aa657997fb443dca9a1ce894",
     "sha256": "37c011050ec31f1c9770d28a4e99d8e693fa32f48c00f23e681c20448784f3ad",
     "title": "mom [コッコロ]",
@@ -276,6 +303,37 @@
     "proposerLr2id": 71314
   },
   {
+    "md5": "a5fe61fcc3b1ffdc27189b1b2d985f39",
+    "sha256": "cb23df6d6a06158eca9e55418c3e67609c3d49d145db1f017157346f8c5b636a",
+    "title": "でじたるふぁじー！ -Radio Edit- [でぃすぺあ]",
+    "artist": "ねこみりん / 小宮真央 / わんびぃ  / obj:七海",
+    "url_diff": "https://egosa0424.github.io/sabun/digital_nanami.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=65",
+    "level": "4",
+    "comment": "極上のBGA GIRL",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1795,
+    "proposerLr2id": 147889
+  },
+  {
+    "title": "イナリッチ -midnight-",
+    "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj:Haze*",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1328",
+    "md5": "128d9f5885624da74a56c192dad41e5a",
+    "sha256": "a48862e897e1731a5435093a10992f845d43f049c11a48d4ebefbefcfa07ca65",
+    "proposer": "歳納京子",
+    "level": "4",
+    "submission": 1739,
+    "voteYes": 5,
+    "voteNeutral": 0,
+    "voteNo": 1,
+    "votePercent": 83.33333333333334,
+    "voteVersion": 2,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "8e156b6a2016d9b6c1383eae74aae742",
     "sha256": "3d5882890a287a6b4ff1762aaba83b846359151bbc3dceb51d64d56270a7a321",
     "title": "春の湊に [detector]",
@@ -290,6 +348,46 @@
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
+    "md5": "ecb2d3f70570c3a3b45941ecc72c6b04",
+    "sha256": "80a1523e0523afd1006a86da5d85e7ed0074dcbede27b53af02d611957461518",
+    "title": "Crush Alcohol [dumpass]",
+    "artist": "shadow_bling obj. tyrcs",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137",
+    "level": "5",
+    "comment": "delay",
+    "proposer": "七海",
+    "submission": 1801,
+    "proposerLr2id": 84597
+  },
+  {
+    "md5": "c3c208d7eac6387d892693971e56c09a",
+    "sha256": "005f2f883f576b71050d5adedd8e0b363ac852826a87d36b90ee680f58228c8e",
+    "title": "Lambda Driver [So Easy.]",
+    "artist": "SPELL BREAK HEART BREAK / 度胸テニス",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=4726",
+    "url": "http://3t1a.net/bms/lambda_driver_ogg.zip",
+    "level": "5",
+    "comment": "BPM155 ディレイ 縦連 削除された[Side:A]の代わりにどうぞ (ズレはアレンジによるもの)",
+    "proposer": "垢伴次郎",
+    "submission": 1799,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
+    "md5": "6c09438da4eddf4b17ef0bb1a781d4ad",
+    "sha256": "aabf8671f75af3eeb4f81862fdce54633789506b12c7c65631eff05a6a6e2bac",
+    "title": "Orbitaloid [Milkyway]",
+    "artist": "Chart obj:otoshi.b",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02015",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Orbitaloid%20(by%20Chart).rar",
+    "level": "5",
+    "comment": "gachi, delay",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1798,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "ffb9dfbb5f7fd65746eeffe6b31fa66d",
     "sha256": "ddaa41c345d09c15a7600ac5681fbda7ca62a546de035cf326edc7b60cbfe9f3",
     "title": "Play Me Your Love Song [Hexagon]",
@@ -302,20 +400,6 @@
     "proposer": "SHAX.",
     "submission": 1777,
     "proposerLr2id": 65624
-  },
-  {
-    "md5": "8ba8797ff3df4d0fece93280fe622046",
-    "sha256": "3bdb90544e39e93d9ff14eeae52fb55b9ae33952fabcaeb62d6e49f69aea27ef",
-    "title": "shelf -tsar bomba-",
-    "artist": "ウラボロシ / obj:NASA",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03886",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=229&event=127",
-    "level": "5",
-    "comment": "4~5?",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 1756,
-    "proposerLr2id": 84597
   },
   {
     "md5": "330ec2f7f8a8cf46455d331706e84c88",
@@ -344,20 +428,6 @@
     "proposerLr2id": 65624
   },
   {
-    "md5": "8c9f968797e05e308bdd5d9e0dac9c1a",
-    "sha256": "8896dd26cff30d08fc0aee94c2bfef55eb2844bea667992bac7e32a28d5af1e3",
-    "title": "ハッピーフェイクショー [I'm the crazy bitch around here]",
-    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
-    "url_diff": "https://darksabun.github.io/event/bofxvii/",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=137",
-    "level": "5",
-    "comment": "delay",
-    "zureCount": 0,
-    "proposer": "歳納京子",
-    "submission": 1782,
-    "proposerLr2id": 75332
-  },
-  {
     "md5": "881e612196465f8148bbafca38509aa4",
     "sha256": "9f38ade9a1ebaf92e1a7c535e34cfde6a783b68ac257dd9e5f3e470050e8c4ee",
     "title": "Dysnomia [Accel]",
@@ -371,42 +441,16 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "ce913fbb15a985c11a2b1e7b4605d6a9",
-    "sha256": "9f0b6f13e63ed911cff4f26df1153162fc95ee71869cde01f35d76f2b0cfe76c",
-    "title": "トゥンカロン・ティータイム [Monogon]",
-    "artist": "kasとFaine obj:1008",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05931",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=133",
-    "level": "6",
-    "comment": "gachi, chords, jacks",
-    "proposer": "歳納京子",
-    "submission": 1754,
-    "proposerLr2id": 75332
-  },
-  {
-    "md5": "5877233cbccd098147669abc5a5703e6",
-    "sha256": "ff40a3199ecce473e9f493a8dbf9a6eb9b2707607d4d0670b5e3cda3abb76fdd",
-    "title": "3XTRA3XPR3SS [TR4IND3LAY3D]",
-    "artist": "ragia / 0",
-    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=1879",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=121",
+    "md5": "78ff7d5778581bfaee55ef120e4d3f71",
+    "sha256": "aabe0df11f581e9b9cb2c9036bbb3728742aa8533bab684261c98daa46d9086f",
+    "title": "キユビック",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / pattern for some reason",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=137",
     "level": "9",
-    "comment": "misalignment by requantization from 16ths to 24ths (#070~#076)",
+    "comment": "(2^3)+1; the cube of death",
     "proposer": "qtp13",
-    "submission": 1773,
+    "submission": 1797,
     "proposerLr2id": 86559
-  },
-  {
-    "md5": "01c72012eb08b10a1b232ea48ff79a14",
-    "sha256": "ef1a1eb6465fb6bed59901ea0ca63f6d48842f56449b8c903c37f490b5ad7536",
-    "title": "Always Feel the Same [TITANIC7]",
-    "artist": "Gsus x VJ PONDELION / Her name plz",
-    "url_diff": "https://stellabms.xyz/upload/1627",
-    "url": "https://anonymous.nekokan.dyndns.info/data/BOFXVI/enigma/bmsshuin3/always_feel_the_same_bms_fix_1.zip",
-    "level": "9",
-    "comment": "st8強～st9弱 実質BPM141のズレガチ押し 同梱と比較してズレあり",
-    "proposer": "りこりす・らぢあーた",
-    "submission": 1788,
-    "proposerLr2id": 143120
   }
 ]

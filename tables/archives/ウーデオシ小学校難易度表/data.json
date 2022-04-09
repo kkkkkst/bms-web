@@ -681,7 +681,7 @@
     "url": "https://web.archive.org/web/20151030093456/http://mikihara.cheap.jp/bms/BOF2015/QTlogic_ogg.zip",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03265",
     "md5": "59e194aa018dedf38478c46d551ddfce",
-    "comment": "85.5"
+    "comment": "元sl3/85.5"
   },
   {
     "level": "3",
@@ -699,7 +699,7 @@
     "url": "https://web.archive.org/web/20160312114552/http://www.geocities.jp/umesamurai2k/bmss.html",
     "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
     "md5": "35fefef102b09edac139551e33568b11",
-    "comment": "105"
+    "comment": "sub sl3/105"
   },
   {
     "level": "3",
@@ -1140,7 +1140,7 @@
     "url": "https://onedrive.live.com/?authkey=%21AFttxCmsve0qdT4&cid=3078649C19F9CDD6&id=3078649C19F9CDD6%21497&parId=3078649C19F9CDD6%21105&action=locate",
     "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/dday7laner.bme",
     "md5": "c53448db2adfd42e2b6c53ef1e441006",
-    "comment": "60"
+    "comment": "sub sl7/60"
   },
   {
     "level": "7",
@@ -1437,7 +1437,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=131",
     "url_diff": "同梱譜面",
     "md5": "3552818cd88efdc32f60c2ae3b5862c3",
-    "comment": "sub sl9/103"
+    "comment": "sl9/103"
   },
   {
     "level": "10",
@@ -1708,6 +1708,15 @@
     "url_diff": "http://bms.hexlataia.xyz/",
     "md5": "7a0fe0b4cdb584755ead99ec9d4479cf",
     "comment": "sl12/120"
+  },
+  {
+    "level": "12",
+    "title": "Metropolis [7key,BITTER]",
+    "artist": "mommy / obj:lime",
+    "url": "http://mommy16807.seesaa.net/article/130886480.html",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5439.zip",
+    "md5": "24b3d27b614f51a0e317027f7eca93b6",
+    "comment": "sl12/124"
   },
   {
     "level": "12",
