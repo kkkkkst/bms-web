@@ -1,5 +1,10 @@
 [
   {
+    "md5": "80fd6cd4adfe8f993757330a1f787a3c",
+    "title": "colorbar [Hi]",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "152868a80cee75a86411bdc60c68dd36",
     "title": "LAST PROPOZE [ANOTHER]",
     "level": "3.00...3.50"
@@ -17,11 +22,6 @@
   {
     "md5": "b9e7e3c1d0f9e72f195bfe2e6f730616",
     "title": "Chit-Chat [7Key Another]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "80fd6cd4adfe8f993757330a1f787a3c",
-    "title": "colorbar [Hi]",
     "level": "3.50...4.00"
   },
   {
@@ -275,6 +275,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "08d5195f34a425ea7d545ba6cf39c074",
+    "title": "reflection [7KEYS ANOTHER]",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "94004c2dc16fb21a33dfb8646c97f2e8",
     "title": "Right Back",
     "level": "4.00...4.50"
@@ -340,8 +345,8 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "60af6410e572521626238b8833ebc459",
-    "title": "マツユキソウ [Another]",
+    "md5": "4c7c8b03fb3f7e3e399571a9b30a58f5",
+    "title": "チョウの標本 [Practice]",
     "level": "4.00...4.50"
   },
   {
@@ -635,11 +640,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "08d5195f34a425ea7d545ba6cf39c074",
-    "title": "reflection [7KEYS ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "c4c1e31a6acce5118cc95b7e3de29601",
     "title": "Removal [ANOTHER]",
     "level": "4.50...5.00"
@@ -662,11 +662,6 @@
   {
     "md5": "ec8ae0a233a5f96ecb6928dfda106f06",
     "title": "Secret Order [ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "cac5388ceda6ba492d87beece30f28f1",
-    "title": "Seize the Day (inst ver.) [SP INSANE]",
     "level": "4.50...5.00"
   },
   {
@@ -720,13 +715,13 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "4c7c8b03fb3f7e3e399571a9b30a58f5",
-    "title": "チョウの標本 [Practice]",
+    "md5": "b1b87a8d8895f3823631c2443eef8c08",
+    "title": "ハロウィン・ナイト [another]",
     "level": "4.50...5.00"
   },
   {
-    "md5": "b1b87a8d8895f3823631c2443eef8c08",
-    "title": "ハロウィン・ナイト [another]",
+    "md5": "60af6410e572521626238b8833ebc459",
+    "title": "マツユキソウ [Another]",
     "level": "4.50...5.00"
   },
   {
@@ -815,11 +810,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "5a135cc3c2272e5279dcc7c3b0f9f1ed",
-    "title": "Love☆Love☆Christmas -Hope-",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "b914da45e4dbf5599b7edee4d3c7e8a9",
     "title": "Mondlicht [SP ANOTHER]",
     "level": "5.00...5.50"
@@ -827,6 +817,11 @@
   {
     "md5": "4dc22308eb254f088ead286be4acecde",
     "title": "Second Synthesis [7key Extra]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "cac5388ceda6ba492d87beece30f28f1",
+    "title": "Seize the Day (inst ver.) [SP INSANE]",
     "level": "5.00...5.50"
   },
   {
@@ -882,11 +877,6 @@
   {
     "md5": "a0f64c8af8621f4fdce97e24193a76cb",
     "title": "Brave My Soul -Flareness Heart-",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "ebbfc0f2212f436180d8208595bb58c1",
-    "title": "Chatblanc [clonter]",
     "level": "5.50...6.00"
   },
   {
@@ -987,6 +977,11 @@
   {
     "md5": "326516db79007abb6717d31fbceeb2b7",
     "title": "Little Guardian [ANOTHER]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "5a135cc3c2272e5279dcc7c3b0f9f1ed",
+    "title": "Love☆Love☆Christmas -Hope-",
     "level": "5.50...6.00"
   },
   {
@@ -1195,6 +1190,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "ebbfc0f2212f436180d8208595bb58c1",
+    "title": "Chatblanc [clonter]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "dbc7d01887e3a02ed502d76a0d842152",
     "title": "CO5M1C R4ILR0AD [M3←T→Я0]",
     "level": "6.00...6.50"
@@ -1362,6 +1362,11 @@
   {
     "md5": "97a569396ff351c00deafaa5256c5985",
     "title": "Princess × Pegasus [ANOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "fe103a2c23a341a67154268007984727",
+    "title": "Rebirth of the MYTH [Beyond Fictional]",
     "level": "6.00...6.50"
   },
   {
@@ -2495,11 +2500,6 @@
     "level": "8.50...9.00"
   },
   {
-    "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
-    "title": "Iolite Quintz",
-    "level": "8.50...9.00"
-  },
-  {
     "md5": "eac3481c7a80014579da0b2816b279ff",
     "title": "Kaleidoscope [SP ANOTHER]",
     "level": "8.50...9.00"
@@ -2542,11 +2542,6 @@
   {
     "md5": "d22adccd93634c2162ce7793c8c56a24",
     "title": "ophthalmomyiasis [SP HYPER]",
-    "level": "8.50...9.00"
-  },
-  {
-    "md5": "33773d2e776a153623431cda6968b337",
-    "title": "PASERI [7keys EX]",
     "level": "8.50...9.00"
   },
   {
@@ -2690,11 +2685,6 @@
     "level": "8.50...9.00"
   },
   {
-    "md5": "c9a4b05532d3ca8c765f6489b6cc25eb",
-    "title": "キユビック",
-    "level": "8.50...9.00"
-  },
-  {
     "md5": "fa843ffd47214c787c2673e83bb5da69",
     "title": "シレノ [SP INSANE]",
     "level": "8.50...9.00"
@@ -2797,6 +2787,21 @@
   {
     "md5": "e0fad5fcb854abe2cdb29b2d8d7b2001",
     "title": "FUELBLOODS [SP ANOTHER]",
+    "level": "9.00...9.50"
+  },
+  {
+    "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
+    "title": "Iolite Quintz",
+    "level": "9.00...9.50"
+  },
+  {
+    "md5": "33773d2e776a153623431cda6968b337",
+    "title": "PASERI [7keys EX]",
+    "level": "9.00...9.50"
+  },
+  {
+    "md5": "c9a4b05532d3ca8c765f6489b6cc25eb",
+    "title": "キユビック",
     "level": "9.00...9.50"
   },
   {
@@ -2937,6 +2942,11 @@
   {
     "md5": "4c8d82ccf93dd4ea622201c89d2fb6d9",
     "title": "NightTheater [Thriller]",
+    "level": "9.50...10.00"
+  },
+  {
+    "md5": "19c92fbcc1b6b4c6161036df626ba806",
+    "title": "Noblesse Gloria [Churchill Mk-VII]",
     "level": "9.50...10.00"
   },
   {
@@ -3195,11 +3205,6 @@
     "level": "10.00...10.50"
   },
   {
-    "md5": "19c92fbcc1b6b4c6161036df626ba806",
-    "title": "Noblesse Gloria [Churchill Mk-VII]",
-    "level": "10.00...10.50"
-  },
-  {
     "md5": "f7b8ef3c476bf2974e84e2798ed4633e",
     "title": "oo i s oo - Perfection - [IDENTITY]",
     "level": "10.00...10.50"
@@ -3357,6 +3362,11 @@
   {
     "md5": "01b980cdbf815a53eec50a3995b870e2",
     "title": "新 漢江水打令 [SP LEGGENDARIA]",
+    "level": "10.00...10.50"
+  },
+  {
+    "md5": "354377ae29357e0151283946c831cdb5",
+    "title": "未来のコピヌ -Hope-",
     "level": "10.00...10.50"
   },
   {
@@ -3915,11 +3925,6 @@
     "level": "12.00...12.50"
   },
   {
-    "md5": "08d63a18406f7d418e22f226f0aa644a",
-    "title": "Sakura Fubuki [ZOI]",
-    "level": "12.00...12.50"
-  },
-  {
     "md5": "ed4600ce4d6f06e0c4fbcc800f1e9255",
     "title": "Snowy Light(BMS Edit) [I'm Already Tracer]",
     "level": "12.00...12.50"
@@ -3942,6 +3947,11 @@
   {
     "md5": "54c66b5c0597ca3b95672b2e7440433e",
     "title": "にじいろクレヨン -Eb-",
+    "level": "12.00...12.50"
+  },
+  {
+    "md5": "8f133243dbc8d4ef84ae4eb4ca97de9c",
+    "title": "アルスノヴァに喝采を [SP INSANE]",
     "level": "12.00...12.50"
   },
   {
@@ -4185,6 +4195,11 @@
     "level": "12.50...13.00"
   },
   {
+    "md5": "08d63a18406f7d418e22f226f0aa644a",
+    "title": "Sakura Fubuki [ZOI]",
+    "level": "12.50...13.00"
+  },
+  {
     "md5": "b0191ec262a3789fa69c37a87411da46",
     "title": "Seed [Another+]",
     "level": "12.50...13.00"
@@ -4222,11 +4237,6 @@
   {
     "md5": "f77f591d575f2ad4aa7c1926d9f696e3",
     "title": "◇スト [Tree]",
-    "level": "12.50...13.00"
-  },
-  {
-    "md5": "8f133243dbc8d4ef84ae4eb4ca97de9c",
-    "title": "アルスノヴァに喝采を [SP INSANE]",
     "level": "12.50...13.00"
   },
   {
@@ -4780,6 +4790,11 @@
     "level": "14.50...15.00"
   },
   {
+    "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
+    "title": "Impulse of destruction [Insane]",
+    "level": "14.50...15.00"
+  },
+  {
     "md5": "e0a0385dd8f4a0d4960d0e8c12c4324e",
     "title": "JK★REVOLUTION!!!!!! -Hope-",
     "level": "14.50...15.00"
@@ -4797,11 +4812,6 @@
   {
     "md5": "af4f6e14957bfe52449ac9ce07a4c300",
     "title": "SAVE The World -starlight,more Colors- [Did you catch that?]",
-    "level": "14.50...15.00"
-  },
-  {
-    "md5": "73a8496cd9907b35ea00b0a17561b3ca",
-    "title": "Strawberry Mint Chocolate [Mu]",
     "level": "14.50...15.00"
   },
   {
@@ -4915,11 +4925,6 @@
     "level": "15.00...15.50"
   },
   {
-    "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
-    "title": "Impulse of destruction [Insane]",
-    "level": "15.00...15.50"
-  },
-  {
     "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
     "title": "LWVIIX [ANOTHER]",
     "level": "15.00...15.50"
@@ -4992,6 +4997,11 @@
   {
     "md5": "1922023d01ef953493c15342a4c418ca",
     "title": "Stokesia [NEXT]",
+    "level": "15.00...15.50"
+  },
+  {
+    "md5": "73a8496cd9907b35ea00b0a17561b3ca",
+    "title": "Strawberry Mint Chocolate [Mu]",
     "level": "15.00...15.50"
   },
   {
@@ -5630,6 +5640,11 @@
     "level": "17.00...17.50"
   },
   {
+    "md5": "b24188498a91ed9c75d65cc572202874",
+    "title": "偶像に世界を委ねて(起死回生RMX) -Last Battle-",
+    "level": "17.00...17.50"
+  },
+  {
     "md5": "357beb12b713403ee21ac243146c8247",
     "title": "夢の地図と僕らの旅 -To The Future-",
     "level": "17.00...17.50"
@@ -5687,11 +5702,6 @@
   {
     "md5": "419580b963e408ab3eb4bf225ea78af5",
     "title": "Regain [True End Stories]",
-    "level": "18.00...18.50"
-  },
-  {
-    "md5": "d292b5c6eacd78d7104ead204ed2192a",
-    "title": "Rocketropolis [Tannhauser Gate]",
     "level": "18.00...18.50"
   },
   {
@@ -5875,6 +5885,11 @@
     "level": "18.50...19.00"
   },
   {
+    "md5": "d292b5c6eacd78d7104ead204ed2192a",
+    "title": "Rocketropolis [Tannhauser Gate]",
+    "level": "18.50...19.00"
+  },
+  {
     "md5": "4c0f369bdf3cd195fab755481a78bde8",
     "title": "Romancecar (Kukan Junkyu Edit) [Nemesis]",
     "level": "18.50...19.00"
@@ -6050,6 +6065,11 @@
     "level": "19.50...20.00"
   },
   {
+    "md5": "71c1d1a5c09eb16dfe722414ed70f658",
+    "title": "c.s.q.n. -Modus ponens-",
+    "level": "19.50...20.00"
+  },
+  {
     "md5": "9ce344c90254fae923d002757511fb87",
     "title": "Castorpollux [G2]",
     "level": "19.50...20.00"
@@ -6127,6 +6147,11 @@
   {
     "md5": "7a0fe0b4cdb584755ead99ec9d4479cf",
     "title": "Megalovania HardRockArrange [決意]",
+    "level": "19.50...20.00"
+  },
+  {
+    "md5": "24b3d27b614f51a0e317027f7eca93b6",
+    "title": "Metropolis [7key,BITTER]",
     "level": "19.50...20.00"
   },
   {
@@ -6355,11 +6380,6 @@
     "level": "-"
   },
   {
-    "md5": "71c1d1a5c09eb16dfe722414ed70f658",
-    "title": "c.s.q.n. -Modus ponens-",
-    "level": "-"
-  },
-  {
     "md5": "c1a869dbb132dbfc87b87c220240276a",
     "title": "Ceebu Yapp",
     "level": "-"
@@ -6422,6 +6442,11 @@
   {
     "md5": "adf72e8b37dcbb5af2078914a6b273b1",
     "title": "Demagogie [EX]",
+    "level": "-"
+  },
+  {
+    "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
+    "title": "Deublithick [HARDEST]",
     "level": "-"
   },
   {
@@ -6780,11 +6805,6 @@
     "level": "-"
   },
   {
-    "md5": "b24188498a91ed9c75d65cc572202874",
-    "title": "偶像に世界を委ねて(起死回生RMX) -Last Battle-",
-    "level": "-"
-  },
-  {
     "md5": "25fa6f793b02c300e1430864903fbb0b",
     "title": "天海原～あまみはら～ 【天穹】",
     "level": "-"
@@ -6797,6 +6817,11 @@
   {
     "md5": "d1de0153f52ea4a6dd3a37e898b05eb5",
     "title": "玉響サーチライト [SP INSANE]",
+    "level": "-"
+  },
+  {
+    "md5": "dd5f2c308821a2d218a6540692e65134",
+    "title": "秩序の秋桜 [OVERHEAT]",
     "level": "-"
   },
   {

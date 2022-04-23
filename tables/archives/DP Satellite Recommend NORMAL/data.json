@@ -50,18 +50,8 @@
     "level": "0.2"
   },
   {
-    "md5": "d7e305a2f3685592730aae1baea5735e",
-    "title": "Out of Sense [DPA]",
-    "level": "0.3"
-  },
-  {
     "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
     "title": "endemize [E-ANOTHER]",
-    "level": "0.3"
-  },
-  {
-    "md5": "de22bde8f104e132afdc15ac65c14021",
-    "title": "ノーザンブルー・デイブリーズ [DP-sagANOTHER]",
     "level": "0.3"
   },
   {
@@ -70,8 +60,8 @@
     "level": "0.4"
   },
   {
-    "md5": "f983d6bff87cc6681290a50f8ca53883",
-    "title": "Plunge into cloud [DP another]",
+    "md5": "d7e305a2f3685592730aae1baea5735e",
+    "title": "Out of Sense [DPA]",
     "level": "0.4"
   },
   {
@@ -80,8 +70,18 @@
     "level": "0.4"
   },
   {
+    "md5": "de22bde8f104e132afdc15ac65c14021",
+    "title": "ノーザンブルー・デイブリーズ [DP-sagANOTHER]",
+    "level": "0.4"
+  },
+  {
     "md5": "032f2470cdd02273a64a0aaa24d9a07f",
     "title": "Cutter [DP ANOTHER]",
+    "level": "0.5"
+  },
+  {
+    "md5": "71bc274a1042e15361058fc79dda3745",
+    "title": "Estella [DP ANOTHER]",
     "level": "0.5"
   },
   {
@@ -105,11 +105,6 @@
     "level": "0.6"
   },
   {
-    "md5": "71bc274a1042e15361058fc79dda3745",
-    "title": "Estella [DP ANOTHER]",
-    "level": "0.6"
-  },
-  {
     "md5": "ff267e261a1509f3f779c562710e2c61",
     "title": "Hazy moon (DP HYPER)",
     "level": "0.6"
@@ -122,6 +117,11 @@
   {
     "md5": "8115719f84c683cdc1dfd53efe0b92d7",
     "title": "Peaceful Leafs",
+    "level": "0.6"
+  },
+  {
+    "md5": "f983d6bff87cc6681290a50f8ca53883",
+    "title": "Plunge into cloud [DP another]",
     "level": "0.6"
   },
   {
@@ -187,6 +187,21 @@
   {
     "md5": "e19cc99225c0ad52cba5c5a7c3a2b76f",
     "title": "Battle TechniX [DP ANOTHER]",
+    "level": "0.7"
+  },
+  {
+    "md5": "ab27e512bd93288306944f602d57e834",
+    "title": "JUGGLE [DP ANOTHER]",
+    "level": "0.7"
+  },
+  {
+    "md5": "b23ba65f405ebfea72637abfe90e981e",
+    "title": "Resolution Trigger [DP INSANE]",
+    "level": "0.7"
+  },
+  {
+    "md5": "5b6413abb8ab8b5dc428e9716f531331",
+    "title": "Sleet in the city [DP ANOTHER]",
     "level": "0.7"
   },
   {
@@ -290,6 +305,11 @@
     "level": "1.1"
   },
   {
+    "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
+    "title": "A.O. [DP]",
+    "level": "1.1"
+  },
+  {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
     "title": "未来のコピヌ [DP ANOTHER]",
     "level": "1.1"
@@ -305,24 +325,14 @@
     "level": "1.2"
   },
   {
-    "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
-    "title": "A.O. [DP]",
+    "md5": "5471160f9a467ee2893a290138285380",
+    "title": "Gypsy gets the Tek",
     "level": "1.2"
   },
   {
     "md5": "33dcbf24bf983f3a897ad45220e95754",
     "title": "LAST PROPOZE [DP 202THER]",
     "level": "1.2"
-  },
-  {
-    "md5": "190ef89f7c890d5ac3bf327acc4f6800",
-    "title": "-Never ending journey- [Forever]",
-    "level": "1.3"
-  },
-  {
-    "md5": "5471160f9a467ee2893a290138285380",
-    "title": "Gypsy gets the Tek",
-    "level": "1.3"
   },
   {
     "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
@@ -335,18 +345,23 @@
     "level": "1.4"
   },
   {
+    "md5": "190ef89f7c890d5ac3bf327acc4f6800",
+    "title": "-Never ending journey- [Forever]",
+    "level": "1.4"
+  },
+  {
     "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
     "title": "Highleg Mermaid [DP ANOTHER]",
     "level": "1.4"
   },
   {
-    "md5": "197f79072827b1c0c329edbe85fee7cd",
-    "title": "H.S : Hadron Strike [DP1104H]",
-    "level": "1.5"
-  },
-  {
     "md5": "b82f9945d35d5a04186bc672d44925f0",
     "title": "JACK ROSE",
+    "level": "1.4"
+  },
+  {
+    "md5": "197f79072827b1c0c329edbe85fee7cd",
+    "title": "H.S : Hadron Strike [DP1104H]",
     "level": "1.5"
   },
   {
@@ -365,9 +380,9 @@
     "level": "1.5"
   },
   {
-    "md5": "224ce2a5d7ac3a808e2c859aa0575eac",
-    "title": "GET ON WiTH FUNKOT [DP HARD]",
-    "level": "1.6"
+    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
+    "title": "Teleportation [Another14]",
+    "level": "1.5"
   },
   {
     "md5": "73012ac67ea897ae78c0202df48b7edc",
@@ -390,8 +405,18 @@
     "level": "1.7"
   },
   {
+    "md5": "224ce2a5d7ac3a808e2c859aa0575eac",
+    "title": "GET ON WiTH FUNKOT [DP HARD]",
+    "level": "1.7"
+  },
+  {
     "md5": "0f02f3d09fa7218c97d49358b50539e7",
     "title": "Twilight Galaxy [DP ANOTHER]",
+    "level": "1.7"
+  },
+  {
+    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
+    "title": "ラケシスと永遠の祈祷者 [sub another]",
     "level": "1.7"
   },
   {
@@ -430,11 +455,6 @@
     "level": "1.8"
   },
   {
-    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
-    "title": "ラケシスと永遠の祈祷者 [sub another]",
-    "level": "1.8"
-  },
-  {
     "md5": "7f27fe2186cfbc66556fcef06f985727",
     "title": "Animatronics [14KEY ERROR]",
     "level": "1.9"
@@ -465,6 +485,11 @@
     "level": "2.0"
   },
   {
+    "md5": "30ee162381930f52ade58071c5210298",
+    "title": "Existence [DP ANOTHER]",
+    "level": "2.0"
+  },
+  {
     "md5": "87a99be482ff03fe37134265827aabf0",
     "title": "IKAROS [DPA]",
     "level": "2.0"
@@ -478,11 +503,6 @@
     "md5": "27481e8ce96440b60455430ad57315cb",
     "title": "z/e [DP-sagANOTHER]",
     "level": "2.0"
-  },
-  {
-    "md5": "30ee162381930f52ade58071c5210298",
-    "title": "Existence [DP ANOTHER]",
-    "level": "2.1"
   },
   {
     "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
@@ -525,23 +545,23 @@
     "level": "2.2"
   },
   {
-    "md5": "1754b47ff373aa71494bff859a6a0ba8",
-    "title": "c.s.q.n. [DP]",
-    "level": "2.2"
-  },
-  {
     "md5": "2332bbd8876a500af7e868f71192f9a9",
     "title": "Deus ex Machina [DPH]",
     "level": "2.3"
   },
   {
-    "md5": "81ed3f5c9df93ce4e98a623052a526ac",
-    "title": "Event Horizon [DP ANOTHER]",
+    "md5": "1846c9f8536ece051e4471ce365aa5fb",
+    "title": "HEXPERUS [DP ANOTHER]",
     "level": "2.3"
   },
   {
-    "md5": "1846c9f8536ece051e4471ce365aa5fb",
-    "title": "HEXPERUS [DP ANOTHER]",
+    "md5": "1754b47ff373aa71494bff859a6a0ba8",
+    "title": "c.s.q.n. [DP]",
+    "level": "2.3"
+  },
+  {
+    "md5": "9c709acbc81e788da0b5ecc033746635",
+    "title": "ミライトコネクト [DP ANOTHER]",
     "level": "2.3"
   },
   {
@@ -555,13 +575,13 @@
     "level": "2.4"
   },
   {
-    "md5": "352daa323679928542d7609219dfcc99",
-    "title": "IMPULSE [DP INSANE]",
+    "md5": "81ed3f5c9df93ce4e98a623052a526ac",
+    "title": "Event Horizon [DP ANOTHER]",
     "level": "2.4"
   },
   {
-    "md5": "9c709acbc81e788da0b5ecc033746635",
-    "title": "ミライトコネクト [DP ANOTHER]",
+    "md5": "352daa323679928542d7609219dfcc99",
+    "title": "IMPULSE [DP INSANE]",
     "level": "2.4"
   },
   {
@@ -595,8 +615,13 @@
     "level": "2.5"
   },
   {
-    "md5": "86335757e9ed29a86a00bd7d34cfe59a",
-    "title": "Lunar Pulse (DPA)",
+    "md5": "25da20674b6cdacd770bf3c4dfafbd25",
+    "title": "STAGER [DP-sagANOTHER]",
+    "level": "2.5"
+  },
+  {
+    "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
+    "title": "The Microbe [DP ANOTHER]",
     "level": "2.5"
   },
   {
@@ -612,6 +637,11 @@
   {
     "md5": "2981f0481ec485193832293599820e19",
     "title": "Blooming [DP HYPER]",
+    "level": "2.6"
+  },
+  {
+    "md5": "86335757e9ed29a86a00bd7d34cfe59a",
+    "title": "Lunar Pulse (DPA)",
     "level": "2.6"
   },
   {
@@ -665,11 +695,6 @@
     "level": "2.8"
   },
   {
-    "md5": "7d3a0c6cbd5f377bda50b0be87b86f2d",
-    "title": "Blue Screen of Death [14KEYS INSANE]",
-    "level": "2.9"
-  },
-  {
     "md5": "da90f40fc2435ec76c2739eff8972656",
     "title": "Strawberry icecream (bms ver.) -14K another-",
     "level": "2.9"
@@ -700,6 +725,11 @@
     "level": "3.0"
   },
   {
+    "md5": "7d3a0c6cbd5f377bda50b0be87b86f2d",
+    "title": "Blue Screen of Death [14KEYS INSANE]",
+    "level": "3.0"
+  },
+  {
     "md5": "2a4637a353bcd5d35b1ecfbbccefb383",
     "title": "High-Priestess [SLAUGHER]",
     "level": "3.0"
@@ -715,6 +745,16 @@
     "level": "3.0"
   },
   {
+    "md5": "2b0ff1146dbc1e0fe7ae9a76875ad4a4",
+    "title": "Neutrφn Reaper [DP INSANE]",
+    "level": "3.0"
+  },
+  {
+    "md5": "65fca2949626b80fb8f21359cf0799aa",
+    "title": "GIN TONIC FLAVOR",
+    "level": "3.1"
+  },
+  {
     "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
     "title": "翼の折れた天使たちのレクイエム [DP Another]",
     "level": "3.1"
@@ -725,28 +765,18 @@
     "level": "3.1"
   },
   {
-    "md5": "2b0ff1146dbc1e0fe7ae9a76875ad4a4",
-    "title": "Neutrφn Reaper [DP INSANE]",
-    "level": "3.1"
-  },
-  {
     "md5": "0145890caff6b35499af4a3ae3f9ac02",
     "title": "明空リュウセイグン [DP Daybreak]",
     "level": "3.1"
   },
   {
+    "md5": "22bf61d1f427eefe76ef02a3ba90ab81",
+    "title": "ネコイチ(Lemon beads Remix) -BMS edit- [DP-sagANOTHER]",
+    "level": "3.1"
+  },
+  {
     "md5": "bf3b35fd1f6361818a635d2130a31e69",
     "title": "夢、幻。 [DP ANOTHER]",
-    "level": "3.2"
-  },
-  {
-    "md5": "d08dbe5c4b065b7ae3fe80d7354ecfd4",
-    "title": "Lyrith -迷宮リリス- [sub another]",
-    "level": "3.2"
-  },
-  {
-    "md5": "20f9e3a8e3f317c8e1ba3ce866f82fd4",
-    "title": "Nature of the Earth [A14]",
     "level": "3.2"
   },
   {
@@ -760,23 +790,18 @@
     "level": "3.3"
   },
   {
-    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
-    "title": "Caelumize [MG]",
-    "level": "3.4"
+    "md5": "d08dbe5c4b065b7ae3fe80d7354ecfd4",
+    "title": "Lyrith -迷宮リリス- [sub another]",
+    "level": "3.3"
   },
   {
-    "md5": "81c8fad166661b8609873553f32d09bb",
-    "title": "Conviction [DP HYPER]",
-    "level": "3.4"
+    "md5": "20f9e3a8e3f317c8e1ba3ce866f82fd4",
+    "title": "Nature of the Earth [A14]",
+    "level": "3.3"
   },
   {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
-    "level": "3.4"
-  },
-  {
-    "md5": "cdab5423f483634a2af53ed295a1cbd1",
-    "title": "Fractal [DP]",
     "level": "3.4"
   },
   {
@@ -797,6 +822,21 @@
   {
     "md5": "1542e4cd8301369334457d3c6f4960bd",
     "title": "Blacksphere [DP Noise mix]",
+    "level": "3.5"
+  },
+  {
+    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
+    "title": "Caelumize [MG]",
+    "level": "3.5"
+  },
+  {
+    "md5": "81c8fad166661b8609873553f32d09bb",
+    "title": "Conviction [DP HYPER]",
+    "level": "3.5"
+  },
+  {
+    "md5": "cdab5423f483634a2af53ed295a1cbd1",
+    "title": "Fractal [DP]",
     "level": "3.5"
   },
   {
@@ -827,6 +867,11 @@
   {
     "md5": "e255f2454ad464f042b2ea6f83d143ab",
     "title": "Loki [Trickster]",
+    "level": "3.6"
+  },
+  {
+    "md5": "1352e568f8b1d3214619f7ca9211c67f",
+    "title": "リリカと魔法の言葉 [DP Magical]",
     "level": "3.6"
   },
   {
@@ -870,11 +915,6 @@
     "level": "3.7"
   },
   {
-    "md5": "1352e568f8b1d3214619f7ca9211c67f",
-    "title": "リリカと魔法の言葉 [DP Magical]",
-    "level": "3.7"
-  },
-  {
     "md5": "137821b71aee5d8444e7fcc38cd5690c",
     "title": "織姫 [dpinsane]",
     "level": "3.7"
@@ -897,6 +937,11 @@
   {
     "md5": "efc85ac4ba8afd8cd6b451e3861c3f77",
     "title": "STRAY CATS FESTIVAL -k-",
+    "level": "3.8"
+  },
+  {
+    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
+    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
     "level": "3.8"
   },
   {
@@ -925,11 +970,6 @@
     "level": "3.8"
   },
   {
-    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
-    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
-    "level": "3.9"
-  },
-  {
     "md5": "dac9501eb6e44e30a8ef7c08ab857e1d",
     "title": "This Club is not 4 U [DP ANOTHER]",
     "level": "3.9"
@@ -947,6 +987,11 @@
   {
     "md5": "bfa7329f23edce8d84f146018c220717",
     "title": "シンフォニックライツ [HYPER]",
+    "level": "3.9"
+  },
+  {
+    "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
+    "title": "Banhotta -黄昏-",
     "level": "3.9"
   },
   {
@@ -975,18 +1020,13 @@
     "level": "4.0"
   },
   {
-    "md5": "bbf97c0b70b7f68a363cddbd99462f67",
-    "title": "BLAZE YOUR SOUL [DP ANOTHER]",
-    "level": "4.0"
-  },
-  {
     "md5": "2e1d905b08d65ad49333586bfbc9a7b5",
     "title": "Satellite in Heart",
     "level": "4.0"
   },
   {
-    "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
-    "title": "Banhotta -黄昏-",
+    "md5": "f06ba37659138a62c69f5c76ed3902af",
+    "title": "INLINE [14k Another]",
     "level": "4.0"
   },
   {
@@ -1010,13 +1050,13 @@
     "level": "4.0"
   },
   {
-    "md5": "5f13acf318cab698ddf635ff0714b0ad",
-    "title": "Close the Lights (DP EX)",
+    "md5": "bbf97c0b70b7f68a363cddbd99462f67",
+    "title": "BLAZE YOUR SOUL [DP ANOTHER]",
     "level": "4.1"
   },
   {
-    "md5": "f06ba37659138a62c69f5c76ed3902af",
-    "title": "INLINE [14k Another]",
+    "md5": "5f13acf318cab698ddf635ff0714b0ad",
+    "title": "Close the Lights (DP EX)",
     "level": "4.1"
   },
   {
@@ -1062,6 +1102,11 @@
   {
     "md5": "b5403179a9f3a205433bbd45673a8fff",
     "title": "Fakeover [DP ANOTHER]",
+    "level": "4.3"
+  },
+  {
+    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
+    "title": "Prayer [LEGGENDARIA]",
     "level": "4.3"
   },
   {
@@ -1112,11 +1157,6 @@
   {
     "md5": "7413baf27804bd657cb0e8aea502ba7c",
     "title": "Midnight o'clock [sub another]",
-    "level": "4.4"
-  },
-  {
-    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
-    "title": "Prayer [LEGGENDARIA]",
     "level": "4.4"
   },
   {
@@ -1217,6 +1257,11 @@
   {
     "md5": "2a931348daefdfc19f8c89f50c9e5353",
     "title": "なついろ アーチ [虹の架け橋]",
+    "level": "4.7"
+  },
+  {
+    "md5": "144901283ee18aed261051dd0cd72713",
+    "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
     "level": "4.7"
   },
   {
@@ -1330,6 +1375,11 @@
     "level": "5.1"
   },
   {
+    "md5": "48bf710c8828c3a056a3d07432dde747",
+    "title": "Sacrificio [DP ANOTHER]",
+    "level": "5.1"
+  },
+  {
     "md5": "b041534da1958a77fd427b6954f1b410",
     "title": "Trahison [DP INSANE]",
     "level": "5.1"
@@ -1340,8 +1390,8 @@
     "level": "5.1"
   },
   {
-    "md5": "48bf710c8828c3a056a3d07432dde747",
-    "title": "Sacrificio [DP ANOTHER]",
+    "md5": "c1bd86080023e6e353cf65a9871e737a",
+    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "5.2"
   },
   {
@@ -1397,11 +1447,6 @@
   {
     "md5": "3c810e083b74b323b84593d52a78e1c9",
     "title": "あのね、涙は。 [DP-sagINSANE]",
-    "level": "5.4"
-  },
-  {
-    "md5": "c1bd86080023e6e353cf65a9871e737a",
-    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "5.4"
   },
   {
@@ -1470,18 +1515,23 @@
     "level": "5.7"
   },
   {
-    "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
-    "title": "Moon-gate -DP Chalenger-",
-    "level": "5.8"
-  },
-  {
-    "md5": "ba7157e746a5ce67473fd39b52b491da",
-    "title": "Disaster -14A-",
-    "level": "5.8"
-  },
-  {
     "md5": "c961c5ba3da39fe054fb91e48da9daaa",
     "title": "Infinite Galaxy",
+    "level": "5.7"
+  },
+  {
+    "md5": "e95c45d5c8a175310c67d5b4640a990f",
+    "title": "Telescope [DP-sagANOTHER]",
+    "level": "5.7"
+  },
+  {
+    "md5": "e2edf260dcc761e258f1d2fda3380b19",
+    "title": "rainbow [DP]",
+    "level": "5.7"
+  },
+  {
+    "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
+    "title": "Moon-gate -DP Chalenger-",
     "level": "5.8"
   },
   {
@@ -1490,19 +1540,14 @@
     "level": "5.8"
   },
   {
-    "md5": "e95c45d5c8a175310c67d5b4640a990f",
-    "title": "Telescope [DP-sagANOTHER]",
-    "level": "5.8"
-  },
-  {
     "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
     "title": "dolosus [さくらむすび]",
     "level": "5.8"
   },
   {
-    "md5": "e2edf260dcc761e258f1d2fda3380b19",
-    "title": "rainbow [DP]",
-    "level": "5.8"
+    "md5": "ba7157e746a5ce67473fd39b52b491da",
+    "title": "Disaster -14A-",
+    "level": "5.9"
   },
   {
     "md5": "0bafbf864710b9c6fbc3c77349383f41",
@@ -1600,6 +1645,11 @@
     "level": "6.1"
   },
   {
+    "md5": "714082d72dafdfd12bf4810980ae179d",
+    "title": "Dance revolution [DP ANOTHER]",
+    "level": "6.1"
+  },
+  {
     "md5": "cfbb406d9db451fa9b72a6965dbed67b",
     "title": "5億円が欲しいRENAISSANCE [DP ANOTHER]",
     "level": "6.2"
@@ -1612,11 +1662,6 @@
   {
     "md5": "0927a8e429d04fb821bd166947c8bcd1",
     "title": "PPBQ",
-    "level": "6.2"
-  },
-  {
-    "md5": "714082d72dafdfd12bf4810980ae179d",
-    "title": "Dance revolution [DP ANOTHER]",
     "level": "6.2"
   },
   {
@@ -1637,6 +1682,16 @@
   {
     "md5": "9efd3a958f5f34ddbbe9068262673652",
     "title": "薄雲 [14KEYS ANOTHER]",
+    "level": "6.3"
+  },
+  {
+    "md5": "59ab1c484a6bbbdf3b13d0a34036e639",
+    "title": "Postliminium [DP INSANE]",
+    "level": "6.3"
+  },
+  {
+    "md5": "1def279d7874b586b26ed30a3c1233af",
+    "title": "藍煉の人形 [DPINSA.NE]",
     "level": "6.3"
   },
   {
@@ -1685,6 +1740,11 @@
     "level": "6.6"
   },
   {
+    "md5": "66f2263a8e854298029231c872c3e14b",
+    "title": "Deepsea Moonlight [Cuvelia14]",
+    "level": "6.7"
+  },
+  {
     "md5": "f7498e0befb9d2e581871430d9670ecc",
     "title": "Emptiness [DP ANOTHER]",
     "level": "6.7"
@@ -1717,11 +1777,6 @@
   {
     "md5": "60a1e66adcd56b8bac11da52eaaee542",
     "title": "eth剣 [二刀流]",
-    "level": "6.8"
-  },
-  {
-    "md5": "66f2263a8e854298029231c872c3e14b",
-    "title": "Deepsea Moonlight [Cuvelia14]",
     "level": "6.8"
   },
   {
@@ -1830,6 +1885,16 @@
     "level": "7.1"
   },
   {
+    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
+    "title": "S.L.I. [W.I.S.H.]",
+    "level": "7.1"
+  },
+  {
+    "md5": "43a1e8beaf36ce9d9ddbf6b5862a3926",
+    "title": "ミライトコネクト [DP-sagINSANE]",
+    "level": "7.1"
+  },
+  {
     "md5": "8043767df2a4141719991d649b74d23c",
     "title": "AirTrip-SF#2- [DP ANOTHER]",
     "level": "7.2"
@@ -1847,6 +1912,11 @@
   {
     "md5": "8f4c529cc67018c14ffe0463efce9e25",
     "title": "Galaxy in Toybox [DP >▽<]",
+    "level": "7.3"
+  },
+  {
+    "md5": "36f365a7583019151d208221e32708c0",
+    "title": "アルスノヴァに喝采を [レゾナンスもえこは希望を歌う。]",
     "level": "7.3"
   },
   {
@@ -2095,6 +2165,11 @@
     "level": "8.3"
   },
   {
+    "md5": "f9df3384b6b1837009a174657a606070",
+    "title": "lataia [DP SUPER]",
+    "level": "8.3"
+  },
+  {
     "md5": "5716fa9af418d60d552390de80cb0b3e",
     "title": "Nice Magicgirls VS scary Walpurgis [Insane14]",
     "level": "8.3"
@@ -2115,11 +2190,6 @@
     "level": "8.4"
   },
   {
-    "md5": "f9df3384b6b1837009a174657a606070",
-    "title": "lataia [DP SUPER]",
-    "level": "8.4"
-  },
-  {
     "md5": "2bef2aaca13082016b396c6beddc4f61",
     "title": "Dreadnought [DP sub black another+]",
     "level": "8.5"
@@ -2130,8 +2200,18 @@
     "level": "8.5"
   },
   {
+    "md5": "bb6a930e363d407b7879b34ad8beccca",
+    "title": "TakeTrans [DP-sagINSANE]",
+    "level": "8.5"
+  },
+  {
     "md5": "a964333aca00bfd678e0daff013d7dac",
     "title": "squartatrice -dpex-",
+    "level": "8.5"
+  },
+  {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "8.5"
   },
   {
@@ -2145,28 +2225,18 @@
     "level": "8.6"
   },
   {
-    "md5": "bb6a930e363d407b7879b34ad8beccca",
-    "title": "TakeTrans [DP-sagINSANE]",
-    "level": "8.6"
-  },
-  {
     "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
     "title": "rise to R -overdrive 14-",
     "level": "8.6"
   },
   {
-    "md5": "48e3f3a439115c200f796b06e352f00f",
-    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
+    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
+    "title": "Kaleidoscope [DP_Li]",
     "level": "8.6"
   },
   {
     "md5": "3313af61d72229ebf2910b7d82108083",
     "title": "Destr0yer [DP ☆NOTHER]",
-    "level": "8.7"
-  },
-  {
-    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
-    "title": "Kaleidoscope [DP_Li]",
     "level": "8.7"
   },
   {
@@ -2270,6 +2340,11 @@
     "level": "9.2"
   },
   {
+    "md5": "d3471f6236851445722f361cc3943d4c",
+    "title": "Philadelphia Xperiment [Pennsylvania]",
+    "level": "9.7"
+  },
+  {
     "md5": "52fdcccccfe731534f011e4c3e500a6a",
     "title": "Complex Colors -改 MIX- [DP ANOTHER]",
     "level": "9.8"
@@ -2325,11 +2400,6 @@
     "level": "10.0"
   },
   {
-    "md5": "d3471f6236851445722f361cc3943d4c",
-    "title": "Philadelphia Xperiment [Pennsylvania]",
-    "level": "10.0"
-  },
-  {
     "md5": "889439f50329c7d90a071e6dba4a3d17",
     "title": "EXTRAPHANTASM [DP INSANE]",
     "level": "10.1"
@@ -2380,6 +2450,11 @@
     "level": "10.2"
   },
   {
+    "md5": "2d1d397efcd45ec665c5d82b19bc3601",
+    "title": "Cinderella Story -XX o'clock-",
+    "level": "10.2"
+  },
+  {
     "md5": "61296a55d89ae86f957873df1cd011f1",
     "title": "IKAROS [DP Nymph]",
     "level": "10.3"
@@ -2405,13 +2480,13 @@
     "level": "10.5"
   },
   {
-    "md5": "c11998a30371142374cd158c995d9de3",
-    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
-    "level": "10.7"
+    "md5": "aa389df1f9b142c58e1fd9204df74278",
+    "title": "摩訶幻想マジトリク [DP INSANE]",
+    "level": "10.5"
   },
   {
-    "md5": "2d1d397efcd45ec665c5d82b19bc3601",
-    "title": "Cinderella Story -XX o'clock-",
+    "md5": "c11998a30371142374cd158c995d9de3",
+    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
     "level": "10.7"
   },
   {
@@ -2437,11 +2512,6 @@
   {
     "md5": "17e065f48caca8af9374dc953c9b06d4",
     "title": "マッドメチャクチャニズム [DP ANOTHER]",
-    "level": "10.9"
-  },
-  {
-    "md5": "aa389df1f9b142c58e1fd9204df74278",
-    "title": "摩訶幻想マジトリク [DP INSANE]",
     "level": "10.9"
   },
   {
@@ -2520,14 +2590,14 @@
     "level": "12.6"
   },
   {
-    "md5": "0b1234798d2da9bbde81c1eaf6111005",
-    "title": "WHIRLWIND [Twin Blast]",
+    "md5": "b1ca95e12d38a70429a166db3e93dc9b",
+    "title": "Angel dust",
     "level": "12.7"
   },
   {
-    "md5": "b1ca95e12d38a70429a166db3e93dc9b",
-    "title": "Angel dust",
-    "level": "12.8"
+    "md5": "0b1234798d2da9bbde81c1eaf6111005",
+    "title": "WHIRLWIND [Twin Blast]",
+    "level": "12.7"
   },
   {
     "md5": "6f9b11e0ff8d347672bbd8e715f04ccd",
