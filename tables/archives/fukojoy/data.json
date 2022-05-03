@@ -276,6 +276,17 @@
   },
   {
     "level": "1",
+    "title": "ホーリーサンバランド [Soleil]",
+    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
+    "md5": "e5877413b78d1cc462a635dec7bd568b",
+    "bpm": "150",
+    "notes": "3600",
+    "comment": "st1 中速物量 ラス殺し気味",
+    "chart": "https://stellabms.xyz/upload/1042",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e5877413b78d1cc462a635dec7bd568b"
+  },
+  {
+    "level": "1",
     "title": "マジョリテの祝福とミノリテの憧憬 [Magical]",
     "artist": "dawn-system feat. かずらなつ BGA:石王マサト / obj.fuko",
     "md5": "52c484605453b87b8d22240a9a086a7b",
@@ -306,6 +317,17 @@
     "comment": "同時押し",
     "chart": "https://stellabms.xyz/upload/1007",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=34a0bb8b6182a81044d22c5795726d08"
+  },
+  {
+    "level": "2",
+    "title": "Bad Beat! [EXTREME]",
+    "artist": "あとぅす / obj.fuko",
+    "md5": "2af37ac8096e58659f14d6af115591fa",
+    "bpm": "200",
+    "notes": "2617",
+    "comment": "乱打",
+    "chart": "https://stellabms.xyz/upload/1687",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=2af37ac8096e58659f14d6af115591fa"
   },
   {
     "level": "2",
@@ -427,17 +449,6 @@
     "comment": "ディレイ ズレ",
     "chart": "https://stellabms.xyz/upload/1134",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7db4d5c05589e7b090482a76edffb05f"
-  },
-  {
-    "level": "2",
-    "title": "ホーリーサンバランド [Soleil]",
-    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
-    "md5": "e5877413b78d1cc462a635dec7bd568b",
-    "bpm": "150",
-    "notes": "3600",
-    "comment": "st1 中速物量 ラス殺し気味",
-    "chart": "https://stellabms.xyz/upload/1042",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e5877413b78d1cc462a635dec7bd568b"
   },
   {
     "level": "2",
@@ -603,5 +614,16 @@
     "comment": "四重乱打 5-3乱打",
     "chart": "https://stellabms.xyz/upload/1432",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=fedfee553760c7fe77e4f7830ae65f69"
+  },
+  {
+    "level": "隔離",
+    "title": "あにまら [Agape]",
+    "artist": "TOMA / obj.fuko",
+    "md5": "7a2f364feed7200d402f99e6ca237ee9",
+    "bpm": "255",
+    "notes": "3240",
+    "comment": "差分企画「異常譜面遊戯」提出譜面",
+    "chart": "https://note.com/unigon/n/ne54c8a36d763",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7a2f364feed7200d402f99e6ca237ee9"
   }
 ]

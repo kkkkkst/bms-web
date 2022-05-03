@@ -24,6 +24,18 @@
     "submission": 1224
   },
   {
+    "title": "Aleph-0 [Ω]",
+    "artist": "LeaF Movie:Optie / obj:1008",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04611",
+    "md5": "2e2ec86581e880d8570d2f3b10c03fda",
+    "sha256": "b55aa4cca52921e2ac0386d09d26e572c91b0ae951796411189c86d608cc6dde",
+    "level": "0",
+    "proposer": "LUXURY♪",
+    "comment": "change chart (request from charter) You must read chart zip's text file.. (Japanese)",
+    "submission": 1241
+  },
+  {
     "title": "Andro -Despair-",
     "artist": "紅蓮月影 BGA:A-ZERO Project / obj:七海",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
@@ -855,6 +867,18 @@
     "submission": 1196
   },
   {
+    "title": "Taken The First Step -CRYSTAL Edit- [yumether]",
+    "artist": "DashRaver feat. RainbowColors illust:れおん / obj:夢瑠",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=107",
+    "url_diff": "http://yumerusabun.web.fc2.com/nue.html  ",
+    "md5": "c7e70ebf1632e663996b35118c160c8e",
+    "sha256": "7e598f1455a24c502d89547d5d919e2942ed14f4fa76aa9db8a4738db1db0f1e",
+    "level": "0",
+    "proposer": "ねおんし",
+    "comment": "(7KEYS ANOTHER)と比較してズレありだが、同梱側の配置ミスのため問題ない(詳しくはReadme参照)",
+    "submission": 1803
+  },
+  {
     "title": "The ArcticLight [M]",
     "artist": "-45 obj.m",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=104",
@@ -1524,18 +1548,6 @@
     "submission": 651,
     "sha256": "a64c905fb41d7ab208df0018834319e97b68c4550637832633104d9f154408a3",
     "proposerLr2id": 87474
-  },
-  {
-    "title": "Aleph-0 [Ω]",
-    "artist": "LeaF Movie:Optie / obj:1008",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04611",
-    "md5": "2e2ec86581e880d8570d2f3b10c03fda",
-    "sha256": "b55aa4cca52921e2ac0386d09d26e572c91b0ae951796411189c86d608cc6dde",
-    "level": "1",
-    "proposer": "LUXURY♪",
-    "comment": "change chart (request from charter) You must read chart zip's text file.. (Japanese)",
-    "submission": 1241
   },
   {
     "title": "Alice in Misanthrope -厭世アリス- [INSANE]",
@@ -4969,6 +4981,18 @@
     "submission": 1206
   },
   {
+    "title": "You are a liar. [for some reason]",
+    "artist": "kunzite pattern for some reason",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=129",
+    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "md5": "4ff5ec9aa5c7961c90e1f6167afe2ebd",
+    "sha256": "e82504a86b879e104a313b2553edf62c51f3b875d37666d03320df316a65b0a6",
+    "level": "2",
+    "proposer": "Mary_Sue",
+    "comment": "同梱a_liar_template.tmp基準ズレ抜けなし",
+    "submission": 1802
+  },
+  {
     "title": "ZERODAY [Heartbleed]",
     "artist": "Lunatic Sounds / Yusi. obj.Lapis",
     "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=51",
@@ -6546,18 +6570,6 @@
     "submission": 1350
   },
   {
-    "title": "No namer [Pentagon]",
-    "artist": "削除 obj.hex",
-    "url": "https://www.axfc.net/u/956768&key=bms",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
-    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
-    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
-    "level": "3",
-    "proposer": "SHAX.",
-    "comment": "BPM168 連打、アレンジ差分",
-    "submission": 1197
-  },
-  {
     "title": "Non-singularity [Abnormal]",
     "artist": "UraL vs LiaN BGA:ujina Obj:SANY",
     "url": "http://www.dropbox.com/s/ojuxjj281775flw/Non-singularity_fix.zip?dl=1",
@@ -6938,6 +6950,18 @@
     "proposer": "SHAX.",
     "comment": "BPM155 微縦",
     "submission": 1178
+  },
+  {
+    "title": "Time files [GOD]",
+    "artist": "xi / obj:BAECON",
+    "url": "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "url_diff": "http://akred.web.fc2.com/baecon/time_files_G.bme",
+    "md5": "cbd09eb559169246ba03cbda820c48ef",
+    "sha256": "5c2d5426e764c8c84531293af6b525275eda2572a3c3262ddf13025da1e63613",
+    "level": "3",
+    "proposer": "なうもとわんたろう",
+    "comment": "BPM200の三重っぽい16分乱打",
+    "submission": 1804
   },
   {
     "title": "tinnitus [load]",
@@ -8204,6 +8228,18 @@
     "submission": 1407
   },
   {
+    "title": "Krave [Hexagon]",
+    "artist": "litmus* as Ester movie:なおや / obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "8ea6711c0891e00dc0e724977ce36c06",
+    "sha256": "c0a5adc2df16dcac0c6532e8408f0ef211e6ae564d9c24fc9aae3905c48b102f",
+    "level": "4",
+    "proposer": "ふかけん",
+    "comment": "BPM192の16分乱打。st4の同譜面傾向では中～上位？",
+    "submission": 1738
+  },
+  {
     "title": "L9 -Genocide-",
     "artist": "paraoka",
     "url": "https://onedrive.live.com/?id=26D9698EC1CEC044%21212&cid=26D9698EC1CEC044",
@@ -8348,6 +8384,18 @@
     "submission": 656,
     "sha256": "0dde61669fb9fc04a081406edbd01d442209060ae730a2e02e66186cd732d5b7",
     "proposerLr2id": 87474
+  },
+  {
+    "title": "No namer [Pentagon]",
+    "artist": "削除 obj.hex",
+    "url": "https://www.axfc.net/u/956768&key=bms",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
+    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
+    "level": "4",
+    "proposer": "SHAX.",
+    "comment": "BPM168 連打、アレンジ差分",
+    "submission": 1197
   },
   {
     "title": "Ophelia [Extreme]",
@@ -9886,18 +9934,6 @@
     "submission": 1671
   },
   {
-    "title": "Phantribe [SP LUNATIC]",
-    "artist": "uet obj:SANY",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
-    "url_diff": "",
-    "md5": "ae3f83e9b4f58d5d7da06e3be29e54a0",
-    "sha256": "389dda917a0f0c1edf250e398d5d9214718f70a208f9d9bacd46f82591cebafb",
-    "level": "5",
-    "proposer": "SHAX.",
-    "comment": "BPM200微連、ズレ",
-    "submission": 1081
-  },
-  {
     "title": "Polymorphism [MUTATION]",
     "artist": "Tanzanite obj:sak",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=110",
@@ -11097,6 +11133,18 @@
     "submission": 882
   },
   {
+    "title": "Phantribe [SP LUNATIC]",
+    "artist": "uet obj:SANY",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
+    "url_diff": "",
+    "md5": "ae3f83e9b4f58d5d7da06e3be29e54a0",
+    "sha256": "389dda917a0f0c1edf250e398d5d9214718f70a208f9d9bacd46f82591cebafb",
+    "level": "6",
+    "proposer": "SHAX.",
+    "comment": "BPM200微連、ズレ",
+    "submission": 1081
+  },
+  {
     "title": "PLASTIC GIRLS (ft. Seorryang) [Other]",
     "artist": "wigen mov.Lepusnette / obj:Omino",
     "url": "https://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=38&order=reg&odtype=a",
@@ -11424,6 +11472,17 @@
     "comment": "地力+ ディレイ",
     "submission": 363,
     "sha256": "1c4ab35bdc87b81608da9acb92e1143a7f1bf94e271ce3540226fb431ce3bfad"
+  },
+  {
+    "title": "堕楽の園 [euphoria]",
+    "artist": "witch's slave Graphic by Est obj.uio",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
+    "url_diff": "http://absolute.pv.land.to/bof/src/up0908.zip",
+    "md5": "f7e7607f555bba13d0a2efea4fd7c9d4",
+    "level": "6",
+    "proposer": "阿蘇",
+    "submission": 404,
+    "sha256": "33129afdc0b04ae8fe1250b8f61f6d9fd47cf1f6918aed4680635379a191638e"
   },
   {
     "title": "平衡世界 [miracle]",
@@ -12192,17 +12251,6 @@
     "sha256": "6da4b5f13167e9b4285abb4f8881561a3c3b298be5b23e22307c646020a401ef"
   },
   {
-    "title": "堕楽の園 [euphoria]",
-    "artist": "witch's slave Graphic by Est obj.uio",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
-    "url_diff": "http://absolute.pv.land.to/bof/src/up0908.zip",
-    "md5": "f7e7607f555bba13d0a2efea4fd7c9d4",
-    "level": "7",
-    "proposer": "阿蘇",
-    "submission": 404,
-    "sha256": "33129afdc0b04ae8fe1250b8f61f6d9fd47cf1f6918aed4680635379a191638e"
-  },
-  {
     "title": "永劫の沙漏 <秒->",
     "artist": "ATEMAK / obj.:ctc",
     "url": "http://leucine.web.fc2.com/",
@@ -12239,6 +12287,18 @@
     "comment": "地力",
     "submission": 278,
     "sha256": "dda71b54c5249cd3010e252c5a935089102099455e1b1743faa8086062a8923f"
+  },
+  {
+    "title": "薄雲 [六角形的+]",
+    "artist": "薄荷堂 龍 obj.hex / reobj.hoax",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
+    "url_diff": "https://bms.parksulab.xyz",
+    "md5": "51d1efb20773d137cbb5b7e7aef8d933",
+    "sha256": "45f2e9b89cf397774b76f1872375bec53e3a25d893a17f5593764886d31a5a15",
+    "level": "7",
+    "proposer": "qtp13",
+    "comment": "st7~8? Progressively difficult minijacks",
+    "submission": 1751
   },
   {
     "title": "0xFFF [Overlimit]",
@@ -13017,16 +13077,16 @@
     "sha256": "be45b07af3cf1c9df54c448e72e34663628474913458c51eb203af733531c955"
   },
   {
-    "title": "薄雲 [六角形的+]",
-    "artist": "薄荷堂 龍 obj.hex / reobj.hoax",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
-    "url_diff": "https://bms.parksulab.xyz",
-    "md5": "51d1efb20773d137cbb5b7e7aef8d933",
-    "sha256": "45f2e9b89cf397774b76f1872375bec53e3a25d893a17f5593764886d31a5a15",
+    "title": "爽昧夢想ラバーズ [NOCTAMBULISM]",
+    "artist": "qfeileadh feat.りこりす・らぢあーた movie:amyu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=137",
+    "url_diff": "",
+    "md5": "a8023093392b1f37cc9678e7f8244fa8",
+    "sha256": "eb783e5b9f318124650dc16729ca7e78b5ea2293af61fdb369d48476b6cda14c",
     "level": "8",
-    "proposer": "qtp13",
-    "comment": "st7~8? Progressively difficult minijacks",
-    "submission": 1751
+    "proposer": "otoshi.oraja",
+    "comment": "連打複合",
+    "submission": 1806
   },
   {
     "title": ")-@1くvz@",
