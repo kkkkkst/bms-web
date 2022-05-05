@@ -85,6 +85,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "80b2bf3e13e7a9970c4120f125dfb3d7",
+    "sha256": "d901b6c1e22f26f0b5203d21270f1e4cd8ec2333dbe05946c90effa730f2633e",
+    "title": "乖離領域のグリヴェール [DOMINION]",
+    "artist": "Micelle / obj:Lian",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05997",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/6",
+    "level": "1",
+    "comment": "1~2?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1825,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "2af37ac8096e58659f14d6af115591fa",
     "sha256": "aa161fe686847c386c6d4941284f47a4d64574e5eb60a74bf4fe1dd0c7450e1f",
     "title": "Bad Beat! [EXTREME]",
@@ -261,5 +275,76 @@
     "proposer": "Mary_Sue",
     "submission": 1795,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "45fe954bf0553687864a0143e398cc98",
+    "sha256": "0e4a689ea44b0ee74641333275bb8c13b25547fb7df2fae2bcd9c3a6f46b0435",
+    "title": "Can't it be true -KILL-",
+    "artist": "Zris feat. Kri / obj. AXION",
+    "url_diff": "https://stellabms.xyz/upload/866",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133",
+    "level": "5",
+    "comment": "gachi",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1824,
+    "proposerLr2id": 75332
+  },
+  {
+    "md5": "2ad657bdf59a0147b6f415a39b92f5b5",
+    "sha256": "77c52d2d91d5c3fd5402d8c036e0237da16817c603cb8732bc34aaea0c9ed856",
+    "title": "Gar♪goyle [コンプラ]",
+    "artist": "Micelle / obj: Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/4",
+    "level": "5",
+    "comment": "コンプラ",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1826,
+    "proposerLr2id": 84597
+  },
+  {
+    "title": "shooting_moon (Moonlight)",
+    "artist": "sun3 obj : LindBlum",
+    "url": "http://web.archive.org/web/20060616192941/http://succinicacid.hp.infoseek.co.jp/BMS.html",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=4336",
+    "md5": "b37297dd24af32877f8d890099a86ae2",
+    "sha256": "7fd614619daaf3381752e19bd9af7ea3dcbbbb70f5f18d7629525ab96c081c87",
+    "proposer": "歳納京子",
+    "level": "5",
+    "submission": 1563,
+    "voteYes": 4,
+    "voteNeutral": 4,
+    "voteNo": 1,
+    "votePercent": 66.66666666666666,
+    "voteVersion": 2,
+    "proposerLr2id": 75332
+  },
+  {
+    "md5": "3a503fb4e6605b82ed3ceafe760b5c85",
+    "sha256": "a6e9d860ce13c30c9b5041b67f6acfebf79fcb5245c9139a3c0e9b9a32c4e433",
+    "title": "High-Priestess [ANOTHER]",
+    "artist": "Luxion",
+    "url_diff": "",
+    "url": "https://web.archive.org/web/20200311125645/http://bof2012bfg.web.fc2.com/nowcanyouclear.html",
+    "level": "8",
+    "comment": "stream, jacks, stairs, delay, soflan",
+    "proposer": "歳納京子",
+    "submission": 1823,
+    "proposerLr2id": 75332
+  },
+  {
+    "md5": "ddc20fcaefb2e08780a54f616bbea950",
+    "sha256": "40b31caa96743a5991fe625abbe367acfd89de6b6861686d389f15d43327070b",
+    "title": "X'mas for You -without reason-",
+    "artist": "tetsuo Sliced by DAC / pattern for some reason",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://1drv.ms/u/s!AsmoDHSAppX8gnmNIdS4Ao34dSyS",
+    "level": "8",
+    "comment": "追加キー音あり",
+    "proposer": "Mallow♪",
+    "submission": 1827,
+    "proposerLr2id": 154796
   }
 ]

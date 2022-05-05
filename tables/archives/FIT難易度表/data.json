@@ -3950,7 +3950,6 @@
     "sha256": "4b7c23af6acb0cc155943991d4649819844656cd5386d2a270952952bdfcba17"
   },
   {
-    "state": "1",
     "title": "Wonderful Tomorrow [WONDER]",
     "level": "★1",
     "comment": "T / 2 ",
@@ -3961,7 +3960,6 @@
     "sha256": "f4be11d3bb50025ad58789708da19d8783b1ef21dea043bcb60951cc66ffc6d5"
   },
   {
-    "state": "1",
     "title": "Tone deafness[ANOTHER]",
     "level": "★3",
     "comment": "FT / 3 ",
@@ -3972,7 +3970,6 @@
     "sha256": "93fa16608922525a816c9328ecacac0dd2bac8e4f58cf84660a789f6a441092e"
   },
   {
-    "state": "1",
     "title": "Simurgh [SP ANOTHER]",
     "level": "★1",
     "comment": "FI / 4 ",
@@ -3983,7 +3980,6 @@
     "sha256": "6a32d6809021809d22c0e7a9dcba5546497620b9de2caa4f113c1cf7b5d43be3"
   },
   {
-    "state": "1",
     "title": "FREAKOUT [7KEYS ANOTHER]",
     "level": "★7",
     "comment": "T / 2 ",
@@ -3994,7 +3990,6 @@
     "sha256": "14a734beda5999a2b7d9b35e0936bc0fe4fa9fb028dd965af6b5ccbc3503b1fb"
   },
   {
-    "state": "1",
     "title": "Radiata [INSANE7]",
     "level": "★5",
     "comment": "T / 2 ",
@@ -4005,7 +4000,6 @@
     "sha256": "1480999e905b1b237675e6c54d0985e624d611abdbd931c256bf4c691b1b7b23"
   },
   {
-    "state": "1",
     "title": "アジサイ [SP Hyper]",
     "level": "☆10",
     "comment": "F / 3 ",
@@ -4016,7 +4010,6 @@
     "sha256": "d547b99ffef62d9563f4748b9c6c9a4be3563902791397da2b58a2aae4e743c5"
   },
   {
-    "state": "1",
     "title": "Regain [EGO DEATH]",
     "level": "☆12",
     "comment": "I / 3 ",
@@ -4113,5 +4106,16 @@
     "url_diff": "",
     "md5": "3e9b31de44a3285da50d61f29b768524",
     "sha256": "52720f7323b2db96a095e52806368535ae71098009798c99f34ed56c3996557e"
+  },
+  {
+    "state": "1",
+    "title": "ファナティックズ・ハイ",
+    "level": "☆12",
+    "comment": "FI / 4 トリル",
+    "artist": "ですワ",
+    "url": "https://86iro716.pupu.jp/bms_event/event.php?event=1&entry=11",
+    "url_diff": "",
+    "md5": "8ee91bad4442ac84f704e65d07269102",
+    "sha256": "84e4ddfe719cfddad4eb27cfc313de170b0c79974ee4dd5d1c80477977f288ff"
   }
 ]
