@@ -33504,5 +33504,49 @@
     "max_bpm": "100",
     "url": "",
     "url_diff": ""
+  },
+  {
+    "id": "1919",
+    "level": "☆",
+    "title": "EXCEED THE D [HARD]",
+    "artist": "69 de 74 BGI:DRIVE.",
+    "comment": "",
+    "md5": "8de75f43cf6cf5da529c057a3a5f320a",
+    "max_bpm": "179",
+    "url": "https://86iro716.pupu.jp/bms_event/event.php?event=1&entry=25",
+    "url_diff": "同梱譜面"
+  },
+  {
+    "id": "1920",
+    "level": "-2",
+    "title": "EXCEED THE D [ANOTHER]",
+    "artist": "69 de 74 BGI:DRIVE.",
+    "comment": "",
+    "md5": "5a16c2933a7884f4cd9f591fc1a8ea14",
+    "max_bpm": "179",
+    "url": "https://86iro716.pupu.jp/bms_event/event.php?event=1&entry=25",
+    "url_diff": "同梱譜面"
+  },
+  {
+    "id": "1921",
+    "level": "≡",
+    "title": "Turndup [Vertical Seven]",
+    "artist": "Iriss-Frantzz obj:numuto vs hyuki",
+    "comment": "",
+    "md5": "daeae70d8e9b5f3861392e6925a06806",
+    "max_bpm": "155",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=448",
+    "url_diff": "https://ux.getuploader.com/numuther/download/72"
+  },
+  {
+    "id": "1922",
+    "level": "4",
+    "title": "Simurgh [yumether]",
+    "artist": "BilliumMoto & Sobrem / obj:夢瑠",
+    "comment": "多要素",
+    "md5": "ee9f9aadb4592505074302d51c07a3b5",
+    "max_bpm": "186",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=420&event=137",
+    "url_diff": "https://dl.dropboxusercontent.com/s/obmbfmb37jzi9yr/__simurgh_yume.zip"
   }
 ]
