@@ -1479,7 +1479,7 @@
     "comment": "ズレ乱打、LNなど。",
     "movie_link": "https://youtu.be/h_gTStYOjqo",
     "date": "Sun Oct 03 2021 00:00:00 GMT+0900 (日本標準時)",
-    "state": ""
+    "state": "2"
   },
   {
     "md5": "a2721ba35697dcd42b4e85154deeefd3",
@@ -1775,10 +1775,10 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=96",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/03_ftremix-maryther.zip",
     "name_diff": "",
-    "comment": "(NEW!) 高速乱打、ソフラン",
+    "comment": "高速乱打、ソフラン",
     "movie_link": "https://youtu.be/1iS8J8wtGHs",
     "date": "Fri Apr 01 2022 00:00:00 GMT+0900 (日本標準時)",
-    "state": "3"
+    "state": ""
   },
   {
     "md5": "2ad657bdf59a0147b6f415a39b92f5b5",
@@ -1788,10 +1788,10 @@
     "url": "https://venue.bmssearch.net/bmstukuru2022/4",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/0_Gargoyle_compura.zip",
     "name_diff": "",
-    "comment": "(NEW!) 高速乱打、微連打、発狂など。0_Gargoyle.hingata基準ズレ抜けなし。",
+    "comment": "高速乱打、微連打、発狂など。0_Gargoyle.hingata基準ズレ抜けなし。",
     "movie_link": "https://youtu.be/xiCqvGlz4w0",
     "date": "Thu Apr 14 2022 00:00:00 GMT+0900 (日本標準時)",
-    "state": "3"
+    "state": ""
   },
   {
     "md5": "21126eff20de638020c3e144d69ea1e5",
@@ -1801,9 +1801,22 @@
     "url": "https://web.archive.org/web/20030223034539/http://cyclonearea.uhome.net:80/download/bms/media.exe",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Joking1-2-7_always.zip",
     "name_diff": "",
-    "comment": "(NEW!) 連打、そして…",
+    "comment": "連打、そして…",
     "movie_link": "https://youtu.be/2ePUrq0UP7Y",
     "date": "Thu Apr 21 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": ""
+  },
+  {
+    "md5": "e0ffb0c4f9ed5a1316332f956db22932",
+    "title": "スヴァヴェスタの劫火 [Maryther]",
+    "artist": "U.N.E. / OBJ : Mary_Sue BGI : 煌羅ヒメル",
+    "level": "21",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=127",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/svavesta_Maryther.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 乱打、連打、二重階段など。ズレ抜けについては同梱readmeを読んでください",
+    "movie_link": "https://youtu.be/l8FnaoBAvMg",
+    "date": "Tue May 10 2022 00:00:00 GMT+0900 (日本標準時)",
     "state": "3"
   }
 ]

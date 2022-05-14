@@ -5431,7 +5431,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=133",
     "artist": "芳野あんかけ",
     "comment": "ワープと穴抜き地雷",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "0",
@@ -5444,7 +5444,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=133",
     "artist": "芳野あんかけ",
     "comment": "演出ソフランと地雷(即死)",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "0",
@@ -5457,7 +5457,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=133",
     "artist": "Fl00t",
     "comment": "ガクガクソフランとBPM",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "0",
@@ -5470,7 +5470,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=110",
     "artist": "dosugoge",
     "comment": "ガラスをぶち破る小節線",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "3",
@@ -5483,6 +5483,84 @@
     "url": "https://event.yaruki0.net/BMSquare/impression/3",
     "artist": "pikomimi_STRaw",
     "comment": "地雷具現化と曲合わせピコピコソフラン",
+    "state": ""
+  },
+  {
+    "level": "2",
+    "title": "スナハマ・アチチ・スキップ [マジで熱い]",
+    "md5": "668fa9a3cd62c22cd1db3bd2177fefe1",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱(kooridori)",
+    "url": "https://venue.bmssearch.net/bmstukuru2020/13",
+    "artist": "K4Y5",
+    "comment": "演出ソフランと地雷",
+    "state": "1"
+  },
+  {
+    "level": "2",
+    "title": "スナハマ・アチチ・スキップ [ユビサキ・イテテ・ステップ]",
+    "md5": "a7a6262f96f910151f570ff56f87c36a",
+    "video1": "",
+    "video2": "OxN-DQb5kAk",
+    "url_diff": "",
+    "name_diff": "同梱(NASA FIRE)",
+    "url": "https://venue.bmssearch.net/bmstukuru2020/13",
+    "artist": "K4Y5",
+    "comment": "指先爆破地雷",
+    "state": "1"
+  },
+  {
+    "level": "0",
+    "title": "Orbital Period [LAPITHER]",
+    "md5": "69842492b848b769821032db08ef5184",
+    "video1": "",
+    "video2": "4x1LRnlv5EI",
+    "url_diff": "http://lapisbms.xyz/",
+    "name_diff": "LAPIS",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=78",
+    "artist": "8284",
+    "comment": "カウントダウンワープ",
+    "state": "1"
+  },
+  {
+    "level": "0",
+    "title": "Nhelv [Ruina]",
+    "md5": "1614e1dd2a33cb679abb9e9737f9b914",
+    "video1": "",
+    "video2": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02272",
+    "name_diff": "Eb2",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
+    "artist": "Silentroom",
+    "comment": "演出ソフラン",
+    "state": "1"
+  },
+  {
+    "level": "0",
+    "title": "ozma ( Θ )",
+    "md5": "f925de5f28a81cf4e10b1f6661b1d0eb",
+    "video1": "",
+    "video2": "0yj7LfY-hUk",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04563",
+    "name_diff": "1008",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=132",
+    "artist": "TJ.hangneil vs Jackz",
+    "comment": "演出小節線",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "ニニ [ハハ]",
+    "md5": "90f11b231889d4b66aac8b58b0f21256",
+    "video1": "",
+    "video2": "VkiyfZAFs_I",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04695",
+    "name_diff": "1008",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=124",
+    "artist": "テヅカ × Qayo",
+    "comment": "消えるLNと鮮やかな小節線",
     "state": "1"
   }
 ]
