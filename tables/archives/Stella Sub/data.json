@@ -967,20 +967,6 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
-    "md5": "01e0d67a5ba44cd57168ede127bfba3c",
-    "sha256": "3c7643fd163be823fda722c89e0b3ed9db33497468293dbeb586f3b49952cb24",
-    "title": "HOOKER [Gratte Ciel]",
-    "artist": "パンダ７７号 / obj.7zs",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01253",
-    "url": "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9#id=FC95A680740CA8C9%21315&cid=FC95A680740CA8C9",
-    "level": "0",
-    "comment": "ガチ押しとディレイ",
-    "zureCount": 0,
-    "proposer": "Mallow♪",
-    "submission": 1817,
-    "proposerLr2id": 154796
-  },
-  {
     "md5": "d489604cd5e1859b7b11318e2a19ca54",
     "sha256": "a5e79ea3a79071b188b7f4e135510cf2678849008c8aecee0e251f7adec40858",
     "title": "IKAROS [INFERNO]",
@@ -1080,6 +1066,19 @@
     "proposer": "qtp13",
     "submission": 950,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "e167ad43d9c1cfc7f322590f8af1955c",
+    "sha256": "7ac4a99210e60823051232f0f2c8450848e5342160fbd4632b250ea27a504cea",
+    "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
+    "artist": "hapi⇒ with 緋藤レイル イラスト：石王マサト / obj:1008",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06058",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=116",
+    "level": "0",
+    "comment": "BPM160 同時多めの乱打",
+    "proposer": "fuko",
+    "submission": 1819,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "3446b35b6a81083d79665abffb0f0a79",
@@ -2317,6 +2316,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "2dd12110cbb0e5eeeed0711223ffd33c9b434a25ee7d89e1f10b08390189342a"
+  },
+  {
+    "md5": "af0a9066c9fce98fc26611ec7237be00",
+    "sha256": "bb82920d91b8819b9d2f4834bde7b9c79031ee4f8806fc6e1a2994aa60243702",
+    "title": "ロスト：ユートピアと真理と純粋の極彩世界 [DISTOPIA_Fix]",
+    "artist": "Sound piercer & Sobrem Obj.Triforce",
+    "url_diff": "https://trfce.github.io/sabun/SPSB_Progressive_Fantasia2_10_triforce_fix.zip",
+    "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
+    "level": "0",
+    "comment": "sl12にある譜面より密度は低いけど回復が少なくて全体難。sph基準ズレが二つありますが、全部無音ノートです。実質的なズレではない。",
+    "proposer": "Mary_Sue",
+    "submission": 1833,
+    "proposerLr2id": 147889
   },
   {
     "md5": "6dc04f5f2faa96d4b94a9f13f4c22dd9",
@@ -4266,6 +4278,20 @@
     "sha256": "59f1ce4fc16f76ac80a4f502176ede453bb8e2550243c3f9d2818a547c15a97a"
   },
   {
+    "md5": "01e0d67a5ba44cd57168ede127bfba3c",
+    "sha256": "3c7643fd163be823fda722c89e0b3ed9db33497468293dbeb586f3b49952cb24",
+    "title": "HOOKER [Gratte Ciel]",
+    "artist": "パンダ７７号 / obj.7zs",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01253",
+    "url": "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9#id=FC95A680740CA8C9%21315&cid=FC95A680740CA8C9",
+    "level": "1",
+    "comment": "ガチ押しとディレイ",
+    "zureCount": 0,
+    "proposer": "Mallow♪",
+    "submission": 1817,
+    "proposerLr2id": 154796
+  },
+  {
     "md5": "b0f82b59f9fdaa5b4ac5caa4f973be83",
     "sha256": "f34f5603e52287332a475549e5702863000b0ca016c16570122e88de0ab57237",
     "title": "hot_coco@ [c@ffe l@tte]",
@@ -4337,19 +4363,6 @@
     "proposer": "七海",
     "submission": 1696,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "e167ad43d9c1cfc7f322590f8af1955c",
-    "sha256": "7ac4a99210e60823051232f0f2c8450848e5342160fbd4632b250ea27a504cea",
-    "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
-    "artist": "hapi⇒ with 緋藤レイル イラスト：石王マサト / obj:1008",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06058",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=116",
-    "level": "1",
-    "comment": "BPM160 同時多めの乱打",
-    "proposer": "fuko",
-    "submission": 1819,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "1197f152dab8ad0d4485c2f5d6efaeaf",
@@ -6062,20 +6075,6 @@
     "proposer": "Mary_Sue",
     "submission": 1608,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "80b2bf3e13e7a9970c4120f125dfb3d7",
-    "sha256": "d901b6c1e22f26f0b5203d21270f1e4cd8ec2333dbe05946c90effa730f2633e",
-    "title": "乖離領域のグリヴェール [DOMINION]",
-    "artist": "Micelle / obj:Lian",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05997",
-    "url": "https://venue.bmssearch.net/bmstukuru2022/6",
-    "level": "1",
-    "comment": "1~2?",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 1825,
-    "proposerLr2id": 84597
   },
   {
     "title": "侵略のススメ☆ [Crazy Squid]",
@@ -7844,18 +7843,18 @@
     "proposerLr2id": 7290
   },
   {
-    "md5": "49de0d8b5d372447b0fc92225ed3e872",
-    "title": "High-Priestess [INFERNO]",
-    "artist": "Luxion /差分 赤い人",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/HighPriestess-INFERNOf.bme",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=83",
+    "md5": "0ff88aed13ca2371d298ccd41c1fc8b2",
+    "sha256": "4c90fbddfd8d8638f0122a949bb1115637cc8adcff44c16c35e86f067ba0e985",
+    "title": "Highly Responsive to Penor Stimulation [魔界入門]",
+    "artist": "XD / LuvTek",
+    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=129",
     "level": "2",
-    "proposer": "LUXURY",
-    "submission": 445,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "061a5d3b98f0fb68ca4be76a1b2b47254edc215166ddb89eec9985af8e130dc6"
+    "comment": "bpm128 ガチ押し、同時押しなど。",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1831,
+    "proposerLr2id": 147889
   },
   {
     "title": "HoneyButterBass [SuperSweet]",
@@ -9512,6 +9511,20 @@
     "votePercent": 0
   },
   {
+    "md5": "80b2bf3e13e7a9970c4120f125dfb3d7",
+    "sha256": "d901b6c1e22f26f0b5203d21270f1e4cd8ec2333dbe05946c90effa730f2633e",
+    "title": "乖離領域のグリヴェール [DOMINION]",
+    "artist": "Micelle / obj:Lian",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05997",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/6",
+    "level": "2",
+    "comment": "1~2?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1825,
+    "proposerLr2id": 84597
+  },
+  {
     "level": "2",
     "comment": "デニム系",
     "md5": "e978ed41186641584c9de0a9ecc827ec",
@@ -10403,6 +10416,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "958c2b7e3bed6ec92673b96ffd36bdcfa64620c5990139ae81c0e3eea56f487c"
+  },
+  {
+    "md5": "635a17476a099c83230e7387f91c250d",
+    "sha256": "9082e0b9e1d823ff1d66074cd9c2d647f2c90e17e461ec8cefc4a70224d65f16",
+    "title": "beyond the limit -abyss-",
+    "artist": "Syatten / obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06024",
+    "url": "http://web.archive.org/web/20070629155910/http://www.planetoid.biz/?page_id=8",
+    "level": "3",
+    "comment": "BPM148 微連打 32分",
+    "proposer": "SHAX.",
+    "submission": 1830,
+    "proposerLr2id": 65624
   },
   {
     "md5": "620e8cd86cf8b1e0561a4b8171089acb",
@@ -11371,6 +11397,20 @@
     "proposer": "SHAX.",
     "submission": 1631,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "49de0d8b5d372447b0fc92225ed3e872",
+    "title": "High-Priestess [INFERNO]",
+    "artist": "Luxion /差分 赤い人",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/HighPriestess-INFERNOf.bme",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=83",
+    "level": "3",
+    "proposer": "LUXURY",
+    "submission": 445,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "061a5d3b98f0fb68ca4be76a1b2b47254edc215166ddb89eec9985af8e130dc6"
   },
   {
     "md5": "237e643cf3bdc90367cbec3c634fcfdd",
@@ -12836,6 +12876,20 @@
     "proposer": "qtp13",
     "submission": 1454,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "b457b892e63a9b109cd9509ce234ce5e",
+    "sha256": "d418429faacb0c3c74db1dbed5e34ea02548e070902c74b8ceac60442f4d4b8c",
+    "title": "わな＞ヮ＜ぽっぷる！？ [400/200/288]",
+    "artist": "Seichi Yumeno Remixed by Ta29 / obj. laner Respect for 森野聖樹",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05959",
+    "url": "https://www.axfc.net/u/2904310",
+    "level": "3",
+    "comment": "gachi",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1829,
+    "proposerLr2id": 75332
   },
   {
     "md5": "d3cca0efec2a6bfcc0814295cafe9a6e",
@@ -14660,6 +14714,20 @@
     "proposerLr2id": 145204
   },
   {
+    "md5": "14b2f64be212924942065acfd7014c6f",
+    "sha256": "82a23c5cd45f51f8464cad429775761087e28fa108c52f33cff9c054b9fa585f",
+    "title": "Kung-fu Fantasia -メスガキの穴-",
+    "artist": "utzbo BGI:松葉 obj:メスガキ",
+    "url_diff": "https://stellabms.xyz/upload/1648",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=132",
+    "level": "4",
+    "comment": "3~4?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1832,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "d15fa5e17826c126357f03aca678ccbb",
     "sha256": "c5ff2ccb71ea741f7515db41dbc9c06e9ab3e177c01d34f48ca402e8ece333d7",
     "title": "L (LOKINOTHER)",
@@ -15791,20 +15859,6 @@
     "proposer": "M48N",
     "submission": 1575,
     "proposerLr2id": 149709
-  },
-  {
-    "md5": "f4c7bf02b54e8dfb4c19ee85218a50c9",
-    "sha256": "db07cffa8ffd9b4dcd81998a793ab6854fdd75d82e28f9341b773bccfb43b1c0",
-    "title": "あにまらいおっと [Raker]",
-    "artist": "TOMA Remixed by FALL / obj.fuko",
-    "url_diff": "https://stellabms.xyz/upload/1662",
-    "url": "http://www.likeside.net/2009/05/05/lolipicottemicknpop-animariot/",
-    "level": "4",
-    "comment": "BPM255の8分ガチ押し",
-    "zureCount": 0,
-    "proposer": "垢伴次郎",
-    "submission": 1816,
-    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "836ad4b160c1195f8596abe49eb32b84",
@@ -17083,20 +17137,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "2ad657bdf59a0147b6f415a39b92f5b5",
-    "sha256": "77c52d2d91d5c3fd5402d8c036e0237da16817c603cb8732bc34aaea0c9ed856",
-    "title": "Gar♪goyle [コンプラ]",
-    "artist": "Micelle / obj: Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "https://venue.bmssearch.net/bmstukuru2022/4",
-    "level": "5",
-    "comment": "コンプラ",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 1826,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "56b38da7cbbf93202f5f72f2a6dd0fd0",
     "sha256": "68646b3e9365bb9ff760354657bb468e4c008e266c1704b5a71f276beef620c3",
     "title": "GASOLiNE BURST [BURST]",
@@ -18204,6 +18244,20 @@
     "sha256": "b7e7715694ba613bf12ddf7dbff3c82782c5b37c6c9e4b188595420ba93918a5"
   },
   {
+    "md5": "f4c7bf02b54e8dfb4c19ee85218a50c9",
+    "sha256": "db07cffa8ffd9b4dcd81998a793ab6854fdd75d82e28f9341b773bccfb43b1c0",
+    "title": "あにまらいおっと [Raker]",
+    "artist": "TOMA Remixed by FALL / obj.fuko",
+    "url_diff": "https://stellabms.xyz/upload/1662",
+    "url": "http://www.likeside.net/2009/05/05/lolipicottemicknpop-animariot/",
+    "level": "5",
+    "comment": "BPM255の8分ガチ押し",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1816,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "0b1e8ad76e0865cd0f58a6ebbd416cfa",
     "sha256": "cb91026fa4c54c66408cced4eefeb25897f38a4bf8dcc5453c531ff3bef56a5f",
     "title": "ぽっぷる！ [delay fantasy]",
@@ -19165,6 +19219,20 @@
     "comment": "",
     "submission": 71,
     "sha256": "f797a54ba295471c8fe4af9a62d58c56a9c8a5c51b557e5a943c5e21f9992add"
+  },
+  {
+    "md5": "2ad657bdf59a0147b6f415a39b92f5b5",
+    "sha256": "77c52d2d91d5c3fd5402d8c036e0237da16817c603cb8732bc34aaea0c9ed856",
+    "title": "Gar♪goyle [コンプラ]",
+    "artist": "Micelle / obj: Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/4",
+    "level": "6",
+    "comment": "コンプラ",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1826,
+    "proposerLr2id": 84597
   },
   {
     "md5": "46a2c6c0f73f1520feac4228982eb17d",
@@ -20830,6 +20898,19 @@
     "sha256": "0a04f720cbea8582ab676cc3af5e8d000639d73c3837d39dd72c8d058b20df9a"
   },
   {
+    "md5": "10e2f934e3acd5434525dc305632680d",
+    "sha256": "3f50b988e87dc9f9e9c53a80e2bf77412c3b257e127a782e4678e3c562fe8196",
+    "title": "No namer [Hexagon]",
+    "artist": "削除 obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "https://www.axfc.net/u/956768&key=bms",
+    "level": "7",
+    "comment": "gachi, jacks",
+    "proposer": "歳納京子",
+    "submission": 1834,
+    "proposerLr2id": 75332
+  },
+  {
     "title": "NS18 [Plus]",
     "artist": "3034 / O Anomie / IllusionRain",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
@@ -21131,6 +21212,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "27a04271b1b87568c8417b0978ec81ccbe52e58acf13889fec1419a343168a72"
+  },
+  {
+    "md5": "ddc20fcaefb2e08780a54f616bbea950",
+    "sha256": "40b31caa96743a5991fe625abbe367acfd89de6b6861686d389f15d43327070b",
+    "title": "X'mas for You -without reason-",
+    "artist": "tetsuo Sliced by DAC / pattern for some reason",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://1drv.ms/u/s!AsmoDHSAppX8gnmNIdS4Ao34dSyS",
+    "level": "7",
+    "comment": "追加キー音あり",
+    "proposer": "Mallow♪",
+    "submission": 1827,
+    "proposerLr2id": 154796
   },
   {
     "md5": "dcf8869b8ccdc96f249eeda05f94a2ee",
@@ -22258,19 +22352,6 @@
     "proposer": "otoshi.b",
     "submission": 978,
     "proposerLr2id": 87474
-  },
-  {
-    "md5": "ddc20fcaefb2e08780a54f616bbea950",
-    "sha256": "40b31caa96743a5991fe625abbe367acfd89de6b6861686d389f15d43327070b",
-    "title": "X'mas for You -without reason-",
-    "artist": "tetsuo Sliced by DAC / pattern for some reason",
-    "url_diff": "https://fsrs.github.io/table.html",
-    "url": "https://1drv.ms/u/s!AsmoDHSAppX8gnmNIdS4Ao34dSyS",
-    "level": "8",
-    "comment": "追加キー音あり",
-    "proposer": "Mallow♪",
-    "submission": 1827,
-    "proposerLr2id": 154796
   },
   {
     "md5": "d91df9283a09dba6a7bfb1d45ef15f77",

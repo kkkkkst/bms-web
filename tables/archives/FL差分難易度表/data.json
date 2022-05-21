@@ -769,7 +769,7 @@
   },
   {
     "level": "10",
-    "title": "\tVis10ns [Str1v3]",
+    "title": "Vis10ns [Str1v3]",
     "md5": "ea3bba6ff85492b1e4d3afccdbd57d76",
     "artist": "paraneumann",
     "url": "https://venue.bmssearch.net/standout/1",
@@ -1153,6 +1153,18 @@
   },
   {
     "level": "12",
+    "title": "FREAKOUT [breakthru]",
+    "md5": "37295683142ac35c29d1902315a4b7aa",
+    "artist": "Kyuzo Sameura",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=137",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/freakout_ltn.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Apr 09 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/LPSlf9aEhjo",
+    "comment": ""
+  },
+  {
+    "level": "12",
     "title": "Gynandromorph -Mosaic Noise-",
     "md5": "8968d7fa3c6403d71e3f5a951f80635b",
     "artist": "tarolabo",
@@ -1377,7 +1389,7 @@
     "name_diff": "fsrs",
     "date": "Thu Dec 24 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/VR_LyDyNzf4",
-    "comment": "追加音源あり"
+    "comment": "st7 追加音源あり"
   },
   {
     "level": "20",
