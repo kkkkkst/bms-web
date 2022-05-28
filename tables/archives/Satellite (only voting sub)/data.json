@@ -1,5 +1,18 @@
 [
   {
+    "md5": "09f4715521b8fa54d911c75faad63903",
+    "sha256": "ed7aab2af8d8cd010ead4cb4f5f7a52cb3ee429109281bbfd4deceac540b2a62",
+    "title": "Aerial [ANOTHER]",
+    "artist": "Kucchi",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=137",
+    "level": "0",
+    "comment": "同梱譜面 /BOFXVII",
+    "proposer": "H∀H",
+    "submission": 2485,
+    "proposerLr2id": 152181
+  },
+  {
     "md5": "47b4c3cce8f3e4f2f91e79510b3b6ee3",
     "sha256": "cdd4cba499539591c75016530a8658881857047d42391db46b6116f61a487e40",
     "title": "GYNOID [SP ANOTHER]",
@@ -37,6 +50,19 @@
     "proposer": "七海",
     "submission": 2480,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "dfb188bcf9506f9f00626c5263a84366",
+    "sha256": "d6228c0bd343fbef055154d06913c130bf3e8de74f435fa7c351f8982500467f",
+    "title": "endemize [ANOTHER]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
+    "level": "1",
+    "comment": "同梱譜面 BOFXVII",
+    "proposer": "沙花叉クロヱ",
+    "submission": 2487,
+    "proposerMinirid": "f9c03bb4-c6cd-4e93-9ce3-249f4c49e7fc"
   },
   {
     "md5": "bd15ecb511efd909479e03fc6ab87c30",
@@ -103,6 +129,20 @@
     "proposerLr2id": 172027
   },
   {
+    "md5": "0132e2b5f01b4e2e375c48324e20812e",
+    "sha256": "e082783f376ef1ee0cb0a05e3d607ab66816a633ee744bcbbe5a5a48e32bdc3d",
+    "title": "Revival of Kalpa [ROKA]",
+    "artist": "CrYmson mov : Anomie / obj. DK",
+    "url_diff": "https://frozensat.github.io/sabun/ROK_DK.zip",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9!201&cid=FC95A680740CA8C9",
+    "level": "2",
+    "comment": "KBP2012/★2?",
+    "zureCount": 0,
+    "proposer": "H∀H",
+    "submission": 2486,
+    "proposerLr2id": 152181
+  },
+  {
     "md5": "a7cbd0db105b023b38bef0f379c37bce",
     "sha256": "1d7fffe1c03864021e5d1dfe85f9e3853bf3d1fedac2b23c54a874a7dbea06cb",
     "title": "This is an Attack コンギョ ~攻撃戦だ~",
@@ -141,6 +181,19 @@
     "proposer": "H∀H",
     "submission": 2441,
     "proposerLr2id": 152181
+  },
+  {
+    "md5": "c0497bd4537d0937803e79a2df3f6368",
+    "sha256": "42364b9811e6b184482d4ffddc5f1582070ce6bed95810ec63e1f05e05a405ca",
+    "title": "Hurnage [INSANE]",
+    "artist": "Micelle / obj:Lian",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2020/2",
+    "level": "3",
+    "comment": "乱打、ズレ、皿複合など　鼻毛",
+    "proposer": "GRASS",
+    "submission": 2483,
+    "proposerMinirid": "6ed5d1e2-61fa-471c-8fdc-da298113ba77"
   },
   {
     "md5": "d23934389e48f1c7b8f9c4eaa49d6d1e",
@@ -295,6 +348,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "2628a66883179a6d9316f3e9de72a51d",
+    "sha256": "054f051328b3dfea724f92f0427e74efa4b4980baa0f9175dd52656b1cdf3fb8",
+    "title": "AMOLTAMISS [月の女神]",
+    "artist": "yororeri / obj : Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://web.archive.org/web/20040205180236/http://yororeri.hp.infoseek.co.jp/amo.lzh",
+    "level": "7",
+    "comment": "BPM150 微連打",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2484,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "ea3832f34d04c18a56f06c7488736336",
     "sha256": "5dfbe4ea3dbd0f4e1232380aa9966e7a158a2d888aea069cce3b34b3a876511e",
     "title": "e.f.p [Despair]",
@@ -347,6 +414,19 @@
     "proposer": "SHAX.",
     "submission": 2468,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "772f38b3f286731a670353b36a3e2e16",
+    "sha256": "82cdf374ad88f9302b397220fec13d64228fcb5139e3b9f6845ad56bcb76a2bd",
+    "title": "Fractal [7Maniac]",
+    "artist": "SHIKI movie:140/fth obj:air",
+    "url_diff": "http://14b.starfree.jp/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
+    "level": "11",
+    "comment": "LN, no scratch",
+    "proposer": "qtp13",
+    "submission": 2482,
+    "proposerLr2id": 86559
   },
   {
     "md5": "b976caab8aba1c023ba191bd1e1942d8",

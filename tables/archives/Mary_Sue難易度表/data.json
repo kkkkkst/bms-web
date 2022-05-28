@@ -1128,7 +1128,7 @@
     "comment": "2000年頃の神BMS。連打、同時押しなど。",
     "movie_link": "https://youtu.be/zpGtGF6JGrg",
     "date": "Sat May 22 2021 00:00:00 GMT+0900 (日本標準時)",
-    "state": ""
+    "state": "2"
   },
   {
     "md5": "fe1a59c424b9541862eb553df1fdf2be",
@@ -1810,13 +1810,26 @@
     "md5": "e0ffb0c4f9ed5a1316332f956db22932",
     "title": "スヴァヴェスタの劫火 [Maryther]",
     "artist": "U.N.E. / OBJ : Mary_Sue BGI : 煌羅ヒメル",
-    "level": "21",
+    "level": "19",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=127",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/svavesta_Maryther.zip",
     "name_diff": "",
     "comment": "(NEW!) 乱打、連打、二重階段など。ズレ抜けについては同梱readmeを読んでください",
     "movie_link": "https://youtu.be/l8FnaoBAvMg",
     "date": "Tue May 10 2022 00:00:00 GMT+0900 (日本標準時)",
+    "state": "3"
+  },
+  {
+    "md5": "88405a34caf21ef4b0d6cccfab1633c3",
+    "title": "ボクらの優しい共依存 [Maryther]",
+    "artist": "瑞原柚莉×空見沢佳奈 OBJ:Mary_Sue",
+    "level": "20",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=104",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/bokura_Maryther.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 乱打、同時押し、トリルなど。",
+    "movie_link": "https://youtu.be/yGiwWDtwYmI",
+    "date": "Fri May 27 2022 00:00:00 GMT+0900 (日本標準時)",
     "state": "3"
   }
 ]

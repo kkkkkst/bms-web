@@ -5574,7 +5574,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=137",
     "artist": "qfeileadh feat.レゾナンスもえこ",
     "comment": "小節線",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "1",
@@ -5587,7 +5587,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=137",
     "artist": "MisomyL",
     "comment": "小節線とワープ",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "3",
@@ -5600,7 +5600,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=137",
     "artist": "siqlo",
     "comment": "地雷アートとエモソフラン",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "2",
@@ -5613,7 +5613,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=137",
     "artist": "shimizushi",
     "comment": "演出ソフランと地雷アニメ",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "3",
@@ -5626,6 +5626,84 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=373&event=137",
     "artist": "NASA",
     "comment": "地雷とソフランで宇宙の旅",
+    "state": ""
+  },
+  {
+    "level": "X",
+    "title": "えいごのおべんきょう",
+    "md5": "23fcfe052943f99ae0be66429e2fed13",
+    "video1": "",
+    "video2": "qC11si-yVwI",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=117",
+    "artist": "Google翻訳先生",
+    "comment": "きょうはえいごのおべんきょうだ",
+    "state": "1"
+  },
+  {
+    "level": "X",
+    "title": "えいごのおべんきょう(FOON EDIT)",
+    "md5": "8ab828468c65071c469377994d333fd0",
+    "video1": "",
+    "video2": "BO_oqirmr-I",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=128",
+    "artist": "Google翻訳先生",
+    "comment": "きょうのたんごはなんだろう",
+    "state": "1"
+  },
+  {
+    "level": "1",
+    "title": "happy century (challenge for 2020 players)",
+    "md5": "45b0e85dd3f372d6f54e6bf6db6c645c",
+    "video1": "",
+    "video2": "7_tOrgJ8L2Q",
+    "url_diff": "https://darksabun.github.io/bceg/event/1998to2020/",
+    "name_diff": "C4",
+    "url": "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21260&parId=26D9698EC1CEC044%21212&o=OneUp",
+    "artist": "recognize m.",
+    "comment": "STOPソフラン",
+    "state": "1"
+  },
+  {
+    "level": "1",
+    "title": "Morse Code [KEMETHER]",
+    "md5": "7832751ccf455954a46ae2f34aecf155",
+    "video1": "",
+    "video2": "VQXKCUW6WUc",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04762",
+    "name_diff": "下京",
+    "url": "https://dropbox.bms.ms/u/77530343/Morse%20code.zip",
+    "artist": "上京",
+    "comment": "モールス小節線と地雷",
+    "state": "1"
+  },
+  {
+    "level": "1",
+    "title": "NULCTRL [i=nil]",
+    "md5": "fff316b310b9481d49929f588d86bba8",
+    "video1": "",
+    "video2": "",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02795",
+    "name_diff": "c",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=123",
+    "artist": "Silentroom",
+    "comment": "トリッキーなワープと演出ソフラン",
+    "state": "1"
+  },
+  {
+    "level": "0",
+    "title": "４２２",
+    "md5": "6d5d32e33ab107e8be990cd2a122f8a1",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "http://qstol.info/events/venue/detail?event=3&id=42",
+    "artist": "flicknote",
+    "comment": "演出ソフラン",
     "state": "1"
   }
 ]

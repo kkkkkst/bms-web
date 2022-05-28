@@ -96,9 +96,30 @@
     "url_diff": "https://stellabms.xyz/upload/1656"
   },
   {
+    "artist": "Urban Techno Cafe / obj.mqppppp",
+    "comment": "",
+    "level": "0",
+    "lr2_bmsid": "302254",
+    "md5": "b781cad6237cd0c7f2074897eed21430",
+    "name_diff": "",
+    "title": "Child of Earth [Stargazer]",
+    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Child%20of%20Earth.rar",
+    "url_diff": "https://stellabms.xyz/upload/1182"
+  },
+  {
+    "artist": "Xacla / obj.Multicosmos Expedition Crew \"NebulaBunny\"",
+    "comment": "",
+    "level": "0",
+    "md5": "b4032c90f4a882d6dde3cfc45863cc07",
+    "name_diff": "",
+    "title": "Philadelphia Xperiment [Outerspace Expedition]",
+    "url": "https://bms.cosmiccat.top/bms/BMS%20%E6%B4%BB%E5%8A%A8%E5%8C%85/%5B2021%5D%20BOFXVII/302.Philadelphia%20Xperiment.zip",
+    "url_diff": "https://stellabms.xyz/upload/1532"
+  },
+  {
     "artist": "BMS: Nego_tiator /Movie: Fiz/obj.mqppppp",
     "comment": "",
-    "level": "1",
+    "level": "0",
     "lr2_bmsid": "296747",
     "md5": "e56bafb2b7d74480c8aca4b8160a6025",
     "name_diff": "",
@@ -118,17 +139,6 @@
     "url_diff": "https://stellabms.xyz/upload/734"
   },
   {
-    "artist": "Urban Techno Cafe / obj.mqppppp",
-    "comment": "",
-    "level": "1",
-    "lr2_bmsid": "302254",
-    "md5": "b781cad6237cd0c7f2074897eed21430",
-    "name_diff": "",
-    "title": "Child of Earth [Stargazer]",
-    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Child%20of%20Earth.rar",
-    "url_diff": "https://stellabms.xyz/upload/1182"
-  },
-  {
     "artist": "Marc-Andre' Hamelin / Hypa'kuso Rhapsodiphorica Object Team",
     "comment": "",
     "level": "1",
@@ -137,16 +147,6 @@
     "title": "サーカス ギャロップ -LIGHT7-",
     "url": "https://bms.cosmiccat.top/bms/Satellite%2B%E9%80%9A%E5%B8%B8%E9%9A%BE%E6%98%93%E5%BA%A6%2B%E5%8F%91%E7%8B%82%E9%9A%BE%E6%98%93%E5%BA%A6%2021.10.11/%E5%8D%95%E6%9B%B2%2021.10.31/%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%AD%E3%83%83%E3%83%97.zip",
     "url_diff": "https://stellabms.xyz/upload/1518"
-  },
-  {
-    "artist": "Xacla / obj.Multicosmos Expedition Crew \"NebulaBunny\"",
-    "comment": "",
-    "level": "1",
-    "md5": "b4032c90f4a882d6dde3cfc45863cc07",
-    "name_diff": "",
-    "title": "Philadelphia Xperiment [Outerspace Expedition]",
-    "url": "https://bms.cosmiccat.top/bms/BMS%20%E6%B4%BB%E5%8A%A8%E5%8C%85/%5B2021%5D%20BOFXVII/302.Philadelphia%20Xperiment.zip",
-    "url_diff": "https://stellabms.xyz/upload/1532"
   },
   {
     "artist": "s-don・サム・さるきむ / obj.mqppppp",
@@ -171,7 +171,7 @@
   {
     "artist": "Columba(Daily vs. Roon_kun) / obj.mqppppp",
     "comment": "",
-    "level": "2",
+    "level": "1",
     "lr2_bmsid": "301121",
     "md5": "732674eeaa2b4865b683bb751f5b5486",
     "name_diff": "",
@@ -182,7 +182,7 @@
   {
     "artist": "tanacoro / obj.mqppppp BGA: 5argon",
     "comment": "",
-    "level": "2",
+    "level": "1",
     "lr2_bmsid": "301118",
     "md5": "3885f480b76586167cfc9ce7faa0bea2",
     "name_diff": "",
@@ -193,7 +193,7 @@
   {
     "artist": "SUPER MOTEX (O-SE+CSP)/mov:murotani / obj.mqppppp + NebulaBunny",
     "comment": "",
-    "level": "2",
+    "level": "1",
     "lr2_bmsid": "",
     "md5": "f3d5848ec5b4d49feaa5f9b0440987ba",
     "name_diff": "",
@@ -204,7 +204,7 @@
   {
     "artist": "LUNEの右手と悠里おねぇちゃんの左脚 / obj.三月ウサギ",
     "comment": "",
-    "level": "2",
+    "level": "1",
     "lr2_bmsid": "",
     "md5": "d1b40ccb0357a83e82b3b9fe82352392",
     "name_diff": "",
@@ -215,7 +215,7 @@
   {
     "artist": "Zris feat. Green / Hypa'kuso Rhapsodiphorica Object Team",
     "comment": "sl2",
-    "level": "2",
+    "level": "1",
     "md5": "63c4789599805bd446e3fdeb397658fc",
     "name_diff": "",
     "title": "スナレ[Medium Size]",
@@ -225,7 +225,7 @@
   {
     "artist": "はがね / obj.mqppppp",
     "comment": "",
-    "level": "3",
+    "level": "2",
     "lr2_bmsid": "",
     "md5": "185151ba5c7fba2b9d1887097bee0d14",
     "name_diff": "",
@@ -236,7 +236,7 @@
   {
     "artist": "NoE ＆　あるし / obj.mqppppp",
     "comment": "",
-    "level": "4",
+    "level": "2",
     "lr2_bmsid": "302403",
     "md5": "4bd0980a63c9bb97bd1e10f6a31b1973",
     "name_diff": "",
@@ -247,7 +247,7 @@
   {
     "artist": "kanoryo / obj.mqppppp Movie:NOAHNAME",
     "comment": "",
-    "level": "4",
+    "level": "2",
     "lr2_bmsid": "301120",
     "md5": "83863d7fae1c1b9de7706001e5b19716",
     "name_diff": "",
@@ -258,7 +258,7 @@
   {
     "artist": "lixound / obj.mqppppp mov:Xquid",
     "comment": "",
-    "level": "4",
+    "level": "2",
     "lr2_bmsid": "",
     "md5": "623384ee76f60315bbc6a2cbc432035c",
     "name_diff": "",
@@ -267,9 +267,29 @@
     "url_diff": "https://stellabms.xyz/upload/1400"
   },
   {
+    "artist": "nmk feat.橘花音 / obj.mqppppp",
+    "comment": "",
+    "level": "3",
+    "md5": "027da6e4c2e5009abf0d8ad75124b571",
+    "name_diff": "",
+    "title": "Awaking Beat-From the next generation- [EX-]",
+    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Awaking%20Beat-From%20the%20next%20generation-.rar",
+    "url_diff": "https://stellabms.xyz/upload/1704"
+  },
+  {
+    "artist": "Columba(Daily vs. Roon_kun) / NebulaBunny_uwu",
+    "comment": "",
+    "level": "3",
+    "md5": "684e9005a2e263020a02e9bf01f54658",
+    "name_diff": "",
+    "title": "Poppy [Immortal]",
+    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.220101%20patch/newsongs/Poppy.rar",
+    "url_diff": "https://stellabms.xyz/upload/1736"
+  },
+  {
     "artist": "Sephid / obj.mqppppp",
     "comment": "",
-    "level": "5",
+    "level": "3",
     "lr2_bmsid": "305690",
     "md5": "a9e2f980f30e5a4017c0b7e16c1290ee",
     "name_diff": "",
@@ -278,19 +298,9 @@
     "url_diff": "https://stellabms.xyz/upload/1358"
   },
   {
-    "artist": "nmk feat.橘花音 / obj.mqppppp",
-    "comment": "",
-    "level": "5",
-    "md5": "027da6e4c2e5009abf0d8ad75124b571",
-    "name_diff": "",
-    "title": "Awaking Beat-From the next generation- [EX-]",
-    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Awaking%20Beat-From%20the%20next%20generation-.rar",
-    "url_diff": "https://stellabms.xyz/upload/1704"
-  },
-  {
     "artist": "Zris / Hypa'kuso Rhapsodiphorica Object Team",
     "comment": "",
-    "level": "99",
+    "level": "11",
     "md5": "c2dc360303f924f7688e5db5afa66e90",
     "name_diff": "",
     "title": "Pleisure [Nameless Affection]",
@@ -300,7 +310,7 @@
   {
     "artist": "Gsus x VJ PONDELION / Her name plz",
     "comment": "",
-    "level": "99",
+    "level": "12",
     "md5": "01c72012eb08b10a1b232ea48ff79a14",
     "name_diff": "",
     "title": "Always Feel the Same [TITANIC7]",
