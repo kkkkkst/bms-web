@@ -5639,7 +5639,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=117",
     "artist": "Google翻訳先生",
     "comment": "きょうはえいごのおべんきょうだ",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "X",
@@ -5652,7 +5652,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=128",
     "artist": "Google翻訳先生",
     "comment": "きょうのたんごはなんだろう",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "1",
@@ -5665,7 +5665,7 @@
     "url": "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21260&parId=26D9698EC1CEC044%21212&o=OneUp",
     "artist": "recognize m.",
     "comment": "STOPソフラン",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "1",
@@ -5678,7 +5678,7 @@
     "url": "https://dropbox.bms.ms/u/77530343/Morse%20code.zip",
     "artist": "上京",
     "comment": "モールス小節線と地雷",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "1",
@@ -5691,7 +5691,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=123",
     "artist": "Silentroom",
     "comment": "トリッキーなワープと演出ソフラン",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "0",
@@ -5704,6 +5704,71 @@
     "url": "http://qstol.info/events/venue/detail?event=3&id=42",
     "artist": "flicknote",
     "comment": "演出ソフラン",
+    "state": ""
+  },
+  {
+    "level": "1",
+    "title": "HALFCOLLAPSEDSTATUE -True Style-",
+    "md5": "370e2f6f7c4e6a34728ee10dd5520020",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=137",
+    "artist": "scytheleg",
+    "comment": "ワープと演出ソフラン",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "Lyrith -迷宮リリス- -smyre-",
+    "md5": "9490200ff072d90caf230c4787b4ab17",
+    "video1": "",
+    "video2": "J7Q0zI8y-7A",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05722",
+    "name_diff": "1008",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=218",
+    "artist": "ユメミド",
+    "comment": "迷えるリリカル地雷アート",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "JUGGLE [Scramble Hy Delude]",
+    "md5": "207d52085d3e7a005eff9020e4c844b8",
+    "video1": "",
+    "video2": "VktQv9UuuhI",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05598",
+    "name_diff": "1008 respect reka",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
+    "artist": "Ras",
+    "comment": "NEO Stream Hy Device",
+    "state": "1"
+  },
+  {
+    "level": "3",
+    "title": "The NightScape [gm+]",
+    "md5": "cf6610956c9e42be5c015a7b0d0a8668",
+    "video1": "",
+    "video2": "kKIgiSfvGrY",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04992",
+    "name_diff": "hyuki respect for B_K",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=22",
+    "artist": "litmus*",
+    "comment": "現代向けBK式ギミック",
+    "state": "1"
+  },
+  {
+    "level": "1",
+    "title": "3rd Avenue [Happy Birthday! Decimal!]",
+    "md5": "8317411e25db0540fa8c415f76d1680a",
+    "video1": "",
+    "video2": "2uimJPx73qc",
+    "url_diff": "https://ux.getuploader.com/numuther/download/69",
+    "name_diff": "numuto",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=110",
+    "artist": "Sound Souler",
+    "comment": "誕生日おめでとう！",
     "state": "1"
   }
 ]

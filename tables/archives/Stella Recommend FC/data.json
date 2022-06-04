@@ -25,11 +25,6 @@
     "level": "5.3"
   },
   {
-    "md5": "24b3d27b614f51a0e317027f7eca93b6",
-    "title": "Metropolis [7key,BITTER]",
-    "level": "5.3"
-  },
-  {
     "md5": "1066a4dd2a935ef76487ad2970b83025",
     "title": "Rigel [laner]",
     "level": "5.3"
@@ -58,6 +53,11 @@
     "md5": "0e1e496945f9f1b7b55f46cff48686aa",
     "title": "音弾超人ゴリライザー [ステライザー]",
     "level": "5.3"
+  },
+  {
+    "md5": "64717b19b5f609b6f59c6e00b4ac0dcb",
+    "title": "Al-raune -Despair-",
+    "level": "5.4"
   },
   {
     "md5": "f6eff5cce175bdad4f7eec7815d2d23b",
@@ -102,6 +102,11 @@
   {
     "md5": "3446b35b6a81083d79665abffb0f0a79",
     "title": "KRAKEN -Poseidon-",
+    "level": "5.4"
+  },
+  {
+    "md5": "1d28ce2b812bee70b5ec8f9010fb29b7",
+    "title": "L9 -Heaven-",
     "level": "5.4"
   },
   {
@@ -165,6 +170,11 @@
     "level": "5.4"
   },
   {
+    "md5": "81fa58cf3499771c4f9f73da4e5f386a",
+    "title": "happy century -Despair & Hope-",
+    "level": "5.4"
+  },
+  {
     "md5": "3a1661a3eaafa13f976e1010d5b87ca0",
     "title": "reAdvenTia [Pentagon]",
     "level": "5.4"
@@ -207,11 +217,6 @@
   {
     "md5": "a35134b89ac127ad89b96169828ed1e7",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [INFERNO]",
-    "level": "5.5"
-  },
-  {
-    "md5": "64717b19b5f609b6f59c6e00b4ac0dcb",
-    "title": "Al-raune -Despair-",
     "level": "5.5"
   },
   {
@@ -295,11 +300,6 @@
     "level": "5.5"
   },
   {
-    "md5": "1d28ce2b812bee70b5ec8f9010fb29b7",
-    "title": "L9 -Heaven-",
-    "level": "5.5"
-  },
-  {
     "md5": "f649c932d7df6ba14f3c7c4ef69cce4e",
     "title": "Lyrith -迷宮リリス- [INSANE]",
     "level": "5.5"
@@ -325,8 +325,8 @@
     "level": "5.5"
   },
   {
-    "md5": "81fa58cf3499771c4f9f73da4e5f386a",
-    "title": "happy century -Despair & Hope-",
+    "md5": "66ad18dc4b94085c87324b757286755b",
+    "title": "anti [anticipated]",
     "level": "5.5"
   },
   {
@@ -527,6 +527,11 @@
   {
     "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
     "title": "Tangerine Dawn -IR-",
+    "level": "6.6"
+  },
+  {
+    "md5": "a87c666d3232097ac5359d6913ad5b23",
+    "title": "carnation [for expert]",
     "level": "6.6"
   },
   {
@@ -750,11 +755,6 @@
     "level": "6.7"
   },
   {
-    "md5": "a87c666d3232097ac5359d6913ad5b23",
-    "title": "carnation [for expert]",
-    "level": "6.7"
-  },
-  {
     "md5": "75c3582014ccff736fd5d2f5ce22f7d0",
     "title": "eth剣 [INFELNO]",
     "level": "6.7"
@@ -905,11 +905,6 @@
     "level": "7.8"
   },
   {
-    "md5": "1b5ac0745528ef12ae03ce66b31fb6a5",
-    "title": "Milly Barll",
-    "level": "7.8"
-  },
-  {
     "md5": "b5385ffeaf8924174db726c3721a6ffe",
     "title": "Romantic Children [魔界]",
     "level": "7.8"
@@ -1012,6 +1007,11 @@
   {
     "md5": "fe100f7877adee1ef88de03e0ed7a6a0",
     "title": "Life is PIANO [Wander]",
+    "level": "7.9"
+  },
+  {
+    "md5": "1b5ac0745528ef12ae03ce66b31fb6a5",
+    "title": "Milly Barll",
     "level": "7.9"
   },
   {
@@ -1190,11 +1190,6 @@
     "level": "9.0"
   },
   {
-    "md5": "fd1ea9686810b185a5eb15e37ad66a61",
-    "title": "searoad tracks [feverish]",
-    "level": "9.0"
-  },
-  {
     "md5": "ff52797ef9b4e23b460228e374524a6f",
     "title": "tinnitus [load]",
     "level": "9.0"
@@ -1330,6 +1325,11 @@
     "level": "9.1"
   },
   {
+    "md5": "fd1ea9686810b185a5eb15e37ad66a61",
+    "title": "searoad tracks [feverish]",
+    "level": "9.1"
+  },
+  {
     "md5": "e2961626bf567be86416967a891759db",
     "title": "subconsciousness [wide]",
     "level": "9.1"
@@ -1448,6 +1448,11 @@
     "md5": "43f4fafa6ca36721d2e4229a847b2ea7",
     "title": "七つの鍵盤と大きな円盤とゴリラのための練習曲 第四番 ロ短調 \"かみなりぐものした\"",
     "level": "10.3"
+  },
+  {
+    "md5": "f4c7bf02b54e8dfb4c19ee85218a50c9",
+    "title": "あにまらいおっと [Raker]",
+    "level": "11.3"
   },
   {
     "md5": "99bacb3c81efb069023beaaf3fb14b94",
@@ -1595,6 +1600,11 @@
     "level": "16.2"
   },
   {
+    "md5": "2e2ec86581e880d8570d2f3b10c03fda",
+    "title": "Aleph-0 [Ω]",
+    "level": "Infinity"
+  },
+  {
     "md5": "06bce609c001cfd7ecf1b28a513b9a6c",
     "title": "Alice in Misanthrope -厭世アリス- [INSANE]",
     "level": "Infinity"
@@ -1690,8 +1700,18 @@
     "level": "Infinity"
   },
   {
+    "md5": "e167ad43d9c1cfc7f322590f8af1955c",
+    "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
+    "level": "Infinity"
+  },
+  {
     "md5": "75f2b44a3f1b0222b1c848f5cf054ad3",
     "title": "LiVEMeTAL [IRREGULAR]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "24b3d27b614f51a0e317027f7eca93b6",
+    "title": "Metropolis [7key,BITTER]",
     "level": "Infinity"
   },
   {
@@ -1742,11 +1762,6 @@
   {
     "md5": "d1146edb960bf7cccb22f4134333e533",
     "title": "YUKINA [Maryther]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "66ad18dc4b94085c87324b757286755b",
-    "title": "anti [anticipated]",
     "level": "Infinity"
   },
   {
@@ -1822,11 +1837,6 @@
   {
     "md5": "252bcf5a72f440bcedd74e65350b1ca2",
     "title": "A-chasing-Y [Madness]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "2e2ec86581e880d8570d2f3b10c03fda",
-    "title": "Aleph-0 [Ω]",
     "level": "Infinity"
   },
   {
@@ -1972,6 +1982,11 @@
   {
     "md5": "3a352a9833250bb882849d14d6984f2b",
     "title": "H.S : Hadron Strike [7key EXTEND]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "01e0d67a5ba44cd57168ede127bfba3c",
+    "title": "HOOKER [Gratte Ciel]",
     "level": "Infinity"
   },
   {
@@ -2730,6 +2745,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "80b2bf3e13e7a9970c4120f125dfb3d7",
+    "title": "乖離領域のグリヴェール [DOMINION]",
+    "level": "Infinity"
+  },
+  {
     "md5": "e327309eb3aaf0257b4bb8515059946b",
     "title": "僕が見た世界 [Finale]",
     "level": "Infinity"
@@ -3067,11 +3087,6 @@
   {
     "md5": "a6ef12d214730216d1428d2e61994daf",
     "title": "Never Escape [Never Give Up]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
-    "title": "No namer [Pentagon]",
     "level": "Infinity"
   },
   {
@@ -3490,6 +3505,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "34d800330a92cf292c79d2b33bb9e01f",
+    "title": "CRUSH THE PARTY [BREAK THE RULES]",
+    "level": "Infinity"
+  },
+  {
     "md5": "096087f9fec3c8f065912682314e3496",
     "title": "Calamity Fortune [INFERNO]",
     "level": "Infinity"
@@ -3712,6 +3732,11 @@
   {
     "md5": "cc9b4ab5f7b9f1bd87dbd5735f7fa48f",
     "title": "N - flat waves - [\\]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
+    "title": "No namer [Pentagon]",
     "level": "Infinity"
   },
   {
@@ -4315,11 +4340,6 @@
     "level": "Infinity"
   },
   {
-    "md5": "ae3f83e9b4f58d5d7da06e3be29e54a0",
-    "title": "Phantribe [SP LUNATIC]",
-    "level": "Infinity"
-  },
-  {
     "md5": "d70a7661ed46404ca65aa03fbd18e651",
     "title": "Polymorphism [MUTATION]",
     "level": "Infinity"
@@ -4725,6 +4745,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "2ad657bdf59a0147b6f415a39b92f5b5",
+    "title": "Gar♪goyle [コンプラ]",
+    "level": "Infinity"
+  },
+  {
     "md5": "46a2c6c0f73f1520feac4228982eb17d",
     "title": "HEXPERUS [ZENITH]",
     "level": "Infinity"
@@ -4782,6 +4807,11 @@
   {
     "md5": "30bffbc5f5a74d005bd38d395f798107",
     "title": "Number Y [Other]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "ae3f83e9b4f58d5d7da06e3be29e54a0",
+    "title": "Phantribe [SP LUNATIC]",
     "level": "Infinity"
   },
   {
@@ -4917,6 +4947,11 @@
   {
     "md5": "fd30c75f45ddeb72c0b0dd7c147e0cb0",
     "title": "八大地獄邪魂転生狂葬散火歌 [INFERNO]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "f7e7607f555bba13d0a2efea4fd7c9d4",
+    "title": "堕楽の園 [euphoria]",
     "level": "Infinity"
   },
   {
@@ -5165,6 +5200,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "ddc20fcaefb2e08780a54f616bbea950",
+    "title": "X'mas for You -without reason-",
+    "level": "Infinity"
+  },
+  {
     "md5": "dcf8869b8ccdc96f249eeda05f94a2ee",
     "title": "Yes namer",
     "level": "Infinity"
@@ -5220,11 +5260,6 @@
     "level": "Infinity"
   },
   {
-    "md5": "f7e7607f555bba13d0a2efea4fd7c9d4",
-    "title": "堕楽の園 [euphoria]",
-    "level": "Infinity"
-  },
-  {
     "md5": "d3707ef0a6fc0d86df93ca9fe0538a89",
     "title": "永劫の沙漏 <秒->",
     "level": "Infinity"
@@ -5242,6 +5277,11 @@
   {
     "md5": "f44fbf929ac2a288a52bcaa32883838d",
     "title": "禁忌と緋色幻想 -The Primary Plasm- [OVERKILL]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "51d1efb20773d137cbb5b7e7aef8d933",
+    "title": "薄雲 [六角形的+]",
     "level": "Infinity"
   },
   {
@@ -5557,11 +5597,6 @@
   {
     "md5": "5accb2f61f444dc721f23f244db00936",
     "title": "綺機 ～あやはずみ～ [25回秘密箱]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "51d1efb20773d137cbb5b7e7aef8d933",
-    "title": "薄雲 [六角形的+]",
     "level": "Infinity"
   },
   {
