@@ -5717,7 +5717,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=137",
     "artist": "scytheleg",
     "comment": "ワープと演出ソフラン",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "4",
@@ -5730,7 +5730,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=218",
     "artist": "ユメミド",
     "comment": "迷えるリリカル地雷アート",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "4",
@@ -5743,7 +5743,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
     "artist": "Ras",
     "comment": "NEO Stream Hy Device",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "3",
@@ -5756,7 +5756,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=22",
     "artist": "litmus*",
     "comment": "現代向けBK式ギミック",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "1",
@@ -5769,6 +5769,71 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=110",
     "artist": "Sound Souler",
     "comment": "誕生日おめでとう！",
+    "state": ""
+  },
+  {
+    "level": "4",
+    "title": "Memory Of Sunrise -Gimmick-",
+    "md5": "4d37b57a12fa209755f8bc5e65735e17",
+    "video1": "",
+    "video2": "Gn4MQgmo32Y",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05316",
+    "name_diff": "1008",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=110",
+    "artist": "nora2r",
+    "comment": "GIMMICKの記憶は日の出と共に",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "シロクマ通信 [地雷通信障害発生！？]",
+    "md5": "0c9b1f69c0ac6363a0ad7185e34c87e9",
+    "video1": "",
+    "video2": "jEL2yETVtpU",
+    "url_diff": "http://rattoto10.blog.fc2.com/blog-entry-7.html",
+    "name_diff": "hyuki",
+    "url": "https://venue.bmssearch.net/bmstukuru2020/52",
+    "artist": "えびです",
+    "comment": "関数的地雷アート",
+    "state": "1"
+  },
+  {
+    "level": "2",
+    "title": "似顔絵広場",
+    "md5": "525f0215b0f2f8474486b1909e7ac842#status&",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/27",
+    "artist": "戸高一生 / BMS:crossworld",
+    "comment": "例の動画的緩急",
+    "state": "1"
+  },
+  {
+    "level": "0",
+    "title": "kika [Non-Education]",
+    "md5": "280a1bb36061e68dc35621fb97d9acbe",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱(sr)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=135",
+    "artist": "KeiuO",
+    "comment": "小節線とワープ",
+    "state": "1"
+  },
+  {
+    "level": "0",
+    "title": "MANMACHINE CHASES YOU [7KEYS LIGHT]",
+    "md5": "d134d02bbf5f1f0042df38da02c12223",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=132",
+    "artist": "BACO",
+    "comment": "地雷",
     "state": "1"
   }
 ]
