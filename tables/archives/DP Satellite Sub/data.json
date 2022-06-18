@@ -1240,6 +1240,18 @@
     "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
   },
   {
+    "md5": "635523cefcb62fadaa7ba04fee92520b",
+    "sha256": "89bccb6978b098d75a47b5cda573f42500acf4c921ef549923e633f5911a30a5",
+    "title": "overtrue [14keys]",
+    "artist": "Larimar / obj:3z Movie : Hauynite",
+    "url_diff": "http://yaruki0.sakura.ne.jp/sabun/dp.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
+    "level": "1",
+    "comment": "11.6~11.8?",
+    "proposer": "RIVERSTAR",
+    "proposerMinirid": "ea5a2636-1ad8-4624-9983-58eb7917e665"
+  },
+  {
     "level": "1",
     "comment": "階段、両手16分",
     "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
@@ -1877,6 +1889,18 @@
     "zureCount": 0,
     "proposer": "にゃむ",
     "submission": 337,
+    "proposerLr2id": 139958
+  },
+  {
+    "md5": "229d455b6bb29029ddfb9fa97f091576",
+    "sha256": "3690f7f0206afbf80ae17468bc62524ba7ba7d52abf744270f494e5e4e573aea",
+    "title": "fragile crystal -DP empty dream-",
+    "artist": "Arch/movie: Reku/obj:ゆゆゆ！",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+    "url": "https://dropbox.bms.ms/u/59482273/arch_fragile_crystal.zip",
+    "level": "2",
+    "comment": "同時押し、両手乱打、片手乱打＆LN dpbms_0848.zip",
+    "proposer": "にゃむ",
     "proposerLr2id": 139958
   },
   {
@@ -3402,6 +3426,18 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "957351da89e69f0214a7fab118183e52",
+    "sha256": "7dbc4ad2c35c2f65c3a80995c0f5d40ee3bab36b48ca42e0aa62bdf7b3220d68",
+    "title": "AutumnBreeze (Another style)",
+    "artist": "Grand thaw/obj.novu",
+    "url_diff": "https://drive.google.com/file/d/1onE9-xZJLZpapzw98DQX-8ZNNIusM9ny/view?usp=sharing",
+    "url": "http://sougr3428.web.fc2.com/",
+    "level": "4",
+    "comment": "４?、LN、階段、ソフラン",
+    "proposer": "JHS",
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "f373a2c55f04298fc77b7f397458a753",
     "sha256": "551859ab2630aa0dee4c956eb3febd56bf0bc1158234b8c4045c7dc9b1b36236",
     "title": "B.B.K.K.B.K.K. -DP Busy-",
@@ -3585,6 +3621,18 @@
     "proposer": "にゃむ",
     "submission": 590,
     "proposerLr2id": 139958
+  },
+  {
+    "md5": "e1e3f3ce1099003c7cabf1ad39ce98bf",
+    "sha256": "3ca5c7c6240b31f3ff106f6adfa4a31bab89e50df235c61ca1ccba2848bc18f6",
+    "title": "EVERLASTING HAPPiNESS↑ [DP-sagANOTHER]",
+    "artist": "psi / obj:sagoo",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/855",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+    "level": "4",
+    "comment": "3~4、同梱7Aとの40番キー音のズレは同梱hapiness_Luft01EH.bmsとは異常なし",
+    "proposer": "JHS",
+    "proposerLr2id": 128228
   },
   {
     "md5": "b5403179a9f3a205433bbd45673a8fff",
@@ -4724,20 +4772,6 @@
     "proposerLr2id": 147123
   },
   {
-    "md5": "66590d9d44d410d0c22868eed08bc3a4",
-    "sha256": "53b68ab089bbc6692bf101cb26a6d0b8fe36ac5e4c7e461e2cb1a988a4fc8436",
-    "title": "take me to the moon [DP Insane]",
-    "artist": "uma feat. ましろ obj:JHS",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/870",
-    "url": "https://dl.dropboxusercontent.com/s/nueah4vl998bujc/takemetothemoon_bms_ogg.zip",
-    "level": "5",
-    "comment": "5～6?、同時、乱打、着地皿 ",
-    "zureCount": 0,
-    "proposer": "MIST",
-    "submission": 334,
-    "proposerLr2id": 85352
-  },
-  {
     "md5": "b041534da1958a77fd427b6954f1b410",
     "sha256": "78bfff2e1caeccf5e94cd15c01976312d8eb27f8fcac283df200630945d6334c",
     "title": "Trahison [DP INSANE]",
@@ -5260,6 +5294,17 @@
     "proposerLr2id": 39693
   },
   {
+    "md5": "60a1e66adcd56b8bac11da52eaaee542",
+    "sha256": "d00d8782ee1329998e9afd9ebe05ef5387f78a95c914780a5106ed2cf00c8422",
+    "title": "eth剣 [二刀流]",
+    "artist": "BOKKEN PINK/obj:epics- BOKKEN DODOME+MAGENTA",
+    "url_diff": "http://epics.client.jp/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=65",
+    "level": "6",
+    "proposer": "JHS",
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "f97eb1e2a6015ccf91ec6cdce0f48c81",
     "sha256": "89a1c27707e4d16946041149822ccafa0021bcea4e9192e57b4cd62abd993916",
     "title": "fragile crystal -14keys-",
@@ -5390,6 +5435,17 @@
     "zureCount": 0,
     "proposer": "coco",
     "submission": 475,
+    "proposerLr2id": 147123
+  },
+  {
+    "md5": "855a2b130f5f522b4629606c5650484a",
+    "sha256": "3716c82bfc6ec78e51d2ece5cfda1a047138053cfd3a59cc5d63f068b8f34b20",
+    "title": "Ms.Naive Princess [Symmetry14]",
+    "artist": "xenothium/obj:epics-",
+    "url_diff": "http://epics.client.jp/",
+    "url": "http://wayback.archive.org/web/20140803145510/http://roaraddiction.mods.jp/bms/x006_mnp_ogg.rar",
+    "level": "6",
+    "proposer": "coco",
     "proposerLr2id": 147123
   },
   {
@@ -5591,6 +5647,20 @@
     "proposerMinirid": "80692f32-168a-43c5-ae4d-1f3230c0cbe1"
   },
   {
+    "md5": "66590d9d44d410d0c22868eed08bc3a4",
+    "sha256": "53b68ab089bbc6692bf101cb26a6d0b8fe36ac5e4c7e461e2cb1a988a4fc8436",
+    "title": "take me to the moon [DP Insane]",
+    "artist": "uma feat. ましろ obj:JHS",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/870",
+    "url": "https://dl.dropboxusercontent.com/s/nueah4vl998bujc/takemetothemoon_bms_ogg.zip",
+    "level": "6",
+    "comment": "5～6?、同時、乱打、着地皿 ",
+    "zureCount": 0,
+    "proposer": "MIST",
+    "submission": 334,
+    "proposerLr2id": 85352
+  },
+  {
     "level": "6",
     "comment": "同時押し",
     "md5": "7fc5ece9cf28eeddc95638cccbb4f428",
@@ -5668,6 +5738,18 @@
     "url": "https://drive.google.com/file/d/1yr8oVFIFd8veT6jN32OOecNz1oFPuBI6/view?usp=sharing",
     "proposer": "JHS",
     "submission": 118,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "bb5592771c94e943ef2f16d769641ad2",
+    "sha256": "e6ebb8eb219ecbec769f43f2c7919b54afb288160162d1a38bb914401ec553b7",
+    "title": "world devoid of you (fairydust radio edit // DP Anqther)",
+    "artist": "void feat. Hiroko / obj:QJITAI",
+    "url_diff": "http://satchanvx.web.fc2.com/main/bms/",
+    "url": "http://wayback.archive.org/web/20130726173552/http://www.mournfinale.com/bof2008/bmsogg_world_devoid.zip",
+    "level": "6",
+    "comment": "6?、軸階段、差分は右クリック→「ファイルに保存」で保存できます。",
+    "proposer": "JHS",
     "proposerLr2id": 128228
   },
   {
@@ -6215,6 +6297,17 @@
     "proposer": "xiaco",
     "submission": 69,
     "proposerLr2id": 40760
+  },
+  {
+    "md5": "fc7b6990bee9ccd98a0e8504ccc8f8af",
+    "sha256": "a4fcb4f33c68588de23c71ef1239b5e25e72761d7d195b7b274bd464b789af5f",
+    "title": "PARAMOUNT ANTHEM! [DP ANOTHER]",
+    "artist": "あかりちゃん BGA:Frantzz / obj:hi-low",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=110",
+    "level": "7",
+    "proposer": "coco",
+    "proposerLr2id": 147123
   },
   {
     "md5": "3054144fdb43bf0404bd424570ff4ab3",
@@ -7011,6 +7104,18 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "e8264193492ec640327c934f9f37b02c",
+    "sha256": "f661d6e1f1f198b13ea5dacab7ac7b4d794d9d38d6370cb874c2287cf3dff031",
+    "title": "Lisa(BMS Edit) -14keys-",
+    "artist": "A4paper / obj:Lilium",
+    "url_diff": "http://dpbmsdelta.web.fc2.com/info/links.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=88",
+    "level": "8",
+    "comment": "8~9? 片手二重乱打、LN dpbms_0990.zip",
+    "proposer": "にゃむ",
+    "proposerLr2id": 139958
+  },
+  {
     "md5": "78355515c631040219aad04c8ac0a132",
     "sha256": "ab8484e98c802faf8a5201386d326d2758da3524b968fe667c57147aa06e944d",
     "title": "Lovely_Force_Reflection [ANOTHER]",
@@ -7099,6 +7204,18 @@
     "url": "https://drive.google.com/file/d/13-08EG5b2FGRw7MYIIQ9bisIdltMIjCN/view?usp=sharing",
     "proposer": "JHS",
     "submission": 155,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "5755ee24efcd0612273a29d9016f684a",
+    "sha256": "671b4420e35b104aa6adb54cd40f47a9a3975713a778c3f9e77b5b63fe32457f",
+    "title": "POSSESSION(Deceptive Hardcore Mix) [DP]",
+    "artist": "TAG underground Arranged by Orina/obj:epics-",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1xEA9kIefqKRApCfrJphBsL-Ay0I_6agc/view?usp=sharing",
+    "level": "8",
+    "comment": "12分同時押し、軸連打",
+    "proposer": "JHS",
     "proposerLr2id": 128228
   },
   {
@@ -7334,6 +7451,18 @@
     "proposer": "coco",
     "submission": 696,
     "proposerLr2id": 147123
+  },
+  {
+    "md5": "7eb40e337d21522503697a88b1ee5113",
+    "sha256": "d986b75fa635cc052551c2bb6856e5c50eff4cc9dd10e18560c57699ede619e8",
+    "title": "エンバディメント ～2010 flynation mix～",
+    "artist": "Y.W",
+    "url_diff": "http://www.yw-works.com/bmsdl/dl.cgi?dl=sabun_120108",
+    "url": "http://www.yw-works.com/",
+    "level": "8",
+    "comment": "中速物量、同時押し、隣接皿あり、中半難",
+    "proposer": "JHS",
+    "proposerLr2id": 128228
   },
   {
     "md5": "9b2a7f55232d233a4dfa40442425db4b",
@@ -8801,6 +8930,33 @@
     "proposerLr2id": 1141
   },
   {
+    "md5": "2c8ca67a2198fbb13199b970210d1b20",
+    "sha256": "c6df82e8011c9a06c0226dcb99392ec84c323e073a333fdf414dfa85153a9545",
+    "title": "QUARTZ [BLACK ANOTHER]",
+    "artist": "YUKI",
+    "url_diff": "",
+    "url": "http://www.land3939.info/nongenre3/",
+    "level": "11",
+    "comment": "11? 楽曲パッケージ同梱譜面",
+    "proposer": "JHS",
+    "submission": 731,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "31c877e8022d80b63cc78eb42a4be921",
+    "sha256": "28e45f2be4c952fc5c4f80d9f14d7fe626f02c66c6c9e5b0bfa1b817adfaa18f",
+    "title": "QUESTING",
+    "artist": "Nankumo / obj:lichtr",
+    "url_diff": "http://objlr.kirara.st/",
+    "url": "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C!107",
+    "level": "11",
+    "comment": "11?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 730,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "ff5e94dff2c02bd74a74d4fd9e6eee2a",
     "sha256": "425f91277bc98a52c9fdb0a53a4517fbd755752d9e1564dac82ed78df501ec1c",
     "title": "Schur's Theorem -fin-",
@@ -9108,6 +9264,18 @@
     "zureCount": 0,
     "proposer": "JHS",
     "submission": 341,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "363797f8fc619cff770b5a1b0fa82923",
+    "sha256": "c9f151a6c2324d375e05d149f676c5ec245ac957b4b3e1224ec787153f3ab472",
+    "title": "ニニ [DP INS☆NE]",
+    "artist": "テヅカ ? Qayo BGI: MUSH.T ? PHage / obj:Starfish",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/539",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=123",
+    "level": "12",
+    "comment": "★★5~6?",
+    "proposer": "JHS",
     "proposerLr2id": 128228
   },
   {

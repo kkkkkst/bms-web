@@ -993,6 +993,19 @@
     "proposerLr2id": 152181
   },
   {
+    "md5": "dfb188bcf9506f9f00626c5263a84366",
+    "sha256": "d6228c0bd343fbef055154d06913c130bf3e8de74f435fa7c351f8982500467f",
+    "title": "endemize [ANOTHER]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
+    "level": "0",
+    "comment": "同梱譜面 BOFXVII",
+    "proposer": "沙花叉クロヱ",
+    "submission": 2487,
+    "proposerMinirid": "f9c03bb4-c6cd-4e93-9ce3-249f4c49e7fc"
+  },
+  {
     "level": "0",
     "comment": "BOFXV, 階段",
     "md5": "48273794e9019eb0338ff0b4e545f2e3",
@@ -2240,6 +2253,19 @@
     "votePercent": 0,
     "sha256": "4ef21d079d27715dde8b96b59bdbb60d993e0530f698f215d40d78e01f1043a4",
     "proposerLr2id": 80338
+  },
+  {
+    "md5": "2326ca3864a2f511d7582194e332641f",
+    "sha256": "f65a517900a6e57be781b340404656a0e21babd5ed2ee410637e364630ccc592",
+    "title": "Prayer [SP AZOTHER]",
+    "artist": "Supa7onyz & Joulez feat. Greetea BGA by Empty404 / obj AZVW_2",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=324&event=137",
+    "level": "0",
+    "comment": "乱打/sl0入門",
+    "proposer": "DJ_Kuroakari",
+    "submission": 2510,
+    "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
   },
   {
     "md5": "07baa34abf34131ee20ab40b70354037",
@@ -4293,6 +4319,19 @@
     "proposerLr2id": 129162
   },
   {
+    "md5": "48640d0b58617c9ef9515b994d287b25",
+    "sha256": "01e202180a73147f6febe4fefbeea9b07eeb969c1c4348c5afb816d917dcabeb",
+    "title": "Amant Frivole [7K SHDMix]",
+    "artist": "Linne X SCTL Illustration by Deadact",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/61",
+    "level": "1",
+    "comment": "sl0~2? (Auto judge Silent required for LR2)",
+    "proposer": "qtp13",
+    "submission": 2503,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "8a133dfa8259be2954d8ff708228504f",
     "sha256": "22615b085da346d88d1d6c663c20d6481781137bf15ff3ad3dabb299656fc9b8",
     "title": "Angelic Snow (Difficult 7)",
@@ -5113,19 +5152,6 @@
     "proposer": "quinto",
     "submission": 1476,
     "proposerLr2id": 141043
-  },
-  {
-    "md5": "dfb188bcf9506f9f00626c5263a84366",
-    "sha256": "d6228c0bd343fbef055154d06913c130bf3e8de74f435fa7c351f8982500467f",
-    "title": "endemize [ANOTHER]",
-    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
-    "level": "1",
-    "comment": "同梱譜面 BOFXVII",
-    "proposer": "沙花叉クロヱ",
-    "submission": 2487,
-    "proposerMinirid": "f9c03bb4-c6cd-4e93-9ce3-249f4c49e7fc"
   },
   {
     "md5": "24bbf0a42e850e6ddd0e2263b9a838e9",
@@ -6125,6 +6151,31 @@
     "proposer": "qtp13",
     "submission": 1514,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "4c086e143deaf315f8f4d0cf1bf8b527",
+    "sha256": "1e3ada5c908bfe812faa3e6132821dc27f021d93c54c61a7fc2f92471bc4e972",
+    "title": "Pandora [ANOTHER]",
+    "artist": "SOMON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137",
+    "level": "1",
+    "comment": "BOFXVII/同梱譜面",
+    "proposer": "DJ_Kuroakari",
+    "submission": 2509,
+    "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
+  },
+  {
+    "md5": "4fac8bb513c9d4e979a1ce5ddd5993a3",
+    "sha256": "4559d96b7447175cbe86bfd0ec799b5675ebccece1f64c9c737d9773b4898c32",
+    "title": "Pangaea [IIDX]",
+    "artist": "sasakure.UK",
+    "url_diff": "",
+    "url": "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
+    "level": "1",
+    "comment": "低速ズレ乱打 / 後殺",
+    "proposer": "DK",
+    "proposerLr2id": 46697
   },
   {
     "md5": "87090edb5ff8c32c20635f500db5d98c",
@@ -9997,17 +10048,16 @@
     "votePercent": 0
   },
   {
-    "level": "2",
-    "comment": "乱打、皿複合",
-    "md5": "f30a4ba83fc1f5aa63d985b21d1b812e",
-    "sha256": "871b5015e8b4540a2b5257618d07495c6fa1d9e7f3a93c185db360cb36931bbb",
     "title": "Rate Cranky Hi-roller BreaKdown",
     "artist": "rate-dat + Cranky + hi-low + BKANOTHER",
-    "url_diff": "https://darksabun.github.io/mirror/beatkim/",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123",
-    "proposer": "nono22",
-    "submission": 1116,
-    "proposerLr2id": 122934
+    "url_diff": "https://darksabun.github.io/mirror/beatkim/",
+    "md5": "f30a4ba83fc1f5aa63d985b21d1b812e",
+    "sha256": "871b5015e8b4540a2b5257618d07495c6fa1d9e7f3a93c185db360cb36931bbb",
+    "level": "2",
+    "proposer": "marquee",
+    "comment": "乱打、皿複合",
+    "submission": 1116
   },
   {
     "md5": "12432ebc0072ee1c3837a8bf6863a515",
@@ -11495,6 +11545,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "94ce67bbda76a6e24a596e66f57162cb",
+    "sha256": "0090ab4d9836351a3f6bba2e9993efca5403d943908239274057035c29697b4e",
+    "title": "紬の夏休み (やりたいことRemix) -Another-",
+    "artist": "紬 ヴェンダース Remix by 七海",
+    "url_diff": "",
+    "url": "https://www.dropbox.com/s/rva9y5wnsjz6ebl/mugyu_1.00.zip?dl=1",
+    "level": "2",
+    "comment": "むぎゅ",
+    "proposer": "Mary_Sue",
+    "submission": 2507,
+    "proposerLr2id": 147889
   },
   {
     "md5": "5a0e87a6bbf93a7a85675510d358799d",
@@ -21461,6 +21524,19 @@
     "proposerLr2id": 151185
   },
   {
+    "md5": "684e9005a2e263020a02e9bf01f54658",
+    "sha256": "690ea16b48e4bb0531ffe6f4c0138ead668c386cb90387e74f51b522ab2b384b",
+    "title": "Poppy [Immortal]",
+    "artist": "Columba(Daily vs. Roon_kun) / NebulaBunny_uwu",
+    "url_diff": "https://stellabms.xyz/upload/1736",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
+    "level": "6",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2511,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "9bf9199bc76e5114e2a3759fb48fee16",
     "sha256": "79481aa93d029bcd180a4e306fe85a6f13e282dcf86e154167688a8e4c46c9f3",
     "title": "Press [X to Pay Respect]",
@@ -25942,6 +26018,18 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "e207ff5fda09b5f38f7960e3409d3e18",
+    "sha256": "346e758b94de8309bd09cb955f10ba417434d727ba1e2bf65ccc1787f3112743",
+    "title": "えいえんの　ゆめを　ください [ANOTHER]",
+    "artist": "hugepulse BGA:Micelle",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=127",
+    "level": "8",
+    "comment": "最後半 連打、低速、LN注意",
+    "proposer": "Haze*",
+    "proposerLr2id": 112076
+  },
+  {
     "md5": "cea103a95debd51c88c4ce50fa672c16",
     "sha256": "d299e30d367e73d43c17345d302b20b5c0009f2e8075f5ad8774772a3d19f552",
     "title": "おわりのうた -ある絵画の末路-",
@@ -26760,23 +26848,6 @@
     "proposer": "MineC24",
     "submission": 1875,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "5cd49fb3326135e74cd668270d9b88c7",
-    "sha256": "8472345acfa7c9136683fab6fbd342b6b4550c5ec6a42ea934fd2205b3a663cf",
-    "title": "Cynic (THE hyper)",
-    "artist": "6yen / G / 、/さ",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
-    "url": "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
-    "level": "9",
-    "comment": "★22弱体版",
-    "proposer": "Thaw",
-    "proposerLr2id": 145739,
-    "submission": 639,
-    "voteYes": 0,
-    "voteNeutral": 0,
-    "voteNo": 0,
-    "votePercent": 0
   },
   {
     "level": "9",
@@ -28271,18 +28342,21 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "653345ae3589dd2ed93383f862b7d949",
-    "sha256": "c32e6145981e2d6d34c80ff9a717fba9c646acdf513435feaf1c6ea31bc5fe90",
-    "title": "CRUSH THE PARTY [yumether]",
-    "artist": "paraneumann / obj:夢瑠",
-    "url_diff": "https://dl.dropboxusercontent.com/s/n8uufwnh7kt1vlr/_crush_the_party_yume.zip",
-    "url": "https://venue.bmssearch.net/bmsshuin3/51",
+    "md5": "5cd49fb3326135e74cd668270d9b88c7",
+    "sha256": "8472345acfa7c9136683fab6fbd342b6b4550c5ec6a42ea934fd2205b3a663cf",
+    "title": "Cynic (THE hyper)",
+    "artist": "6yen / G / 、/さ",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "url": "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
     "level": "10",
-    "comment": "BPM175 乱打 微連打",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 2088,
-    "proposerLr2id": 65624
+    "comment": "★22弱体版",
+    "proposer": "Thaw",
+    "proposerLr2id": 145739,
+    "submission": 639,
+    "voteYes": 0,
+    "voteNeutral": 0,
+    "voteNo": 0,
+    "votePercent": 0
   },
   {
     "level": "10",
@@ -28336,6 +28410,19 @@
     "proposer": "''",
     "submission": 1262,
     "proposerLr2id": 86456
+  },
+  {
+    "md5": "97d8ce32924cfa19492adbda4aee356f",
+    "sha256": "c13b090fc1d8c9392284f042e733aa904a89abad4e59d112e8c51475507ba1e3",
+    "title": "early goal -EX-",
+    "artist": "Espeon",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=79",
+    "level": "10",
+    "comment": "BPM500 軸 トリル 階段",
+    "proposer": "SHAX.",
+    "submission": 2505,
+    "proposerLr2id": 65624
   },
   {
     "md5": "02219fc200b7bbf9d068ac978f85188b",
@@ -28448,6 +28535,19 @@
     "proposer": "氷城つるぎ",
     "submission": 1070,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "7943a19230bfa5565ed6def1babe7da4",
+    "sha256": "cc2bc05fc54a9d7e2aeb053b80db6f89374214592e434c2eeb604d5cdc5e49d0",
+    "title": "Faurie [ANOTHER]",
+    "artist": "黒皇帝 Movie: Haight",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
+    "level": "10",
+    "comment": "ややラス殺しだが重めのいい譜面。sl12版よりは少し易しくステップアップに。",
+    "proposer": "papk",
+    "submission": 2508,
+    "proposerMinirid": "d5e98bc8-4306-4c4e-9f45-b6382e928085"
   },
   {
     "md5": "861fabc711061a736254b8c140285010",
@@ -28563,19 +28663,6 @@
     "votePercent": 0
   },
   {
-    "md5": "3fb0e6356a1fb97f30fdc30f65ffa311",
-    "sha256": "cceb37c089873c6328c88036c06ecb54e0c0467ca5379299994a1fa86dd180f8",
-    "title": "HAPPY☆LUCKY☆BABY [SP AMETHER-A]",
-    "artist": "DJ TAKUAN 及び 白羽美依 / obj:AMERIA",
-    "url_diff": "http://ameria3141.web.fc2.com/bmssabun.html",
-    "url": "http://llllllllllll.sakura.ne.jp/djtakuan/b_BMS/happyluckybaby.zip",
-    "level": "10",
-    "comment": "happyluckybaby -n.pmsとズレなし",
-    "proposer": "七海",
-    "submission": 2219,
-    "proposerLr2id": 84597
-  },
-  {
     "level": "10",
     "comment": "物量",
     "md5": "411a20140a19a8292d9e554cf6b83710",
@@ -28604,6 +28691,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "1dcbd8071f69d9f092eaabe424c42f0a",
+    "sha256": "e8afc8d2563008d3cb7464b32dc016151897ebb5a564b644ef5e6f699406d145",
+    "title": "insanity air [Unwanted]",
+    "artist": "団一郎&亜里亜 BGA:秋野さん obj : dfsty",
+    "url_diff": "https://stellabms.xyz/upload/1665",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=83",
+    "level": "10",
+    "comment": "発狂",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2512,
+    "proposerLr2id": 84597
   },
   {
     "level": "10",
@@ -29758,20 +29859,6 @@
     "proposerLr2id": 86559
   },
   {
-    "md5": "34e657f536211f591ecc752d0870dbb1",
-    "sha256": "835c44cbac454837d8f87dd54ad11a8f1f7bde6464c775fddc09046566e00ec9",
-    "title": "馴鹿之骸 [まだまだ走れます]",
-    "artist": "tcheb / mov:マスティ / obj.ぶんぺ～",
-    "url_diff": "https://stellabms.xyz/upload/1615",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=137",
-    "level": "10",
-    "comment": "ガチ押し",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2424,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "63ed90945f5fb67c7a5d77f9ec9904c1",
     "sha256": "2b2ee4fb849826bf22635186d7307d51f1f2866f329b59aaf89b23b7d886dbcd",
     "title": "魔法少女になるしかねぇ [ベラトリックス]",
@@ -29840,20 +29927,6 @@
     "proposer": "LUXURY♪",
     "submission": 881,
     "proposerLr2id": 23110
-  },
-  {
-    "md5": "335f7f4a4346e985044aa573c6d89195",
-    "sha256": "0c55c949e9e207dd4a502abfe666a57235295826206c8aa61d9e9a72b0003d5a",
-    "title": "Amplifying Effect -SP Ryzen-",
-    "artist": "Is-m BGA:demae // obj:Scely",
-    "url_diff": "https://stellabms.xyz/upload/1136",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Amplifying%20Effect%20(by%20Is-m).rar",
-    "level": "11",
-    "comment": "BPM150 連打複合",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 2468,
-    "proposerLr2id": 65624
   },
   {
     "md5": "f19f3a79fe68e9e53b742b88529c0d98",
@@ -30130,6 +30203,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "653345ae3589dd2ed93383f862b7d949",
+    "sha256": "c32e6145981e2d6d34c80ff9a717fba9c646acdf513435feaf1c6ea31bc5fe90",
+    "title": "CRUSH THE PARTY [yumether]",
+    "artist": "paraneumann / obj:夢瑠",
+    "url_diff": "https://dl.dropboxusercontent.com/s/n8uufwnh7kt1vlr/_crush_the_party_yume.zip",
+    "url": "https://venue.bmssearch.net/bmsshuin3/51",
+    "level": "11",
+    "comment": "BPM175 乱打 微連打",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2088,
+    "proposerLr2id": 65624
   },
   {
     "md5": "404937351f39007a7a211e154feebadb",
@@ -30587,6 +30674,19 @@
     "votePercent": 0
   },
   {
+    "md5": "3fb0e6356a1fb97f30fdc30f65ffa311",
+    "sha256": "cceb37c089873c6328c88036c06ecb54e0c0467ca5379299994a1fa86dd180f8",
+    "title": "HAPPY☆LUCKY☆BABY [SP AMETHER-A]",
+    "artist": "DJ TAKUAN 及び 白羽美依 / obj:AMERIA",
+    "url_diff": "http://ameria3141.web.fc2.com/bmssabun.html",
+    "url": "http://llllllllllll.sakura.ne.jp/djtakuan/b_BMS/happyluckybaby.zip",
+    "level": "11",
+    "comment": "happyluckybaby -n.pmsとズレなし",
+    "proposer": "七海",
+    "submission": 2219,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "7e32af584080fb9965bbf497947de99f",
     "sha256": "7f0224a6b0022dfc9998f30f22d4065d784b04c9b482219db14a91bf730363f7",
     "title": "It's \"alice\" dream [HARDEST]",
@@ -30816,6 +30916,18 @@
     "proposer": "MarySue",
     "submission": 1261,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "7e30e90244d41f431d0b8fb75fdd0583",
+    "sha256": "9a38cd31a4e379da379827b44c6bde363659e5ae3c8a154192872d0e397893db",
+    "title": "Neurotoxicity [INSANE]",
+    "artist": "黒皇帝 Movie: SquidMaker",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=123",
+    "level": "11",
+    "comment": "from Stella",
+    "proposer": "LUXURY♪",
+    "proposerLr2id": 23110
   },
   {
     "md5": "87f4bdeda2791196264bdbb1a588e6b2",
@@ -31638,6 +31750,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "6544dd7b7465eea7ba15c29b46e3b561",
+    "sha256": "f4c3b62426bd259c2744da30b50b4c6cc27cde154f277d46be2b035e3949b2ad",
+    "title": "建御名方神 [天 (fixed)_NoGimmick]",
+    "artist": "ZUN Remix by rider obj.Mallow♪",
+    "url_diff": "https://stellabms.xyz/upload/1672",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E5%BB%BA%E5%BE%A1%E5%90%8D%E6%96%B9%E7%A5%9E%20(by%20ZUN%20Remix%20by%20rider).rar",
+    "level": "11",
+    "comment": "横に広い乱打と同時押し / ズレ有り(れどみより)",
+    "proposer": "ぶんぺ～",
+    "submission": 2488,
+    "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
     "md5": "8841ecde594f990c6731e6a1d6b898e5",
     "sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
     "title": "架空ユリカゴ　 [EX]",
@@ -31665,17 +31790,16 @@
     "proposerMinirid": "07ec8ca6-3bf5-4e12-89f1-8e5876458451"
   },
   {
-    "level": "11",
-    "comment": "Chart Change",
-    "md5": "408bf9274bf02b3ae09e3c58a3bc0587",
-    "sha256": "ff5074887f237525cd4c7444bde9244b15c243c3584bbfa3a178a2f0e2a15a49",
     "title": "海神寓拝 [Nemesis]",
     "artist": "sasakure.UK / Obj.Triforce",
-    "url_diff": "https://trfce.github.io/sabun/kaijin_triforce_fixed.zip",
     "url": "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
+    "url_diff": "https://trfce.github.io/sabun/kaijin_triforce_fixed.zip",
+    "md5": "408bf9274bf02b3ae09e3c58a3bc0587",
+    "sha256": "ff5074887f237525cd4c7444bde9244b15c243c3584bbfa3a178a2f0e2a15a49",
+    "level": "11",
     "proposer": "LUXURY♪",
-    "submission": 1117,
-    "proposerLr2id": 23110
+    "comment": "Chart Change",
+    "submission": 1117
   },
   {
     "md5": "1fdd8463a1bc45db75e803f33708ab8e",
@@ -31837,6 +31961,20 @@
     "proposer": "M48N",
     "submission": 2257,
     "proposerLr2id": 149709
+  },
+  {
+    "md5": "34e657f536211f591ecc752d0870dbb1",
+    "sha256": "835c44cbac454837d8f87dd54ad11a8f1f7bde6464c775fddc09046566e00ec9",
+    "title": "馴鹿之骸 [まだまだ走れます]",
+    "artist": "tcheb / mov:マスティ / obj.ぶんぺ～",
+    "url_diff": "https://stellabms.xyz/upload/1615",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=137",
+    "level": "11",
+    "comment": "ガチ押し",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2424,
+    "proposerLr2id": 84597
   },
   {
     "md5": "24ccef65138cbd461f82780aca4f7e47",
@@ -32039,6 +32177,20 @@
     "proposer": "ぶんぺ～",
     "submission": 2086,
     "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
+    "md5": "335f7f4a4346e985044aa573c6d89195",
+    "sha256": "0c55c949e9e207dd4a502abfe666a57235295826206c8aa61d9e9a72b0003d5a",
+    "title": "Amplifying Effect -SP Ryzen-",
+    "artist": "Is-m BGA:demae // obj:Scely",
+    "url_diff": "https://stellabms.xyz/upload/1136",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Amplifying%20Effect%20(by%20Is-m).rar",
+    "level": "12",
+    "comment": "BPM150 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2468,
+    "proposerLr2id": 65624
   },
   {
     "md5": "5ae0afb8bcd94330254bd16612150fb8",
@@ -32408,6 +32560,18 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "d27f59651d786b69cf53f8f81668a4c9",
+    "sha256": "8f66ba7ca92957a299fd86ca39239a0bdb0d86188ff442f89bc8d5057a881884",
+    "title": "DANCE & (wish me a) MERRY CHRISTMAS!",
+    "artist": "TOMA obj.XYZ",
+    "url_diff": "https://www.dropbox.com/s/0wvnw778i3o0u0d/dmc_mcms_xyz.bms?dl=0",
+    "url": "http://tm2.toymusical.net/download.html",
+    "level": "12",
+    "comment": "from Stella",
+    "proposer": "LUXURY♪",
+    "proposerLr2id": 23110
+  },
+  {
     "md5": "1bc3c15a4c40d87dbffa8be429140478",
     "sha256": "6da13c3214c07c7688a5cca18b8754d420316eb5d0c63429de64161694194ab0",
     "title": "DANCING KIWI [WARK]",
@@ -32728,6 +32892,20 @@
     "proposer": "ぶんぺ～",
     "submission": 2058,
     "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
+    "md5": "596f59aac969be214282a8500dbc1c1e",
+    "sha256": "37fe18145c225b6304e25830fd3c1edd3f25aac699a8846d56216f475f8be328",
+    "title": "Garefowl -Xe-",
+    "artist": "マフラーアカペンギン obj : LindBlum",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04137",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=110",
+    "level": "12",
+    "comment": "BPM220 ガチ押し",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2506,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "c840aab0e204e69392b77840f0e42583",
@@ -33302,6 +33480,20 @@
     "proposer": "ぶんぺ～",
     "submission": 1981,
     "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
+    "md5": "1066a4dd2a935ef76487ad2970b83025",
+    "sha256": "af5196c7e661c6ea21e9a43b352512644c8e66a85024b4d158383f2c77fc4568",
+    "title": "Rigel [laner]",
+    "artist": "ridis /obj. laner",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "url": "https://onedrive.live.com/?authkey=%21AJleBqQEnxtF%2DuQ&id=B34BD1F8ACE93FD7%21138&cid=B34BD1F8ACE93FD7",
+    "level": "12",
+    "comment": "from Stella",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 2504,
+    "proposerLr2id": 23110
   },
   {
     "md5": "4b21ea745be87293998e639e27631a2e",
@@ -34226,19 +34418,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "6544dd7b7465eea7ba15c29b46e3b561",
-    "sha256": "f4c3b62426bd259c2744da30b50b4c6cc27cde154f277d46be2b035e3949b2ad",
-    "title": "建御名方神 [天 (fixed)_NoGimmick]",
-    "artist": "ZUN Remix by rider obj.Mallow♪",
-    "url_diff": "https://stellabms.xyz/upload/1672",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E5%BB%BA%E5%BE%A1%E5%90%8D%E6%96%B9%E7%A5%9E%20(by%20ZUN%20Remix%20by%20rider).rar",
-    "level": "12",
-    "comment": "横に広い乱打と同時押し / ズレ有り(れどみより)",
-    "proposer": "ぶんぺ～",
-    "submission": 2488,
-    "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
   },
   {
     "md5": "6cbfcecef0c2a08b6f402f530e4b6972",

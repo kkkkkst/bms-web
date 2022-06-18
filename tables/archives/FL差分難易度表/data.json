@@ -525,7 +525,7 @@
     "name_diff": "LuvTek",
     "date": "Wed Nov 06 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "N音源基盤。 ギミックに注意?"
+    "comment": "N音源基盤。ギミックに注意?"
   },
   {
     "level": "9",
@@ -549,14 +549,14 @@
     "name_diff": "LuvTek",
     "date": "Sun Feb 23 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/ZOVbAO9iTRw",
-    "comment": ""
+    "comment": "st2"
   },
   {
     "level": "9",
     "title": "Le Specimen d'un Papillon [7標本]",
     "md5": "e33e7d73b5eae1b70c9ab637a60b35e8",
     "artist": "Process 2.3.1 vs Y-Itoh",
-    "url": "http://skydrive.live.com/?cid=8919591A03E5E127&id=8919591A03E5E127!169",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Le%20Specimen%20d%27un%20Papillon%20(by%20Process%202.3.1%20vs%20Y-Itoh).rar",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Le_Specimen_M-S.zip",
     "name_diff": "M-SPIN",
     "date": "Fri May 01 2020 00:00:00 GMT+0900 (日本標準時)",
@@ -885,7 +885,7 @@
     "name_diff": "LuvTek",
     "date": "Wed Oct 27 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/qzG-5hofyZY",
-    "comment": "本体同梱"
+    "comment": "fr8 本体同梱"
   },
   {
     "level": "11",
@@ -904,12 +904,12 @@
     "title": "Le Specimen d'un Papillon [La colere]",
     "md5": "891f44dbd60bb177750d235760001826",
     "artist": "Process 2.3.1 vs Y-Itoh",
-    "url": "http://skydrive.live.com/?cid=8919591A03E5E127&id=8919591A03E5E127!169",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Le%20Specimen%20d%27un%20Papillon%20(by%20Process%202.3.1%20vs%20Y-Itoh).rar",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Le_Specimen_M-S.zip",
     "name_diff": "M-SPIИ",
     "date": "Wed Feb 05 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/0E-Vpk-GhkU",
-    "comment": "st5 Иさんと合作。FL12 [Arctiidae's Fury]の改善(?)版"
+    "comment": "st5 Иさんと合作。FL12 [Arctiidae's Fury]のリメイク"
   },
   {
     "level": "11",
@@ -969,7 +969,7 @@
     "name_diff": "fsrs",
     "date": "Mon Nov 09 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/7_UcduK7WdY",
-    "comment": "SPB基準にキー音オブジェクトが追加されています"
+    "comment": "SPB基準にキー音オブジェクトが追加"
   },
   {
     "level": "11",
@@ -1105,6 +1105,18 @@
   },
   {
     "level": "12",
+    "title": "〈header〉 〈/header〉",
+    "md5": "e4aab1220e5d6620bfd3e8653e09f82e",
+    "artist": "潮音きつね",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=139",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/header_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Mon Jun 13 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/hExmbIsoMGM",
+    "comment": ""
+  },
+  {
+    "level": "12",
     "title": "#00FFFF [SP CYANiDE]",
     "md5": "d22c034b23ca5b158d25601f14f80a47",
     "artist": "tkqn14_Append",
@@ -1180,12 +1192,24 @@
     "title": "Le Specimen d'un Papillon [Arctiidae's Fury]",
     "md5": "6d460a7cdff1db3a2c9a2207683a5675",
     "artist": "Process 2.3.1 vs Y-Itoh",
-    "url": "http://skydrive.live.com/?cid=8919591A03E5E127&id=8919591A03E5E127!169",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Le%20Specimen%20d%27un%20Papillon%20(by%20Process%202.3.1%20vs%20Y-Itoh).rar",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Le_Specimen_M-S.zip",
     "name_diff": "M-SPIN",
     "date": "Wed Dec 04 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "過去差分のズレ修正本。キー音配列変更存在"
+    "comment": "過去差分のズレ修正本。キー音配列変更あり"
+  },
+  {
+    "level": "12",
+    "title": "LP-505 (full version)",
+    "md5": "34904b30011f0a75b089eec2823bd354",
+    "artist": "hazy",
+    "url": "https://mega.nz/file/WOozzT4Z#zY_yKWRQ52fnPZ84uxEtSFQKYu1W4MZrt119oCwh3kE",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/LP505_MS.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Jun 11 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/0BQUwi4Dqf0",
+    "comment": ""
   },
   {
     "level": "12",
