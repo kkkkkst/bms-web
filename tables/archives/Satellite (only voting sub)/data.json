@@ -43,6 +43,19 @@
     "proposerMinirid": "469f561a-91a3-4387-acfe-8d9fb393fa7a"
   },
   {
+    "md5": "d53295a51f8772944cfaba9a3a16fe3b",
+    "sha256": "278786d54b78040e7a35b12cdfcb944eeca4378a178c563ccf012cc154ce0815",
+    "title": "Everlong",
+    "artist": "世界のよーすく劇場",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1E1tmBYc34IiiLSWkM6eJ-iyR9xBMW2Xy",
+    "level": "0",
+    "comment": "sl0?/二重乱打/同時押し/同梱譜面",
+    "proposer": "かぎうさぎ",
+    "submission": 2515,
+    "proposerLr2id": 132346
+  },
+  {
     "md5": "2326ca3864a2f511d7582194e332641f",
     "sha256": "f65a517900a6e57be781b340404656a0e21babd5ed2ee410637e364630ccc592",
     "title": "Prayer [SP AZOTHER]",
@@ -80,6 +93,19 @@
     "proposer": "DJ_Kuroakari",
     "submission": 2509,
     "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
+  },
+  {
+    "md5": "c9f206179f2b9ab095686f6de84d3d97",
+    "sha256": "62031688ed673e117ae075371625c72d73a475fbda0ebf5470cc918b03438991",
+    "title": "Vis10ns [ANOTHER]",
+    "artist": "paraneumann",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/standout/1",
+    "level": "1",
+    "comment": "BPM109 32分",
+    "proposer": "SHAX.",
+    "submission": 2514,
+    "proposerLr2id": 65624
   },
   {
     "md5": "5f33511c706aa93fa7cc4447c50f9f77",
@@ -372,6 +398,20 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "a0b3027ae8eb899fce45286c2d8f6e70",
+    "sha256": "dfbd9b9ba5e8867318cb23ce7406fb2ab2e65fa41798387f2453e9bc00405b33",
+    "title": "^ [CIRCUMFLEX]",
+    "artist": "Show_G.bd obj : Khibine",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06137",
+    "url": "https://www.dropbox.com/s/hklebja7dyaozou/%5E%20-%20UnlimitedQuasar.zip?dl=0",
+    "level": "12",
+    "comment": "乱打、連皿",
+    "zureCount": 0,
+    "proposer": "ねおんし",
+    "submission": 2513,
+    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
+  },
+  {
     "md5": "596f59aac969be214282a8500dbc1c1e",
     "sha256": "37fe18145c225b6304e25830fd3c1edd3f25aac699a8846d56216f475f8be328",
     "title": "Garefowl -Xe-",
@@ -384,5 +424,18 @@
     "proposer": "fuko",
     "submission": 2506,
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
+    "md5": "1fc691e3a2a928b74a8cd5ec11264b24",
+    "sha256": "3b15ad44b0fcb518a935d60e4cdc498c84ea5a0c90666f4580d4176dbba2a12b",
+    "title": "改板二分前 [HAPPILy/7key]",
+    "artist": "SHDS/MS",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=11&num=22&order=reg&odtype=a",
+    "level": "12",
+    "comment": "HS-FIXはAVGで　多要素  / 同梱ez.bms基準ソフラン一つ以外はズレ抜けなし。",
+    "proposer": "Mary_Sue",
+    "submission": 2516,
+    "proposerLr2id": 147889
   }
 ]

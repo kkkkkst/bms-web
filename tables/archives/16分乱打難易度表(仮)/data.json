@@ -717,7 +717,7 @@
     "url": "https://drive.google.com/uc?id=1xQiHjuKBqqy9MFldc5zzmotjgKGgs1qx",
     "url_diff": "同梱譜面",
     "md5": "939030fb362e981e99fff29c886fe01b",
-    "comment": "sub sl0/152"
+    "comment": "sl0/152"
   },
   {
     "": "",
@@ -807,7 +807,7 @@
     "url": "http://web.archive.org/web/20030609160042/http://www3.ocn.ne.jp/~yosu/tyou.rar",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03640",
     "md5": "4c7c8b03fb3f7e3e399571a9b30a58f5",
-    "comment": "sub sl0/170"
+    "comment": "sl0/170"
   },
   {
     "": "",
@@ -2092,16 +2092,6 @@
   {
     "": "",
     "level": "乱打3",
-    "title": "CHMR -Automaton-",
-    "artist": "TEKINA / obj:夢瑠",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4834.zip",
-    "md5": "8b577aebd9ab9be112b238378a70744c",
-    "comment": "▼6/195"
-  },
-  {
-    "": "",
-    "level": "乱打3",
     "title": "CHRONO TRIGGER ～世界変革の時～ANOTHER+",
     "artist": "mattaku/差分　赤い人",
     "url": "http://oldgamebms.blog33.fc2.com/blog-entry-7.html",
@@ -2322,26 +2312,6 @@
   {
     "": "",
     "level": "乱打3",
-    "title": "Poppy [Immortal]",
-    "artist": "Columba(Daily vs. Roon_kun) / NebulaBunny_uwu",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
-    "url_diff": "https://stellabms.xyz/upload/1736",
-    "md5": "684e9005a2e263020a02e9bf01f54658",
-    "comment": "220"
-  },
-  {
-    "": "",
-    "level": "乱打3",
-    "title": "Rainbow Night Party [Arcoiris]",
-    "artist": "Yu^ta (movie: tolz)",
-    "url": "https://venue.bmssearch.net/bmsshuin2/79",
-    "url_diff": "同梱譜面",
-    "md5": "9ce00182078600ac9cc8b2460e4f7761",
-    "comment": "sub sl3/186"
-  },
-  {
-    "": "",
-    "level": "乱打3",
     "title": "Raspberry Memories [SP BLACK ANOTHER]",
     "artist": "吟世かいな obj : 8posai",
     "url": "https://venue.bmssearch.net/ippaitukuru2019/39",
@@ -2408,6 +2378,16 @@
     "url_diff": "https://darksabun.github.io/bceg/event/atoz2020/",
     "md5": "a1aa1470016bae84642a040bfaaca0ec",
     "comment": "sl3/148"
+  },
+  {
+    "": "",
+    "level": "乱打3",
+    "title": "T-EDIT [Maniac7]",
+    "artist": "knot / obj.siokaze",
+    "url": "https://web.archive.org/web/20080512145843/http://knot2565.hp.infoseek.co.jp:80/bof2005.html",
+    "url_diff": "http://siokazebms.web.fc2.com//",
+    "md5": "d23934389e48f1c7b8f9c4eaa49d6d1e",
+    "comment": "sub sl3,▼5/165"
   },
   {
     "": "",
@@ -3112,12 +3092,22 @@
   {
     "": "",
     "level": "乱打4",
+    "title": "Rainbow Night Party [Arcoiris]",
+    "artist": "Yu^ta (movie: tolz)",
+    "url": "https://venue.bmssearch.net/bmsshuin2/79",
+    "url_diff": "同梱譜面",
+    "md5": "9ce00182078600ac9cc8b2460e4f7761",
+    "comment": "sl4/186"
+  },
+  {
+    "": "",
+    "level": "乱打4",
     "title": "Rainy [雨]",
     "artist": "Yu^ta obj. Limite + BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
     "url_diff": "http://akred.web.fc2.com/baecon/_05_rainy-ame.bms",
     "md5": "c39ac8cf82d1bc55fe36863f09569838",
-    "comment": "sub sl4/218"
+    "comment": "sl4/218"
   },
   {
     "": "",
@@ -3347,7 +3337,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=84",
     "url_diff": "https://egosa0424.github.io/sabun/aiko_nanami.zip",
     "md5": "ae5d009857fd0c46bb64e2affb603970",
-    "comment": "sub sl4/154"
+    "comment": "sl4/154"
   },
   {
     "": "",
@@ -3558,6 +3548,26 @@
     "url_diff": "同梱譜面",
     "md5": "8eb883b4c7a9f65162489e95cff2b2d2",
     "comment": "sub sl5/180"
+  },
+  {
+    "": "",
+    "level": "乱打5",
+    "title": "CHMR",
+    "artist": "TEKINA",
+    "url": "http://tz-kt-lc.tumblr.com/",
+    "url_diff": "同梱譜面",
+    "md5": "e646e36922b81144a970db06d54a65c1",
+    "comment": "▼10/195"
+  },
+  {
+    "": "",
+    "level": "乱打5",
+    "title": "CHMR -Automaton-",
+    "artist": "TEKINA / obj:夢瑠",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4834.zip",
+    "md5": "8b577aebd9ab9be112b238378a70744c",
+    "comment": "▼6/195"
   },
   {
     "": "",
@@ -4288,6 +4298,16 @@
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/noir%20sabun.zip",
     "md5": "2c23324072cd67850d4665662e2b5485",
     "comment": "176"
+  },
+  {
+    "": "",
+    "level": "乱打6",
+    "title": "Poppy [Immortal]",
+    "artist": "Columba(Daily vs. Roon_kun) / NebulaBunny_uwu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1736",
+    "md5": "684e9005a2e263020a02e9bf01f54658",
+    "comment": "sub sl6/220"
   },
   {
     "": "",
@@ -5982,16 +6002,6 @@
   {
     "": "",
     "level": "乱打9",
-    "title": "Airflucht†LEGGENDARIA",
-    "artist": "SHIKI / obj:lighter + 某L",
-    "url": "http://shiki2.sakura.ne.jp/bms.shtmll",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6503.zip",
-    "md5": "b976caab8aba1c023ba191bd1e1942d8",
-    "comment": "sub sl12/180"
-  },
-  {
-    "": "",
-    "level": "乱打9",
     "title": "Alcubierre Drive [INSANE]",
     "artist": "raii Movie:Albatrus obj:SANY",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=116",
@@ -6458,6 +6468,16 @@
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02611",
     "md5": "e7df53f94805d0d2a1976855eaded1c4",
     "comment": "sl10/145"
+  },
+  {
+    "": "",
+    "level": "乱打10",
+    "title": "Airflucht†LEGGENDARIA",
+    "artist": "SHIKI / obj:lighter + 某L",
+    "url": "http://shiki2.sakura.ne.jp/bms.shtmll",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6503.zip",
+    "md5": "b976caab8aba1c023ba191bd1e1942d8",
+    "comment": "sub sl12/180"
   },
   {
     "": "",
@@ -7772,6 +7792,16 @@
   {
     "": "",
     "level": "乱打11",
+    "title": "建御名方神 [天 (fixed)_NoGimmick]",
+    "artist": "ZUN Remix by rider obj.Mallow♪",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=102",
+    "url_diff": "https://stellabms.xyz/upload/1672",
+    "md5": "6544dd7b7465eea7ba15c29b46e3b561",
+    "comment": "sub sl11/160"
+  },
+  {
+    "": "",
+    "level": "乱打11",
     "title": "図書室のエルザ [FOX]",
     "artist": "橘花音 かなえゆめ composed by nmk / Notes:キラ Illustration:かぜっと",
     "url": "http://yatai.ath.cx/c03_shuffle2/detail.php?n=20",
@@ -7807,7 +7837,7 @@
     "url": "https://www.dropbox.com/s/hklebja7dyaozou/%5E%20-%20UnlimitedQuasar.zip?dl=0",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06137",
     "md5": "a0b3027ae8eb899fce45286c2d8f6e70",
-    "comment": "185"
+    "comment": "sub sl12/185"
   },
   {
     "": "",
@@ -8538,16 +8568,6 @@
     "url_diff": "http://web.archive.org/web/20190211032400/http://sabosabun.tank.jp/sabun/shitubo%20sabun.zip",
     "md5": "780f8f98480b46643f34b59e91355586",
     "comment": "sl12/220"
-  },
-  {
-    "": "",
-    "level": "乱打12",
-    "title": "建御名方神 [天 (fixed)_NoGimmick]",
-    "artist": "ZUN Remix by rider obj.Mallow♪",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=102",
-    "url_diff": "https://stellabms.xyz/upload/1672",
-    "md5": "6544dd7b7465eea7ba15c29b46e3b561",
-    "comment": "sub sl12/160"
   },
   {
     "": "",
@@ -12612,6 +12632,16 @@
   {
     "": "",
     "level": "重発狂4",
+    "title": "Lewisia (discipline)",
+    "artist": "daiki / BGA:chromato graphy / obj:n",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=74",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=3190",
+    "md5": "e966aa1cad01c3e7e1c1a182bc1b885d",
+    "comment": "188"
+  },
+  {
+    "": "",
+    "level": "重発狂4",
     "title": "Levitation [Pentagon]",
     "artist": "TAK / 140 obj.hex",
     "url": "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
@@ -13398,6 +13428,16 @@
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01655",
     "md5": "7dfab14656e89055ba493b93ea0788a2",
     "comment": "st5/200"
+  },
+  {
+    "": "",
+    "level": "重発狂5",
+    "title": "NS20 [Anonther]",
+    "artist": "3034 / Obj:3034FAN",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=63",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02872",
+    "md5": "b548a4142041995acde74195cbdc92ad",
+    "comment": "dy0/215"
   },
   {
     "": "",
