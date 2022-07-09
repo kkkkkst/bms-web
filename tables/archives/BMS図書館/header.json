@@ -65,5 +65,176 @@
     "観",
     "審"
   ],
+  "course": [
+    {
+      "name": "BMS図書館　初段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "711006f06cb07a40e4dc6f0afaa8095c",
+        "5c62dfd85860755d8af964560f282a04",
+        "d95014273bdee91294f094327d95df2b",
+        "c4596896ee9950ee5c6d2ba78cab2f35"
+      ]
+    },
+    {
+      "name": "BMS図書館　二段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "d4815687acf8f09cc3b87fc33d984f75",
+        "515c0688ecfcf448fd1d2accff2d8ff7",
+        "30c1993623dcda955b497b356077c34b",
+        "b8d26ef68019b7766a300dcd6040ad36"
+      ]
+    },
+    {
+      "name": "BMS図書館　三段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "7cc704874ed1a19978cdb9453f529b43",
+        "84d12ef4986903509fc6be5d22fdf7bb",
+        "5fd1a11a4cbeecdff028d1ddcc83fd5b",
+        "41d97e06909be6372571a28b81d49a8e"
+      ]
+    },
+    {
+      "name": "BMS図書館　四段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "5e48f97bb0fb4ba61093e3631e1c45fe",
+        "2905005b809afba35c0ab94c0007d079",
+        "870ff11d02aea8984e0ed79d88b4aa5a",
+        "a26fc202c698f6f9b0d4bfdb6bf2577f"
+      ]
+    },
+    {
+      "name": "BMS図書館　五段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "4b484675e81dd8a3256a7e6348e5a5eb",
+        "649ee01d75eae442f8c1122ca35c70f0",
+        "b7bbd621ed64c0463701413747be2027",
+        "260775c544554f13e081d8bac888916b"
+      ]
+    },
+    {
+      "name": "BMS図書館　六段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "671a4239ac28bf85e0dc8aac0261db8d",
+        "9c8d43b0800a22092b00655455895a42",
+        "bc5a284f07a0ba477f35cb51808007e7",
+        "4ca8871345e2879a9add1053aeec7094"
+      ]
+    },
+    {
+      "name": "BMS図書館　七段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "8df83611779e9d69ba4702730c38c9a4",
+        "11d1c4ac296be5811cd5fd684b83df86",
+        "3bb88cbe4d13ceac831c0138ea16abcd",
+        "25f2f4e8702d9fd0c56842b460cd27aa"
+      ]
+    },
+    {
+      "name": "BMS図書館　八段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "99e5d4a4d83d6fb16a830c57361da49b",
+        "38cb18cc250c7cb259864e6bb71aaaa0",
+        "aff8a5db8910bfeb24966931a4cfacdf",
+        "3938004d2f1ec989740e9b02c174b91a"
+      ]
+    },
+    {
+      "name": "BMS図書館　九段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "ea755ec70f08d00c44fb0bd7fabac19d",
+        "5aac613d8c6a4361caf8cb5916f6cf33",
+        "c67aaf558cdc4761ad6baff2c9ac31cc",
+        "57762b6934a6462cad1bd616b6f5b5b0"
+      ]
+    },
+    {
+      "name": "BMS図書館　十段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "426e7d75433af291ef32a0e19713977d",
+        "9c8d43b0800a22092b00655455895a42",
+        "19d8fd376abd96beb91e47c406832fca",
+        "200948e13c0940dd328f5fb1ffb365a1"
+      ]
+    },
+    {
+      "name": "BMS図書館　皆伝",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "e86648a958817615f3883fb12dbe8a54",
+        "b51fe806350f78d03d8dc96d1d058188",
+        "bea09a3c942e4118bc626924b16ed7bd",
+        "b9d10fae126860b2c23518b8c0b84214"
+      ]
+    },
+    {
+      "name": "BMS図書館　卒業試験",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "cc3fac897e46805e18df4afaabbf741c",
+        "db4c1332e557fc909c54cd1c4aa3fab8",
+        "335c9a34da560f0942504f614fb53af9",
+        "c8d864eda0244556ee9538c565f044e8"
+      ]
+    },
+    {
+      "name": "BMS図書館　卒業試験・裏",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2"
+      ],
+      "md5": [
+        "4ff0c8a2f63ff9f002709ea7c3e81275",
+        "06a51730139a195af05b65962ada2f60",
+        "fe552b03943f004e8d509309dbf9ece4",
+        "b08f18bb57f68c8e44da738adeadeaa6"
+      ]
+    }
+  ],
   "original_url": "https://exturbow.github.io/github.io/index.html"
 }

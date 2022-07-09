@@ -1,7 +1,7 @@
 [
   {
     "artist": "美月 正 / Stargazer",
-    "comment": "单押接双押配置",
+    "comment": "ξ11 /突然想写点入门难度谱，于是就有了这东西",
     "level": "-2",
     "md5": "44dfa53319507784f87f91b2c2ad6bdc",
     "name_diff": "",
@@ -10,19 +10,8 @@
     "url_diff": "https://stellabms.xyz/upload/1691"
   },
   {
-    "artist": "Enritsu / obj.mqppppp movie:横尾太にゃ",
-    "comment": "地力",
-    "level": "-1",
-    "lr2_bmsid": "",
-    "md5": "985bd59049d81271bdbf71a7092fd586",
-    "name_diff": "",
-    "title": "ZABANIYA[Escapee_fix]",
-    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/zabaniya.rar",
-    "url_diff": "https://stellabms.xyz/upload/1406"
-  },
-  {
     "artist": "Street / obj.mqppppp",
-    "comment": "短爆发系配置",
+    "comment": "sr9 /刚入坑那会写的第一个差分，带点小双楼梯，fix掉了一些反人类配置",
     "level": "-1",
     "lr2_bmsid": "282792",
     "md5": "a1e3ebd15896598f6021c1ca6143eb1c",
@@ -32,8 +21,19 @@
     "url_diff": "https://stellabms.xyz/upload/1407"
   },
   {
+    "artist": "Enritsu / obj.mqppppp movie:横尾太にゃ",
+    "comment": "sr9 /最早写的第二个差分，同样fix了一些反人类配置",
+    "level": "-1",
+    "lr2_bmsid": "",
+    "md5": "985bd59049d81271bdbf71a7092fd586",
+    "name_diff": "",
+    "title": "ZABANIYA[Escapee_fix]",
+    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/zabaniya.rar",
+    "url_diff": "https://stellabms.xyz/upload/1406"
+  },
+  {
     "artist": "Nego_tiator BGI:*reinahitomi/Obj.mqppppp",
-    "comment": "轴、拍砖、楼梯",
+    "comment": "sr11 /早期谱面之一，逐渐领悟了一些同时押的写法",
     "level": "-1",
     "lr2_bmsid": "",
     "md5": "6295997d1adb6ae1cec079b6ae9724b4",
@@ -44,7 +44,7 @@
   },
   {
     "artist": "ProjectG obj.mqppppp",
-    "comment": "乱打",
+    "comment": "乱打特化谱面",
     "level": "0",
     "lr2_bmsid": "297627",
     "md5": "d360f13f81e7a47ba164a74af1b22fe6",
@@ -55,7 +55,7 @@
   },
   {
     "artist": "Arishima_Caprico + うまるつふり obj:mqppppp",
-    "comment": "sr11/楼梯、拍砖、尾杀",
+    "comment": "sr11 /最早写的几个差分之一。见识了一些放飞自我的本家谱面之后写出来的东西",
     "level": "0",
     "lr2_bmsid": "297474",
     "md5": "5421cf93999f6bd33d42bb5734bdf924",
@@ -66,7 +66,7 @@
   },
   {
     "artist": "黄泉路テヂーモ / 出前 obj.mqppppp",
-    "comment": "（※）sr13/超综合向配置(乱打、连皿、拍砖、低速、微纵连)",
+    "comment": "▼0 /（※）超综合向配置，个人感觉写的最有趣的谱",
     "level": "0",
     "lr2_bmsid": "301117",
     "md5": "cd8ef4c2cb26fb5270db3fdbde2919cb",
@@ -77,7 +77,7 @@
   },
   {
     "artist": "DARKSIDE APPROACH / Hypa'kuso Rhapsodiphorica Object Team \"mqppppp\"",
-    "comment": "（※）sr12/乱打、同时押、LN",
+    "comment": "sr12 /（※）略带体力的低难度差分，rat原来没把这谱收进表二，给个0-也行啊",
     "level": "0",
     "md5": "12bcf6201771d0b3bd7b13330a9c4042",
     "name_diff": "",
@@ -87,7 +87,7 @@
   },
   {
     "artist": "AKITO / obj.mqppppp",
-    "comment": "sl0 / 小拍砖",
+    "comment": "sl0 /感觉可以开倍速练习gachi押的谱面，个人感觉写的不太好",
     "level": "0",
     "md5": "72ef93f1f0226b8fbd6c3d91aa3630b0",
     "name_diff": "",
@@ -97,7 +97,7 @@
   },
   {
     "artist": "Urban Techno Cafe / obj.mqppppp",
-    "comment": "sub sl1/乱打、弱皿复合",
+    "comment": "sub sl1 /第一个被提案进sl表的谱面，92.9%期限超过，低bpm乱打带点温柔的皿复合",
     "level": "0",
     "lr2_bmsid": "302254",
     "md5": "b781cad6237cd0c7f2074897eed21430",
@@ -108,7 +108,7 @@
   },
   {
     "artist": "Xacla / obj.Multicosmos Expedition Crew \"NebulaBunny\"",
-    "comment": "微纵连、横认识",
+    "comment": "微纵连和横认识的不错练习谱面，跟其他谱比起来完全没有体力要求",
     "level": "0",
     "md5": "b4032c90f4a882d6dde3cfc45863cc07",
     "name_diff": "",
@@ -118,7 +118,7 @@
   },
   {
     "artist": "BMS: Nego_tiator /Movie: Fiz/obj.mqppppp",
-    "comment": "乱打、尾杀",
+    "comment": "早期谱面之一，好像没有什么亮点",
     "level": "0",
     "lr2_bmsid": "296747",
     "md5": "e56bafb2b7d74480c8aca4b8160a6025",
@@ -129,7 +129,7 @@
   },
   {
     "artist": "siqlo BGA:八重幸 obj.mqppppp",
-    "comment": "体力、综合配置",
+    "comment": "体力+乱打的综合配置谱面，中间的12分段是个人感觉写的最好的地方",
     "level": "1",
     "lr2_bmsid": "297507",
     "md5": "62341a55112c69d17e36f9c321ae6f78",
@@ -140,7 +140,7 @@
   },
   {
     "artist": "Marc-Andre' Hamelin / Hypa'kuso Rhapsodiphorica Object Team",
-    "comment": "体力，楼梯乱打综合配置",
+    "comment": "黑1杯参赛谱面，把黑1里常见的各种平平无奇的各种配置凑到一块，结果变成了明显不止黑1的综合力+体力拷问",
     "level": "1",
     "md5": "2b5a199a9af50da9813255f269b82d3a",
     "name_diff": "",
@@ -150,7 +150,7 @@
   },
   {
     "artist": "s-don・サム・さるきむ / obj.mqppppp",
-    "comment": "（※）sl1 / 乱打、24分复合",
+    "comment": "sl1 /（※）演奏感拔群的综合力考查谱面，经常出现的24分小折返楼梯是亮点",
     "level": "1",
     "md5": "fe103a2c23a341a67154268007984727",
     "name_diff": "",
@@ -160,7 +160,7 @@
   },
   {
     "artist": "nitro / -objectaesthesia- LIMITER:UNDEFINED",
-    "comment": "乱打、微纵连、曲变更",
+    "comment": "（※）曲变更写谱练习，乱打为主的体力练习谱面",
     "level": "1",
     "md5": "3c6af82bd71b4c1829f7f36a2f691c4f",
     "name_diff": "",
@@ -170,7 +170,7 @@
   },
   {
     "artist": "Columba(Daily vs. Roon_kun) / obj.mqppppp",
-    "comment": "纵连打、皿复合",
+    "comment": "纵连打复合和超高速乱打的综合谱面，peak段比较多可能相比起来不太容易点白灯",
     "level": "1",
     "lr2_bmsid": "301121",
     "md5": "732674eeaa2b4865b683bb751f5b5486",
@@ -181,7 +181,7 @@
   },
   {
     "artist": "tanacoro / obj.mqppppp BGA: 5argon",
-    "comment": "（※）纵连打复合乱打配置",
+    "comment": "（※）个人感觉写的最好玩的纵连打复合配置",
     "level": "1",
     "lr2_bmsid": "301118",
     "md5": "3885f480b76586167cfc9ce7faa0bea2",
@@ -192,7 +192,7 @@
   },
   {
     "artist": "SUPER MOTEX (O-SE+CSP)/mov:murotani / obj.mqppppp + NebulaBunny",
-    "comment": "低bpm横认识乱打配置",
+    "comment": "低bpm地力乱打配置练习，略带体力",
     "level": "1",
     "lr2_bmsid": "",
     "md5": "f3d5848ec5b4d49feaa5f9b0440987ba",
@@ -203,7 +203,7 @@
   },
   {
     "artist": "LUNEの右手と悠里おねぇちゃんの左脚 / obj.三月ウサギ",
-    "comment": "sl2撤回提案/中速乱打、ズレ",
+    "comment": "sl2撤回提案/带一点歪的乱打谱面，略带体力",
     "level": "1",
     "lr2_bmsid": "",
     "md5": "d1b40ccb0357a83e82b3b9fe82352392",
@@ -214,7 +214,7 @@
   },
   {
     "artist": "Zris feat. Green / Hypa'kuso Rhapsodiphorica Object Team",
-    "comment": "（※）sl2/高速乱打、楼梯",
+    "comment": "sl2 /（※）黑1杯参赛谱面，超高速楼梯+超高速乱打为主的谱面。莫名其妙进了sl表，那帮人居然好这口？",
     "level": "1",
     "md5": "63c4789599805bd446e3fdeb397658fc",
     "name_diff": "",
@@ -223,8 +223,18 @@
     "url_diff": "https://stellabms.xyz/upload/1519"
   },
   {
+    "artist": "DJ Eye / obj by NebulaBunny_uwu",
+    "comment": "轴拍砖复合乱打谱面，发布之后才知道已经有同梱的7k Another了",
+    "level": "1",
+    "md5": "4aa20160625c0376a7922c458f0d5118",
+    "name_diff": "",
+    "title": "Contact lens - 1000RI 眼 [ANOTHER7]",
+    "url": "https://bms.cosmiccat.top/bms/BMS%20%E6%B4%BB%E5%8A%A8%E5%8C%85/%5B2021%5D%20BOFXVII/54.Contact%20lens%20-%201000RI%20%E7%9C%BC.zip",
+    "url_diff": "https://stellabms.xyz/upload/1809"
+  },
+  {
     "artist": "はがね / obj.mqppppp",
-    "comment": "横认识系低bpm乱打、三角押对拍",
+    "comment": "横认识系低bpm乱打为主的谱面，因为中盘有32分三角押对拍，不知道开了随机会变成什么惨状",
     "level": "2",
     "lr2_bmsid": "",
     "md5": "185151ba5c7fba2b9d1887097bee0d14",
@@ -235,7 +245,7 @@
   },
   {
     "artist": "NoE ＆　あるし / obj.mqppppp",
-    "comment": "交互复合乱打",
+    "comment": "交互复合乱打，个人感觉写的不够好",
     "level": "2",
     "lr2_bmsid": "302403",
     "md5": "4bd0980a63c9bb97bd1e10f6a31b1973",
@@ -246,7 +256,7 @@
   },
   {
     "artist": "kanoryo / obj.mqppppp Movie:NOAHNAME",
-    "comment": "楼梯复合乱打、拍砖",
+    "comment": "楼梯复合乱打、拍砖，后半段一直不知道怎么写更好，就先这样吧",
     "level": "2",
     "lr2_bmsid": "301120",
     "md5": "83863d7fae1c1b9de7706001e5b19716",
@@ -257,7 +267,7 @@
   },
   {
     "artist": "lixound / obj.mqppppp mov:Xquid",
-    "comment": "（※）体力综合配置，乱打、拍砖、轴、交互、皿复合",
+    "comment": "（※）体力为主的超综合配置谱面，本来是想写成个黑1程度的，后来越写越飞",
     "level": "2",
     "lr2_bmsid": "",
     "md5": "623384ee76f60315bbc6a2cbc432035c",
@@ -268,7 +278,7 @@
   },
   {
     "artist": "Doggie / Nebulabunny_0w1",
-    "comment": "乱打、ガチ押し",
+    "comment": "基本的乱打+拍砖配置练习谱面，带点皿复合",
     "level": "2",
     "lr2_bmsid": "",
     "md5": "ca6c80b140c43232299289178a755824",
@@ -278,8 +288,19 @@
     "url_diff": "https://stellabms.xyz/upload/1767"
   },
   {
+    "artist": "Die Under Shore / obj.mqppppp BGA:シャブゴリラ",
+    "comment": "（※）拍砖+乱打练习，带一些略有个人差的配置，个人觉得比较好玩的谱",
+    "level": "2",
+    "lr2_bmsid": "",
+    "md5": "3086ac0eabada063feb2d95919995924",
+    "name_diff": "",
+    "title": "Violent Shock[BOOST]",
+    "url": "http://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Violent%20Shock.rar",
+    "url_diff": "https://stellabms.xyz/upload/1821"
+  },
+  {
     "artist": "nmk feat.橘花音 / obj.mqppppp",
-    "comment": "（※）地力系乱打谱面",
+    "comment": "（※）疾走感拉满的谱面，总体上是体力+地力拷问向的乱打",
     "level": "3",
     "md5": "027da6e4c2e5009abf0d8ad75124b571",
     "name_diff": "",
@@ -289,7 +310,7 @@
   },
   {
     "artist": "Columba(Daily vs. Roon_kun) / NebulaBunny_uwu",
-    "comment": "sub sl6/高速楼梯、乱打配置",
+    "comment": "sub sl6 /（※）高速楼梯+乱打配置为主的谱面，尾杀比较劲",
     "level": "3",
     "md5": "684e9005a2e263020a02e9bf01f54658",
     "name_diff": "",
@@ -299,7 +320,7 @@
   },
   {
     "artist": "Sephid / obj.mqppppp",
-    "comment": "乱打、拍砖",
+    "comment": "T★5 /高密度拍砖混乱打的谱面，有些地方处理起来可能略显棘手",
     "level": "3",
     "lr2_bmsid": "305690",
     "md5": "a9e2f980f30e5a4017c0b7e16c1290ee",
@@ -310,7 +331,7 @@
   },
   {
     "artist": "dawn-system / obj.mqppppp BGA:216 (office-φ) / Original:ZUN",
-    "comment": "乱打、微连打、轴、LN复合、尾杀",
+    "comment": "试了一下之前没用过的微纵连接同时押，以及LN+BSS复合这种有一点张力的配置。结尾依然是安心的地力乱打",
     "level": "3",
     "md5": "40e34d98f2d704e7d80329f1b203e296",
     "name_diff": "",
@@ -320,7 +341,7 @@
   },
   {
     "artist": "adamthix / obj.mqppppp",
-    "comment": "体力乱打",
+    "comment": "超级体力拷问，健身专用谱面",
     "level": "4",
     "md5": "a7199093fc4f19e4285fb725b27e0470",
     "name_diff": "",
@@ -330,7 +351,7 @@
   },
   {
     "artist": "Zris / Hypa'kuso Rhapsodiphorica Object Team",
-    "comment": "BMS図書館T★★3/ガチ押し",
+    "comment": "T★★3 /gachi押",
     "level": "11",
     "md5": "c2dc360303f924f7688e5db5afa66e90",
     "name_diff": "",
@@ -340,7 +361,7 @@
   },
   {
     "artist": "Gsus x VJ PONDELION / Her name plz",
-    "comment": "st9撤回提案/ズレ、ガチ押し",
+    "comment": "st9撤回提案/写的比较疯，塞了一堆空音zure，至少观赏感还是不错的",
     "level": "12",
     "md5": "01c72012eb08b10a1b232ea48ff79a14",
     "name_diff": "",

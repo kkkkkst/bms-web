@@ -817,6 +817,18 @@
   },
   {
     "level": "11",
+    "title": "3↑↑↑3 TYPE:A // Abysmal",
+    "md5": "e1c66fff33387f76c00704864d625eec",
+    "artist": "13eastie / Undecimber",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=137",
+    "url_diff": "https://dl.dropboxusercontent.com/s/z3l7vo43ju5wcx3/Fd_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Jul 02 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "",
+    "comment": ""
+  },
+  {
+    "level": "11",
     "title": "Avtalsbrott",
     "md5": "19b4adaef68691838892a6aea154f346",
     "artist": "Liq_mmry",
@@ -1428,18 +1440,6 @@
     "comment": "N音源基盤にAキー音を一部使用"
   },
   {
-    "level": "20",
-    "title": "Negotiation Failure [sp Xpert:PRO]",
-    "md5": "9b290c783b59c02b87881b97421cc483",
-    "artist": "BIG O",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=133",
-    "url_diff": "https://darksabun.github.io/event/irbattle/sabun/D02_NegotiationFailure_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Thu Aug 19 2021 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/C2gnU76VAok",
-    "comment": "FL12の初期版 最初難"
-  },
-  {
     "level": "30",
     "title": "∞ bit [LT's INFINITY]",
     "md5": "dd9bd1bdc410917259006acc72b634af",
@@ -1474,6 +1474,18 @@
     "date": "Fri Aug 20 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/NnS_003sFNc",
     "comment": "追加音源あり"
+  },
+  {
+    "level": "30",
+    "title": "Negotiation Failure [sp Xpert:PRO]",
+    "md5": "9b290c783b59c02b87881b97421cc483",
+    "artist": "BIG O",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=133",
+    "url_diff": "https://darksabun.github.io/event/irbattle/sabun/D02_NegotiationFailure_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Thu Aug 19 2021 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/C2gnU76VAok",
+    "comment": "FL12の初期版 最初難"
   },
   {
     "level": "30",

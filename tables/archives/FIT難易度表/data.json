@@ -4020,7 +4020,6 @@
     "sha256": "dfc0827fe93236335a3af540999a8a68d056380712fd4d345a7810e324f44c8e"
   },
   {
-    "state": "1",
     "title": "Hecatoncheir",
     "level": "☆10",
     "comment": "FT / 1 ",
@@ -4031,7 +4030,6 @@
     "sha256": "c11cbf12db13b156b902c7db45a1aae8ea93f55df13fc30e9e56191846de1219"
   },
   {
-    "state": "1",
     "title": "[line:delta]",
     "level": "☆12",
     "comment": "FI / 4 ",
@@ -4042,7 +4040,6 @@
     "sha256": "a7f155f0b9db942641bd6aedbdd70178826b11946f5f538fd0a913d2800a95c9"
   },
   {
-    "state": "1",
     "title": "筑波嶺の",
     "level": "☆4",
     "comment": "I / 2 LN",
@@ -4053,7 +4050,6 @@
     "sha256": "3a5592974330e47a58225a54e24dff54e752a051c075329ac8771bf06de476dd"
   },
   {
-    "state": "1",
     "title": "インド人もびっくり!? 猛烈☆100倍カレー [激辛]",
     "level": "☆12",
     "comment": "FI / 5 ソフラン、皿",
@@ -4064,7 +4060,6 @@
     "sha256": "2a500f0b6194dcbd99a138570ef0978ed023aab31df80afd5796d22f873c7b24"
   },
   {
-    "state": "1",
     "title": "Just Like That [7keys]",
     "level": "☆9",
     "comment": "F / 3 ",
@@ -4075,7 +4070,6 @@
     "sha256": "cffe56c918f42819db7f91b4a5a5c068659f95624b9f840ee8516c642a887fa5"
   },
   {
-    "state": "1",
     "title": "とむらヰ [Another]",
     "level": "☆11",
     "comment": "FI / 3 縦連",
@@ -4086,7 +4080,6 @@
     "sha256": "26a9e1c0315ae4014bfbc82ce04e9f5de0c3e08adc283e67ec2e907c2ea32cab"
   },
   {
-    "state": "1",
     "title": "Arbre Des Songes",
     "level": "☆11",
     "comment": "FI / 3 ",
@@ -4161,5 +4154,16 @@
     "url_diff": "",
     "md5": "6a500f1b8db53495d2096128e24beeff",
     "sha256": "24bfc97c0b092f00399f36939cecff379518f8a1c478b9e469aff4ce4488e148"
+  },
+  {
+    "state": "1",
+    "title": "Body and Soul",
+    "level": "☆10",
+    "comment": "F / 3 ",
+    "artist": "Doggie",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=139",
+    "url_diff": "",
+    "md5": "2121957f53a24cce90ca4375e00e2347",
+    "sha256": "eaae84bbdc19e348cc4eb807524516144d7a39d19a9b156c1ffdf7866bd77f0d"
   }
 ]

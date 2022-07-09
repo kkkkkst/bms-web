@@ -29,6 +29,7 @@
     "24",
     "?"
   ],
+  "mode": "beat-7k",
   "grade": [
     {
       "name": "発狂初段",
@@ -106,7 +107,8 @@
       {
         "name": "発狂初段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -131,7 +133,8 @@
       {
         "name": "発狂二段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -156,7 +159,8 @@
       {
         "name": "発狂三段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -181,7 +185,8 @@
       {
         "name": "発狂四段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -206,7 +211,8 @@
       {
         "name": "発狂五段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -231,7 +237,8 @@
       {
         "name": "発狂六段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -256,7 +263,8 @@
       {
         "name": "発狂七段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -286,7 +294,8 @@
       {
         "name": "発狂八段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -316,7 +325,8 @@
       {
         "name": "発狂九段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -346,7 +356,8 @@
       {
         "name": "発狂十段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -376,7 +387,8 @@
       {
         "name": "発狂皆伝",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -406,7 +418,8 @@
       {
         "name": "overjoy",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -436,9 +449,10 @@
     ],
     [
       {
-        "name": "GENOCIDE 次期発狂初段案",
+        "name": "GENOCIDE 2018 発狂初段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -454,16 +468,17 @@
         ],
         "style": "lightgreen",
         "md5": [
-          "d93d26ea51b78bc9b000b24aae30eabd",
+          "f872dd65dd08638b06d80470a3233fb9",
           "1b72e8f6439a698e78f94be16470b789",
           "2371263af3b0d644fba62526c9f49481",
           "8a8a6c2f3511eb0876a6c9a2027d7bbe"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂二段案",
+        "name": "GENOCIDE 2018 発狂二段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -479,16 +494,17 @@
         ],
         "style": "lightgreen",
         "md5": [
-          "1d82eca9a7f34560149864ca2094ab64",
+          "d70e2549e841819708d279d2478bb1e2",
           "5e3711f2f576f3929156c9594b87efac",
           "a56ddb2169246817fb7527363fb9c687",
-          "5c1b6d4fab17625da43100cc09223bc8"
+          "cefb4735c26f9488438021b4d7fdca31"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂三段案",
+        "name": "GENOCIDE 2018 発狂三段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -504,16 +520,17 @@
         ],
         "style": "lightgreen",
         "md5": [
-          "803c62f33ba287df9364d94e0b0f3a2f",
-          "e9c44c196575967b34ebd7720e487c9f",
-          "3c58f7c2e28bedf002aa1a29c8c86f1b",
-          "8faa0fc06a989fdb3f153e38ac7efddd"
+          "19fbf62d711282d81208f97f7135e2a2",
+          "3791d42c00cdfa135df3779eb0f78505",
+          "b46b23fa8e2ad96e02763f687bb5a494",
+          "efae90d527a71d753ea7ad2847ec2006"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂四段案",
+        "name": "GENOCIDE 2018 発狂四段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -532,13 +549,14 @@
           "47de06762f16d164426e3197c5de967c",
           "a718de9a2cd2f88deafbd40f5929abb4",
           "5077cd14b4759d0e8d61e854eac4e88a",
-          "af4a2231ed7c21fe28f5c9353775be39"
+          "c87682922d1b87622b34fe7a7ffba52c"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂五段案",
+        "name": "GENOCIDE 2018 発狂五段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -555,15 +573,16 @@
         "style": "lightgreen",
         "md5": [
           "e9fc0fbbde68bfd10f2d289751a1fc6a",
-          "8a8019d432ab4dd9bde4e65faf1b663f",
           "3a500560e6ace69e08b51736ff1be0ca",
+          "8a8019d432ab4dd9bde4e65faf1b663f",
           "7fd4d1b5a767fd97343129157782a95f"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂六段案",
+        "name": "GENOCIDE 2018 発狂六段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -580,15 +599,16 @@
         "style": "lightgreen",
         "md5": [
           "f96cf3af3d9356407bff483d27f4aecc",
-          "20cfeb60bc8378b3aacc5551f3c46dea",
+          "a29f9500cebd16cbb8d14b69ace79db1",
           "871c6aed53c5dd3ac35686d9a92af4f4",
           "40673cc8ea628a9452f6ae9ac74d5817"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂七段案",
+        "name": "GENOCIDE 2018 発狂七段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -604,16 +624,17 @@
         ],
         "style": "lightgreen",
         "md5": [
-          "f1f3a63e62cb5449bcc88578641d0f8a",
           "a4b59ca055a856b9a200ccfd1bf5c7bc",
           "a0f48e96286e0ce275a33fd8cb851ff0",
+          "c4134c29746e1ece168159ba4ae88d45",
           "67a76e7d26f3c3ea99fdc6f912f83021"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂八段案",
+        "name": "GENOCIDE 2018 発狂八段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -636,9 +657,10 @@
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂九段案",
+        "name": "GENOCIDE 2018 発狂九段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -656,14 +678,15 @@
         "md5": [
           "603aae2c3681cc2562b9b53b50408c69",
           "79dc444b48299814462ff23a2bf3ab79",
-          "7241b09fbbc77e0e515aa65f245f95ab",
+          "ff5d7235ba643bc85b804a3df2778590",
           "451ed38cdba0323388027129f5929645"
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂十段案",
+        "name": "GENOCIDE 2018 発狂十段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -686,9 +709,10 @@
         ]
       },
       {
-        "name": "GENOCIDE 次期発狂皆伝案",
+        "name": "GENOCIDE 2018 発狂皆伝",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -711,9 +735,952 @@
         ]
       },
       {
-        "name": "GENOCIDE 次期overjoy案",
+        "name": "GENOCIDE 2018 overjoy",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "cfad3baadce9e02c45021963453d7c94",
+          "77d23be22b2370925c573d922276bce0",
+          "188a99f74ab71804f2e360dcf484545c",
+          "c46a81cb184f5a804c119930d6eba748"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "GENOCIDE 2018 発狂初段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f872dd65dd08638b06d80470a3233fb9",
+          "1b72e8f6439a698e78f94be16470b789",
+          "2371263af3b0d644fba62526c9f49481",
+          "8a8a6c2f3511eb0876a6c9a2027d7bbe"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂二段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "d70e2549e841819708d279d2478bb1e2",
+          "5e3711f2f576f3929156c9594b87efac",
+          "a56ddb2169246817fb7527363fb9c687",
+          "cefb4735c26f9488438021b4d7fdca31"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂三段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "19fbf62d711282d81208f97f7135e2a2",
+          "3791d42c00cdfa135df3779eb0f78505",
+          "b46b23fa8e2ad96e02763f687bb5a494",
+          "efae90d527a71d753ea7ad2847ec2006"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂四段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "47de06762f16d164426e3197c5de967c",
+          "a718de9a2cd2f88deafbd40f5929abb4",
+          "5077cd14b4759d0e8d61e854eac4e88a",
+          "c87682922d1b87622b34fe7a7ffba52c"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂五段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "e9fc0fbbde68bfd10f2d289751a1fc6a",
+          "3a500560e6ace69e08b51736ff1be0ca",
+          "8a8019d432ab4dd9bde4e65faf1b663f",
+          "7fd4d1b5a767fd97343129157782a95f"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂六段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f96cf3af3d9356407bff483d27f4aecc",
+          "a29f9500cebd16cbb8d14b69ace79db1",
+          "871c6aed53c5dd3ac35686d9a92af4f4",
+          "40673cc8ea628a9452f6ae9ac74d5817"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂七段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "a4b59ca055a856b9a200ccfd1bf5c7bc",
+          "a0f48e96286e0ce275a33fd8cb851ff0",
+          "c4134c29746e1ece168159ba4ae88d45",
+          "67a76e7d26f3c3ea99fdc6f912f83021"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂八段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f0feb9654ae044c0e95ebf68e2497c2e",
+          "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+          "1cf2e138abd7199d6e4656447cfaed6c",
+          "8e0df85dbf59c4753346f1582e2d4422"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂九段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "603aae2c3681cc2562b9b53b50408c69",
+          "79dc444b48299814462ff23a2bf3ab79",
+          "ff5d7235ba643bc85b804a3df2778590",
+          "451ed38cdba0323388027129f5929645"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂十段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "d6fea1389a86fc14eb354fcc5e60e03e",
+          "e58e3f718d089ec37caa0f2c7149a54b",
+          "1e049d189ef9bef79824f55764517a58",
+          "fb975909eb0f60a9190c7a1007515d4b"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 発狂皆伝(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "10420967a85371e65db57967e6c696cd",
+          "ebc5946c3de24a01048d1c90cbd5c9d6",
+          "45446f6c96bdb081a2054b80cd8f7208",
+          "39d0732ef7fee9ad0c8b044ccbe8a396"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 overjoy(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "cfad3baadce9e02c45021963453d7c94",
+          "77d23be22b2370925c573d922276bce0",
+          "188a99f74ab71804f2e360dcf484545c",
+          "c46a81cb184f5a804c119930d6eba748"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "GENOCIDE 2018 No Good発狂初段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f872dd65dd08638b06d80470a3233fb9",
+          "1b72e8f6439a698e78f94be16470b789",
+          "2371263af3b0d644fba62526c9f49481",
+          "8a8a6c2f3511eb0876a6c9a2027d7bbe"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂二段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "d70e2549e841819708d279d2478bb1e2",
+          "5e3711f2f576f3929156c9594b87efac",
+          "a56ddb2169246817fb7527363fb9c687",
+          "cefb4735c26f9488438021b4d7fdca31"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂三段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "19fbf62d711282d81208f97f7135e2a2",
+          "3791d42c00cdfa135df3779eb0f78505",
+          "b46b23fa8e2ad96e02763f687bb5a494",
+          "efae90d527a71d753ea7ad2847ec2006"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂四段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "47de06762f16d164426e3197c5de967c",
+          "a718de9a2cd2f88deafbd40f5929abb4",
+          "5077cd14b4759d0e8d61e854eac4e88a",
+          "c87682922d1b87622b34fe7a7ffba52c"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂五段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "e9fc0fbbde68bfd10f2d289751a1fc6a",
+          "3a500560e6ace69e08b51736ff1be0ca",
+          "8a8019d432ab4dd9bde4e65faf1b663f",
+          "7fd4d1b5a767fd97343129157782a95f"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂六段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f96cf3af3d9356407bff483d27f4aecc",
+          "a29f9500cebd16cbb8d14b69ace79db1",
+          "871c6aed53c5dd3ac35686d9a92af4f4",
+          "40673cc8ea628a9452f6ae9ac74d5817"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂七段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "a4b59ca055a856b9a200ccfd1bf5c7bc",
+          "a0f48e96286e0ce275a33fd8cb851ff0",
+          "c4134c29746e1ece168159ba4ae88d45",
+          "67a76e7d26f3c3ea99fdc6f912f83021"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂八段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f0feb9654ae044c0e95ebf68e2497c2e",
+          "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+          "1cf2e138abd7199d6e4656447cfaed6c",
+          "8e0df85dbf59c4753346f1582e2d4422"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂九段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "603aae2c3681cc2562b9b53b50408c69",
+          "79dc444b48299814462ff23a2bf3ab79",
+          "ff5d7235ba643bc85b804a3df2778590",
+          "451ed38cdba0323388027129f5929645"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂十段",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "d6fea1389a86fc14eb354fcc5e60e03e",
+          "e58e3f718d089ec37caa0f2c7149a54b",
+          "1e049d189ef9bef79824f55764517a58",
+          "fb975909eb0f60a9190c7a1007515d4b"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No Good発狂皆伝",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "10420967a85371e65db57967e6c696cd",
+          "ebc5946c3de24a01048d1c90cbd5c9d6",
+          "45446f6c96bdb081a2054b80cd8f7208",
+          "39d0732ef7fee9ad0c8b044ccbe8a396"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 No good overjoy",
+        "constraint": [
+          "grade_mirror",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "cfad3baadce9e02c45021963453d7c94",
+          "77d23be22b2370925c573d922276bce0",
+          "188a99f74ab71804f2e360dcf484545c",
+          "c46a81cb184f5a804c119930d6eba748"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂初段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f872dd65dd08638b06d80470a3233fb9",
+          "1b72e8f6439a698e78f94be16470b789",
+          "2371263af3b0d644fba62526c9f49481",
+          "8a8a6c2f3511eb0876a6c9a2027d7bbe"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂二段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "d70e2549e841819708d279d2478bb1e2",
+          "5e3711f2f576f3929156c9594b87efac",
+          "a56ddb2169246817fb7527363fb9c687",
+          "cefb4735c26f9488438021b4d7fdca31"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂三段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "19fbf62d711282d81208f97f7135e2a2",
+          "3791d42c00cdfa135df3779eb0f78505",
+          "b46b23fa8e2ad96e02763f687bb5a494",
+          "efae90d527a71d753ea7ad2847ec2006"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂四段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "47de06762f16d164426e3197c5de967c",
+          "a718de9a2cd2f88deafbd40f5929abb4",
+          "5077cd14b4759d0e8d61e854eac4e88a",
+          "c87682922d1b87622b34fe7a7ffba52c"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂五段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "e9fc0fbbde68bfd10f2d289751a1fc6a",
+          "3a500560e6ace69e08b51736ff1be0ca",
+          "8a8019d432ab4dd9bde4e65faf1b663f",
+          "7fd4d1b5a767fd97343129157782a95f"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂六段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f96cf3af3d9356407bff483d27f4aecc",
+          "a29f9500cebd16cbb8d14b69ace79db1",
+          "871c6aed53c5dd3ac35686d9a92af4f4",
+          "40673cc8ea628a9452f6ae9ac74d5817"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂七段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "a4b59ca055a856b9a200ccfd1bf5c7bc",
+          "a0f48e96286e0ce275a33fd8cb851ff0",
+          "c4134c29746e1ece168159ba4ae88d45",
+          "67a76e7d26f3c3ea99fdc6f912f83021"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂八段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "f0feb9654ae044c0e95ebf68e2497c2e",
+          "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+          "1cf2e138abd7199d6e4656447cfaed6c",
+          "8e0df85dbf59c4753346f1582e2d4422"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂九段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "603aae2c3681cc2562b9b53b50408c69",
+          "79dc444b48299814462ff23a2bf3ab79",
+          "ff5d7235ba643bc85b804a3df2778590",
+          "451ed38cdba0323388027129f5929645"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂十段",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "d6fea1389a86fc14eb354fcc5e60e03e",
+          "e58e3f718d089ec37caa0f2c7149a54b",
+          "1e049d189ef9bef79824f55764517a58",
+          "fb975909eb0f60a9190c7a1007515d4b"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピ発狂皆伝",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "lightgreen",
+        "md5": [
+          "10420967a85371e65db57967e6c696cd",
+          "ebc5946c3de24a01048d1c90cbd5c9d6",
+          "45446f6c96bdb081a2054b80cd8f7208",
+          "39d0732ef7fee9ad0c8b044ccbe8a396"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018 ノースピoverjoy",
+        "constraint": [
+          "grade_mirror",
+          "no_speed"
         ],
         "trophy": [
           {

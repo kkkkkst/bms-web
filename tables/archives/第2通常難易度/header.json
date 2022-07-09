@@ -19,6 +19,7 @@
     "！",
     "？"
   ],
+  "mode": "beat-7k",
   "grade": [
     {
       "name": "初段",
@@ -126,7 +127,8 @@
       {
         "name": "初段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -151,7 +153,8 @@
       {
         "name": "二段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -176,7 +179,8 @@
       {
         "name": "三段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -201,7 +205,8 @@
       {
         "name": "四段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -226,7 +231,8 @@
       {
         "name": "五段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -251,7 +257,8 @@
       {
         "name": "六段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -276,7 +283,8 @@
       {
         "name": "七段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -306,7 +314,8 @@
       {
         "name": "八段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -336,7 +345,8 @@
       {
         "name": "九段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -366,7 +376,8 @@
       {
         "name": "十段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1180,9 +1191,9 @@
     ],
     [
       {
-        "name": "八段2016",
+        "name": "第2通常段位認定2018 初段",
         "constraint": [
-          "grade_mirror"
+          "grade_random"
         ],
         "trophy": [
           {
@@ -1203,14 +1214,272 @@
         ],
         "style": "red",
         "md5": [
-          "7f603d49c3417e75adb8d09e08e369d5",
-          "be720f52dfc491d1bf94dc13a4d6ed47",
-          "1f73e9c19fd5415cae06185bb334e5ca",
-          "6d0e8e0371b74f0fafd1c2d5bb92ecfb"
+          "5734e689de8e977d58c6fb0f91bcee70",
+          "b5b7de75fdeb6df81bbee0b2bdf2903c",
+          "9e748901e6479ae3a202f95c5b6283fb",
+          "e2b3d187cf9e1deddde0a3dac075002e"
         ]
       },
       {
-        "name": "九段2016",
+        "name": "第2通常段位認定2018 二段",
+        "constraint": [
+          "grade_random"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "2c0d139bb400382935ae45259141a17b",
+          "6c6513aeeff510257ac815611d5c6cfa",
+          "ffbde15f030fd17eeec538413573fbe4",
+          "0b8ff4ac23adc8da1ba6249b15769726"
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 三段",
+        "constraint": [
+          "grade_random"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "9f9de34028e76a60094a5a6dd0c5b842",
+          "130fcfa155b634a63949a7fbb810079f",
+          "1be8646458717eeb772a2f138a323c6f",
+          "5d03cc4f129145033a6e92355dec4d88"
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 四段",
+        "constraint": [
+          "grade_random"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "5ed0d97f7f66d9a031ff9176efff07e9",
+          "a01dfe8833ca18c7cf8d909b1dce9577",
+          "00c1dde52394cf2b113dce3fa1935ebf",
+          "af6e11fbd685ec64c01d971b05f8c8bc"
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 五段",
+        "constraint": [
+          "grade_random"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "charts": [
+          {
+            "md5": "97e192275ca1f8295caf2d7db8145049",
+            "title": "Spectacles Bridge"
+          },
+          {
+            "md5": "f9ef37af8006e169b2cdff75c3f09822",
+            "title": "Alice in Misanthrope -厭世アリス- [HYPER]"
+          },
+          {
+            "md5": "d2f44370fe455dc1fbffd8c5c6505e77",
+            "title": "Last Feud ~the period~ [HYPER]"
+          },
+          {
+            "md5": "48fe9800c3b29f1bea58fe408b46349a",
+            "title": "conflict [HYPER]"
+          }
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 六段",
+        "constraint": [
+          "grade_random"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "charts": [
+          {
+            "md5": "5c925be5cfef2aedcbbdf5d6ea45bc2b",
+            "title": "fragments J-CoreRemix"
+          },
+          {
+            "md5": "b35b2481b28877d5846492442bb18d1b",
+            "title": "テキトウInfinite love (BMS edit)"
+          },
+          {
+            "md5": "5e9f0599c1a7fa020ab2b0683272f776",
+            "title": "DENGEKI Tube [HYPER]"
+          },
+          {
+            "md5": "562308fb53613a8baf25784394409709",
+            "title": "Luna Express 2032 [Hyper]"
+          }
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 七段",
+        "constraint": [
+          "grade_mirror"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "charts": [
+          {
+            "md5": "cd76f90327dfea365d98f4e8d53c88a0",
+            "title": "Neural Network [Hyper]"
+          },
+          {
+            "md5": "79ed06a56ab7d01b4b1ee2306bea95a2",
+            "title": "Nhelv [HYPER]"
+          },
+          {
+            "md5": "2c30cf9cf469d5bfc4249e8042d6f225",
+            "title": "恋の2-4-11 (BMS Edit)"
+          },
+          {
+            "md5": "4347dd893c8a19995e7ad08f1f641112",
+            "title": "Aeventyr [ANOTHER]"
+          }
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 八段",
+        "constraint": [
+          "grade_mirror"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "charts": [
+          {
+            "md5": "20daf6c408b4dd1d427efea71e194367",
+            "title": "メルヘニア -malchenia- [ANOTHER]"
+          },
+          {
+            "md5": "321af1c1e0db37d1edf6dd49bd738933",
+            "title": "Total Eclipse of the Sun -Hyper-"
+          },
+          {
+            "md5": "fb61fbc91adf5a805528697564d838d1",
+            "title": "Auburn Halo"
+          },
+          {
+            "md5": "8f5d64954bb19efbf9a886134f79193e",
+            "title": "world devoid of you (fairydust radio edit // SP Another)"
+          }
+        ]
+      },
+      {
+        "name": "第2通常段位認定2018 九段",
         "constraint": [
           "grade_mirror"
         ],
@@ -1233,14 +1502,14 @@
         ],
         "style": "red",
         "md5": [
+          "325213609ad69f4bb9bcb61735318423",
+          "d53d561ce0296739755b4c03208c375c",
           "223274bfa8d1fa0c32851a273cd28858",
-          "b2697e62f327e504c3bf33e200b93288",
-          "668a238afc2ef29efa87c0fd4a7166b5",
-          "05cb145488b5fd46972b904ff527bba9"
+          "aae406911863082a192b77a4c1212fb7"
         ]
       },
       {
-        "name": "十段2016",
+        "name": "第2通常段位認定2018 十段",
         "constraint": [
           "grade_mirror"
         ],
@@ -1263,10 +1532,10 @@
         ],
         "style": "red",
         "md5": [
-          "34e09ddf69ae8bdca128db1cc39d163a",
-          "1795731242284bdc443c82b20f243b3f",
-          "0f05b8a42d5565b53d2f1143e432c482",
-          "f721ccf7812feb4380110a237e5f8953"
+          "1cffb346b9a80b2bc119dd95e8a162c8",
+          "711006f06cb07a40e4dc6f0afaa8095c",
+          "5a124174934f23be7749c58eba89428e",
+          "54eaf5c717d0cbc0698f7c624d482ec4"
         ]
       }
     ],
@@ -1274,7 +1543,8 @@
       {
         "name": "GENOCIDE初段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1304,7 +1574,8 @@
       {
         "name": "GENOCIDE二段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1334,7 +1605,8 @@
       {
         "name": "GENOCIDE三段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1364,7 +1636,8 @@
       {
         "name": "GENOCIDE四段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1394,7 +1667,8 @@
       {
         "name": "GENOCIDE五段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1424,7 +1698,8 @@
       {
         "name": "GENOCIDE六段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1454,7 +1729,8 @@
       {
         "name": "GENOCIDE七段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1484,7 +1760,8 @@
       {
         "name": "GENOCIDE八段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1514,7 +1791,8 @@
       {
         "name": "GENOCIDE九段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -1544,7 +1822,8 @@
       {
         "name": "GENOCIDE十段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2198,9 +2477,10 @@
     ],
     [
       {
-        "name": "GENOCIDE 次期初段案",
+        "name": "GENOCIDE 2018初段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2222,15 +2502,16 @@
         "style": "red",
         "md5": [
           "ae11930223a8f24e91633f1a7864e1eb",
-          "220ed35f93dffdf88d1d8350257628a3",
-          "9c25107d738d5dfb16a9fd62d7500a1b",
-          "f2031ebb98737ec4e0b9103002f6b2a4"
+          "cb661ee05c67990012bfd12703ba656c",
+          "328dbf235f3b6cb2791e71bfb62951f8",
+          "7c6ca04aa14d07b2c081f4dd35432844"
         ]
       },
       {
-        "name": "GENOCIDE 次期二段案",
+        "name": "GENOCIDE 2018二段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2251,16 +2532,17 @@
         ],
         "style": "red",
         "md5": [
-          "aad5e34ffc556aa954f93d2515f3ed0b",
-          "abd8fc9eaf68907ffaeaaeb28724ef88",
-          "472d422946de8fae0f6c2c4feb057400",
-          "06e7438b5a002991e77149da86a013ea"
+          "56528c5f77d140bebf5c3b7070471808",
+          "d3ed28d0958cd17a93635c6a5604d0aa",
+          "daab2e157ac86ff4374ffff00a129f85",
+          "a0aac381114f31691c16b864a401d926"
         ]
       },
       {
-        "name": "GENOCIDE 次期三段案",
+        "name": "GENOCIDE 2018三段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2281,16 +2563,17 @@
         ],
         "style": "red",
         "md5": [
-          "92dce1d2695db09e61d72f4ed14d5a21",
-          "d896f4e98530a21db27a6e41dc4938db",
+          "ad6a62789520c5591c37dada7a063892",
+          "fba939901ecf81d6d0ffe6c605f17676",
           "d89ea641d2ae9502d43f6905a5ede5a0",
           "29ff7e29c35b7d72cb1a7437fc09b36d"
         ]
       },
       {
-        "name": "GENOCIDE 次期四段案",
+        "name": "GENOCIDE 2018四段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2311,16 +2594,17 @@
         ],
         "style": "red",
         "md5": [
-          "1bfb70ffa6fdd7640e17da077e6bf427",
-          "90f5436e8f5ea33ee12b5c556777b798",
-          "7a2fc0e27c007b8071c7d2875fceac8a",
-          "39c8edfee193f0597811ce0fe243edee"
+          "935ac8a2d9a3e2307a6e0206f87c22ad",
+          "b177143ae68115a0702db737a7e7c504",
+          "8e17f96a8440ff15923bfe228409c9b6",
+          "6dddd7873ce15935d891730e6f17b992"
         ]
       },
       {
-        "name": "GENOCIDE 次期五段案",
+        "name": "GENOCIDE 2018五段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2341,16 +2625,17 @@
         ],
         "style": "red",
         "md5": [
-          "573a647fd0ebdfe379d62a505facdb4c",
+          "c3912d126e1af67d32d236397a7510cb",
+          "dbf71bc8344d4fd406e154e599c5c27c",
           "2e962e84f9ceeb87535fe50a382a380a",
-          "0eeebc417e282474adf47e30de70fc51",
-          "dbf71bc8344d4fd406e154e599c5c27c"
+          "d2f44370fe455dc1fbffd8c5c6505e77"
         ]
       },
       {
-        "name": "GENOCIDE 次期六段案",
+        "name": "GENOCIDE 2018六段",
         "constraint": [
-          "grade_random"
+          "grade_random",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2378,9 +2663,10 @@
         ]
       },
       {
-        "name": "GENOCIDE 次期七段案",
+        "name": "GENOCIDE 2018七段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2404,13 +2690,14 @@
           "4d87528933213d3427ee870c71791538",
           "761863c63ecfc1a579f87be40632cce1",
           "af07aa8958ee69c4b1ba0876adab86ea",
-          "2952370d0f0cdbc36871c96406c50f55"
+          "e9d2bc9465b6172c27df0d7da71f10d6"
         ]
       },
       {
-        "name": "GENOCIDE 次期八段案",
+        "name": "GENOCIDE 2018八段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2438,9 +2725,10 @@
         ]
       },
       {
-        "name": "GENOCIDE 次期九段案",
+        "name": "GENOCIDE 2018九段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
         ],
         "trophy": [
           {
@@ -2468,9 +2756,946 @@
         ]
       },
       {
-        "name": "GENOCIDE 次期十段案",
+        "name": "GENOCIDE 2018十段",
         "constraint": [
-          "grade_mirror"
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "f14357d72c2c11081fd45dc00aa4cffa",
+          "ce73f117ef9c4a3ff40fb8069e1c3dda",
+          "2356c21a671f059293a24d4cf14f0db2",
+          "5f6f1c5d3fca5edba8edd537d9927c61"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "GENOCIDE ノースピ2018初段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "ae11930223a8f24e91633f1a7864e1eb",
+          "cb661ee05c67990012bfd12703ba656c",
+          "328dbf235f3b6cb2791e71bfb62951f8",
+          "7c6ca04aa14d07b2c081f4dd35432844"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018二段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "56528c5f77d140bebf5c3b7070471808",
+          "d3ed28d0958cd17a93635c6a5604d0aa",
+          "daab2e157ac86ff4374ffff00a129f85",
+          "a0aac381114f31691c16b864a401d926"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018三段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "ad6a62789520c5591c37dada7a063892",
+          "fba939901ecf81d6d0ffe6c605f17676",
+          "d89ea641d2ae9502d43f6905a5ede5a0",
+          "29ff7e29c35b7d72cb1a7437fc09b36d"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018四段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "935ac8a2d9a3e2307a6e0206f87c22ad",
+          "b177143ae68115a0702db737a7e7c504",
+          "8e17f96a8440ff15923bfe228409c9b6",
+          "6dddd7873ce15935d891730e6f17b992"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018五段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "c3912d126e1af67d32d236397a7510cb",
+          "dbf71bc8344d4fd406e154e599c5c27c",
+          "2e962e84f9ceeb87535fe50a382a380a",
+          "d2f44370fe455dc1fbffd8c5c6505e77"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018六段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "33c6dd9cfe024f2600c2cfe6ae42df43",
+          "c72d51c6d648ea7b5863ca3bfe52a66c",
+          "f2ef13a310d8d500b918c5126e13ccb1",
+          "52650f7ca6b989917f095f0635c71da4"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018七段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "4d87528933213d3427ee870c71791538",
+          "761863c63ecfc1a579f87be40632cce1",
+          "af07aa8958ee69c4b1ba0876adab86ea",
+          "e9d2bc9465b6172c27df0d7da71f10d6"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018八段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "07193291a7222c7a1d1f542b6c081953",
+          "cb95efd400d207ab019bb481c508060a",
+          "86030ae0cb6945ba653176e021fca4fd",
+          "5dc2ecda7d5a5615ed10a132ac3cd4bd"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018九段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "18aa482e76edfda904b3cf3d646c59bf",
+          "07baa34abf34131ee20ab40b70354037",
+          "7f31675fdb02c22e392e5b98de1baec4",
+          "77dd6afb7bfb291774fbdcf5aa0db282"
+        ]
+      },
+      {
+        "name": "GENOCIDE ノースピ2018十段",
+        "constraint": [
+          "grade_random",
+          "no_speed"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "f14357d72c2c11081fd45dc00aa4cffa",
+          "ce73f117ef9c4a3ff40fb8069e1c3dda",
+          "2356c21a671f059293a24d4cf14f0db2",
+          "5f6f1c5d3fca5edba8edd537d9927c61"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "GENOCIDE NO GOOD2018初段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "ae11930223a8f24e91633f1a7864e1eb",
+          "cb661ee05c67990012bfd12703ba656c",
+          "328dbf235f3b6cb2791e71bfb62951f8",
+          "7c6ca04aa14d07b2c081f4dd35432844"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018二段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "56528c5f77d140bebf5c3b7070471808",
+          "d3ed28d0958cd17a93635c6a5604d0aa",
+          "daab2e157ac86ff4374ffff00a129f85",
+          "a0aac381114f31691c16b864a401d926"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018三段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "ad6a62789520c5591c37dada7a063892",
+          "fba939901ecf81d6d0ffe6c605f17676",
+          "d89ea641d2ae9502d43f6905a5ede5a0",
+          "29ff7e29c35b7d72cb1a7437fc09b36d"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018四段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "935ac8a2d9a3e2307a6e0206f87c22ad",
+          "b177143ae68115a0702db737a7e7c504",
+          "8e17f96a8440ff15923bfe228409c9b6",
+          "6dddd7873ce15935d891730e6f17b992"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018五段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "c3912d126e1af67d32d236397a7510cb",
+          "dbf71bc8344d4fd406e154e599c5c27c",
+          "2e962e84f9ceeb87535fe50a382a380a",
+          "d2f44370fe455dc1fbffd8c5c6505e77"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018六段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "33c6dd9cfe024f2600c2cfe6ae42df43",
+          "c72d51c6d648ea7b5863ca3bfe52a66c",
+          "f2ef13a310d8d500b918c5126e13ccb1",
+          "52650f7ca6b989917f095f0635c71da4"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018七段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "4d87528933213d3427ee870c71791538",
+          "761863c63ecfc1a579f87be40632cce1",
+          "af07aa8958ee69c4b1ba0876adab86ea",
+          "e9d2bc9465b6172c27df0d7da71f10d6"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018八段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "07193291a7222c7a1d1f542b6c081953",
+          "cb95efd400d207ab019bb481c508060a",
+          "86030ae0cb6945ba653176e021fca4fd",
+          "5dc2ecda7d5a5615ed10a132ac3cd4bd"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018九段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "18aa482e76edfda904b3cf3d646c59bf",
+          "07baa34abf34131ee20ab40b70354037",
+          "7f31675fdb02c22e392e5b98de1baec4",
+          "77dd6afb7bfb291774fbdcf5aa0db282"
+        ]
+      },
+      {
+        "name": "GENOCIDE NO GOOD2018十段",
+        "constraint": [
+          "grade_random",
+          "no_good"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "f14357d72c2c11081fd45dc00aa4cffa",
+          "ce73f117ef9c4a3ff40fb8069e1c3dda",
+          "2356c21a671f059293a24d4cf14f0db2",
+          "5f6f1c5d3fca5edba8edd537d9927c61"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "GENOCIDE 2018初段(5鍵ゲージ)",
+        "constraint": [
+          "grade_random",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "ae11930223a8f24e91633f1a7864e1eb",
+          "cb661ee05c67990012bfd12703ba656c",
+          "328dbf235f3b6cb2791e71bfb62951f8",
+          "7c6ca04aa14d07b2c081f4dd35432844"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018二段(5鍵ゲージ)",
+        "constraint": [
+          "grade_random",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "56528c5f77d140bebf5c3b7070471808",
+          "d3ed28d0958cd17a93635c6a5604d0aa",
+          "daab2e157ac86ff4374ffff00a129f85",
+          "a0aac381114f31691c16b864a401d926"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018三段(5鍵ゲージ)",
+        "constraint": [
+          "grade_random",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "ad6a62789520c5591c37dada7a063892",
+          "fba939901ecf81d6d0ffe6c605f17676",
+          "d89ea641d2ae9502d43f6905a5ede5a0",
+          "29ff7e29c35b7d72cb1a7437fc09b36d"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018四段(5鍵ゲージ)",
+        "constraint": [
+          "grade_random",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "935ac8a2d9a3e2307a6e0206f87c22ad",
+          "b177143ae68115a0702db737a7e7c504",
+          "8e17f96a8440ff15923bfe228409c9b6",
+          "6dddd7873ce15935d891730e6f17b992"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018五段(5鍵ゲージ)",
+        "constraint": [
+          "grade_random",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "c3912d126e1af67d32d236397a7510cb",
+          "dbf71bc8344d4fd406e154e599c5c27c",
+          "2e962e84f9ceeb87535fe50a382a380a",
+          "d2f44370fe455dc1fbffd8c5c6505e77"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018六段(5鍵ゲージ)",
+        "constraint": [
+          "grade_random",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "33c6dd9cfe024f2600c2cfe6ae42df43",
+          "c72d51c6d648ea7b5863ca3bfe52a66c",
+          "f2ef13a310d8d500b918c5126e13ccb1",
+          "52650f7ca6b989917f095f0635c71da4"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018七段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "4d87528933213d3427ee870c71791538",
+          "761863c63ecfc1a579f87be40632cce1",
+          "af07aa8958ee69c4b1ba0876adab86ea",
+          "e9d2bc9465b6172c27df0d7da71f10d6"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018八段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "07193291a7222c7a1d1f542b6c081953",
+          "cb95efd400d207ab019bb481c508060a",
+          "86030ae0cb6945ba653176e021fca4fd",
+          "5dc2ecda7d5a5615ed10a132ac3cd4bd"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018九段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "style": "red",
+        "md5": [
+          "18aa482e76edfda904b3cf3d646c59bf",
+          "07baa34abf34131ee20ab40b70354037",
+          "7f31675fdb02c22e392e5b98de1baec4",
+          "77dd6afb7bfb291774fbdcf5aa0db282"
+        ]
+      },
+      {
+        "name": "GENOCIDE 2018十段(5鍵ゲージ)",
+        "constraint": [
+          "grade_mirror",
+          "gauge_5k"
         ],
         "trophy": [
           {

@@ -491,16 +491,6 @@
   },
   {
     "level": "-2",
-    "title": "Redestruct (secret)",
-    "artist": "穴楽 / obj:Rian",
-    "url": "https://web.archive.org/web/20120410154435/http://kurenaissance.web6.jp/bms/redestruct.rar",
-    "url_diff": "https://stellabms.xyz/upload/263",
-    "md5": "a7c645ec4136c4eb25f10a7556770153",
-    "comment": "sub sl10/324",
-    "打鍵速度": "324"
-  },
-  {
-    "level": "-2",
     "title": "Stargazer [Gaussian prime]",
     "artist": "Lime obj:1008",
     "url": "https://onedrive.live.com/?authkey=%21ACus%5FtYiwMpTc6A&id=B32C1D1F5C2CC841%21111&cid=B32C1D1F5C2CC841#authkey=%21ACus%5FtYiwMpTc6A&cid=B32C1D1F5C2CC841&id=B32C1D1F5C2CC841%21132&parId=B32C1D1F5C2CC841%21111&action=defaultclick",
@@ -748,6 +738,16 @@
     "md5": "fd2154a3618eac430db0564f0552c9a3",
     "comment": "▼20/310",
     "打鍵速度": "310"
+  },
+  {
+    "level": "-1",
+    "title": "Redestruct (secret)",
+    "artist": "穴楽 / obj:Rian",
+    "url": "https://web.archive.org/web/20120410154435/http://kurenaissance.web6.jp/bms/redestruct.rar",
+    "url_diff": "https://stellabms.xyz/upload/263",
+    "md5": "a7c645ec4136c4eb25f10a7556770153",
+    "comment": "sub sl10/324",
+    "打鍵速度": "324"
   },
   {
     "level": "-1",
@@ -2071,16 +2071,6 @@
   },
   {
     "level": "3",
-    "title": "antilife (s-ther)",
-    "artist": "甘党マニア obj:st",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=60",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3206.zip",
-    "md5": "bf8a7ee32baa66472999688139c3a83e",
-    "comment": "sub st3/332,498",
-    "打鍵速度": "332498"
-  },
-  {
-    "level": "3",
     "title": "Angelic Snow [mildelay]",
     "artist": "Est / obj:n",
     "url": "http://estish.nobody.jp/",
@@ -2478,6 +2468,16 @@
     "md5": "8629d11186b349a73ddcc37b9fada966",
     "comment": "292",
     "打鍵速度": "292"
+  },
+  {
+    "level": "4",
+    "title": "antilife (s-ther)",
+    "artist": "甘党マニア obj:st",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=60",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3206.zip",
+    "md5": "bf8a7ee32baa66472999688139c3a83e",
+    "comment": "sub st3/332,498",
+    "打鍵速度": "332498"
   },
   {
     "level": "4",
@@ -5558,6 +5558,16 @@
     "md5": "75c4a795eaf4076c59852cb2c52e3b23",
     "comment": "564",
     "打鍵速度": "564"
+  },
+  {
+    "level": "10",
+    "title": "stairway to the universe [stairway]",
+    "artist": "maki obj. universe",
+    "url": "http://aquaseeds.net/",
+    "url_diff": "https://stellabms.xyz/upload/1817",
+    "md5": "50c488432674dbb21fd505ddbfd901f2",
+    "comment": "456",
+    "打鍵速度": "456"
   },
   {
     "level": "10",

@@ -73773,20 +73773,1928 @@
     "url_diff": ""
   },
   {
-    "level": "",
-    "sha256": "",
-    "title": "#N/A",
-    "artist": "#N/A",
-    "md5": "#n/a",
+    "level": "★★9",
+    "sha256": "c338ccac203c5096a77ee5a298cd6886ef49edf45db7e58ed0ffc5f4cb52a7cc",
+    "title": "chaotic depravedness [Hexagon] ",
+    "artist": "REVLIS",
+    "md5": "a6a2430f258bd453a8f33d43534146da",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★7",
+    "sha256": "cacb2f6d8087a7aab9a9d6d15c2cd0ceee71e8dcc8505e1b5e1c57f98fb19554",
+    "title": "Valkyrie Revolutia [Super Hexagon] ",
+    "artist": "Sakamiya",
+    "md5": "5267eb8a7dde7bced341bd0e261d4008",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "c74e85422c0e7691309a4c5188c5c4942e251299c62a843d440965de3112c7d9",
+    "title": "cycedelica(7KEY-END) ",
+    "artist": "美月 正 obj. sera",
+    "md5": "404937351f39007a7a211e154feebadb",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "4c6cf2d3988bca6bdf5ed7d998d684c85fa33ea43fffed802f38cb2e958fce65",
+    "title": "#ERROR!",
+    "artist": "sasakure.UK / И",
+    "md5": "4f8dbc1b122c133f1366c6cb8203491c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "0f4d598947a3e9339d3f60e281bc604348ff65f91aae680b6306c74fd56255ae",
+    "title": "なつのえにっき (ANOTHER) ",
+    "artist": "Lul",
+    "md5": "ed27f202057193a1e6523037fc0a3577",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "0cc898d1bc1c2c0457fef8a1d0526d49d268522b0c13c9d384f3fe5b264987de",
+    "title": "Little Light　(SP twinkle) ",
+    "artist": "PROJECT SOM / obj:mikasa",
+    "md5": "42fd6f6b538964ce5feac99ae8f4635d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "920e0034ce7b482d7704d6a17d36b403f5b55b5a7b2a514927d4765d9a80b33d",
+    "title": "Blue-White Crazybits[HYPER] ",
+    "artist": "234",
+    "md5": "f0606160c6a230b9a111667159a53ecf",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "f2c4a5490ff21e58bbcf2dbee811433713efdad65970f826aa3553a512fcfcb6",
+    "title": "Blue-White Crazybits[ANOTHER-] ",
+    "artist": "234 (obj.mp)",
+    "md5": "bd3ed464b4cafaa0818551515c993cfe",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "d2bffcdf28f2837fe09de12572f424ea53fbba125e1ddebbc4ed5b052ee7c4d8",
+    "title": "AIWS -INSANE-",
+    "artist": "くるぶっこちゃん",
+    "md5": "2ecc897c9efda2cb7bcb6bd6f127a632",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "720df1214bb6726827db8d9f4648bdee18c1ce8cc5e0dc0cf8a4be67b481a84f",
+    "title": "AIWS [UNITHER]",
+    "artist": "くるぶっこちゃん",
+    "md5": "097f0b9df382c26f414b443df9da5818",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "f4442c885fa975214eefdc880d4c47a87ed9310f6a4a5c84c45ab2c3d1c1a62a",
+    "title": "AIWS (entrance hole) ",
+    "artist": "くるぶっこちゃん / obj.tigris",
+    "md5": "958476da93559ea9a7ac4e4e907c6d68",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "6c62f45d442064cc6b90c6f9b7f9e6678f7c5c28800c2d7e4e0a688a0b1c86d3",
+    "title": "花たちに希望を [SP ANOTHER] ",
+    "artist": "Sound piercer feat.DAZBEE",
+    "md5": "6dd98afe070ed65cef6734cdeb813d02",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★???",
+    "sha256": "319db32c2e65a1b1ee98a4180f0b728c141e73263e39a30bbc24cbf2fbe9373d",
+    "title": "煉情ミスティフィリア [Purgatory]",
+    "artist": "Sakamiya feat.一花",
+    "md5": "3769518692a7a8acea1caa9b9aed756b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "d29c3a5383351f6d6db86f4989efeb9834d79c53dd12c26e5707b291007f1d95",
+    "title": "Daydream RE-Construction [SP HYPER] ",
+    "artist": "P4koo/ezgoon",
+    "md5": "e23143e27d5aeffbf4b6b39692f97be2",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "715813a1ba2d2546ae0391c76844ec487b50e94918824725b77a71800911374b",
+    "title": "Magnon[ANOTHER_A] ",
+    "artist": "Sho Fish",
+    "md5": "013dc751c11c6faab600ec00b50b8767",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "f441224431d1011d6e3867653e5861691f5a792a702cb10d179755f6411c65cc",
+    "title": "Sparkling Latinade [7Key Olea] ",
+    "artist": "Kamisys, Mellover / Dsharp",
+    "md5": "1b34e3ec3fcc1e7fd09f5109ca96319c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "f4593bc0ecd692aed3fd5909c88747dab06fb6cfdee89cc72fa90fb5fed24cff",
+    "title": "Limitless Capability[Another] ",
+    "artist": "Jun Kuroda",
+    "md5": "d0508f3b7e12798df8b8a74923adeecb",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "62c75957a9ebd8028964f602c937eb0c5c70eeee46537dd6f739e4ead04370a1",
+    "title": "Sound of Monochrome -INSANE-",
+    "artist": "くるぶっこちゃん",
+    "md5": "9c0e0d426485762591a96954625304f5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "68088898e43523630e06d67a089f7da6999d034be16fd8421f894649a5fd8e95",
+    "title": "Portal ",
+    "artist": "LU & Takuya Namba",
+    "md5": "c6380f5cef70de194cc7338bb731d4e4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "e4f4776a1c3f5c8e20183f89477941a7f70c942ea5860ed006baf350318e831c",
+    "title": "Ridework ",
+    "artist": "AkA-110",
+    "md5": "35d44670e6344df3f6c425e2c9cf183b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "3bd0314bd79ec4d9594d9a441075bc25dadf1a6da4ba04955a580fa8700c1ffc",
+    "title": "Lacsonium (QR Progressive Trance mix) ",
+    "artist": "NDEX remixed by Quree",
+    "md5": "02a834215779657d06505f7d8396a0c7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "104410d1d7144c410e1d6507ea0643a86f1833c834aeeedaf4c97838ee3016d3",
+    "title": "Microwave [Another] ",
+    "artist": "genesik vs Nuribit / vol-t",
+    "md5": "bb7f4b787252b55a67ee74f9f44e73c9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "78f9b3185664036429f6e208ee103bf037208f0cb60280cf4fae8b2cd70fe0ab",
+    "title": "Nightmare Alert ",
+    "artist": "EnFr / V-Ex.Far / obj : liit",
+    "md5": "e1b5c0ada89954a0b1bcdef83a698b8e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "3051cfecb61e42122b7cc208e4282f4badb8520451069002d2c0565c6b83495e",
+    "title": "Nightmare Alert ",
+    "artist": "EnFr / V-Ex.Far / obj : Reverie",
+    "md5": "fbbc383dafc7279e325447773d8486aa",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "66eb8677f845c739602491e1fe6d72863b1c847f39f1999178b7dc4e3a469325",
+    "title": "No Fear ",
+    "artist": "genesik / Dynamite Roll",
+    "md5": "e8f9d85d6ee0bc8fa9a13c5e3f11ac95",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "3d65b16b187351ba10fe0f3498d6a4fe92385c3625db392d25b8e8b73d09ee43",
+    "title": "On a Lake EX ",
+    "artist": "JongCo",
+    "md5": "f8731f6822020df61b8dc834f8cd319e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "5339759d959ed65f3cbfc5a75630e0aab87656dee038e121924e65870d68dffc",
+    "title": "事象の地平 ",
+    "artist": "wa. / 制限",
+    "md5": "9a3017bd3a2292ecfff166e93cfa1605",
+    "comment": "10～11",
+    "url_diff": ""
+  },
+  {
+    "level": "★11",
+    "sha256": "eeaaec13db871212f4dcf4357b69aa62c6c8a0a5b0256a7f990ec9257c9e24ff",
+    "title": "Iolite Quintz [IQ60] ",
+    "artist": "chip obj:goe",
+    "md5": "3dc9a8b85d186a3dd73419ab2d6b4365",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "3b91c38d716294ecc2039b02e4923ae98f17492025368efc82554ae3b995b12b",
+    "title": "experiment beat-another- ",
+    "artist": "VjHEaRTs/yo.t/UN&CO/落合/sarada",
+    "md5": "29af8b50d28eec45a7f18680981f8917",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★???",
+    "sha256": "aca3402928a7e3899bd9a7fef8fdf6a9bc3791431b37219aaf38b2016e3da4a4",
+    "title": "RAY ",
+    "artist": "MILK / obj:KEH",
+    "md5": "9732e04d2d2c7a36c9679e0395ca6247",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★12",
+    "sha256": "d84fbbafc798457eaa2af3b1b52312c9b3b9f6539b5b806fb833653db9d51e5f",
+    "title": "Karakuri Plum [Twinkle] ",
+    "artist": "Mitsu☆ / obj.fuko",
+    "md5": "6cce08149083054dbf5ee7fb0db92b58",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★3",
+    "sha256": "a568202e2f6bf875ba66e872f497a9918f561811545a08d19ba8491dfebf8f1e",
+    "title": "Karakuri Plum [Flora] ",
+    "artist": "Mitsu☆ / obj.fuko",
+    "md5": "9a0207231db33e28853776c9f86eb5dd",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★10",
+    "sha256": "96e75ccbbc5f3efd6ecd2b403603d6d7a0d7e883b5223829f9f4217356cfe89e",
+    "title": "ephemera(MADMAN) ",
+    "artist": "ABE3 / Ds",
+    "md5": "ec99a79321f116a6ba6499d755a5eeb5",
+    "comment": "9～10。つらい",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "1cfb577540d7a2e2b2b9ba460c304f7507fdb554c7bf452cdafb94c8209e827d",
+    "title": "G.N. [NORMAL] ",
+    "artist": "keyc",
+    "md5": "2d7c35ec87b1726c7c0a4a9c1954eced",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "7dbc2461a1660b26a4e0205fbfe7f470f2790e0b84f25cf14e9835bb3f4c78b4",
+    "title": "fade scape [SP Another] ",
+    "artist": "void",
+    "md5": "844ccfdc73bc2283a8f9fa17e1d09fee",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "ded1ec512005744777fd5743198e21db9f5e3a8438b8f59bb4fa4b5b4239da9d",
+    "title": "Dreams&Phantasms [ANOTHER] ",
+    "artist": "CP.ARCHE",
+    "md5": "7d253649e2a0b9646cc4c1951107daf6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "0765fc14424337a616011c8b2580712530f763a1fda193da8851a79230746d9d",
+    "title": "marine snow ",
+    "artist": "LaValse",
+    "md5": "412b4a5a4bb668afdf76b8c696d552b7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "89db64536860e613c56b4dba28956f6d6b11da020cadee58a13fdf55b5d255ff",
+    "title": "Ende-A- ",
+    "artist": "bj.HaLo",
+    "md5": "97b8214bf772e571b6985327a85b3d7a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "ba0d222bfae4c3e71a268a55dc9671db05b0527838e637f3429167fbe10eb859",
+    "title": "At the edge of dreams(NORMAL) ",
+    "artist": "α-2",
+    "md5": "9566b0fe515875597dd19d1edee3e002",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "4cc39ffd5d0ae05e1612ec393e44185567d58a884f1301730d77399acadfef18",
+    "title": "Snow White [Avalanche] ",
+    "artist": "Puru",
+    "md5": "843c1a7ee6d0f2667b82fda0dbee0cfe",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "31d27fa289cd0f304b368e65a1eb0900f017c2a23aaaee341183c25c6c2049d1",
+    "title": "Pain Continues ",
+    "artist": "q/stol",
+    "md5": "ffe57b73ac242147fd570d984e6bdf3e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "e1cbe02ccb1d7d4989d4382e86e8b2ee4985e13ee0db46f7f834881e74069bb0",
+    "title": "Native Esteemed Geoscience And Terrible Infection Vestige of Education -EASY-",
+    "artist": "scytheleg",
+    "md5": "0bbdaa63622f7a94ac07d4f3a813e511",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "ceee67915058991edcbf67030f48e62baa71fd43bbbebfd434c97b74a85945d0",
+    "title": "Valkyrie Attack [SP HYPER]",
+    "artist": "黒皇帝",
+    "md5": "572d474bb3764662b3c4a9a0437e5627",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "b0c2fda1cfe2dd8e37dc8e99fe39fd539fd072a7bf8fd01f2a10fce1c150648e",
+    "title": "Valkyrie Attack [SP ANOTHER]",
+    "artist": "黒皇帝",
+    "md5": "337d2b702f280a7ad8d1dcb79e11b274",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "69d1bb97f0fcc0f319f497f70de47d463b65ae63cb8232e4082859f46da8c373",
+    "title": "Ninja Castle [Hyper] ",
+    "artist": "Yu^ta",
+    "md5": "c3f593c845b5d2e5443f8954921dc16f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "620e33adefd98c9ae6854da70e878e1b25fe1d548c200243e77ffee906215f1d",
+    "title": "GRID ",
+    "artist": "Yosk!",
+    "md5": "2383447daed41388d903c38f8f622908",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "4c72b8e32e9940979cc94383032ea7df2336500380302de35829e94d387fd649",
+    "title": "CHAOS ANGEL ACT1 ",
+    "artist": "KITUNE",
+    "md5": "955bb32d1c2b1c2503e8d919ecfe4f2f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "d04111252bf1745ffac2cac26746857616f58bcdc32b0d9157d56036ca8e86cb",
+    "title": "gigagod freeze-R ",
+    "artist": "remixed by VoV",
+    "md5": "eb177b1c36ae60b73874dcc2e1b59f27",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "6cd8b5facbf78e33a11c225db158482557734561acd6d9c6516418bf2c33d3e2",
+    "title": "雨 [RUNOTHER] ",
+    "artist": "TamaDo / obj:K-SPIN",
+    "md5": "3c877a5b11404e56a2c7e5c8e24b5aad",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "3e1d72f3439dfaabacb471d1b8e322d4bc7aa862a87f4ee4a823bc67db85ad57",
+    "title": "虫 [Insecta] ",
+    "artist": "38k / obj:NASA",
+    "md5": "b096eb7be1ff27a5c5fa52abd272d421",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "d8d594b67ee63c566ed3e9d600f0c7079677652857d18a39e755be70afd69d72",
+    "title": "DISCHARGE RUSH[Creation] [creation]",
+    "artist": "ETIA. vs MM Sequence/obj_jakko",
+    "md5": "e96c0172a9372f58d45ccc0c139c5d8c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "cd465bf02652a122e3138d5f59de304486a7c37192186e2d160177689d26b12f",
+    "title": "DISCHARGE RUSH [Linther]",
+    "artist": "ETIA. vs MM Sequence / obj : LindBlum",
+    "md5": "1f6c47aeb3abd40960a9b20a6a9c2710",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★8",
+    "sha256": "cd465bf02652a122e3138d5f59de304486a7c37192186e2d160177689d26b12f",
+    "title": "DISCHARGE RUSH [Linther]",
+    "artist": "ETIA. vs MM Sequence / obj : LindBlum",
+    "md5": "1f6c47aeb3abd40960a9b20a6a9c2710",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★11",
+    "sha256": "7205fcaad20b602cd0e26f66c83324eb327d7aefca5a88714849f6d96822b3df",
+    "title": "Ereshkigal(FOOLISH) ",
+    "artist": "ABE3",
+    "md5": "dab5146a185e036cb1514b71edf1032a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★10",
+    "sha256": "009d4b1efd2ba4f26197483ed0882363d317867d731ff12e439f29093a73fa89",
+    "title": "Ereshkigal(KOOKY) ",
+    "artist": "ABE3",
+    "md5": "73b3fdb9fbacf4895f955e29cc44c454",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "cefa32920d773a57ae0195c744f0e4e0ea2268c5a35f3e46c6c6a1379ee04b08",
+    "title": "tinnitus -7 hyper- ",
+    "artist": "SP-#",
+    "md5": "c2a8f46fa00483f20f144967ca6a0700",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "93e0fcf81ca25ab45e531c630edc836827ed9752001a09ea1946c32026665fef",
+    "title": "Terpsichore[Another] ",
+    "artist": "Jun Kuroda",
+    "md5": "8ee27fdf11d23e00a8d51de977068b7e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "e62469774cfeb4e7773cdbb190cd2c708e79b8098b55f21757b267fa68821664",
+    "title": "先手必勝戦闘機　鳳 -HYPER- ",
+    "artist": "Dr.A (BGA:八嶋)",
+    "md5": "f8ca895feb437197dc128f50e018f0d7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "313f22d20765839e91204d03ffca0bb4a5088b7ee71adbb97868a810a1d8db24",
+    "title": "先手必勝戦闘機　鳳 -ANOTHER- ",
+    "artist": "Dr.A (BGA:八嶋)",
+    "md5": "67ca10f17f2bd4a4cde89edff2946070",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "f08c5b8e84a5ce9c3338e43c000f1596ed516904f78eecb21c3deb94faab83b8",
+    "title": "Space Diving [Another] ",
+    "artist": "yuutee",
+    "md5": "81856483ab38df7fb0d4b45deff22e96",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "b7df656aa6d2bd4b8eff66001dc982e48d9d6ecb8e71b61b2b56fa48ff74c2d5",
+    "title": "Re Confront[ANOTHER] ",
+    "artist": "東の恐竜",
+    "md5": "3d121ff2599ba6a9f0c936f4669324e4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "4fa232d2a7ca5b4ab96a2f9d31a6f3bb934714929e4bbeff1a3bef615d4cf4e7",
+    "title": "Zwielichtquarz(Jungle footwork remix) ",
+    "artist": "maru",
+    "md5": "a025572d620c301fafb4bab3b77f2040",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "15d194e7516c5334248fd913b0eeea6aed91fe37665b1f9d821f00367d7fc1e4",
+    "title": "Micro Hazard ",
+    "artist": "SHALE",
+    "md5": "105da0fcfe4e20686f0e5480a6fba6b0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "9bbc53fe324f1de8d5537f8614a46b78005d03fa78bc9349ccde5f329452f9f6",
+    "title": "Micro Hazard ",
+    "artist": "SHALE",
+    "md5": "0f3a122c152f0eba93e7c643aa07510c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "4ef5df6227fceb912d9f34eaae988ff4daf1c89a43a8a1a20bc115a1654b29b7",
+    "title": "戒 ",
+    "artist": "皐と虚無 (satsuki vs. void)",
+    "md5": "faac52ac6ad7e43031cd0105910b071c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "7d170373c9bba198343750b83b2547c9329fc679a78f48c702d82b6c76ec025f",
+    "title": "reliance ",
+    "artist": "U-hey Seta feat.madoka*",
+    "md5": "139021b4841377605a42b778f19b12cb",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "b7ff6726f58ec9b976b6abef4acb4f2d21358fb66a0d97c9422ea9097a8c880e",
+    "title": "reliance ",
+    "artist": "U-hey Seta feat.madoka*",
+    "md5": "d303d6bc824721f3d1b5c2c406cc58e8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "b270299efbae9c3e3ec77de7a6ca056ed6b131691a37971113ecd015e984d45e",
+    "title": "下り華道 [ANOTHER]",
+    "artist": "杜野凛世",
+    "md5": "94a9270728f7e35e2000d2c41899b71f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "ac14eddde379d417583fd16249f8927758597f7633426fe4d7f371b3b2c1b16f",
+    "title": "PHAZE UPPER [SP ANOTHER] ",
+    "artist": "Reku Mochizuki",
+    "md5": "0f724936872dd01eeb3161536e0f608c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "a63f3050cfe3c635877d050d549ca10dda27bb4d01facfbeb8573c6b30896b45",
+    "title": "C0ncIsIon ",
+    "artist": "HumanServant",
+    "md5": "871ea59d00f6ffb6e29ec0b5620f038a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "ce9709cfdd92f913f9064d13081e233fbe84bc32aa897a604f59db6acf5b92fa",
+    "title": "High Tide Kingdom ",
+    "artist": "Dynamite Grizzly",
+    "md5": "e104540f288a931118a626582b7dae89",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "9103fad918210b022761092c127023a2ce757e607b161dfbec9cb51def951c8f",
+    "title": "Battle TechniX [ANOTHER] ",
+    "artist": "38k",
+    "md5": "d979b4d17c368702af6d4990dc41b09c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "52cada162eea148427a97e83cbe16e3dd436d4e8ff6afa7ec5541b630272e045",
+    "title": "Cursed Nightshade [ANOTHER]",
+    "artist": "ptar124",
+    "md5": "ad624c40f593871e0fa771fb75997ebb",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "d7fcfa533f4b383895f7ae4eacddb60c8737f7840b663f87a29a456308a2daae",
+    "title": "Ascellity [SP ANOTHER]",
+    "artist": "ripeL",
+    "md5": "5704b77e9587b918cffc33a8571fce00",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "1a50346964e7433f0192999c282128196f8ecc25208cd77116053e62f056a459",
+    "title": "IKAROS [ODYSSEA] ",
+    "artist": "ETIA. feat. Jenga",
+    "md5": "f96cf3af3d9356407bff483d27f4aecc",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★???",
+    "sha256": "78c1d32917eb31d0fcb96a8acc9b4c117162b62c76dd5dd2fdef28a6abe18f14",
+    "title": "flowers ",
+    "artist": "mist-rose",
+    "md5": "529f43fc9b5affb1cf9fd94562ed6dca",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★9",
+    "sha256": "25a5b642add7c4667bee7ed8a2603fed23e91099417c5ba9d62028cb03df00a6",
+    "title": "Valhalla [EX] ",
+    "artist": "xi / Note:薄杏",
+    "md5": "b5537e8d828970624afc5028cce24490",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "LNe",
+    "sha256": "97fc37d233c394b6d540081933cf5e43a5d2aece7f4941ae1e66bc05984f0037",
+    "title": "Pocket Monsters Neo -Trainer Battle- [LN Another] ",
+    "artist": "BMS:ねこみりん MIDI:空母k1",
+    "md5": "176b7ea9f17495501643d0a6bdc5b269",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "20ac24beed6a0595fced0be748f8ae9004ae986e808106566f7bd1e8506f6a82",
+    "title": "Broken S.H. ",
+    "artist": "N M Z",
+    "md5": "e8921eb255e446a9e85159f8e6a16238",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "20ab50557ae123694f0c734e56f9cddef9e5bba8e1343785bcd55d2a103ecae4",
+    "title": "Extra Stonehenge -destroy them all- [7KEYS EX+R2SP] ",
+    "artist": "MSX-Lovers // obj : TML",
+    "md5": "7e86416626f3c9ce197a00dbbdb6eb83",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "cbe50437e381648619a922b2ab4a8f6fd18a8f52d4c8036aa287c3349e0301e8",
+    "title": "Dr. MARIO ～ hj ReMix ～　[7key ANOTHER] ",
+    "artist": "HOUJIROU",
+    "md5": "3cdfb02bad2ceb344969d0eadb23c2a7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★?",
+    "sha256": "eea225df223fb2f2ec839c365f0d2beb6b855b7d5fe36346c878298102934814",
+    "title": "AREA07 BGM ",
+    "artist": "daisan",
+    "md5": "2f54346a93bf509545a862c6cbe157ff",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★??",
+    "sha256": "753c13a73bd861281b84a8bcecf8a4adf54ab482e29c626b45b4021ec0ffeab8",
+    "title": "呼無のカミサマ ",
+    "artist": "Se-U-Ra",
+    "md5": "cc0865dc1bedfcfbd0c1df514bac9a79",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "994b2a103b148236082e9e379d752a405eeed5c5960de9ebaac9e54fac13fa89",
+    "title": "呼無のカミサマ [Futabather]",
+    "artist": "Se-U-Ra",
+    "md5": "b40635eec1d14967fccb90128a6fa2b9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "1978419d07da2cdd0606e9ec296c3ea92b647ed5e9962768e2c3a3d285bf1965",
+    "title": "B-NewZ [7key Another] ",
+    "artist": "Qga",
+    "md5": "ddd6db681d076f2cbcfb718ce45a93c5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "f7ab3f74467fbaf23f71c9dcf6ff04404d4f480926348154a78522c8363e01f2",
+    "title": "Estrella†Catedral [ANOTHER] ",
+    "artist": "YAN*TS",
+    "md5": "42621580a2b73619aee6d9592343d7c4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "b9223e958f6ff1654784596601289fcafab6155b92a2e3bce783d60fa6a9a9e2",
+    "title": "I'm Falling In Love With You [7KEYS ANOTHER] ",
+    "artist": "Radiogazer",
+    "md5": "791d48b0c4824d83798df12f11ad9b9d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★3",
+    "sha256": "6d2ca9409255fa217484931e7d96722865041aacca34be23dcd3bb5fa4e38e68",
+    "title": "Break of the Day [Break of the DELay]",
+    "artist": "raii",
+    "md5": "4ee397e6dda8ac5ff091888fe5974ea4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "02f0185f3ef680910baef1cb879de8a9a7163b19c5a90f31b14a010f87564086",
+    "title": "sakura [SP MANIAC]",
+    "artist": "tcheb",
+    "md5": "452bc74a81f13f0ada44767b0821f6d2",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★4",
+    "sha256": "7ec8fe07fe25e09a1ef9421072ecc3d218ef8f2389a536960cde842682225f10",
+    "title": "perfume of reunion [Hexagon] ",
+    "artist": "parakeet41/2",
+    "md5": "71380a9a6608851fcddcb7956c46b0ea",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "c4a16944b6ff8b37a3e302511622932213cfe441b4d705ca673f95cb1f1e130a",
+    "title": "KAIGO [EX]",
+    "artist": "空読無 白眼",
+    "md5": "825724d4472a29fb00fb010d6cf642a2",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★?",
+    "sha256": "2314373a13fd6702045962da5a602e48d96c062fa1aa95a4b09699aa8d599975",
+    "title": "Border Boner [INSANE] ",
+    "artist": "Atma / BGI : マドロー / obj : TANABE",
+    "md5": "786397a5194ad22cfb059824300f828c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "c5a71f2f814fa842bcc3df28410fedc207f612d78f117cafaa64a5fde719bd52",
+    "title": "LE MAL ",
+    "artist": "D.J.Doggie",
+    "md5": "6e61bf7a0b02cc08bb5b4495415c76f7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "be96b00ab849833a253c4ac4c97a9e7790a2c08aff5712933f85db1903aea54f",
+    "title": "炎蓋スベアローグ - 7keys Another -",
+    "artist": "U.N.E.",
+    "md5": "5d7146be39d1af4f2f5778a78bf815bf",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "e597399c070a298c0017497a75dd52e1a96677e4eda97ce4cafb3738c4ca1646",
+    "title": "炎蓋スベアローグ - 7keys Hyper -",
+    "artist": "U.N.E.",
+    "md5": "8c8504f75256fc211ea0e7db9a5f57ea",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "a7b7f4d09630605e6e4d97e803b825255ebd3fee6c4fae7bd2fc2c2b6e5436ab",
+    "title": "炎蓋スベアローグ - 7keys Normal -",
+    "artist": "U.N.E.",
+    "md5": "1189c2e523ab06324c39f430eccabd27",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "fea3d9ff49ed774d4ddd4802973d8e66b6d91c7e63114bfebea473727fc840cc",
+    "title": "kinetic[ANOTHER] ",
+    "artist": "Micelle",
+    "md5": "e7660041bbe1287ede64efe48bfac946",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "ba060911ca7e4033a7694bb5aa57c225ade3710842a660c69997b6798804bcad",
+    "title": "kinetic[KINETIC] ",
+    "artist": "Micelle",
+    "md5": "b1518b9810d9a4e712a8605be94f32ac",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "b413fa3d76de953794e22d801c477548f489f93762998d0fa3c9b0d9978937be",
+    "title": "Calendula[ANOTHER] ",
+    "artist": "あとぅす",
+    "md5": "2815953f0af7626d0b42e5a29a55bba5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★12",
+    "sha256": "555e8b1a00ffa4f775b0ef6cf544ca12ca210b09c9b0fe78c77d8e6206c88eb4",
+    "title": "Calendula[SIMPLE] ",
+    "artist": "あとぅす",
+    "md5": "c62b3391a5b9b712dd89a18d695685e3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "17c68c6f96cba7f354ab69fc338933a54fc0c4d67846e1085c17d7608d6a1b76",
+    "title": "defunct ",
+    "artist": "D.J.Doggie",
+    "md5": "2e40e4ded295abeb5f6b62816fa6cdea",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "c859d5f83cff01ac35889cdec33d7eef64b055343af77d6c99ba173c8d1b5308",
+    "title": "LE GRAND SPRINT Marathon",
+    "artist": "AYhaz + tdef",
+    "md5": "d5ed1c709ba4b65b3c1b8a332c46b1bf",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★2",
+    "sha256": "1e3b3e60f482e1bfed31b01f57bb9da3fdd814a0bc032a35095af10ceb34d963",
+    "title": "LE GRAND SPRINT Paris-Dakar foot edition",
+    "artist": "AYhaz + tdef",
+    "md5": "a2113a9a0cfca78b196e952e0492c59e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "faa4441f4f1c9f81de1d1c389b844dd54ac492c26e77ea5386f07791785ba89c",
+    "title": "Grenze:F[NORMAL] ",
+    "artist": "あとぅす",
+    "md5": "1939e3ec84d5c829352a3b2edbda0446",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "a2089023358c6e9fc352394aa8e7bd483572054a155264d9e51067240c0b7204",
+    "title": "プリンセスタイム -light garden mix- another ",
+    "artist": "ねこみみ魔法使い",
+    "md5": "b7fc60735f516fe23e7d08b2bc5e96b1",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "a282c421adebc46992270c56dbda2f4c4d8bb124a40967c2f551603a16c6cb54",
+    "title": "雪月花(FLORID on WHITE mix) [light7] ",
+    "artist": "BACO",
+    "md5": "26340d2f8d638be25b466fbad0245b5c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "9da2e3333da89f41179f47e423b0422725e346bee4f3f6bab171381ca7569feb",
+    "title": "Epatoivo LdsRmx [HYPER]",
+    "artist": "Le Dos-on",
+    "md5": "d0eb87da70ccdf7110ab256598250570",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "48c26e650a97a49b639c05d367263081f508dc1fdc50b9fe253be32d7ff6d82c",
+    "title": "Epatoivo LdsRmx [DEPRESSION]",
+    "artist": "Le Dos-on",
+    "md5": "7738e5b170e8a40b36c66a04b24866c8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "9579e5cca9a7fd2fa32e550e3119a3d972b38021d03d12ef6ad4dd185d4687bc",
+    "title": "PUPA ",
+    "artist": "モリモリあつし",
+    "md5": "f963a340f1ce09bfc4dff68712e4ecdf",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "d471559a9c1c259552c46892215946d53ca695a9ea51215ce4f1a838aa1e3b13",
+    "title": "PUPA ",
+    "artist": "モリモリあつし",
+    "md5": "05fef74e224ca5fef6d69719fa4a6a87",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "6281660bdcef4c0d981055a425113e9c46c03f69756c5e113f832dfb5fd0d576",
+    "title": "PUPA ",
+    "artist": "モリモリあつし",
+    "md5": "15ee7bfa6c9ae2da4d0c5c1156dc3a7c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "485bc774ca0c0bf2052e496aaccac35850a67b3716c165f0e2a14fe7771631c6",
+    "title": "R3x1NSPELL -Hard-",
+    "artist": "Nuekawa",
+    "md5": "58965305fb94e98ddd9ae327089a38ff",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "a050164be10b7de7460ad28b54be02dec4aca609686c2d074ecebaeaf30ee412",
+    "title": "START UP ",
+    "artist": "Nitrix",
+    "md5": "16b874b5818cba63139b37c8169fabca",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "225f0f72d7d0ab79cca4726353df18ce49aa0e245dca14033619151a1c4959f1",
+    "title": "FF4 Main Theme （SM-NX D&B Arrange） [7KEYS HYPER]",
+    "artist": "Arrange by SM-NX (BGI : アカツキユウ)",
+    "md5": "1832ccb8a5674ab60edec27b93dd1751",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "550fb5003a7593e37f05ea75bfa8c8a91d8400124306e37a06d4f321d3f2d6b7",
+    "title": "Knock my heart -Sakamiya RMX- [Normal] ",
+    "artist": "RMX:Sakamiya feat.黄身",
+    "md5": "063428fb3584199d4a779d0b4a76c44e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "fd22763a487ab7147378fb5fb8f89481bcf8f223c0bfd13bc5c8101c10ad13ad",
+    "title": "Knock my heart -Sakamiya RMX- [Hyper] ",
+    "artist": "RMX:Sakamiya feat.黄身",
+    "md5": "032953a7340a7c8ac7aee716c52180c9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "251246a70c4b186e37c13e8a82603c62736f9911294e28cbb6e35f810417982b",
+    "title": "Liberate from Nebula[Akihara Area 3] ",
+    "artist": "Chlorargyrite",
+    "md5": "03036939fb3b86038d34344e2708481d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "fb4ec5650706e041d0fbc547f52ba1b91b910de42609a85451ed899acd2c2c02",
+    "title": "Bit Charger ",
+    "artist": "Akashina",
+    "md5": "160bc92b39068ade49d79fbb049b28ba",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "c704c312d211520645a7e12988cd6f10d74818c9adb88702e8703d3fe3be0be1",
+    "title": "Nokin Classics[Normal] ",
+    "artist": "QM",
+    "md5": "bdb07c3c2d2c8c5244a07a5667a12bab",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "9167acab71d509df455617a59dfcd7183a521eeb8ea19feb42b6135676528d66",
+    "title": "VENDeTTA [NORMAL]",
+    "artist": "Cataclysmic Order",
+    "md5": "f335fe8587a43e366d9c277bb5252879",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "c8bd50bce22d270fc223d07b50598075d55d9db3153cc1af284ea3ec153fff93",
+    "title": "どうか私を殺して下さい ",
+    "artist": "LUNEの右手と悠里おねぇちゃんの左脚",
+    "md5": "c8341222aa2494f1a2fc3351fc4b9189",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "4ade5da8753b97ab79d5cc194e1b054ddc5f673f5cd090820f9bb79b12db9ce7",
+    "title": "Valkyrie Revolutia ",
+    "artist": "------",
+    "md5": "4c7fedd1e66de051730e427006099330",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "1093d1c88ab9c6b194bfcde02da8d7036ca1ada73d38f5016be15fd04e4f0d58",
+    "title": "urara [7key Normal] ",
+    "artist": "Ym1024",
+    "md5": "3590a9c130006b53578353b24ad8ce7e",
     "comment": "",
     "url_diff": ""
   },
   {
     "level": "",
-    "sha256": "",
-    "title": "#N/A",
-    "artist": "#N/A",
-    "md5": "#n/a",
+    "sha256": "507e78d9469ce77b5b905c98d4f5c09ca5eea0e82a433c0e73b529a9721a7842",
+    "title": "Strawberry Mint Chocolate [Beginner] ",
+    "artist": "Yu^ta feat. みずにんじん",
+    "md5": "75fe3e9a914d1400e00af382dd6ddad1",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "c8f8b0f3db439be3cf0c8a43d465732bcacf7e36642d4dbad46ad89bfb0be663",
+    "title": "Total Eclipse of the Sun -Light- ",
+    "artist": "-45",
+    "md5": "ab4699980ecdb4296b6fb91a572ce48b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "4eebc1dff9d4fe6519bf84183497479608a2a07a493df719c5f250e48093bd41",
+    "title": "The SunLight (LIGHT) ",
+    "artist": "",
+    "md5": "85c08303d409c2abda49b000a843ba90",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "b5a121c5cd3c2787d94e1af254f2b7a98db2f1e395ffcf5b515ea39e924d5755",
+    "title": "Legend of Seeker [NORMAL] ",
+    "artist": "remixed celas",
+    "md5": "fb815bb2a5d9c58ef9489523a9dbea75",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "5c3d7d83b805099ae9d367b7660cd5c08e8909620c6088bbe6013761dfe5061e",
+    "title": "KRIS of TOOTH(NORMAL) ",
+    "artist": "α-5",
+    "md5": "18cad0e21ead087deacc75e6a066b03e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "3325248e1b5daf245882d437792c377fc0c98bb9fa7468eaab8cecb043c7cee8",
+    "title": "Vorota Collapse ",
+    "artist": "eicateve",
+    "md5": "4b9deaea0c94267cdf51575acff50aea",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "700f2cf8eb1d9930d83f3445912b5133aad2d7e88eb81b47fdd0bcb19d6d75b6",
+    "title": "Countless Future [ANOTHER] ",
+    "artist": "nora2r",
+    "md5": "6b0bab85773ccffecd1fdc8b7ccaf01f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "8891a7eac20a3254f56ba7b60b5f4a630b4bda2fe26b5c50b2386a3562b67299",
+    "title": "B.B.K.K.B.K.K. (toidi) ",
+    "artist": "nora2r / 出前 /obj_jakko",
+    "md5": "efc091e69eab86605c5d2694b113e9f9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "9707be242cda26c374bbb81566c18378416780f2ce3745f485702f5249b5adbe",
+    "title": "B.B.K.K.B.K.K. -Violence- ",
+    "artist": "nora2r / 出前 / obj:Rian",
+    "md5": "97bded9fb79ddcdb2b97d521d000cbca",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "1e3963d3782f7d6b6f21a2280c213dbc8a77057c489199be9504ba2208ded9ca",
+    "title": "B.B.K.K.B.K.K. (ANOTHER) ",
+    "artist": "nora2r / 出前",
+    "md5": "6ba57c0187a93635a8caa93f7e2061fd",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "42c4b12a868c31815eec0ffc6a89a5ef342c88fdd93118c52d7cbf6ee401c94a",
+    "title": "Aerialwalker (ANOTHER+) ",
+    "artist": "天游/obj_jakko",
+    "md5": "f2637ce015ed8c590687c85774de209b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "36d27d1f243a2add32016630d40df3fbf18a3161e8d7ecaff85d71d6e43968c6",
+    "title": "morningazer[INSANE7] ",
+    "artist": "er feat.藤乃",
+    "md5": "10c3b2a7e4e163c9ce07645455287989",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "a34645f5b020c30f763e9945dc06e2b16e859230bb5e2f86fd6e26df62ac0ae4",
+    "title": "morningazer[overslept] ",
+    "artist": "er feat.藤乃",
+    "md5": "b11f10f7640a8bdd9206da7fc4eb370b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "7c8e70f9631aa86e75d404859022a146aa09ee0a0733d40325e7b67efe672b49",
+    "title": "morningazer[ANOTHER7] ",
+    "artist": "er feat.藤乃",
+    "md5": "257fccbd826a41f2ab63efdf3c8d9826",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "d25aeaede9b535b201f8f46155ccbb9af1419956cadfbe24ef51042c3d781db1",
+    "title": "MESHER DIMENSION [E] ",
+    "artist": "REX",
+    "md5": "c9df35f665b13ca71044c08b24817251",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "8aaaf2d56ea0d388fedf68aeb13dac1db8a2e6902cc153aa41b09057e6fea721",
+    "title": "MESHER DIMENSION [F] ",
+    "artist": "REX",
+    "md5": "b6446529c74b0251bd6e3e6b823263b6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "b6967673e454d8c0d7951340c145442bfa3d2fc98dff1dfde27986645c6c6f04",
+    "title": "Ravers Rave Anthem II [nova] ",
+    "artist": "vorbis / obj:nov",
+    "md5": "17b960734f2acdced87e31474e723fba",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "54fdc67f8b7ad167d9c4eeafcb119db88d298194947982015763d1898931ac5b",
+    "title": "Ravers Rave Anthem II [ANOTHER] ",
+    "artist": "vorbis",
+    "md5": "f8917481b113722cdde6b48f5b4bc768",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "c2301d51b011048b908c267d9fc8b188f14b091d73a6868be4d815102e9b45a3",
+    "title": "Ravers Rave Anthem II [Fever]",
+    "artist": "vorbis / obj:marquee",
+    "md5": "44c979d0816f80cbd35e3a840e644516",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "2e398c640336344a216e399a03f17d737b17a64a083c976aa35a5e5dddc890ed",
+    "title": "Sacred.CrowssoveR ",
+    "artist": "nmk obj:Ark-Z",
+    "md5": "481d8fff75e90291c2a74da22c422d04",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "37064622bdaa18f7352bd5996d44123882d149cfa86ad6def465d410306dad76",
+    "title": "Day of separation[SP EXTRA] ",
+    "artist": "rider/obj.SH",
+    "md5": "dec78ae183e516435336f1d443c12a91",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "86d48d54905eb59d476b79d2f12e61f2d41f84db12d3d2032b26ec642c661f39",
+    "title": "Snowfield 2013[7keys Normal] ",
+    "artist": "Holidra.K",
+    "md5": "c1ccfb598c13365c0218d040e5d66571",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "6cc064fa48aa545624109dc9b9e21d25027009f6568d4684fb3370e651b66c89",
+    "title": "Defeated Wings [NORMAL] ",
+    "artist": "ALTM",
+    "md5": "4dfe1b0c98c0638c654b5f237432ebc9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "83f4027e328e8fb788bc0c57ed1f53bb505d9634176dc738c6b4c585b51e81aa",
+    "title": "Silence ",
+    "artist": "Metal Dog",
+    "md5": "030e066ee5d4ee83ca7732755755df07",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "b07d921d15ac4c06fd558a00b71e89cf719e2b054349e82ac9c48d3a6c32a54d",
+    "title": "The lost(NORMAL) ",
+    "artist": "碧",
+    "md5": "3670478ea40be5872b9bfb81cd6dacb2",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "3c3871089b0411531d75cab908c1b654ed6e87811325062f6e6d8f90e32109d1",
+    "title": "The lost(HYPER) ",
+    "artist": "碧",
+    "md5": "c4624a716d486255643c556a1a824d4e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "219b93537a89ea51dbe8f58388fd8645d8d42f0e6cc8b40402329429aa209279",
+    "title": "The lost (START)",
+    "artist": "碧",
+    "md5": "054f7caeff25cd03ab756e14df52e682",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "b2b566317d95897ea6e5ca522c1576dac6c6307f88f2be0be69c3fe03db266bb",
+    "title": "At the edge of dreams(BEGINNER) ",
+    "artist": "α-2",
+    "md5": "f1d4d9a6f33044ef3d95111b7780102d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "55faf8856e3b65c4ff2e12f8d98b83b9dd6812cb8d209fd9a2c4a042787274b0",
+    "title": "At the edge of dreams(HYPER) ",
+    "artist": "α-2",
+    "md5": "657f22acd0dfd57d2f847449c01ecffd",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "6ae3214442f9fdcfbf303d1017affbd9379743c8d1603f96efc215da1d349a77",
+    "title": "At the edge of dreams(ANOTHER) ",
+    "artist": "α-2",
+    "md5": "8b70ac3c2c89761ff5787ae51f7655f5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "6a276125efc2ebc4a29b97b6a87595aab3d26a99634a756908ed89ce7888e312",
+    "title": "Fairytale[Friendly] ",
+    "artist": "Chitose",
+    "md5": "c75bd7e8c6d1efdee9e600bb4449d88b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "d540d558e19054f5768ee936d1dac27ddf00605ca59c347f25fb7a85e15e6a97",
+    "title": "Vanquish! [SP ANOTHER] ",
+    "artist": "dusKape",
+    "md5": "c4bdfe9272769be16d23c0dec370d363",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "d04cf0e896bbcb3e39472968a0d08857ded9db513d6a9a707e88887bea021e47",
+    "title": "Vanquish![SPBA] ",
+    "artist": "dusKape",
+    "md5": "6f8ccd384a071901dde382818fe784d9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★0",
+    "sha256": "7f8b249ff024ef5d448e164fc1f3551916c562dd80a83dcf564da44758bbbc87",
+    "title": "Inception [Another shadow] ",
+    "artist": "OptiU / mov. Can.D -mtmrw",
+    "md5": "16d014c893d383d73b0ed5c957b32bcf",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "6edc7ebe1831c29ae21a76bf6902891c5265e568604145894f186ab0966196d3",
+    "title": "jus†ice [BLACK ANOTHER] ",
+    "artist": "るるりえーる",
+    "md5": "d237495484bce69ad707e84b269f2fac",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★?",
+    "sha256": "b064a492395651c92632582244ae2c50496c122d01976f2cf038837517be4eee",
+    "title": "jus†ice [Na] ",
+    "artist": "るるりえーる",
+    "md5": "71effe3a75c911c6f50b61bd78536037",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "81b56419e74439303e1aa18af66b1e7d8d16f5ee16b799a1b4b9ed25506b8a8c",
+    "title": "After Burner ",
+    "artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+    "md5": "197053ba0681ba82bbbb7ec07572de90",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★6",
+    "sha256": "27c4211bdd312e27d0b3c5eace020ea270744f11090aafe3c295ed22b6d0115f",
+    "title": "Strahv[Dstrahrv] ",
+    "artist": "Feryquitous",
+    "md5": "a76daadd9c9a7d9090badcc39d7ed3f6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★0",
+    "sha256": "9f99943a09542d175fbdc28301a13d2aed90ed35bd01b75571ad52dc7b3ecc3e",
+    "title": "Strahv -Despair & Hope- ",
+    "artist": "Feryquitous / obj:七海",
+    "md5": "99ebcff8e051e6da68a7f8e9ae7a2fc1",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "8bdd95141728265e9ea1cda2f47197e0dab657590b8973596793209ca9866b1f",
+    "title": "京の星空、不零の杯 [SP Normal] ",
+    "artist": "奏",
+    "md5": "83697c4383d614486b51374619c62915",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "1df0c27fb041fabcdea6552d7376d8ad50ac0e5643b8950bf178ffe41fb98671",
+    "title": "アリス・マーガトロイドの破滅的愛情論 ",
+    "artist": "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ",
+    "md5": "ea762844c8994f7591ed31830815acec",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "5cce181852f8d95acf421b13df6c2ec9b6f11c6c0bec345b7680710a40ccc09a",
+    "title": "アリスの空虚で愉快な人形劇 ",
+    "artist": "ろうて",
+    "md5": "4b82ba0685199d9dd93b4f04adaf9b9f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "0b11c4dcd72bd59a60afda08f652e6650f650659f4d2ec582ba7c708a74dbc52",
+    "title": "東風谷早苗が悲しい顔をする理由。 ",
+    "artist": "nmk feat.かなえゆめ",
+    "md5": "7b41033aa8519ddf84aebaefb3b62159",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "268d90818a44b84962f5b8a5d96b8801673aad177283657de8daba09d29b6ba9",
+    "title": "Complex path(bms edit) ",
+    "artist": "Vector27 vs Blue-J",
+    "md5": "02c8bdf0db395d0bb575ec965d8ddec7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "3e118f68aadda9ab8a57fd7d80da0bf3b1db6f34d69a93b545e899a402696ddb",
+    "title": "Complex path(bms edit) ",
+    "artist": "Vector27 vs Blue-J",
+    "md5": "9df8203e839018bc3c3b8fa7f7288a8d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★8",
+    "sha256": "e932f376115d60f4205298489d17ee7f090d11013885d00ebd0acbc49d9b7df3",
+    "title": "Complex path(bms edit_extra) ",
+    "artist": "Vector27 vs Blue-J",
+    "md5": "4cb8241ead798db25c94862d772a5b69",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "3b90089a94237696f826daaf36d6d11d71127b7df932ac5c8f1e1f25246e719c",
+    "title": "Anhedonia ",
+    "artist": "Silent Spica",
+    "md5": "f8cb9774e2854450237851455d116638",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "2478d2905536b284c26fdebc65407c5b978de457d3c3e0501ae3d28744373ef7",
+    "title": "Anhedonia ",
+    "artist": "Silent Spica",
+    "md5": "2342c3d64ce59ef7e964953c7d3e15f2",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "51478f7cfac13d267b05d5fb95a7341030336a421f2fc882a7b23f59b37f8fa9",
+    "title": "Artemis(Phoebe Side Mix)[ANOTHER] ",
+    "artist": "MONO Remixed by Ωμεγα",
+    "md5": "e243afd168b613a3fb1d83ef9f5925b5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★11",
+    "sha256": "9a6248f1515beda5eade956d6be5bce3eba013b28245bfabd88649f909744446",
+    "title": "あい☆こんぷりーと [平凡な女の子の優しい譜面]",
+    "artist": "ねこみりん feat.小宮真央",
+    "md5": "e7cfa8b0c28317642de91322d1dcfebe",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★0",
+    "sha256": "6a99b3c73af53c217ce398e7b351a30ff591eed1649527c35e729a8f1dec6b3c",
+    "title": "The island of albatross -8bit Style RMX- ",
+    "artist": "CELLON. (anubasu-anubasu)",
+    "md5": "7a95833eeb2a69d825cb09cdc2904d8f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "d2d02274594460e664cecb4a4328e80275d63a6e028d1e24dc5cf9d436f5bf3f",
+    "title": "Nereus -skrm42 mix-[Another] ",
+    "artist": "CELLON./arranged by sukuramu42",
+    "md5": "8c53c6a724ede75f7ffb4b1147de542f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "†",
+    "sha256": "9749c8bdd9ff3f116c37fc021bd63029019c5afe680008c01fb7ba955d31ce4b",
+    "title": "Destr0yer [///]",
+    "artist": "削除 feat. Nikki Simmons",
+    "md5": "a02a2a233716791cc689c9a80673cf2a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "†?",
+    "sha256": "fa8d32787154bcb7696ad57c97edec012c079117535bf3dd8ebbfbc2acbc416b",
+    "title": "SAMBISTA ",
+    "artist": "DOT96",
+    "md5": "6c0c7c2fd572255e34e006d36f74c2ad",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★??",
+    "sha256": "64cbf5c80e117360d26a91a5ff01623562cba2bacb69d47bc7d492738e637e99",
+    "title": "Booouncing!![BADBOUNCE] ",
+    "artist": "翡乃イスカ vs. Iriss",
+    "md5": "3188ef81db9c97978695692a14ac389c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★10",
+    "sha256": "4bfce2efe962697720aa47ff3b29dcadc997e0d0cedce3adcf9b2c242a776eb6",
+    "title": "Boring and Monotonous (Schranz Mix) [SP INSANE]",
+    "artist": "Star* Remixed by 1112 / obj: tyrcs",
+    "md5": "2e5c1d601d53b93b738ecc220c2ec072",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★3",
+    "sha256": "9967fcda51d59aff4061778d8ff41f7a17f483c8c53ef6ad9b6224298eb312ea",
+    "title": "あにまらいおっと [DELAYRIOT]",
+    "artist": "TOMA Remixed by FALL",
+    "md5": "2046085446bf578566b0eecdb7d0e1d2",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "97b086e8f63660a262fdfbe7d8601e667a0226717d2808a81821063310a71ecb",
+    "title": "BlackFeather ",
+    "artist": "重巡洋艦 羽黒/BGA:長崎造船所",
+    "md5": "39cc3f0cc74617e7a40c138f23d50cfc",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "ea0e8acdd23e78a48af2a84ee56e16b5a591d3cdec76c76c93727e65d80bfc68",
+    "title": "B e l i - R[ANOTHER] ",
+    "artist": "45",
+    "md5": "c211005b8889e007aaf1941e241a82ed",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "fba9aa2119c16c9df67abe97760ce43fa65227365fe15d2f7ad19efc386ec305",
+    "title": "ライバルとあそぼう(やさしい) ",
+    "artist": "t-soach",
+    "md5": "4a87859bf1ea5e6a57bc1a3742b041f5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "5b02499894538e8113d7b56486493e8ea318ebde920638754527edfb5038f714",
+    "title": "DECISIVE (Sky Dragon Remix) -Normal- ",
+    "artist": "変異竜。",
+    "md5": "e62eee871df951fd62a8de51b22c58cd",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "3ca70092d03255bc6110f851451c5ee3fa0f25f9762d7b1e146556da8eccc4de",
+    "title": "DECISIVE (Sky Dragon Remix) -Hyper- ",
+    "artist": "変異竜。",
+    "md5": "9125bd73ff8cdb1d4fa7b879645ee22e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "6b00da3aaf2b2a1fd53cef205c1fa9ff1d216d4206e477337a6b878ef031fe04",
+    "title": "呑んべぇのレムリア[NORMAL] ",
+    "artist": "ZUN / MIDI:た人 / BMS:9-zen",
+    "md5": "67fbe2c5bcf40f3dd87bbf2794b43a28",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "744453ff60021630dbf30b96d8d52c2e83d4bdbe1a9a3c0d302f3beeb9ee8722",
+    "title": "Sea coral -Normal- ",
+    "artist": "Qga",
+    "md5": "07b93113c95aaec6d9e34965cc72a656",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "fb3505b95db1bbae425d7fae436a8e2081efeb018931e76c3297e6460e22491c",
+    "title": "まくらもとのStarbow (Normal) ",
+    "artist": "alt",
+    "md5": "572c66fce340c145deee675e85f2526d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "1dddcb77398fe6f35730b6d1c1c320c4fa0e86938e19ca9e5e988973befbe49a",
+    "title": "さみしいバケツくん(Jimmy's stage boss) [NORMAL]",
+    "artist": "copy_arranged by turbow",
+    "md5": "50eef780eba222c9c7beb9b142e162c3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "743008a09af7d53f6aefa4d7d62ae3548876b87e6e4e825f3c83622ad0dfe8ea",
+    "title": "Pandemic but Paradise [SP ANOTHER]",
+    "artist": "KaKi",
+    "md5": "fb36e2d55d45f1b5c905515b05cbfa17",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "0e8b3bfc9531614ac4ce8308474f6a09979eb3a00e0b661b7d718868bc42a9dc",
+    "title": "Pandemic but Paradise [EXTRA]",
+    "artist": "KaKi",
+    "md5": "2b342ef7b9c7f4a55928a4e1afe1fe80",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "a5ac584c6b44570f90831762ea4bb95df0b5ea205b3d893110bae7255430fefb",
+    "title": "DistortedIntelligence [A+]",
+    "artist": "Sound piercer",
+    "md5": "387ce2196ea040376dcd6e464662400f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "a3fa0ea3432277640415dfdca14fdf49a622edf287cf9310b267ae7f2ce89eba",
+    "title": "Drizzling Rain ",
+    "artist": "DG-P",
+    "md5": "9f669459c011590390ff8128bc3a99f8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "ca35a272e4cdb1093e844183e85a6b7203c9e8d6bd69b3bba0592ef05ea96b03",
+    "title": "流音の朱音[ANOTHER] ",
+    "artist": "かゆき",
+    "md5": "b37a741c51e6476ec7cfdbcfcbba475c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "cde2e74ee62311722ff1826a33b85d6a8d470b60d09b3d5d1711a7284b6c4a8a",
+    "title": "Capture![俺] ",
+    "artist": "EXAM.S",
+    "md5": "aecd2694e8191383846e0ae7ba872b03",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "ec47fc592fe8b8a6605742e6850e9a080e4e57e23881dc8b74475c22c0f11119",
+    "title": "world devoid of you (fairydust radio edit // SP Normal) ",
+    "artist": "void feat. Hiroko",
+    "md5": "05ee943b5820dca64fb7eaafcbee089b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "6c2f1a50b89da281cb7062895eac0060413fd728a6f44f414ff718204c571b91",
+    "title": "おいしいさばみそ -EXTRA- ",
+    "artist": "さばみそ / obj mad2ki",
+    "md5": "cad0d0348be0b0806bd37b5def5a80c5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "ec5a1787ac1caecb408bd68e6f36050cb92d5f2e731fe4110fea67164ebb82f8",
+    "title": "白山比咩神(NORMAL) ",
+    "artist": "DWMω",
+    "md5": "8398f4f7752b00f8036638ea3f599b12",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "9d73e3b17932265ef86eaafeb44193989cdf955ee44a8f18bb1524774efc9447",
+    "title": "Strange Fire ",
+    "artist": "Acet.",
+    "md5": "af0a0990f33069166510969d96ceaa54",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "b24c7d40e01f3a79483c1b3a9f587cb4a435b0e9c976bb48ab8deab9d398577d",
+    "title": "Re:ConstRuct[Normal] ",
+    "artist": "Big Wolf",
+    "md5": "4b42c91c7fce5ef92e0769764ed81673",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "29eea9a55320a8fc2f72f1d79013dc49077b6ed13eb62a744f90e7bdaa6fa794",
+    "title": "wHO nEEDS mUSIC [7 NORMAL] ",
+    "artist": "D632",
+    "md5": "07bb1a0c1deeda2726d41ea8fcc580ce",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "920158579a73b6378dff47268fa6a6ac24fe105df1c4b432ce775cb4d3b6c294",
+    "title": "Fortuna ",
+    "artist": "Kanon / BGI:Alma",
+    "md5": "7a3ee4d5fc7c468c3fab43985f41c5c0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "f55f8aa7676bd6056ceca6a3518ec53921cc72f6c37fb102a3e5442c8c11e33f",
+    "title": "Sarllah[DESSERT] ",
+    "artist": "Micelle",
+    "md5": "17c3d159be70b01d19fb4bf7d475c3d4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "5244c0b9325d4416601cb4a9d60a45145dd371a9cd95faedbd7a4c433914ba2f",
+    "title": "Take Me the Highest ",
+    "artist": "Nakaith",
+    "md5": "",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "e1beace1a303a2a7944561be44a2f599b859571732d1bb4afa2baff680ce11f5",
+    "title": "LOCK ON [BEGINNER] ",
+    "artist": "QUARTER",
+    "md5": "3f97aad0af1e961c5dd4370f3c884330",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "9690cb2c358dc5684fa4083384f7367a500244052f1fd9d58144ce1ec8e1b15e",
+    "title": "World Against [7Key Beginner] ",
+    "artist": "Sound Souler / TheKara",
+    "md5": "c5b5189a2f25f333be818a0248fab4e4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "afd0b135bd392721cb20c39b0ebe35d23d81050318c26325ba8cbde64986ec30",
+    "title": "AcidSecrets [7key Beginner] ",
+    "artist": "MoonHare",
+    "md5": "4884c4f232268d5a437bf306e4cb2b5a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "0bd06a5296684c84516f2a3cad0bb024f3aa0d7bd9d6ab20cf8c9e2e379e6e66",
+    "title": "Poolside (Bootleg) [Normal] ",
+    "artist": "Hiroshi Okubo (Remixed by lollol)",
+    "md5": "fd7e52f92de3b274d31b7954b674453b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "428abd8521945d0f9157e9cda0d2bebf1cc5a87faa07bee7db378f5d9c6c9b2b",
+    "title": "Virtual mode ",
+    "artist": "CELLON.",
+    "md5": "b720452b58485fab4d3e7467b07587a7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "4a650592c159e9ae3ae3623cd206529fbf6de2f9463150243b2ee0cccfa1b977",
+    "title": "Grimheart ",
+    "artist": "Puru",
+    "md5": "7f253caf012ba43d96b615eb8cfacba5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "816a0197f389bb81903706dec2a7991d8ef27a3bff1c49d201e0d53e8faf803a",
+    "title": "Save the Water ",
+    "artist": "Nami Haven",
+    "md5": "db91b19c140138f278f0bd231d8a81d0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "fe771a3bdbb8d2d6eb4dd70a10a6b48281b28e294899b4a5d27ac85510ea90ec",
+    "title": "Save the Water【Bluemoon】 ",
+    "artist": "Nami Haven/obj.c1tru2",
+    "md5": "2c1089a2aa7dc80b6fa745190c798cfc",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "e74af4f03cae58cde092504739343cce4bdbd35773dd242fe9ec15e0e7137fb9",
+    "title": "Princess × Pegasus [ERiNTHER]",
+    "artist": "rider",
+    "md5": "56005c1f77df9f2deb130c82c7c150e5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★0",
+    "sha256": "6155970bb286958f5f69c003b76601c02a7707643e4f5e69bbcc38e93f390745",
+    "title": "ΩXIII [GOD] ",
+    "artist": "ARMYTOM",
+    "md5": "5a92a023a9746fdbc031a94aadc89a82",
     "comment": "",
     "url_diff": ""
   },
