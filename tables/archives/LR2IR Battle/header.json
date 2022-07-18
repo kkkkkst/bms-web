@@ -7,6 +7,12 @@
     "C",
     "D"
   ],
+  "enum_level_order": [
+    "初級者",
+    "中級者",
+    "上級者",
+    "(^^)"
+  ],
   "data_url": "data.json",
   "original_url": "https://darksabun.github.io/event/irbattle/table.html"
 }

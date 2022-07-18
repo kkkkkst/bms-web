@@ -1109,20 +1109,6 @@
     "proposerLr2id": 7290
   },
   {
-    "md5": "cd4160c25c6ec5a31364befc8aade475",
-    "sha256": "4a7f639123508767317c19de34fd1eaa080ec01c04dd06e5154047fa0d533b13",
-    "title": "Kafka [Epikos]",
-    "artist": "Abel & Kamisys Obj:И",
-    "url_diff": "https://bms.parksulab.xyz",
-    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=22&num=39",
-    "level": "0",
-    "comment": "BPM160 皿複合",
-    "zureCount": 0,
-    "proposer": "fuko",
-    "submission": 1859,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
-  },
-  {
     "level": "0",
     "comment": "st0~1? ★20",
     "md5": "a5eda514887c548abfcd36f30f72aebd",
@@ -1662,6 +1648,19 @@
     "comment": "同梱の隠し譜面です。同梱のファイル_I7.^^を_I7.bmsに変換するとプレーできます。",
     "proposer": "MarySue",
     "submission": 1282,
+    "proposerLr2id": 147889
+  },
+  {
+    "md5": "02b121abd3f789ac0c4ef43079e891a1",
+    "sha256": "f53deea6429b17b863702f5daa0a9554ea4841721f0a760190eab00bfebf4927",
+    "title": "squartatrice",
+    "artist": "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
+    "url_diff": "",
+    "url": "https://extrose.stoicsounds.jp/_data/bms/gmtn/%2319%20%5BHARD%20RENAISSAYAKA%5D%20squartatrice.zip",
+    "level": "0",
+    "comment": "本体ファイル内の08_hard_renaissayaka_vaka.sykを08_hard_renaissayaka_vaka.bmeに",
+    "proposer": "Mary_Sue",
+    "submission": 1877,
     "proposerLr2id": 147889
   },
   {
@@ -2482,6 +2481,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "2cd1e0843fbf99cb8f3f978e4e11851ee861f302a37857c9041ffe259aa6d799"
+  },
+  {
+    "md5": "1810130fde5b434f4008a215b57f82cc",
+    "sha256": "f477cea34eda310814051d326be6030d7ebc81f3cdfbed161b2dc53e841e06cb",
+    "title": "俗物フェスティバル -Despair-",
+    "artist": "Micelle feat.Yshida / obj:七海",
+    "url_diff": "https://www.dropbox.com/s/5t3tkkg7wyxte2q/zokubutsu_nanami.zip?dl=1",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
+    "level": "0",
+    "comment": "BPM197　高速乱打　st0～1",
+    "zureCount": 0,
+    "proposer": "M48N",
+    "submission": 1674,
+    "proposerLr2id": 149709
   },
   {
     "md5": "5ef3b0917da9fa14ad03a61706f86f48",
@@ -3787,6 +3800,19 @@
     "votePercent": 0
   },
   {
+    "md5": "92dacaa5fe5857776c1579a56ac40569",
+    "sha256": "fca4088617ff7bb964bc91b9e4e27e3586f54b7a7472b2ffbda66d94c9808249",
+    "title": "delayGUY",
+    "artist": "scamp",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06110",
+    "url": "https://t.co/Y3d9VMszKL",
+    "level": "1",
+    "comment": "sexyな譜面。ディレイによるズレ抜けがあります。",
+    "proposer": "Mary_Sue",
+    "submission": 1873,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "9353b36946aeee127e3b927de936b0cd",
     "sha256": "56aa44bfd77f0083ecef75c010a567bcc85c6b5aad5c51dd6c1a7efa1fb5f94f",
     "title": "Derve [Fallen]",
@@ -4451,6 +4477,20 @@
     "proposer": "chouco",
     "submission": 1143,
     "proposerLr2id": 158333
+  },
+  {
+    "md5": "cd4160c25c6ec5a31364befc8aade475",
+    "sha256": "4a7f639123508767317c19de34fd1eaa080ec01c04dd06e5154047fa0d533b13",
+    "title": "Kafka [Epikos]",
+    "artist": "Abel & Kamisys Obj:И",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=22&num=39",
+    "level": "1",
+    "comment": "BPM160 皿複合",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 1859,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "0938cf0c39e22c1d0fda51b44ca313de",
@@ -6285,20 +6325,6 @@
     "sha256": "4bdbcbd6fc859e10b3eb013f4da04dfd4801faa9d825f324bec8532ab99dc5ff"
   },
   {
-    "md5": "1810130fde5b434f4008a215b57f82cc",
-    "sha256": "f477cea34eda310814051d326be6030d7ebc81f3cdfbed161b2dc53e841e06cb",
-    "title": "俗物フェスティバル -Despair-",
-    "artist": "Micelle feat.Yshida / obj:七海",
-    "url_diff": "https://www.dropbox.com/s/5t3tkkg7wyxte2q/zokubutsu_nanami.zip?dl=1",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
-    "level": "1",
-    "comment": "BPM197　高速乱打　st0～1",
-    "zureCount": 0,
-    "proposer": "M48N",
-    "submission": 1674,
-    "proposerLr2id": 149709
-  },
-  {
     "md5": "fb41cc2e68fe23cc49378a58e02eb9a7",
     "title": "先天性エゴサ依存症候群 [Twitch TV]",
     "artist": "ねこみりん feat.みゆ / obj:MineC24 Illust:わんびぃ",
@@ -6999,19 +7025,6 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
-    "md5": "9b31cd0943d3824d8b50de1f9d08319b",
-    "sha256": "4fe2b7f70a35da3fb5815602aeb030a06cc3eb08e21de863fda8eb9069ac8f80",
-    "title": "APOLLON [GOD]",
-    "artist": "sun3 / Add Sounds:??? / obj. AXION",
-    "url_diff": "https://stellabms.xyz/upload/1717",
-    "url": "https://web.archive.org/web/20190330075243/http://www.geocities.jp/sun3_bms/apollon_bms.rar",
-    "level": "2",
-    "comment": "BPM180 多要素",
-    "proposer": "SHAX.",
-    "submission": 1836,
-    "proposerLr2id": 65624
-  },
-  {
     "md5": "0e4c0450550b096de606cb1233658ad0",
     "sha256": "233675354bf303970ebea28d8bc4cc822ff0284834a2875e39f71a4d47c1a027",
     "title": "Armageddon -Eclipse-",
@@ -7480,19 +7493,6 @@
     "zureCount": 0,
     "proposer": "MineC24",
     "submission": 1187,
-    "proposerLr2id": 84597
-  },
-  {
-    "level": "2",
-    "comment": "1~2?",
-    "md5": "28334e4ffcc4e6fb393ccf8bc1bc842f",
-    "sha256": "57f071056996a3f48b61ba6e4a5115b66cf44224f9af14ac6c0764c2e8da4939",
-    "title": "Destroyer [Abgrund]",
-    "artist": "Tlahuizcalpantecuhtli / И BGA: Air",
-    "url_diff": "https://bms.parksulab.xyz",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
-    "proposer": "MineC24",
-    "submission": 1021,
     "proposerLr2id": 84597
   },
   {
@@ -10695,6 +10695,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "9b31cd0943d3824d8b50de1f9d08319b",
+    "sha256": "4fe2b7f70a35da3fb5815602aeb030a06cc3eb08e21de863fda8eb9069ac8f80",
+    "title": "APOLLON [GOD]",
+    "artist": "sun3 / Add Sounds:??? / obj. AXION",
+    "url_diff": "https://stellabms.xyz/upload/1717",
+    "url": "https://web.archive.org/web/20190330075243/http://www.geocities.jp/sun3_bms/apollon_bms.rar",
+    "level": "3",
+    "comment": "BPM180 多要素",
+    "proposer": "SHAX.",
+    "submission": 1836,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "969ce9512086a7f7baa68f45c9ad395f",
     "title": "AVALON -Genocide-",
     "artist": "Team:SASAKURATION / selene.",
@@ -11233,6 +11246,19 @@
     "proposer": "AYhaz",
     "submission": 1557,
     "proposerLr2id": 123475
+  },
+  {
+    "level": "3",
+    "comment": "1~2?",
+    "md5": "28334e4ffcc4e6fb393ccf8bc1bc842f",
+    "sha256": "57f071056996a3f48b61ba6e4a5115b66cf44224f9af14ac6c0764c2e8da4939",
+    "title": "Destroyer [Abgrund]",
+    "artist": "Tlahuizcalpantecuhtli / И BGA: Air",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
+    "proposer": "MineC24",
+    "submission": 1021,
+    "proposerLr2id": 84597
   },
   {
     "title": "Destroyer［Oxygen］",
@@ -13933,6 +13959,19 @@
     "sha256": "0646ccbd8a0ed97b4948c21f781181dc728cbf0cdea7ff9b7322c766159e83d7"
   },
   {
+    "md5": "e1b7b7e59f9136d59e65a64a6d158f0b",
+    "sha256": "8c738e9b89d663f12f6440b9cbd4dcd0dc14b9115f0390b91f96a2a7d5521d39",
+    "title": "紅い月夜に花の乱 [桜吹雪]",
+    "artist": "AKITO / mixed by TOSH /eleanor",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04732",
+    "url": "https://web.archive.org/web/20051123015828/http://big.freett.com:80/akito11/sakurak.rar",
+    "level": "3",
+    "comment": "16分咲き (桜華月の曲変更差分)",
+    "proposer": "qtp13",
+    "submission": 1875,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "d324f981955e881393501f0f791b2d93",
     "title": "絵空事の世界と私　 [EX]",
     "artist": "イヴ/さ",
@@ -14178,19 +14217,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "676ede9d7043df23cdbd41be326fca14da36a1147a6fd837f7ce6c5e0a9df014"
-  },
-  {
-    "md5": "59870e6c1b936fe10f8a8ed36f75b6be",
-    "sha256": "ca014f386ab83d2de643928ba182191712b4148537ab31baea215433a417e7c5",
-    "title": "Aurora [64.96°N, 19.02°W]",
-    "artist": "Lime / И",
-    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
-    "level": "4",
-    "comment": "BOFXV 乱打 神曲",
-    "proposer": "氷城つるぎ",
-    "submission": 1127,
-    "proposerLr2id": 151185
   },
   {
     "title": "axs (-------)",
@@ -15563,6 +15589,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "0dde61669fb9fc04a081406edbd01d442209060ae730a2e02e66186cd732d5b7"
+  },
+  {
+    "md5": "f27f4cc58a880baae7acbc1b96de0717",
+    "sha256": "7cc7c06bd47e01fc425be1130545d80451c6482629432faf3d25d57a0d69f7e4",
+    "title": "Needy Samples Overdose [INSANE]",
+    "artist": "CYLTIE.",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=139",
+    "level": "4",
+    "comment": "BPM232 皿複合",
+    "proposer": "SHAX.",
+    "submission": 1872,
+    "proposerLr2id": 65624
   },
   {
     "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
@@ -17230,6 +17269,19 @@
     "proposerLr2id": 73333
   },
   {
+    "md5": "59870e6c1b936fe10f8a8ed36f75b6be",
+    "sha256": "ca014f386ab83d2de643928ba182191712b4148537ab31baea215433a417e7c5",
+    "title": "Aurora [64.96°N, 19.02°W]",
+    "artist": "Lime / И",
+    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
+    "level": "5",
+    "comment": "BOFXV 乱打 神曲",
+    "proposer": "氷城つるぎ",
+    "submission": 1127,
+    "proposerLr2id": 151185
+  },
+  {
     "md5": "70cb09f3c2b58e8e49e28d481aa9435c",
     "sha256": "55bcb2f251b45ea53ebb5786ecf667d8336ff50e85f12f303247ac01c73166ee",
     "title": "Be More Sadistic! (BMS Edit) -Genocide-",
@@ -18494,7 +18546,8 @@
     "level": "5",
     "comment": "",
     "proposer": "chack♪",
-    "proposerLr2id": 130504
+    "proposerLr2id": 130504,
+    "submission": 13
   },
   {
     "md5": "b68e4ddc153ab9b9391f3d9a2f856e7a",
@@ -20266,6 +20319,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "20988880e9222cce13b9be92256bd81b9e879007ba9dfbc97caf913a3fc79555"
+  },
+  {
+    "md5": "a43af3297f4f1e418042b1e72a44f248",
+    "sha256": "6531e98812209eb730e5ee873cba3b735aa195926ce5e9aa91c8eae389bdb8dd",
+    "title": "SHI☆A☆WA☆SE [MASTER]",
+    "artist": "eye burn Reading: 冬乃桜 / obj.Mallow♪",
+    "url_diff": "https://stellabms.xyz/upload/1762",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=116",
+    "level": "6",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1874,
+    "proposerLr2id": 84597
   },
   {
     "md5": "9c158fd410f9dd3464d3506bd9f562dd",
@@ -24642,6 +24708,21 @@
     "sha256": "e7e0e02962aacdcca712c93f3a97f128fb95fb601c54b9b83e03bb16aa64bc51"
   },
   {
+    "md5": "2c61b055ab4a80c60786f705d168de45",
+    "title": "Defeat awaken battle ship (SP DESTROYER)",
+    "artist": "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01483",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=112",
+    "comment": "CYCLONEリスペクト",
+    "level": "10",
+    "proposer": "KIYOM",
+    "submission": 430,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "416d15f2f44af00593c98005c469bb2a3a6b5072563a817732acff689a2148f8"
+  },
+  {
     "title": "Destroyer [Floccinaucinihilipilification]",
     "artist": "Tlahuizcalpantecuhtli Obj.Supercalifragilisticexpialidocious BGA: Air",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
@@ -24882,6 +24963,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "093a233a39ae5c3cde74e11e1a1a631073086e62f8b39aeb63bcae5c28be773f"
+  },
+  {
+    "md5": "2d3565fe28f0b42b4539247e06a7bed3",
+    "sha256": "c90fd7fd452095f139d1d9aa184cd4efed427ca0af67776cbba3606686365f56",
+    "title": "Ripple Field 2 [フェスといえばマッチョ]",
+    "artist": "nekomimi_STaw / obj:C4",
+    "url_diff": "",
+    "url": "https://86iro716.pupu.jp/bms_event/event.php?event=1&entry=36",
+    "level": "10",
+    "comment": "連打複合、ガチ押し",
+    "proposer": "りこりす・らぢあーた",
+    "submission": 1876,
+    "proposerLr2id": 143120
   },
   {
     "md5": "03278f98734a370dfd340a766318f22f",
@@ -25236,21 +25330,6 @@
     "proposer": "otoshi.b",
     "submission": 1552,
     "proposerLr2id": 87474
-  },
-  {
-    "md5": "2c61b055ab4a80c60786f705d168de45",
-    "title": "Defeat awaken battle ship (SP DESTROYER)",
-    "artist": "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01483",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=112",
-    "comment": "CYCLONEリスペクト",
-    "level": "11",
-    "proposer": "KIYOM",
-    "submission": 430,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "416d15f2f44af00593c98005c469bb2a3a6b5072563a817732acff689a2148f8"
   },
   {
     "level": "11",

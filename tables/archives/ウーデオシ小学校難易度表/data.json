@@ -46,6 +46,15 @@
   },
   {
     "level": "0",
+    "title": "Distance Fields [wem]",
+    "artist": "isocosa obj.skar",
+    "url": "http://drive.google.com/file/d/1-xPf2L_zj7NdGoza2NPj4zhBJGIcHEBO/view",
+    "url_diff": "https://stellabms.xyz/upload/1832",
+    "md5": "f31c562326e026f02b0d464b5a88db87",
+    "comment": "126"
+  },
+  {
+    "level": "0",
     "title": "Edge of bravery [VENGEANCE]",
     "artist": "みーに feat. 初音ミク",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=127",
@@ -70,6 +79,15 @@
     "url_diff": "同梱譜面",
     "md5": "dd27ac7a5f59ccee1ebde67c1e52f6dd",
     "comment": "sl0/110"
+  },
+  {
+    "level": "0",
+    "title": "gazer [F]",
+    "artist": "scytheleg obj:Fender",
+    "url": "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
+    "url_diff": "http://fenderbms.web.fc2.com/",
+    "md5": "a8daf6a3798eea37f20e8d57af13bde4",
+    "comment": "sub sl1/122"
   },
   {
     "level": "0",
@@ -322,6 +340,15 @@
     "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
     "md5": "122e9a97053e2dbb7cc301b3e1fa606c",
     "comment": "★3/123"
+  },
+  {
+    "level": "1",
+    "title": "Luv of Magical Synth [Sour strawberry]",
+    "artist": "Naukorin / obj:NASA",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
+    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "md5": "b18e1e11d2f8f73fed1d229c04a1eafb",
+    "comment": "sub sl1/120"
   },
   {
     "level": "1",
@@ -856,6 +883,15 @@
   },
   {
     "level": "4",
+    "title": "gazer [INSANE]",
+    "artist": "scytheleg / obj.eJ",
+    "url": "http://scytheleg.sakura.ne.jp/",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3338.zip",
+    "md5": "8ef69caa9ab82c89af3e44669cc8ad21",
+    "comment": "▼6/122"
+  },
+  {
+    "level": "4",
     "title": "hurt, scenery, groundrainbow [Chords Practice_Hyper]",
     "artist": "syatten + coda",
     "url": "https://web.archive.org/web/20130210075745/http://www.planetoid.biz/bms/hsgr.rar",
@@ -943,6 +979,15 @@
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3985.zip",
     "md5": "53db7efc57d01207bdbc9dfdf696d7ba",
     "comment": "120"
+  },
+  {
+    "level": "4",
+    "title": "紅い空のアキレア [Scarlet]",
+    "artist": "daisan obj:monaka",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=116",
+    "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/128",
+    "md5": "8094db6dad64caae9c1cebd3492cde6e",
+    "comment": "sub sl4/115"
   },
   {
     "level": "5",
@@ -1252,15 +1297,6 @@
   },
   {
     "level": "7",
-    "title": "recollect [失われた思い出]",
-    "artist": "るり / A",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=123",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02297",
-    "md5": "4ad963fdd1be8cdb511e5dbe476b61e2",
-    "comment": "sl7/112.5"
-  },
-  {
-    "level": "7",
     "title": "the lost dedicated [nostalgia]",
     "artist": "哀愁マニア / obj.siokaze",
     "url": "http://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB!212",
@@ -1375,6 +1411,15 @@
     "url_diff": "http://hiiiii.web.fc2.com/sabun/",
     "md5": "d7240f94d6efc4ddafe82ec77e6f4235",
     "comment": "sl8,▼15/77.5"
+  },
+  {
+    "level": "8",
+    "title": "recollect [失われた思い出]",
+    "artist": "るり / A",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=123",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02297",
+    "md5": "4ad963fdd1be8cdb511e5dbe476b61e2",
+    "comment": "sl8/112.5"
   },
   {
     "level": "8",

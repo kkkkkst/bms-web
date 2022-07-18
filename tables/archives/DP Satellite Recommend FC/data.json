@@ -35,11 +35,6 @@
     "level": "4.3"
   },
   {
-    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
-    "title": "Cutter [DP ANOTHER]",
-    "level": "4.4"
-  },
-  {
     "md5": "c02de0206f910240a0b9ed86858969cd",
     "title": "Dream in the girl -DP ANOTHER-",
     "level": "4.4"
@@ -68,6 +63,11 @@
     "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
     "title": "endemize [E-ANOTHER]",
     "level": "4.4"
+  },
+  {
+    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
+    "title": "Cutter [DP ANOTHER]",
+    "level": "4.5"
   },
   {
     "md5": "0a5033e3081589ffd65a6293f6421b14",
@@ -315,11 +315,6 @@
     "level": "5.6"
   },
   {
-    "md5": "ab27e512bd93288306944f602d57e834",
-    "title": "JUGGLE [DP ANOTHER]",
-    "level": "5.7"
-  },
-  {
     "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
     "title": "Replace [DP ANOTHER]",
     "level": "5.7"
@@ -333,6 +328,11 @@
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
     "title": "未来のコピヌ [DP ANOTHER]",
     "level": "5.7"
+  },
+  {
+    "md5": "ab27e512bd93288306944f602d57e834",
+    "title": "JUGGLE [DP ANOTHER]",
+    "level": "5.8"
   },
   {
     "md5": "3d91b783248f05141bcaaf6410ac860c",
@@ -560,11 +560,6 @@
     "level": "7.1"
   },
   {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
-    "level": "7.1"
-  },
-  {
     "md5": "d95223a411d9aece9a16eaf733d6797c",
     "title": "Empress of Raizze (14H)",
     "level": "7.2"
@@ -577,6 +572,11 @@
   {
     "md5": "dff6930e3435fe6552d4670c689d2270",
     "title": "Is This Your Memory? [Another]",
+    "level": "7.2"
+  },
+  {
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
     "level": "7.2"
   },
   {
@@ -960,6 +960,11 @@
     "level": "9.0"
   },
   {
+    "md5": "926ebcc5fd53d715a4494641a266202d",
+    "title": "ポケットモンスター BW2 アイリス戦",
+    "level": "9.0"
+  },
+  {
     "md5": "57bf2117e01dba19e4fa172ade61d400",
     "title": "藍煉の人形 [DPA.NOTHER]",
     "level": "9.8"
@@ -1085,11 +1090,6 @@
     "level": "10.2"
   },
   {
-    "md5": "3bb6b6cc5683fa43fca60a722fccd566",
-    "title": "ふゆいろ ドリーマー",
-    "level": "10.9"
-  },
-  {
     "md5": "1cf2e4e0cd40442ecbb7d633617c4714",
     "title": "ALife Contradiction [DP ANOTHER]",
     "level": "11.0"
@@ -1097,6 +1097,11 @@
   {
     "md5": "910681db5dfded14ac907e0cfe9122e2",
     "title": "Zero Dimension [ANOTHER14]",
+    "level": "11.0"
+  },
+  {
+    "md5": "3bb6b6cc5683fa43fca60a722fccd566",
+    "title": "ふゆいろ ドリーマー",
     "level": "11.0"
   },
   {
@@ -1160,8 +1165,23 @@
     "level": "11.4"
   },
   {
+    "md5": "99662346a80bd6fdb7c777aba68e9bd8",
+    "title": "F4C4D3 [DPA]",
+    "level": "11.4"
+  },
+  {
     "md5": "f4da0cf3f1f3e7783c7fde34e24a5897",
     "title": "I do all may star Live 4 U [Conversion]",
+    "level": "11.4"
+  },
+  {
+    "md5": "bfc5a2b4799728e20475b05702d1843f",
+    "title": "Mercury Prayer -14keys-",
+    "level": "11.4"
+  },
+  {
+    "md5": "762258885246b239006c8294e08b1165",
+    "title": "Modern Times",
     "level": "11.4"
   },
   {
@@ -1177,6 +1197,11 @@
   {
     "md5": "e30c5af1577f36d24fb2b0a8e3b6f3b9",
     "title": "Yay or Nay [DP ☆NOTHER]",
+    "level": "11.4"
+  },
+  {
+    "md5": "b8a1552944a45a43e14125a85cb9803f",
+    "title": "ametsuchi",
     "level": "11.4"
   },
   {
@@ -1220,14 +1245,14 @@
     "level": "12.3"
   },
   {
-    "md5": "d03436d07bc8913d5abd8157887e8327",
-    "title": "physalis [14KEYS ANOTHER]",
+    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
+    "title": "Noblesse Gloria [DP-sagANOTHER]",
     "level": "12.5"
   },
   {
-    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
-    "title": "Noblesse Gloria [DP-sagANOTHER]",
-    "level": "12.6"
+    "md5": "d03436d07bc8913d5abd8157887e8327",
+    "title": "physalis [14KEYS ANOTHER]",
+    "level": "12.5"
   },
   {
     "md5": "696db350374daf33a376b5a1e56863e4",
@@ -1337,12 +1362,17 @@
   {
     "md5": "99cbb8f15bae66bb36f942d7c6389de6",
     "title": "Realize [starry 14]",
-    "level": "17.2"
+    "level": "17.3"
   },
   {
     "md5": "5f5be91b44b0108d91c48e01b0e27c41",
     "title": "Chatblanc [blache]",
     "level": "18.6"
+  },
+  {
+    "md5": "65475e8733cf1d03de23f994e7842796",
+    "title": "アナログ横丁 [14巻]",
+    "level": "Infinity"
   },
   {
     "md5": "1542e4cd8301369334457d3c6f4960bd",
@@ -1402,11 +1432,6 @@
   {
     "md5": "f59aedc595217b62eed54f5ecf663fba",
     "title": "gradation (DP ANOTHER)",
-    "level": "Infinity"
-  },
-  {
-    "md5": "926ebcc5fd53d715a4494641a266202d",
-    "title": "ポケットモンスター BW2 アイリス戦",
     "level": "Infinity"
   },
   {
@@ -1520,11 +1545,6 @@
     "level": "Infinity"
   },
   {
-    "md5": "99662346a80bd6fdb7c777aba68e9bd8",
-    "title": "F4C4D3 [DPA]",
-    "level": "Infinity"
-  },
-  {
     "md5": "09d1c8ce11ca00865862fd4a94d00250",
     "title": "Granblaze [DP ANOTHER]",
     "level": "Infinity"
@@ -1547,16 +1567,6 @@
   {
     "md5": "43033d8833436e482a5d745e0721b196",
     "title": "Light drivv -DP ANOTHER-",
-    "level": "Infinity"
-  },
-  {
-    "md5": "bfc5a2b4799728e20475b05702d1843f",
-    "title": "Mercury Prayer -14keys-",
-    "level": "Infinity"
-  },
-  {
-    "md5": "762258885246b239006c8294e08b1165",
-    "title": "Modern Times",
     "level": "Infinity"
   },
   {
@@ -1622,11 +1632,6 @@
   {
     "md5": "e0e753a494a96fe548593a84e3c77172",
     "title": "Yutu (14_Extreme)",
-    "level": "Infinity"
-  },
-  {
-    "md5": "b8a1552944a45a43e14125a85cb9803f",
-    "title": "ametsuchi",
     "level": "Infinity"
   },
   {
@@ -2595,8 +2600,23 @@
     "level": "Infinity"
   },
   {
+    "md5": "2c8ca67a2198fbb13199b970210d1b20",
+    "title": "QUARTZ [BLACK ANOTHER]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "31c877e8022d80b63cc78eb42a4be921",
+    "title": "QUESTING",
+    "level": "Infinity"
+  },
+  {
     "md5": "40f0c8314e93ea572f5ab6e0e2a81eda",
     "title": "STAGER [ONE MORE EXTRA]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "0ba6de050ce06847b737564948b61654",
+    "title": "Sweet Little Chocolate [DP-soijoy]",
     "level": "Infinity"
   },
   {

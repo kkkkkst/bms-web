@@ -51,6 +51,19 @@
     "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
   },
   {
+    "md5": "15064aa2f9534a2f71faffed1033b88b",
+    "sha256": "89c0385ec37c9f05df603bd903b96396a103d7beba814ed0b2fd9d022cd9840f",
+    "title": "Yobukoe ga suru 21-Neon no [ARGON]",
+    "artist": "RykSeb",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=139",
+    "level": "0",
+    "comment": "BPM177 皿複合",
+    "proposer": "SHAX.",
+    "submission": 2535,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "f1db5347fcc14d0d753a4242c961f99e",
     "sha256": "14670426527a1758e402afa37b2665c89d5a99df890a6e0265fb772d51884d0f",
     "title": "織姫 -ANOTHER-",
@@ -90,19 +103,6 @@
     "proposerLr2id": 146726
   },
   {
-    "md5": "4c086e143deaf315f8f4d0cf1bf8b527",
-    "sha256": "1e3ada5c908bfe812faa3e6132821dc27f021d93c54c61a7fc2f92471bc4e972",
-    "title": "Pandora [ANOTHER]",
-    "artist": "SOMON",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137",
-    "level": "1",
-    "comment": "BOFXVII/同梱譜面",
-    "proposer": "DJ_Kuroakari",
-    "submission": 2509,
-    "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
-  },
-  {
     "md5": "c9f206179f2b9ab095686f6de84d3d97",
     "sha256": "62031688ed673e117ae075371625c72d73a475fbda0ebf5470cc918b03438991",
     "title": "Vis10ns [ANOTHER]",
@@ -114,19 +114,6 @@
     "proposer": "SHAX.",
     "submission": 2514,
     "proposerLr2id": 65624
-  },
-  {
-    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
-    "sha256": "b3f83b054e6b15bdeba60b74c8b2e62470ce5f9a3bf9ef56150877b5ba4fff6f",
-    "title": "Zero Feet [ANOTHER]",
-    "artist": "crossworld",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=137",
-    "level": "1",
-    "comment": "BPM128 16分のガチ押しと32分ディレイ",
-    "proposer": "EGRET.",
-    "submission": 2501,
-    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "title": "せんせーしょん！ [W]",
@@ -146,19 +133,6 @@
     "proposerLr2id": 65624
   },
   {
-    "md5": "94ce67bbda76a6e24a596e66f57162cb",
-    "sha256": "0090ab4d9836351a3f6bba2e9993efca5403d943908239274057035c29697b4e",
-    "title": "紬の夏休み (やりたいことRemix) -Another-",
-    "artist": "紬 ヴェンダース Remix by 七海",
-    "url_diff": "",
-    "url": "https://www.dropbox.com/s/rva9y5wnsjz6ebl/mugyu_1.00.zip?dl=1",
-    "level": "2",
-    "comment": "むぎゅ",
-    "proposer": "Mary_Sue",
-    "submission": 2507,
-    "proposerLr2id": 147889
-  },
-  {
     "md5": "9a6ead0eef3438ab35829bb1485b476b",
     "sha256": "5cd69c49c998bac30c9b12520d05304880a85830d8781a1355d2f864f8d4db64",
     "title": "焔-HOMURA- [EX]",
@@ -171,6 +145,19 @@
     "proposer": "なうもとわんたろう",
     "submission": 2518,
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
+  },
+  {
+    "md5": "40e34d98f2d704e7d80329f1b203e296",
+    "sha256": "6027daf60a5a27f296b6a107ae8c848970e2e61dd6ae30c32f2238c08cb64c8c",
+    "title": "進め！イッスン軍団 -Rebellion of the Dwarfs- [Semi-Lunatic]",
+    "artist": "dawn-system / obj.mqppppp BGA:216 (office-φ) / Original:ZUN",
+    "url_diff": "https://stellabms.xyz/upload/1796",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=116",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2539,
+    "proposerLr2id": 84597
   },
   {
     "md5": "dd0f4a1cd0919d7e0e30efd5da3f3e49",
@@ -200,23 +187,6 @@
     "proposerLr2id": 141043
   },
   {
-    "title": "whither [7keys another]",
-    "artist": "qfeileadh",
-    "url": "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=59&order=reg&odtype=a",
-    "url_diff": "",
-    "md5": "25254b610f84c2d602b5fc73202a27dc",
-    "sha256": "904230c13f87c0d90f5f692fce604d43d28bedfdbbbb91bd9a9b55e0dec12907",
-    "proposer": "qtp13",
-    "level": "4",
-    "submission": 1420,
-    "voteYes": 8,
-    "voteNeutral": 3,
-    "voteNo": 2,
-    "votePercent": 73.07692307692307,
-    "voteVersion": 2,
-    "proposerLr2id": 86559
-  },
-  {
     "md5": "687f0e8c879bcf015c860e5cea6fea7a",
     "sha256": "89d7621610494369cbeaec04474162cd5fed87798a119fc9f08ee18342d7ef0d",
     "title": "トルコ行進曲 (Hd-NRG mix) [BKANOTHER]",
@@ -244,16 +214,17 @@
     "proposerLr2id": 141043
   },
   {
-    "md5": "fe17f8430ef13d481523516bf5f83c84",
-    "sha256": "ffbcf5bc18e477dcb3accd65747335cc1cc4686d10e12d2597aa40cd17132e89",
-    "title": "Adorable Ammunition",
-    "artist": "Azusa tofuyA",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=96",
+    "md5": "e1bc43bf1e2c348cfca4a74f7f40be6f",
+    "sha256": "ed0478d6b76c9d52d0800f5b3aab5a874066aa89f50b7c97008ffda05b88003d",
+    "title": "BlythE:ExtenD [Elate]",
+    "artist": "remixed celas feat.ARU obj:ctc",
+    "url_diff": "http://ctconnected.blog.fc2.com/blog-entry-1.html",
+    "url": "http://web.archive.org/web/20170227053727/http://creation-records.info/bms/blythe_r_ogg.rar",
     "level": "5",
-    "comment": "bpm222高速、ソフラン",
+    "comment": "物量、乱打など。",
+    "zureCount": 0,
     "proposer": "Mary_Sue",
-    "submission": 2498,
+    "submission": 2538,
     "proposerLr2id": 147889
   },
   {
@@ -311,32 +282,35 @@
     "proposerLr2id": 65624
   },
   {
-    "md5": "5c40b8f89acb174231f3cba614a67279",
-    "sha256": "19543bf88f81a468757ef6e665848942e610cb01f177db45e18978a8633a8bc8",
-    "title": "Triton [HARDEST]",
-    "artist": "enxel /差分 赤い人",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/Triton-HARDEST.bme",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Triton%20(by%20enxel).rar",
-    "level": "6",
-    "comment": "BPM138の乱打譜面",
-    "zureCount": 0,
-    "proposer": "Mallow♪",
-    "submission": 2496,
-    "proposerLr2id": 154796
+    "title": "Dual Personality [Binary Nexus]",
+    "artist": "siqlo BGA:八重幸 / obj : BAECON + 七海",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132",
+    "url_diff": "https://www.dropbox.com/s/hsokg6c4gnq7jy5/dp_bn.zip?dl=1",
+    "md5": "10501fa63ec75d2150be114d0f284011",
+    "sha256": "d0609baf4a9e836e1c5f44137e3a806ae3f5dd6beb170302d802ac3da5dd47b9",
+    "proposer": "511",
+    "level": "7",
+    "submission": 1650,
+    "voteYes": 11,
+    "voteNeutral": 0,
+    "voteNo": 0,
+    "votePercent": 100,
+    "voteVersion": 2,
+    "proposerLr2id": 141043
   },
   {
-    "md5": "9f26ef451c5504fbc756abc0da17ff6f",
-    "sha256": "07220c114b7e90f611edf022047f997cdf729f0a23462d548d8633431d6b22f4",
-    "title": "B e l i - R [swayer]",
-    "artist": "+45 / obj:BAECON",
-    "url_diff": "http://akred.web.fc2.com/baecon/swayer.bme",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=91",
+    "md5": "0e703be7df59106b08e3ea64b87376e9",
+    "sha256": "8cae2431ef7ccc11df4262037136b7113e138544f1d6e591a135fd26041d198e",
+    "title": "Henceforth [from now on]",
+    "artist": "Qyubey feat. Juudenki obj.nozomi",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=137",
     "level": "7",
-    "comment": "BPM164の乱打譜面",
+    "comment": "sl 6~7？ ズレ、同時押し",
     "zureCount": 0,
-    "proposer": "Mallow♪",
-    "submission": 2497,
-    "proposerLr2id": 154796
+    "proposer": "511",
+    "submission": 2537,
+    "proposerLr2id": 141043
   },
   {
     "md5": "dc958cc99785ee53f09155a078df3a18",
@@ -350,20 +324,6 @@
     "proposer": "七海",
     "submission": 2529,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "4d34ad77d6a9e53209738377eb32236b",
-    "sha256": "85df4c6d51ad05f8d2cdc3e5b13ae0f16a9003b0608f167cc65bae58445c5991",
-    "title": "Envy [Darkness]",
-    "artist": "imario / obj : LindBlum",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up7129.zip",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Envy%20(by%20imario).rar",
-    "level": "8",
-    "comment": "BPM210 24分階段 12分微連打",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 2500,
-    "proposerLr2id": 65624
   },
   {
     "title": "激☆空間プロポーズBGA+",
@@ -396,98 +356,16 @@
     "proposerMinirid": "d5e98bc8-4306-4c4e-9f45-b6382e928085"
   },
   {
-    "md5": "1dcbd8071f69d9f092eaabe424c42f0a",
-    "sha256": "e8afc8d2563008d3cb7464b32dc016151897ebb5a564b644ef5e6f699406d145",
-    "title": "insanity air [Unwanted]",
-    "artist": "団一郎&亜里亜 BGA:秋野さん obj : dfsty",
-    "url_diff": "https://stellabms.xyz/upload/1665",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=83",
-    "level": "10",
-    "comment": "発狂",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2512,
-    "proposerLr2id": 84597
-  },
-  {
-    "md5": "f1e3b81187d776311556a0b713596ba5",
-    "sha256": "b65aa912d844b2c5f2753ccd966c1ef38d963e2bb20d8d4c9311f17b361ed5ce",
-    "title": "Luminaria [INSANE7]",
-    "artist": "Lime",
+    "md5": "445c71005c8ffee14948f3dea77699b5",
+    "sha256": "2d24539283ace605a14ae12a94dbba4864ae57911fe8b98c42eba202d8da959e",
+    "title": "Sense [SP SENSELESS]",
+    "artist": "BilliumMoto × Silentroom Movie: mahinii",
     "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=137",
-    "level": "10",
-    "comment": "bpm227 ガチ押し 2-2乱打 微ソフラン ディレイ sl9-10?",
-    "proposer": "83929",
-    "submission": 2517,
-    "proposerLr2id": 159515
-  },
-  {
-    "md5": "e18550050e4ee6008798111d4a63e81a",
-    "sha256": "a887dfb194ac4598bc6be774219f8668d3fea39cd7b1632b0ea3ef594ec282a6",
-    "title": "Magical Love Words [マジカル横認識]",
-    "artist": "源屋feat.ユスラ obj:trainer",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02657",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
-    "level": "10",
-    "comment": "stream",
-    "zureCount": 0,
-    "proposer": "歳納京子",
-    "submission": 2530,
-    "proposerLr2id": 75332
-  },
-  {
-    "md5": "57bfae689a9b51e1e77bdf644dfcd134",
-    "sha256": "b833c88b970f611f94bfe4924c3e7a5adaeb4bd2e114ad275ee347e09b01db8e",
-    "title": "RAY (EZ?)",
-    "artist": "MILK / И",
-    "url_diff": "https://bms.parksulab.xyz",
-    "url": "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
-    "level": "11",
-    "comment": "追加音源によるズレ抜けあり。(同梱readmeを読んでください)",
-    "proposer": "Mary_Sue",
-    "submission": 2520,
-    "proposerLr2id": 147889
-  },
-  {
-    "md5": "a0b3027ae8eb899fce45286c2d8f6e70",
-    "sha256": "dfbd9b9ba5e8867318cb23ce7406fb2ab2e65fa41798387f2453e9bc00405b33",
-    "title": "^ [CIRCUMFLEX]",
-    "artist": "Show_G.bd obj : Khibine",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06137",
-    "url": "https://www.dropbox.com/s/hklebja7dyaozou/%5E%20-%20UnlimitedQuasar.zip?dl=0",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=137",
     "level": "12",
-    "comment": "乱打、連皿",
-    "zureCount": 0,
-    "proposer": "ねおんし",
-    "submission": 2513,
-    "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
-  },
-  {
-    "md5": "596f59aac969be214282a8500dbc1c1e",
-    "sha256": "37fe18145c225b6304e25830fd3c1edd3f25aac699a8846d56216f475f8be328",
-    "title": "Garefowl -Xe-",
-    "artist": "マフラーアカペンギン obj : LindBlum",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04137",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=110",
-    "level": "12",
-    "comment": "BPM220 ガチ押し",
-    "zureCount": 0,
-    "proposer": "fuko",
-    "submission": 2506,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
-  },
-  {
-    "md5": "1fc691e3a2a928b74a8cd5ec11264b24",
-    "sha256": "3b15ad44b0fcb518a935d60e4cdc498c84ea5a0c90666f4580d4176dbba2a12b",
-    "title": "改板二分前 [HAPPILy/7key]",
-    "artist": "SHDS/MS",
-    "url_diff": "https://fsrs.github.io/table.html",
-    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=11&num=22&order=reg&odtype=a",
-    "level": "12",
-    "comment": "HS-FIXはAVGで　多要素  / 同梱ez.bms基準ソフラン一つ以外はズレ抜けなし。",
-    "proposer": "Mary_Sue",
-    "submission": 2516,
-    "proposerLr2id": 147889
+    "comment": "BOFXVII 同梱譜面",
+    "proposer": "EGRET.",
+    "submission": 2536,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   }
 ]

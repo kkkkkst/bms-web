@@ -1,18 +1,5 @@
 [
   {
-    "md5": "5beb90dc50a2fccd6b757ff15d2775f8",
-    "sha256": "a7ea16a2a1bdeb90a45907ecc69f31e793b0ded4e8ed265d4d7583f9a293eab2",
-    "title": "Magical Love Words (vovovo.mix) -another14-",
-    "artist": "sumomo feat.rapi (original:源屋 feat.ユスラ)",
-    "url_diff": "",
-    "url": "https://bms-mirror.com/pkg/2021/mumeiacademy2021/magical_love_words_vovovo.zip",
-    "level": "1",
-    "comment": "混フレが難しい",
-    "proposer": "なうもとわんたろう",
-    "submission": 733,
-    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
-  },
-  {
     "title": "AIWS -Homuponother-",
     "artist": "くるぶっこちゃん obj:H.M.P.-G BGA : geniway",
     "url": "https://drive.google.com/file/d/1b22YjmODTUGuuoq7ktQVZTjP5pKVlz55/view?usp=sharing",
@@ -30,6 +17,34 @@
     "proposerLr2id": 53819
   },
   {
+    "md5": "29795d9e9d470675490831c40e16a552",
+    "sha256": "f7963bb2c9513e07c433c75c81766d39db360df3a173fb99e6699330a79d93aa",
+    "title": "事象の地平 [平行世界：事件の始作]",
+    "artist": "wa. / Limite",
+    "url_diff": "https://www.limiteknj.net/BMS/",
+    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?0V9DDTKD",
+    "level": "6",
+    "comment": "5~6?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 737,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "83e2eb6882794750f364981150ff82fb",
+    "sha256": "73cda9c9197e8e9bc17767ff7e5673f274023712116ba8123ce1f85f954cdc17",
+    "title": "虚空グラデーション",
+    "artist": "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / obj:lichtr",
+    "url_diff": "http://objlr.kirara.st/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=74",
+    "level": "7",
+    "comment": "7~8?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 736,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "a38d4962ad34dbab32a513c20ef8c7f5",
     "sha256": "e075ba2949f6b3b66050b9d73832b81299803aecbeb2f35f829c4b2dd89b06cf",
     "title": "Bloody Scarlet Nightmare [DP ANOTHER]",
@@ -41,33 +56,5 @@
     "proposer": "にゃむ",
     "submission": 635,
     "proposerLr2id": 139958
-  },
-  {
-    "md5": "a787a09f9103358e7c579d5d1b525dac",
-    "sha256": "0dfb79b1353d126f3d8a6cc7c68bc65496a2245270584d0591ae965170a3b68c",
-    "title": "Disordered Moon [DPA]",
-    "artist": "raii obj.vectorla",
-    "url_diff": "http://sakuratone.blog.jp/",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=118",
-    "level": "9",
-    "comment": "9?",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 734,
-    "proposerLr2id": 128228
-  },
-  {
-    "md5": "447f9d6c114f84c30c8ac66f68b03032",
-    "sha256": "082ca28ab1d4d94e4e64f13b2aa2c36493accfb3353048401e58108f2bc0403e",
-    "title": "GaRaKuTic Dream (DP ANOTHER)",
-    "artist": "NEKI←T (obj:k)",
-    "url_diff": "http://dpbms.at-ninja.jp/",
-    "url": "https://nekokan.dyndns.info/~anonymous/bms/est/",
-    "level": "9",
-    "comment": "8~9? DP差分(obj:k) → DP差分 → ★9 GaRaKuTic Dream (DP ANOTHER)",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 735,
-    "proposerLr2id": 128228
   }
 ]
