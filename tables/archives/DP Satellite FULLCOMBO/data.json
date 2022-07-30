@@ -2,18 +2,12 @@
   {
     "md5": "c80f82c866039e7f563ad6e2020e4980",
     "title": "Anger Control [14KEYS]",
-    "level": "3.00...3.50",
+    "level": "3.50...4.00",
     "comment": "sl0"
   },
   {
     "md5": "80aa05db73ca35739b93df3f46afc440",
     "title": "Regain [DP HYPER]",
-    "level": "3.50...4.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
-    "title": "Stray Squall (BMS Edit)",
     "level": "3.50...4.00",
     "comment": "sl0"
   },
@@ -32,12 +26,6 @@
   {
     "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
     "title": "endemize [E-ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "1ce0d95e27aab50479e3a726ef27b157",
-    "title": "IMPULSE [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl0"
   },
@@ -62,6 +50,12 @@
   {
     "md5": "fa736e9530e3c7170c570efd03b69b07",
     "title": "Postliminium [DP ANOTHER]",
+    "level": "4.00...4.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
+    "title": "Stray Squall (BMS Edit)",
     "level": "4.00...4.50",
     "comment": "sl0"
   },
@@ -152,6 +146,12 @@
   {
     "md5": "6c7694578e4446c9a1ce3ca9b9a4ef91",
     "title": "Her Majesty [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "1ce0d95e27aab50479e3a726ef27b157",
+    "title": "IMPULSE [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -1062,6 +1062,18 @@
     "comment": "sl3"
   },
   {
+    "md5": "99424f8ed89f058e609493a11f2c0b77",
+    "title": "Ovital [DP HYPER]",
+    "level": "8.50...9.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "7d9100fba417fa838b31f86728ba2659",
+    "title": "RAVE NIGHTINGALE [Daybreak14]",
+    "level": "8.50...9.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "2e1d905b08d65ad49333586bfbc9a7b5",
     "title": "Satellite in Heart",
     "level": "8.50...9.00",
@@ -1164,12 +1176,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "5f13acf318cab698ddf635ff0714b0ad",
-    "title": "Close the Lights (DP EX)",
-    "level": "9.50...10.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "e80b8d644b47e94cda1c90ca27014a3b",
     "title": "Take Me Away [DPH]",
     "level": "9.50...10.00",
@@ -1226,6 +1232,12 @@
   {
     "md5": "74275b409e2bc00f51366a14c7e5d173",
     "title": "CG901B -7- [Short Ver.] [DPEX]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "5f13acf318cab698ddf635ff0714b0ad",
+    "title": "Close the Lights (DP EX)",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -1536,6 +1548,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "d0b020d20dab01f544fe7cb74fd94fe4",
+    "title": "C.E. Days -14EX-",
+    "level": "13.50...14.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "c00887580bcdb3dd9dd594f2eef5c63d",
     "title": "Divided Montage [14KEYS ANOTHER]",
     "level": "13.50...14.00",
@@ -1572,6 +1590,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "1d0d3eb106bcd45d886d969d615b95b7",
+    "title": "恋の2-4-11(BMS Edit) [恋の2-4-11って何だよ]",
+    "level": "13.50...14.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "56fb12dbf24ac83b4a02364c88734567",
     "title": "A-chasing-Y [DPINSA.NE]",
     "level": "14.50...15.00",
@@ -1604,6 +1628,12 @@
   {
     "md5": "9b2a7f55232d233a4dfa40442425db4b",
     "title": "バーチャルセラピー [DP THERAPY]",
+    "level": "14.50...15.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "1def279d7874b586b26ed30a3c1233af",
+    "title": "藍煉の人形 [DPINSA.NE]",
     "level": "14.50...15.00",
     "comment": "sl8"
   },
@@ -1860,12 +1890,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "d0b020d20dab01f544fe7cb74fd94fe4",
-    "title": "C.E. Days -14EX-",
-    "level": "-",
-    "comment": "sl7"
-  },
-  {
     "md5": "7b00521bff9a8275d02b71a4f2a5086a",
     "title": "Caelumize [MG]",
     "level": "-",
@@ -1971,7 +1995,7 @@
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
     "level": "-",
-    "comment": "sl10"
+    "comment": "sl11"
   },
   {
     "md5": "66f2263a8e854298029231c872c3e14b",
@@ -2406,6 +2430,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "5beb90dc50a2fccd6b757ff15d2775f8",
+    "title": "Magical Love Words (vovovo.mix) -another14-",
+    "level": "-",
+    "comment": "sl1"
+  },
+  {
     "md5": "b117e4747a220ff1216c152f075ad409",
     "title": "Mandragora [Cry Out]",
     "level": "-",
@@ -2532,12 +2562,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "99424f8ed89f058e609493a11f2c0b77",
-    "title": "Ovital [DP HYPER]",
-    "level": "-",
-    "comment": "sl3"
-  },
-  {
     "md5": "1a8bf502c603ff2f2b9fca64a47de401",
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "-",
@@ -2614,12 +2638,6 @@
     "title": "rainbow [DP]",
     "level": "-",
     "comment": "sl6"
-  },
-  {
-    "md5": "7d9100fba417fa838b31f86728ba2659",
-    "title": "RAVE NIGHTINGALE [Daybreak14]",
-    "level": "-",
-    "comment": "sl3"
   },
   {
     "md5": "143734dba02fd634d6a76c77509f8b85",
@@ -3126,12 +3144,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "1d0d3eb106bcd45d886d969d615b95b7",
-    "title": "恋の2-4-11(BMS Edit) [恋の2-4-11って何だよ]",
-    "level": "-",
-    "comment": "sl7"
-  },
-  {
     "md5": "aa389df1f9b142c58e1fd9204df74278",
     "title": "摩訶幻想マジトリク [DP INSANE]",
     "level": "-",
@@ -3262,12 +3274,6 @@
     "title": "藍より青い憧憬",
     "level": "-",
     "comment": "sl4"
-  },
-  {
-    "md5": "1def279d7874b586b26ed30a3c1233af",
-    "title": "藍煉の人形 [DPINSA.NE]",
-    "level": "-",
-    "comment": "sl8"
   },
   {
     "md5": "5c1c97a00af7b108e2a53afecba82cc3",

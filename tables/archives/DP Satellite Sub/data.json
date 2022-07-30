@@ -2194,6 +2194,20 @@
     "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
   },
   {
+    "md5": "6ec13a59a0f84b46799fe459363a2737",
+    "sha256": "2f2850f524a5961e4fa16ebe86399ff86a3793ef0a56b79a38e2ed0173c63ced",
+    "title": "Soul of Deep-sea Fish [A14]",
+    "artist": "HOUJIROU obj:ucc",
+    "url_diff": "https://web.archive.org/web/20181106000811/http://www.geocities.jp/uccdpbms/bof2012/sdf.zip",
+    "url": "https://www.dropbox.com/s/5pywdhpfcozj7xs/%5BMaple_brit%27S%5DSoul_of_Deep-sea_Fish-HOUJIROU.rar?dl=0",
+    "level": "2",
+    "comment": "1~2?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 738,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "25da20674b6cdacd770bf3c4dfafbd25",
     "sha256": "209b90b5ac1e4082e5ba926241a2aba01eabb95b5dc50e5081f1169c6aa9f387",
     "title": "STAGER [DP-sagANOTHER]",
@@ -4229,6 +4243,20 @@
     "url": "https://drive.google.com/file/d/1IFd-a5Xjq4c-UBwr_A0SFCzktPakblqw/view?usp=sharing",
     "proposer": "JHS",
     "submission": 104,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "e1cb9d5aa8a7cbe72b7fc510ff071716",
+    "sha256": "e86ddf12e766e0b4eaa649a47ff1dc6d9819b0923a170e98bfbd566cb586f202",
+    "title": "BABYLON [14keys]",
+    "artist": "SHIKI / obj:KGRY",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=60",
+    "level": "5",
+    "comment": "5~6? dpbms_1274.zip",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 739,
     "proposerLr2id": 128228
   },
   {
@@ -8346,20 +8374,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "badd87bc03a1b5657c4f9061e3bbd083",
-    "sha256": "56aa264516930fda7651d997914025fe051f1004b6d137550395fcbd2d24afdb",
-    "title": "Danse de Romani",
-    "artist": "MUE / mov : Lyrebird Ferdinant obj: shiba",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/998",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=104",
-    "level": "10",
-    "comment": "ズレ、認識難、片手発狂",
-    "zureCount": 0,
-    "proposer": "にゃむ",
-    "submission": 429,
-    "proposerLr2id": 139958
-  },
-  {
     "md5": "ead4d5ef2f682641679929a7f532c3d7",
     "sha256": "a8826304e1e61aaeccc5cf604814fc977eb35ccfb0b925a61d8e6f7f54b2e68b",
     "title": "Disillusion code [DP ANOTHER]",
@@ -8873,6 +8887,20 @@
     "comment": "★★2? 片手乱打、LN ※分割加工キー音差分を使用（SP★6もしくは同梱のtxtにURLあり）",
     "proposer": "にゃむ",
     "submission": 574,
+    "proposerLr2id": 139958
+  },
+  {
+    "md5": "badd87bc03a1b5657c4f9061e3bbd083",
+    "sha256": "56aa264516930fda7651d997914025fe051f1004b6d137550395fcbd2d24afdb",
+    "title": "Danse de Romani",
+    "artist": "MUE / mov : Lyrebird Ferdinant obj: shiba",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/998",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=104",
+    "level": "11",
+    "comment": "ズレ、認識難、片手発狂",
+    "zureCount": 0,
+    "proposer": "にゃむ",
+    "submission": 429,
     "proposerLr2id": 139958
   },
   {

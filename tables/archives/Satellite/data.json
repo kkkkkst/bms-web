@@ -581,6 +581,18 @@
     "submission": 844
   },
   {
+    "title": "FIRST PROMIZE [ANOTHER]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+    "url": "https://venue.bmssearch.net/mutualfaith3/9",
+    "url_diff": "",
+    "md5": "900ba4c7fcb22ae4fa3574f07bcaf1fd",
+    "sha256": "0ceb1c90a942d9245e946b23ec4a095a05419117ae1bd895ed60807bf0c79168",
+    "level": "0",
+    "proposer": "東風谷早苗",
+    "comment": "物量、乱打",
+    "submission": 2524
+  },
+  {
     "title": "Fortress [ANOTHER]",
     "artist": "たこやき",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=247&event=116",
@@ -628,6 +640,17 @@
     "proposer": "selene.",
     "submission": 191,
     "proposerLr2id": 84521
+  },
+  {
+    "title": "gazer [F]",
+    "artist": "scytheleg obj:Fender",
+    "url": "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
+    "url_diff": "http://fenderbms.web.fc2.com/",
+    "md5": "a8daf6a3798eea37f20e8d57af13bde4",
+    "sha256": "17d7d2ab63929e32f2995ba8c78685e0824d1b6b74ceef08752713fee48b6f9d",
+    "level": "0",
+    "proposer": "Reiaki",
+    "submission": 2527
   },
   {
     "title": "Girl's Heart ～人形少女 [SP ANOTHER]",
@@ -7759,18 +7782,6 @@
     "submission": 2339
   },
   {
-    "title": "Rainy [雨]",
-    "artist": "Yu^ta obj. Limite + BAECON",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
-    "url_diff": "http://akred.web.fc2.com/baecon/_05_rainy-ame.bms",
-    "md5": "c39ac8cf82d1bc55fe36863f09569838",
-    "sha256": "5568cbddff520e8fd429894f81ca82544796a170360575796938e50b4569b0e5",
-    "level": "4",
-    "proposer": "Mary_Sue",
-    "comment": "乱打、同時押しなど。",
-    "submission": 2476
-  },
-  {
     "title": "Reason of being [ZOI]",
     "artist": "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ / obj:SUZUKAZEΛ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
@@ -8683,18 +8694,6 @@
     "proposerLr2id": 72753
   },
   {
-    "title": "Iolitia [7key/SABOTHER]",
-    "artist": "yassu/さ BGA : Mentalstock",
-    "url": "http://sound.jp/brilliantharmony/",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
-    "md5": "bec58ae65ef0bf7ebd2447ab60908271",
-    "level": "5",
-    "proposer": "파이어",
-    "submission": 68,
-    "sha256": "d2934f8323042fae8a62743478125732e0d6b92731b2ef0b1109ff896c4d3d7f",
-    "proposerLr2id": 7290
-  },
-  {
     "title": "itsuka [明日また会えるよね]",
     "artist": "eicateve tonishina[vocal] 高松[movie] 森永君尋[illust] MineC24[object]",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=116",
@@ -8897,6 +8896,17 @@
     "submission": 427
   },
   {
+    "title": "Poppy [Immortal]",
+    "artist": "Columba(Daily vs. Roon_kun) / NebulaBunny_uwu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1736",
+    "md5": "684e9005a2e263020a02e9bf01f54658",
+    "sha256": "690ea16b48e4bb0531ffe6f4c0138ead668c386cb90387e74f51b522ab2b384b",
+    "level": "5",
+    "proposer": "七海",
+    "submission": 2511
+  },
+  {
     "title": "QSHELL －拒色のシェルル－ [ZOI]",
     "artist": "Se-U-Ra obj:SUZUKAZEΛ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
@@ -8907,6 +8917,18 @@
     "proposer": "MineC24",
     "comment": "ラストが難しい",
     "submission": 794
+  },
+  {
+    "title": "Rainy [雨]",
+    "artist": "Yu^ta obj. Limite + BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
+    "url_diff": "http://akred.web.fc2.com/baecon/_05_rainy-ame.bms",
+    "md5": "c39ac8cf82d1bc55fe36863f09569838",
+    "sha256": "5568cbddff520e8fd429894f81ca82544796a170360575796938e50b4569b0e5",
+    "level": "5",
+    "proposer": "Mary_Sue",
+    "comment": "乱打、同時押しなど。",
+    "submission": 2476
   },
   {
     "title": "Reawaken (Millennium)",
@@ -9923,6 +9945,18 @@
     "proposer": "realize",
     "comment": "BOFXV、乱打、少し皿",
     "submission": 1156
+  },
+  {
+    "title": "Iolitia [7key/SABOTHER]",
+    "artist": "yassu/さ BGA : Mentalstock",
+    "url": "http://sound.jp/brilliantharmony/",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "md5": "bec58ae65ef0bf7ebd2447ab60908271",
+    "level": "6",
+    "proposer": "파이어",
+    "submission": 68,
+    "sha256": "d2934f8323042fae8a62743478125732e0d6b92731b2ef0b1109ff896c4d3d7f",
+    "proposerLr2id": 7290
   },
   {
     "title": "Kirby in Luminous Land [ZOI]",
@@ -11069,18 +11103,6 @@
     "submission": 1436
   },
   {
-    "title": "Poppin' Shower [ANOTHER+]",
-    "artist": "P*Light / po",
-    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
-    "url_diff": "http://rarehero2000.web.fc2.com/po.html",
-    "md5": "9978fa59025a74eb897495c0695d0199",
-    "sha256": "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
-    "level": "7",
-    "proposer": "MineC24",
-    "comment": "やさしい皿",
-    "submission": 1503
-  },
-  {
     "title": "Psalms ～魂の還るばしょ～ [SP INSANE]",
     "artist": "qfeileadh＆レゾナンスもえこ mov:Maeus",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=133",
@@ -12026,6 +12048,18 @@
     "proposer": "Haze*",
     "comment": "sl8~9? 皿複合",
     "submission": 1236
+  },
+  {
+    "title": "Poppin' Shower [ANOTHER+]",
+    "artist": "P*Light / po",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+    "url_diff": "http://rarehero2000.web.fc2.com/po.html",
+    "md5": "9978fa59025a74eb897495c0695d0199",
+    "sha256": "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+    "level": "8",
+    "proposer": "MineC24",
+    "comment": "やさしい皿",
+    "submission": 1503
   },
   {
     "title": "Prog-M -PragMaTiC-",
@@ -16723,6 +16757,18 @@
     "submission": 39,
     "sha256": "8bb96d346939ef16b85ab528116faa50285e80254f3a4cc71a81c344712891ed",
     "proposerLr2id": 61713
+  },
+  {
+    "title": "禁忌と緋色幻想 -The Primary Plasm- [SP ANOTHER]",
+    "artist": "ZUN Remixed by NoKANY obj: Scely",
+    "url": "https://www.dropbox.com/s/zuj65kf95jhncp6/The%20Primary%20Plasm%20%28NoKANY%29.zip?dl=0",
+    "url_diff": "",
+    "md5": "eb25dca7e802ccac43477f9f6e3e9bee",
+    "sha256": "83796369a9cf76e848229610cc1747dae84da9c51374979fc63fe7992ba60734",
+    "level": "12",
+    "proposer": "LUXURY♪",
+    "comment": "from Stella",
+    "submission": 2543
   },
   {
     "title": "秩序の秋桜 [OVERHEAT]",

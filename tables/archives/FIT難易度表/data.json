@@ -4090,7 +4090,6 @@
     "sha256": "aa0235b6b3ac416a35caeadbd13649dacd79d2140929f0c91fdefd57df8af865"
   },
   {
-    "state": "1",
     "title": "Fungus Dance [INSANE]",
     "level": "★2",
     "comment": "FT / 2 ",
@@ -4101,7 +4100,6 @@
     "sha256": "52720f7323b2db96a095e52806368535ae71098009798c99f34ed56c3996557e"
   },
   {
-    "state": "1",
     "title": "ファナティックズ・ハイ",
     "level": "☆12",
     "comment": "FI / 4 トリル",
@@ -4112,7 +4110,6 @@
     "sha256": "84e4ddfe719cfddad4eb27cfc313de170b0c79974ee4dd5d1c80477977f288ff"
   },
   {
-    "state": "1",
     "title": "N.O.V.A. -Out of Control- [ANOTHER]",
     "level": "☆12",
     "comment": "FI / 3 ",
@@ -4124,7 +4121,7 @@
   },
   {
     "state": "1",
-    "title": "<header> [SP HYPER]",
+    "title": "&lt;header&gt; [SP HYPER]",
     "level": "☆9",
     "comment": "F / 4 MSS",
     "artist": "潮音きつね / obj: MiyA MSS EXPERIMENTAL",
@@ -4165,5 +4162,27 @@
     "url_diff": "",
     "md5": "2121957f53a24cce90ca4375e00e2347",
     "sha256": "eaae84bbdc19e348cc4eb807524516144d7a39d19a9b156c1ffdf7866bd77f0d"
+  },
+  {
+    "state": "1",
+    "title": "いなずまねこの踊り",
+    "level": "☆10",
+    "comment": "FI / 4 ",
+    "artist": "Nego_tiator",
+    "url": "https://9domu46i.com/yuruyuru/phase16.html",
+    "url_diff": "",
+    "md5": "e5fdc5312c820ac0e895e4be1f432b02",
+    "sha256": "b6c14c0348a4e68bbc092ae254d399c12183cda72fd152ca74b8d40d8b6314ed"
+  },
+  {
+    "state": "1",
+    "title": "Reallicious",
+    "level": "☆12",
+    "comment": "FI / 4 ",
+    "artist": "Zris",
+    "url": "https://9domu46i.com/yuruyuru/phase16.html",
+    "url_diff": "",
+    "md5": "1f47d6195b05f23582a5a224ce08ae47",
+    "sha256": "fc486910fc6bf3c1c565fa071e66a361e3925de6dd49e290e6455d84f861f8b5"
   }
 ]
