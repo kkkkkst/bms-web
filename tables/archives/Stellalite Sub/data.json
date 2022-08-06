@@ -3379,6 +3379,19 @@
     "votePercent": 0
   },
   {
+    "md5": "5bc8dad3c666160b4f1d96b26223dbcf",
+    "sha256": "f90b2be8e0f3a908c09adf1db5264f0d0743d51e36ecee2d76b2b786e7d287d6",
+    "title": "Wind of Utopia -Another-",
+    "artist": "tanacoro/obj:Re:gats&/bgi:あきみかん,ムサオ",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=102",
+    "level": "0",
+    "comment": "階段、縦連など",
+    "proposer": "511",
+    "submission": 2550,
+    "proposerLr2id": 141043
+  },
+  {
     "md5": "3e59d7c4d9a11f32d3f9f15c8adfe558",
     "sha256": "fcc05db9cad9e218354c062182a765d5322e0be5a55326791368d4c4f1a29b8d",
     "title": "Wonderful Heaven",
@@ -5334,6 +5347,19 @@
     "proposer": "qtp13",
     "submission": 2419,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "d779846b99889df93568b6c8c2c02a44",
+    "sha256": "2f706d5e6ae667a737816e0a42ba704be6dab4c61b2af161eb35707024a5bc67",
+    "title": "Freefall [SP INSANE]",
+    "artist": "yusi. (w/ Renko) / yusi. & KyleHeren obj. DK",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=334",
+    "level": "1",
+    "comment": "sl 0~1？ 同時押し、縦連など",
+    "proposer": "511",
+    "submission": 2551,
+    "proposerLr2id": 141043
   },
   {
     "md5": "05cff3db080866f39756af5f6401dba2",
@@ -14999,6 +15025,20 @@
     "proposerMinirid": "8281b134-2da8-4f09-a4d0-22618e5611fd"
   },
   {
+    "md5": "1cfae0e098943af1fa28e36138010261",
+    "sha256": "c281c4565434d78edb609d9d505607d72a6e65e9af7c3b03e401b5d957687829",
+    "title": "星降る空のひかり [wem]",
+    "artist": "otokaz obj.skar",
+    "url_diff": "https://stellabms.xyz/upload/1852",
+    "url": "http://kbwnk.net/bms_oto06.htm",
+    "level": "3",
+    "comment": "3~4?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2547,
+    "proposerLr2id": 84597
+  },
+  {
     "level": "3",
     "comment": "1強～2弱？",
     "md5": "b54dd27fd708d8a5f291e118448d7d3f",
@@ -16491,6 +16531,19 @@
     "proposer": "AXION",
     "submission": 889,
     "proposerLr2id": 37523
+  },
+  {
+    "md5": "375fe6459b4d8c902512ffc13c577f8d",
+    "sha256": "08d28019326fd3c050b17c7f7ebcd3aa698442eba57dea20af926f9ee138d0cc",
+    "title": "jumpingdown [パンダかわいい]",
+    "artist": "パンダ18号 obj.hex",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/36",
+    "url": "http://uploader.bms.ms/data/bof2011/panda18_jumpingdown.zip",
+    "level": "4",
+    "comment": "4~5? BcEL Preliminary ",
+    "proposer": "ИиИ",
+    "submission": 2552,
+    "proposerLr2id": 147895
   },
   {
     "md5": "6c0520062fc8eece0ec90b47913bc0ee",
@@ -20301,6 +20354,20 @@
     "proposerLr2id": 170055
   },
   {
+    "md5": "8defb479db8541cfd7dc5609e61e84f0",
+    "sha256": "bfe7f87060038152ec3d98fca809db1a92bc91eff81aa89911ef2e568a349d40",
+    "title": "シグナルほっぴんぐ [MiniJack]",
+    "artist": "Kuwagata obj : dfsty",
+    "url_diff": "https://stellabms.xyz/upload/1860",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
+    "level": "5",
+    "comment": "jacks",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2546,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "6c857d6b6c87782e698f0b6610d3d2b6",
     "sha256": "4555a06c08a6bfe31a93b7b9feacd5f56526007284f6feae627b0e65e470e433",
     "title": "ゼイタクするまで抱きしめて [サエザー]",
@@ -21121,6 +21188,19 @@
     "proposer": "SHAX.",
     "submission": 1437,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "4849f618bec5d381353a03c77c0d2bbc",
+    "sha256": "eeaafb99ba2c2a2a21075fa131c99eb6897b03d079662ea69119f8e14431e58d",
+    "title": "Dea_della_vittoria -extended ver.- [ANOTHER]",
+    "artist": "TiaRungray obj;DJ_Misamiko",
+    "url_diff": "",
+    "url": "http://dl.dropbox.com/s/p4c6b8u71j3v4li/BMS%28ogg%29-Dea_della_vittoria_extended.zip",
+    "level": "6",
+    "comment": "very練習になる",
+    "proposer": "Mary_Sue",
+    "submission": 2549,
+    "proposerLr2id": 147889
   },
   {
     "level": "6",
@@ -31344,6 +31424,19 @@
     "votePercent": 0
   },
   {
+    "md5": "07af1d3d1012c9aa7a2c133e7f6bee86",
+    "sha256": "1258da9f3a8a9ae14003b2da5045eca07902d86b383ab8245ea5ff051f07f88e",
+    "title": "Our Flavors [numuther+]",
+    "artist": "Fl00t obj:numuto",
+    "url_diff": "https://ux.getuploader.com/numuther/download/54",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=479&event=137",
+    "level": "11",
+    "comment": "同梱xxx.xxx基準ズレ抜けなし。",
+    "proposer": "Mary_Sue",
+    "submission": 2548,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "d7d5652bf8d7efad1fc26975a4615f1a",
     "sha256": "fe726de74b6f1f958b241ba5c99fc1d745262fded629d6a860eaa3e98d1caa62",
     "title": "ouroVoros [Judgment]",
@@ -36982,6 +37075,20 @@
     "sha256": "7a023e3a93ea50eceff921fa0ec71a696821d37ebe2c2404fd5e90f104feb71f"
   },
   {
+    "md5": "5f0ebd17db644b2c8b0b15c10c9710da",
+    "sha256": "ef9cc00fd1f22680f68fb2ed676005b20b67a51ecab45e878ad972eaad9f9b81",
+    "title": "Trauma -vfpqxtxbrzpcracseh-",
+    "artist": "scamp obj:七海千秋",
+    "url_diff": "https://www.dropbox.com/s/0xzuukxps6i7xd3/Trauma_nanami01.bms?dl=0",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=123",
+    "level": "13",
+    "comment": "虎馬",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1886,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "0d5d3ab9ce8bc463d51b5e1fd00c82f8",
     "sha256": "81bcd8220835b0d50d2cf7d1f15f4fb726bee4ac09f0c880010c02e988be52aa",
     "title": "TYR [Nemesis]",
@@ -37303,20 +37410,6 @@
     "proposer": "LUXURY♪",
     "submission": 1560,
     "proposerLr2id": 23110
-  },
-  {
-    "md5": "de47ec858496f28f2f07e97ca211c0d5",
-    "sha256": "8f362458b4655ff58c736734721ec53019dfca5f73538665c567603614411bff",
-    "title": "わるいコ -絶望-",
-    "artist": "nekomimi_STRaw / obj:七海",
-    "url_diff": "https://egosa0424.github.io/sabun/waruiko_nanami.zip",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
-    "level": "13",
-    "comment": "わるい連打",
-    "zureCount": 0,
-    "proposer": "fuko",
-    "submission": 1727,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "c1b9aa6ee6e21fcd2f8197496b623ce1",
@@ -49401,6 +49494,20 @@
     "sha256": "cf035aaef2797632c31515bd1e606ab67d1a2781ccde17fcb3820e578127354a"
   },
   {
+    "md5": "e0704b53c5f9cf2c59348d839adfd255",
+    "sha256": "2c5b8bfb851c5961e03b6660bc2968cea1b1110d9d094e39df28837f7d5f203d",
+    "title": "Aztec Altar [Aggressive]",
+    "artist": "Gymholax BGI:paraneumann OBJ:LuvTek",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/9",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=137",
+    "level": "17",
+    "comment": "(BcEL-Prelim entry) Reasonable Aggression",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 1887,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "d28f98eb96d8088164283156e7f359bc",
     "sha256": "a0b90db49fbe2b9250b00eef9ed93fa9151dfa0abf9532863a8440005307b0bf",
     "title": "Babel -絶望の塔-",
@@ -51534,6 +51641,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "450832c5d50b3b845058172ec4880689",
+    "sha256": "c3d6cc2edce943b0a7d2edb3a85a50e67cefc3bc2aa61f22fe19647057f42490",
+    "title": "What Lies Below [without reason]",
+    "artist": "RIN pattern for some reason",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=137",
+    "level": "17",
+    "comment": "追加音源によるズレ抜けあり（差分作者HPのコメント）",
+    "proposer": "Mary_Sue",
+    "submission": 1885,
+    "proposerLr2id": 147889
   },
   {
     "md5": "a3bfdf5af7c5cd84459e23a18fbfad5e",
@@ -53941,6 +54061,19 @@
     "proposer": "SHAX.",
     "submission": 1082,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "9c19d95b16997c337e42a766e6958de2",
+    "sha256": "68608b295e003ad1ea91f484c0bd2269239f0a4f6088ed24e96479f7d1fb763d",
+    "title": "unquenchable 2 [desire]",
+    "artist": "Extrose / obj:solar",
+    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=3081",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=116",
+    "level": "18",
+    "comment": "l.bmeとラストのBPM変更以外のズレはなし",
+    "proposer": "七海",
+    "submission": 1884,
+    "proposerLr2id": 84597
   },
   {
     "level": "18",

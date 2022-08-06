@@ -441,17 +441,6 @@
   },
   {
     "level": "2",
-    "title": "自強號 [LN Training]",
-    "artist": "痛男次郎 / obj.fuko",
-    "md5": "ab49a26247e31abdc0427498c79bac97",
-    "bpm": "192",
-    "notes": "2568",
-    "comment": "LN1本+乱打 こういうので難しいのがやりたかった",
-    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05576",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ab49a26247e31abdc0427498c79bac97"
-  },
-  {
-    "level": "2",
     "title": "世界殺戮ブラッドローズ [Ecstasy]",
     "artist": "LiA / obj.fuko",
     "md5": "a7f0d6a2a82e4bb88a516458af8651e0",
@@ -471,6 +460,17 @@
     "comment": "もにもに様との合作差分 連打複合+ディレイ",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05701",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=846346b51e39713b22247f03c2ffdea8"
+  },
+  {
+    "level": "3",
+    "title": "Bubbling Fairies (2020 BMS edit) [Diamond Blizzard]",
+    "artist": "dj MASTER / obj:もにもに vs fuko",
+    "md5": "7bd98bf6bfecc16e440ba4fe4302829c",
+    "bpm": "250",
+    "notes": "3056",
+    "comment": "ガチ押し ズレ",
+    "chart": "https://stellabms.xyz/upload/1886",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7bd98bf6bfecc16e440ba4fe4302829c"
   },
   {
     "level": "3",
@@ -614,6 +614,28 @@
     "comment": "ガチ押し",
     "chart": "https://stellabms.xyz/upload/1848",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a6990a2b6c3a65e86b1939a077c42683"
+  },
+  {
+    "level": "◆",
+    "title": "サンドーラ [LN Ride]",
+    "artist": "BMS：9-zen / obj.fuko",
+    "md5": "80b924a54a71d5e2b5c7a4f0ba103eac",
+    "bpm": "144",
+    "notes": "409",
+    "comment": "LN 穴抜き",
+    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=06219",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=80b924a54a71d5e2b5c7a4f0ba103eac"
+  },
+  {
+    "level": "◆",
+    "title": "自強號 [LN Training]",
+    "artist": "痛男次郎 / obj.fuko",
+    "md5": "ab49a26247e31abdc0427498c79bac97",
+    "bpm": "192",
+    "notes": "2568",
+    "comment": "LN1本+乱打 こういうので難しいのがやりたかった",
+    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05576",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ab49a26247e31abdc0427498c79bac97"
   },
   {
     "level": "隔離",
