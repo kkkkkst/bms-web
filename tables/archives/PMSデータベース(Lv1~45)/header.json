@@ -53,10 +53,11 @@
   ],
   "course": [
     {
-      "name": "P○I (1-12) [PDBG Testcourse]",
+      "name": "P○I (1-12) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -67,10 +68,11 @@
       ]
     },
     {
-      "name": "P○H (12-16) [PDBG Testcourse]",
+      "name": "P○H (12-16) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -81,10 +83,11 @@
       ]
     },
     {
-      "name": "P○G (16-20) [PDBG Testcourse]",
+      "name": "P○G (16-20) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -95,10 +98,11 @@
       ]
     },
     {
-      "name": "P○F (20-24) [PDBG Testcourse]",
+      "name": "P○F (20-24) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -109,10 +113,11 @@
       ]
     },
     {
-      "name": "P○E (24-28) [PDBG Testcourse]",
+      "name": "P○E (24-28) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -123,10 +128,11 @@
       ]
     },
     {
-      "name": "P○D (28-32) [PDBG Testcourse]",
+      "name": "P○D (28-32) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -137,10 +143,11 @@
       ]
     },
     {
-      "name": "P○C (32-36) [PDBG Testcourse]",
+      "name": "P○C (32-36) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -151,10 +158,11 @@
       ]
     },
     {
-      "name": "P○B (36-39) [PDBG Testcourse]",
+      "name": "P○B (36-39) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -165,10 +173,11 @@
       ]
     },
     {
-      "name": "P○A (40) [PDBG Testcourse]",
+      "name": "P○A (40) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -179,10 +188,11 @@
       ]
     },
     {
-      "name": "P○01 [PDBG Testcourse]",
+      "name": "P○01 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -193,24 +203,26 @@
       ]
     },
     {
-      "name": "P○02 [PDBG Testcourse]",
+      "name": "P○02 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
-        "7a2531a61daf520da060808978552aa6",
+        "a3196c0e57b10e4bc4ab056ea6df35ea",
         "2494fd0ee692a87c6a95f091672a79e2",
         "b96fc0130e6e9bef2b9c9db5c336bdc8",
         "e0c3733087942a435daa90a92519ce03"
       ]
     },
     {
-      "name": "P○03 [PDBG Testcourse]",
+      "name": "P○03 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -221,10 +233,11 @@
       ]
     },
     {
-      "name": "P○04 [PDBG Testcourse]",
+      "name": "P○04 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -235,10 +248,11 @@
       ]
     },
     {
-      "name": "P○05 [PDBG Testcourse]",
+      "name": "P○05 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -249,10 +263,238 @@
       ]
     },
     {
-      "name": "P○06 [PDBG Testcourse]",
+      "name": "P○06 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "7f6d0ba252dbccdb2f071bc97addb95e",
+        "d40c05efa6d007e84166c28639e922a4",
+        "3913ef8d97071071162f2925de16378d",
+        "c99ade72eb1aa6a90479ed8138431c7e"
+      ]
+    }
+  ],
+  "grade": [
+    {
+      "name": "P○I (1-12)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "369b8cf86810ec22e584f362ef1267e9",
+        "54abfe4d7f901b9d249cf1f4731034e6",
+        "09c0490ae37395a16c6a0fad4ea67ac8",
+        "40f20c3443140097505b7506aa2e4394"
+      ]
+    },
+    {
+      "name": "P○H (12-16)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "3f3bf456767240889351ba350dd4be5f",
+        "1c8427112165af9f27ade6951b9cb550",
+        "b7a63dce3094d738378e03806e53d2da",
+        "f3068d569cfed6d26dadce42e849d074"
+      ]
+    },
+    {
+      "name": "P○G (16-20)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "017952813f8a5d46f020d22b586a4b16",
+        "a8d03852a479cce0cc603a34efab6cf8",
+        "7249bca651217102e0fbf9221333ab8c",
+        "3a920d336edfc446bc0bb2f4fe6d8042"
+      ]
+    },
+    {
+      "name": "P○F (20-24)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "8c1d9eaf263127890bd308bfbf858443",
+        "8ddeb7582154c5fead4905f80265cf4c",
+        "49c3f9a916bcdb2b3cf6ac18641bef56",
+        "15f48ac6bc82a853ee59671ab7ed9001"
+      ]
+    },
+    {
+      "name": "P○E (24-28)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f17f8b67aa63e0476b959d0574dc1559",
+        "75a2764497c5fb9ffc22bc256f96354c",
+        "9488ea5732d253adc35d06ae3ef0bf3a",
+        "7718484ee400a30ab7ddc591b69aa8a3"
+      ]
+    },
+    {
+      "name": "P○D (28-32)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "8640a0dcc4b46700127d1e74db23823e",
+        "cfae2ea61f35d1613fb0fb2de86ccfb4",
+        "33c1f85c4276281226199676f39c058b",
+        "409837671ecf21694c7c1b10bcf75747"
+      ]
+    },
+    {
+      "name": "P○C (32-36)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "54f04730ae68476c195c8699eae1d1d6",
+        "9fdd007932b1a17cbaf1a48a996b6804",
+        "db46d6474f09d1831958df637612f0eb",
+        "46d9354ca169ed87e014a80524c46894"
+      ]
+    },
+    {
+      "name": "P○B (36-39)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "d70e9a47217d6108625dd6c9e0519c07",
+        "78354c3d5adaba9b92c7e68d97d94773",
+        "69f87c446816819dd57c253a3faa952d",
+        "8adf721bf6bdfd59a8032d5fa9f0fcb7"
+      ]
+    },
+    {
+      "name": "P○A (40)",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "a6df5adfa53cd1f3330e39f957295022",
+        "6cb7bbde3f3c4f66a1ea2366f694b64a",
+        "2d586298ffe1873b4e8dd9f755d89082",
+        "a4097adc1e3e0e2a8e26f8f5fdfcd322"
+      ]
+    },
+    {
+      "name": "P○01",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "cc2dd364bd7dda50fe4462ae4bcbcdb8",
+        "c7048ae5810241bb0720d54ddbf96eff",
+        "496e94055d6515eca05bc41f9b0741e3",
+        "63b59f3d7f32727b15a637d0c7d030be"
+      ]
+    },
+    {
+      "name": "P○02",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "a3196c0e57b10e4bc4ab056ea6df35ea",
+        "2494fd0ee692a87c6a95f091672a79e2",
+        "b96fc0130e6e9bef2b9c9db5c336bdc8",
+        "e0c3733087942a435daa90a92519ce03"
+      ]
+    },
+    {
+      "name": "P○03",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "0c57eb96f81b4f654a02d6e0f9ec1312",
+        "7a1ea28ad38f7c7cff696780f7807173",
+        "d8a2021f856be2d912fcf4b127ee46a7",
+        "bc400a706659073be4c164343286719d"
+      ]
+    },
+    {
+      "name": "P○04",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "6662970ad645c2b8efac5a12e8fa720e",
+        "53f4de26202b07da4ad5b7d3737a866b",
+        "360bfabb81ae15b79c4cf28c6cb50612",
+        "ebd15232e653757f26159e33cf257381"
+      ]
+    },
+    {
+      "name": "P○05",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "2633fb756c180478793cd66b88159aef",
+        "5ccbe13f2d005d6ac20df9860dd88c3f",
+        "34f952b15e882af8f3880ed1619e5e74",
+        "ac6a52f5b08be00c294bed54101deb7c"
+      ]
+    },
+    {
+      "name": "P○06",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [

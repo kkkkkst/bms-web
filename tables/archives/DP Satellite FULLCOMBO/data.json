@@ -408,12 +408,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
-    "title": "あなた [DP HYPER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "5dc1cb5b9233d609d755fe314851d0fb",
     "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "5.50...6.00",
@@ -746,6 +740,12 @@
   {
     "md5": "74af66270ed14d3bb20f612768c97f07",
     "title": "☆ twinklesky ☆ 12",
+    "level": "7.00...7.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
+    "title": "あなた [DP HYPER]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -1622,6 +1622,18 @@
   {
     "md5": "59ab1c484a6bbbdf3b13d0a34036e639",
     "title": "Postliminium [DP INSANE]",
+    "level": "14.50...15.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "5ad08be587d9d42971084fc701df0693",
+    "title": "witchcraft [14A]",
+    "level": "14.50...15.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
+    "title": "あさひのなかで(Art Glint mix) [DPI]",
     "level": "14.50...15.00",
     "comment": "sl8"
   },
@@ -2916,12 +2928,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "5ad08be587d9d42971084fc701df0693",
-    "title": "witchcraft [14A]",
-    "level": "-",
-    "comment": "sl8"
-  },
-  {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
     "title": "Wizdomiot [DP INSANE]",
     "level": "-",
@@ -2962,12 +2968,6 @@
     "title": "◇スト [DP ANOTHER]",
     "level": "-",
     "comment": "sl7"
-  },
-  {
-    "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
-    "title": "あさひのなかで(Art Glint mix) [DPI]",
-    "level": "-",
-    "comment": "sl8"
   },
   {
     "md5": "674afb1706dee011cc29d157d7cf2acb",

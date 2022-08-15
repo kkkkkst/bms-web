@@ -335,11 +335,6 @@
     "level": "5.8"
   },
   {
-    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
-    "title": "あなた [DP HYPER]",
-    "level": "5.8"
-  },
-  {
     "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
     "title": "ラケシスと永遠の祈祷者 [sub another]",
     "level": "5.8"
@@ -548,6 +543,11 @@
     "md5": "51480d58ea703c56178cbf4aa1818ab2",
     "title": "introspect [DP Another]",
     "level": "6.5"
+  },
+  {
+    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
+    "title": "あなた [DP HYPER]",
+    "level": "7.0"
   },
   {
     "md5": "24990b5348187bfd53c897ed4b1ff120",
@@ -1115,11 +1115,6 @@
     "level": "11.1"
   },
   {
-    "md5": "d650ba8622f1f079681efb67dd7ee04e",
-    "title": "Cutter [DP INSANE]",
-    "level": "11.2"
-  },
-  {
     "md5": "22aecf56d1de614852af9d27b3693984",
     "title": "H.S : Hadron Strike [DP HYPER]",
     "level": "11.2"
@@ -1132,6 +1127,11 @@
   {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
     "title": "Brandnew Mind [14A]",
+    "level": "11.3"
+  },
+  {
+    "md5": "d650ba8622f1f079681efb67dd7ee04e",
+    "title": "Cutter [DP INSANE]",
     "level": "11.3"
   },
   {
@@ -1350,6 +1350,11 @@
     "level": "14.9"
   },
   {
+    "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
+    "title": "あさひのなかで(Art Glint mix) [DPI]",
+    "level": "14.9"
+  },
+  {
     "md5": "9b2a7f55232d233a4dfa40442425db4b",
     "title": "バーチャルセラピー [DP THERAPY]",
     "level": "14.9"
@@ -1362,6 +1367,11 @@
   {
     "md5": "93086ca5d235d4b32016cf44520f50b9",
     "title": "New Windy Paradise [DP MANIAC]",
+    "level": "15.0"
+  },
+  {
+    "md5": "5ad08be587d9d42971084fc701df0693",
+    "title": "witchcraft [14A]",
     "level": "15.0"
   },
   {
@@ -2217,16 +2227,6 @@
   {
     "md5": "e5f9d247e647e0dbd6ad35ceb5df9224",
     "title": "ouroVoros [DP]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "5ad08be587d9d42971084fc701df0693",
-    "title": "witchcraft [14A]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
-    "title": "あさひのなかで(Art Glint mix) [DPI]",
     "level": "Infinity"
   },
   {

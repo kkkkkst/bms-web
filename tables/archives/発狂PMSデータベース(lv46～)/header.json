@@ -31,24 +31,26 @@
   ],
   "course": [
     {
-      "name": "P●01 [PDBG Testcourse]",
+      "name": "P●01 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
         "f60266d18f1b6bfd89196eb9dddf4f02",
-        "9ce792805baf45af30739d4ed65267c7",
+        "5287ff3bee73665913cdafa79f3e21ca",
         "69a17795a5a7f4b552c6e6773b8293e9",
         "7a3324152d35d180de40b3dd4566c6a6"
       ]
     },
     {
-      "name": "P●02 [PDBG Testcourse]",
+      "name": "P●02 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -59,10 +61,11 @@
       ]
     },
     {
-      "name": "P●03 [PDBG Testcourse]",
+      "name": "P●03 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -73,10 +76,11 @@
       ]
     },
     {
-      "name": "P●04 [PDBG Testcourse]",
+      "name": "P●04 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -87,10 +91,11 @@
       ]
     },
     {
-      "name": "P●05 [PDBG Testcourse]",
+      "name": "P●05 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -101,10 +106,11 @@
       ]
     },
     {
-      "name": "P●06 [PDBG Testcourse]",
+      "name": "P●06 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -115,10 +121,11 @@
       ]
     },
     {
-      "name": "P●07 [PDBG Testcourse]",
+      "name": "P●07 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -129,10 +136,11 @@
       ]
     },
     {
-      "name": "P●08 [PDBG Testcourse]",
+      "name": "P●08 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -143,24 +151,26 @@
       ]
     },
     {
-      "name": "P●09 [PDBG Testcourse]",
+      "name": "P●09 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
         "53b87291752a71a237ef0416821087d5",
-        "40d019b7a0fe9e83614c1be71e4739cc",
+        "76288c635bbb3246e475a93e52b4ef47",
         "9d956e8f99b1b1dfff306046f7cd1f21",
         "6e72800bb9983a79656f2bf88fdb30b7"
       ]
     },
     {
-      "name": "P●10 [PDBG Testcourse]",
+      "name": "P●10 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -171,108 +181,101 @@
       ]
     },
     {
-      "name": "P●11 [PDBG Testcourse]",
+      "name": "P●11 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
-        "17ccc19353193da823761063070a39d3",
+        "dca8703dbc65cf8c130c49d4bbfb6ae0",
         "05750c12015900beb500c410c2033f04",
         "4d99e9e37b91950f5759c7da65097774",
         "9cec5295f21d487a6fb10d5a1f784ac6"
       ]
     },
     {
-      "name": "P●12 [PDBG Testcourse]",
+      "name": "P●12 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
         "1717369defa7254881f43afa27555b76",
-        "cb02ac9cef6e1443553027e1647513d1",
+        "4dbd025ba317a0d5248ff154bf382aa1",
         "0a7372791b6cbf33a6db40e3fe726a0a",
-        "4dbd025ba317a0d5248ff154bf382aa1"
+        "040ce60ae3ee8e99440395c9eafae32a"
       ]
     },
     {
-      "name": "P●13 [PDBG Testcourse]",
+      "name": "P●13 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
-        "461666179ba0451dd4f6265a62daea30",
-        "95c13fe6abeb8c7b4076d575c400109f",
+        "6482e5dbf3e5795db7867eea86d74de9",
+        "cad0eac7060f386231ed43c82df49cd9",
         "ecb9f11bf9d340fd577a3c4ef81cded1",
         "e2561e21384d9defb4fcce51864d9a0b"
       ]
     },
     {
-      "name": "P●14 [PDBG Testcourse]",
+      "name": "P●14 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
-        "997896e019cecce946f5a5ea05114814",
-        "db05741fd68548ea02d8f733ba49de76",
+        "f56823c83555e94aea78a255d5985255",
+        "cd98ef4b597568212cfeab633c514c6b",
         "e00466f62860155c2c14db93605f63b0",
         "f319c831480f2dee76e97f14b629e4cc"
       ]
     },
     {
-      "name": "P●15 [PDBG Testcourse]",
+      "name": "P●15 [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
-        "1b39e8047dc08b289f6951c91b0d5ee7",
+        "c9955a03df1dc59eae6bd009fda1cd5b",
         "fe8d94a35e91b9ce56241a7c539ee19d",
         "6df8b1745b9a25f56eaea8930f030e5e",
         "1e514d980240e1f661e581541aef7e36"
       ]
     },
     {
-      "name": "P●16- [PDBG Testcourse]",
+      "name": "P●16- [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
         "2cd337acbf97911d41a20288cec60bfc",
-        "1b12ffca185d7016b554e7fd6725bd73",
-        "b0af10a2b937c8fb0ca3f787c2d7b083",
-        "0ad0f37726a95af9c316249b4226776f"
-      ]
-    },
-    {
-      "name": "P●16 [PDBG Testcourse]",
-      "constraint": [
-        "grade_mirror",
-        "gauge_lr2",
-        ""
-      ],
-      "md5": [
-        "c372ab3b24082e54fee61ff4bbffa45c",
         "a0fc578d904be57942621ecff65254f1",
         "f7c2797325a8df4065ebe20990f787c4",
         "82241871563ebf8da6f66e7fc9b244d2"
       ]
     },
     {
-      "name": "P●16+ [PDBG Testcourse]",
+      "name": "P●16+ [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -283,10 +286,11 @@
       ]
     },
     {
-      "name": "P●17- [PDBG Testcourse]",
+      "name": "P●17- [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -297,10 +301,11 @@
       ]
     },
     {
-      "name": "P●17+ [PDBG Testcourse]",
+      "name": "P●17+ [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -311,10 +316,11 @@
       ]
     },
     {
-      "name": "P●18- [PDBG Testcourse]",
+      "name": "P●18- [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -325,10 +331,11 @@
       ]
     },
     {
-      "name": "P●18+ [PDBG Testcourse]",
+      "name": "P●18+ [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -339,10 +346,11 @@
       ]
     },
     {
-      "name": "P●19- [PDBG Testcourse]",
+      "name": "P●19- [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
@@ -353,10 +361,358 @@
       ]
     },
     {
-      "name": "P●19+ [PDBG Testcourse]",
+      "name": "P●19+ [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "668eeebf99948ee74bc6f3e3fe04c907",
+        "ff633c217d82ce67f5fb38e755e534e5",
+        "5b13c0ebf7b02d3ebf8f979c0e2869e1",
+        "51f5ae1067e2f4305c4b1de15c631a95"
+      ]
+    }
+  ],
+  "grade": [
+    {
+      "name": "P●01",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f60266d18f1b6bfd89196eb9dddf4f02",
+        "5287ff3bee73665913cdafa79f3e21ca",
+        "69a17795a5a7f4b552c6e6773b8293e9",
+        "7a3324152d35d180de40b3dd4566c6a6"
+      ]
+    },
+    {
+      "name": "P●02",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "5862123c2032632a15d8d980487a3bfa",
+        "14ed53bb1f5cf634e80ff4c277fdde82",
+        "d8309c0c8f94b88853053b751b2473c3",
+        "d49112509cbd14947328e2864caedfdf"
+      ]
+    },
+    {
+      "name": "P●03",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1339d99d05ae4a3a0565cc7c11b9bd8a",
+        "ced1e8de7d0b6dac0d072c9f5bfcc1f8",
+        "a6a86d83bade5871832d7bc760480c2a",
+        "ba634009225858821bbcf217a3ef99b6"
+      ]
+    },
+    {
+      "name": "P●04",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "3567b452d851be9160bfb9914c2cadb2",
+        "b4c8f1816b6899e72d87cc88c3ef718c",
+        "bd3ced862a53b78cbfff4252a46e64e8",
+        "c0c457f863b10a0e5bc95d6abbba11c5"
+      ]
+    },
+    {
+      "name": "P●05",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "3f482734c23950f062817a391a8ee7ec",
+        "7f5f5f0560b22b010a7a19c9c52f1d08",
+        "7ae2770213d97fa053305c25f05c0cdc",
+        "5b680b8300838d6481a170f0fb2b600a"
+      ]
+    },
+    {
+      "name": "P●06",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "e44a3adfb2cf4e6f3f177dc421e434d3",
+        "aedae0f06c720c1b7c2237cd4943e7b8",
+        "0e21c73dbee114f4d3b3b6c23fdcc78d",
+        "d95eb91c0f4b4a0c59de9dd5b0793bbf"
+      ]
+    },
+    {
+      "name": "P●07",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "bb56e5a36ac58d1bcfad6f12ea336634",
+        "924adbebf254f939f6fe90e5a500afae",
+        "bfb46d0789f82e31811a6e6c6852d5d1",
+        "a7d1588baaa6b75349dc17183c9d764b"
+      ]
+    },
+    {
+      "name": "P●08",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "daeb6fe6c39374b2f5a15828c5f197b9",
+        "a23dc6e02cc76f0c69baae74bf4e3f23",
+        "608bf3db51cd9150e2299ec51f4100ca",
+        "5ab131db07d1a6b6a186423c6442c20b"
+      ]
+    },
+    {
+      "name": "P●09",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "53b87291752a71a237ef0416821087d5",
+        "76288c635bbb3246e475a93e52b4ef47",
+        "9d956e8f99b1b1dfff306046f7cd1f21",
+        "6e72800bb9983a79656f2bf88fdb30b7"
+      ]
+    },
+    {
+      "name": "P●10",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f4ed5de527d471b23aaba3fc4394204b",
+        "31b08e4b8a0d764eabf05c4d21af25c0",
+        "9de852dbc3ae9375fedc65de2c817ebe",
+        "2e86c670d84c844df3cb8f13047a1c7c"
+      ]
+    },
+    {
+      "name": "P●11",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "dca8703dbc65cf8c130c49d4bbfb6ae0",
+        "05750c12015900beb500c410c2033f04",
+        "4d99e9e37b91950f5759c7da65097774",
+        "9cec5295f21d487a6fb10d5a1f784ac6"
+      ]
+    },
+    {
+      "name": "P●12",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1717369defa7254881f43afa27555b76",
+        "4dbd025ba317a0d5248ff154bf382aa1",
+        "0a7372791b6cbf33a6db40e3fe726a0a",
+        "040ce60ae3ee8e99440395c9eafae32a"
+      ]
+    },
+    {
+      "name": "P●13",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "6482e5dbf3e5795db7867eea86d74de9",
+        "cad0eac7060f386231ed43c82df49cd9",
+        "ecb9f11bf9d340fd577a3c4ef81cded1",
+        "e2561e21384d9defb4fcce51864d9a0b"
+      ]
+    },
+    {
+      "name": "P●14",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f56823c83555e94aea78a255d5985255",
+        "cd98ef4b597568212cfeab633c514c6b",
+        "e00466f62860155c2c14db93605f63b0",
+        "f319c831480f2dee76e97f14b629e4cc"
+      ]
+    },
+    {
+      "name": "P●15",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "c9955a03df1dc59eae6bd009fda1cd5b",
+        "fe8d94a35e91b9ce56241a7c539ee19d",
+        "6df8b1745b9a25f56eaea8930f030e5e",
+        "1e514d980240e1f661e581541aef7e36"
+      ]
+    },
+    {
+      "name": "P●16-",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "2cd337acbf97911d41a20288cec60bfc",
+        "a0fc578d904be57942621ecff65254f1",
+        "f7c2797325a8df4065ebe20990f787c4",
+        "82241871563ebf8da6f66e7fc9b244d2"
+      ]
+    },
+    {
+      "name": "P●16+",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "8882c8822c0baa8e9fb41f02c8a9f94b",
+        "0fa81bcfb9e0fc3c0feb5eb9d3090043",
+        "7a5c84a8836b2a3a63ce633a0bbe59e2",
+        "e7604da40ac41c53b2b15392680f9628"
+      ]
+    },
+    {
+      "name": "P●17-",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "96bff0c337d42b57379b27ac3033c781",
+        "e12dd8fb150a74c6d1ecf6b3b010d5b9",
+        "5406280b71c21e135641b18ea35709e6",
+        "bfd12f281b7d2e5d432e9fccbaaffc38"
+      ]
+    },
+    {
+      "name": "P●17+",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "d4dae41dd4efa328949ea64442afdd90",
+        "44729a8fd7820fcf1aa6e48c5ffc8160",
+        "417aa14ec2fa407dfb8df7426ec04e28",
+        "a0c3df3d42b9f95015713c17a250f5e1"
+      ]
+    },
+    {
+      "name": "P●18-",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "52619697c99e4e23cb9502126601ed83",
+        "5dd35d19e5ff9ebbd9d496ece02a9d91",
+        "4e1fa3a614c8c90bd28eb6f105901b78",
+        "57373c3479c59a8979265848f93f5236"
+      ]
+    },
+    {
+      "name": "P●18+",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "cb19d43728aa61f526fe331d788f0402",
+        "4bf1e3cfeafc540237ea1a74042d9c98",
+        "9738f14d9a4cc23e67a187d301373c2c",
+        "f4a61fbbcd20e205e9603fb0571a9817"
+      ]
+    },
+    {
+      "name": "P●19-",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "c00773d90a88c7f247372044c7d4a563",
+        "141e69bef959d46a0a2ddbd73c909954",
+        "3bc21ebdd6b3cd2692c14da20b4bd538",
+        "a3513de646dd34eaf93a1049f102359d"
+      ]
+    },
+    {
+      "name": "P●19+",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
         ""
       ],
       "md5": [
