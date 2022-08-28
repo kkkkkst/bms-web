@@ -3355,18 +3355,6 @@
     "submission": 597
   },
   {
-    "title": "Zero Feet [ANOTHER]",
-    "artist": "crossworld",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=137",
-    "url_diff": "",
-    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
-    "sha256": "b3f83b054e6b15bdeba60b74c8b2e62470ce5f9a3bf9ef56150877b5ba4fff6f",
-    "level": "1",
-    "proposer": "EGRET.",
-    "comment": "BPM128 16分のガチ押しと32分ディレイ",
-    "submission": 2501
-  },
-  {
     "title": "あのね、涙は。 [月と星]",
     "artist": "竜。 feat.結月ゆかり obj:紲星あかり",
     "url": "https://bmssearch.net/bms?id=6234",
@@ -5075,6 +5063,18 @@
     "proposer": "七海",
     "comment": "たのしい",
     "submission": 2211
+  },
+  {
+    "title": "Zero Feet [ANOTHER]",
+    "artist": "crossworld",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=137",
+    "url_diff": "",
+    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
+    "sha256": "b3f83b054e6b15bdeba60b74c8b2e62470ce5f9a3bf9ef56150877b5ba4fff6f",
+    "level": "2",
+    "proposer": "EGRET.",
+    "comment": "BPM128 16分のガチ押しと32分ディレイ",
+    "submission": 2501
   },
   {
     "title": "zodiac (ANOTHER7)",
@@ -14134,6 +14134,18 @@
     "level": "10",
     "proposer": "♪♪",
     "submission": 1912
+  },
+  {
+    "title": "スナレ",
+    "artist": "Zris feat. Green",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "url_diff": "",
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c",
+    "level": "10",
+    "proposer": "mukyu--",
+    "comment": "BPM149 ディレイ",
+    "submission": 2559
   },
   {
     "title": "ハッピーフェイクショー [SP INSANE]",

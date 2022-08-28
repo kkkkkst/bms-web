@@ -1314,6 +1314,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
+    "title": "Life Style [INSANE]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "65a926686bbee479123628e78018893a",
     "title": "Linkager [EX]",
     "level": "0.00...0.50",
@@ -1644,12 +1650,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
-    "title": "Zero Feet [ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "9dd56ca71a0561a368ee819e719fac9b",
     "title": "あのね、涙は。 [月と星]",
     "level": "0.00...0.50",
@@ -1914,12 +1914,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
-    "title": "Life Style [INSANE]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "e27a5d3958df862a2fb38a8fa393a18f",
     "title": "Natullary [Hi]",
     "level": "0.50...1.00",
@@ -2000,6 +1994,12 @@
   {
     "md5": "a71537335d29219b96f41f182e2547b1",
     "title": "YOU from \"ひぐらしのなく頃に\"",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
+    "title": "Zero Feet [ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -2820,12 +2820,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "9308f366a8cefba1b3b6d53130a88171",
-    "title": "Bad Elixir [Power Elixir]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "e93472059879412277ac8b4f4a05fe61",
     "title": "Blood Castle -Ether-",
     "level": "1.50...2.00",
@@ -3150,12 +3144,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "d30d511d9fce23c17d67759e9833d647",
-    "title": "ZERODAY [INSANE]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "c6eb34cad636b0ff143004f77e39f9ed",
     "title": "◆ B a r o q u e ◆ －Reincarnation－",
     "level": "1.50...2.00",
@@ -3312,12 +3300,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "9fcd8ed5738eeafee02f4261a29c2b58",
-    "title": "空 [ZOI]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "b096eb7be1ff27a5c5fa52abd272d421",
     "title": "虫 [Insecta]",
     "level": "1.50...2.00",
@@ -3382,6 +3364,12 @@
     "title": "Aurora",
     "level": "2.00...2.50",
     "comment": "sl4"
+  },
+  {
+    "md5": "9308f366a8cefba1b3b6d53130a88171",
+    "title": "Bad Elixir [Power Elixir]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
   },
   {
     "md5": "1d1980c11ebb190068041af164ee0f32",
@@ -3476,6 +3464,12 @@
   {
     "md5": "3441982d34ae4020b0fda27bb8aad78e",
     "title": "Immigrants From Fantasy [Penguins' Party]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "92151c1e4c0a1136358f63f0defea447",
+    "title": "Impulse of destruction [AbNormal]",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
@@ -3642,6 +3636,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "d30d511d9fce23c17d67759e9833d647",
+    "title": "ZERODAY [INSANE]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "ae5d009857fd0c46bb64e2affb603970",
     "title": "あい☆こんぷりーと -Hope-",
     "level": "2.00...2.50",
@@ -3706,6 +3706,12 @@
     "title": "未来のコピヌ -Hope-",
     "level": "2.00...2.50",
     "comment": "sl4"
+  },
+  {
+    "md5": "9fcd8ed5738eeafee02f4261a29c2b58",
+    "title": "空 [ZOI]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
   },
   {
     "md5": "038cf0248a84abb1579cfefd8cdad050",
@@ -3908,12 +3914,6 @@
   {
     "md5": "a8d0d8c6b908bcee1de0da23c21dd75d",
     "title": "Implexrough [ZOI]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "92151c1e4c0a1136358f63f0defea447",
-    "title": "Impulse of destruction [AbNormal]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -6066,12 +6066,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "e05b195c3f1898cc7432c1f3969d82ab",
-    "title": "Childie Sharp [MANIAC(remake)]",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "60b382221191302b26014563b168be27",
     "title": "Close the Lights (EX)",
     "level": "5.50...6.00",
@@ -6396,6 +6390,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
+    "title": "詠訣へ連れる [UNITHER]",
+    "level": "5.50...6.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "6e941d565809159e5120aa5a4ee2447b",
     "title": "闘気に満ちた草原",
     "level": "5.50...6.00",
@@ -6440,6 +6440,12 @@
   {
     "md5": "658844178430ee6b1ce80431c23c2bf9",
     "title": "Chasing Stars [LIMITLESS]",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "e05b195c3f1898cc7432c1f3969d82ab",
+    "title": "Childie Sharp [MANIAC(remake)]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -6696,12 +6702,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
-    "title": "詠訣へ連れる [UNITHER]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "efa5defcff334b6e382aab26ec375e5a",
     "title": "雪月夜鐘 [まだまだ走れます]",
     "level": "6.00...6.50",
@@ -6846,6 +6846,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "39451b7b2ef9310b5d9685c07fb2fd42",
+    "title": "REZIDUAL MiND [CONNECT]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "b27a10644c198b4c5c5e84c9ea31f309",
     "title": "Spiritoso Killer [SP DEATH]",
     "level": "6.50...7.00",
@@ -6902,6 +6908,12 @@
   {
     "md5": "4c1a2f2f102e89153e73342fd7af1c96",
     "title": "シレノ [CATACLYSM]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "title": "スナレ",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -7026,12 +7038,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "bd51437a802fd2570011d96178f06c9b",
-    "title": "CHAINSAW PARTY <MARYTHER>",
-    "level": "7.00...7.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "07993824a3248b87a0bb41a4853df7af",
     "title": "Colorful Dream [虹]",
     "level": "7.00...7.50",
@@ -7122,12 +7128,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "67f4387cb513c9242b919df282e89fbe",
-    "title": "LiVEMeTAL [HEROIC]",
-    "level": "7.00...7.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "b1abccc7683703378fe49ebb00358399",
     "title": "Love☆Spellcard -Luna-",
     "level": "7.00...7.50",
@@ -7146,6 +7146,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
+    "level": "7.00...7.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "1ebf61990256b79628c9dee6a926ad39",
     "title": "PEACE BREAKER [HARDEST]",
     "level": "7.00...7.50",
@@ -7154,12 +7160,6 @@
   {
     "md5": "44c979d0816f80cbd35e3a840e644516",
     "title": "Ravers Rave Anthem II [Fever]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "39451b7b2ef9310b5d9685c07fb2fd42",
-    "title": "REZIDUAL MiND [CONNECT]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -7326,6 +7326,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "bd51437a802fd2570011d96178f06c9b",
+    "title": "CHAINSAW PARTY <MARYTHER>",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "1fbe0c35bd80749c820d9e767bb55309",
     "title": "char fleuri [Dewero]",
     "level": "7.50...8.00",
@@ -7464,6 +7470,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "67f4387cb513c9242b919df282e89fbe",
+    "title": "LiVEMeTAL [HEROIC]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "872af952fb819d52bb11cefa25d61532",
     "title": "Lonely Cat [雨]",
     "level": "7.50...8.00",
@@ -7508,12 +7520,6 @@
   {
     "md5": "bb57a88ca46ee33d5b52b3928ca32989",
     "title": "ozma [World-atom-o-sphere]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
-    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -7666,12 +7672,6 @@
     "title": "Wondering Fortune [Lucky]",
     "level": "7.50...8.00",
     "comment": "sl11"
-  },
-  {
-    "md5": "de47ec858496f28f2f07e97ca211c0d5",
-    "title": "わるいコ -絶望-",
-    "level": "7.50...8.00",
-    "comment": "sl12"
   },
   {
     "md5": "4c4e384172c5eb1cdea72752430bebae",
@@ -7902,12 +7902,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "70e3cfdbdcc317103ad3a00f30e5046d",
-    "title": "Faurie [unmeasured]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "e97bd593d21d83c74e84d7cd4c950930",
     "title": "format0 [0x82D]",
     "level": "8.00...8.50",
@@ -7992,12 +7986,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "0f5b2b2df091b511e311873204203dcc",
-    "title": "Psychedelic Ritual -Despair-",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "1066a4dd2a935ef76487ad2970b83025",
     "title": "Rigel [laner]",
     "level": "8.00...8.50",
@@ -8012,12 +8000,6 @@
   {
     "md5": "99c4ae6e5b0251aa015269841464ffc8",
     "title": "stanciara [canalot]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "7ec4081796258a2b21d91f90e8670cbc",
-    "title": "Strahlzwerg [AromaMateria]",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -8100,14 +8082,14 @@
     "comment": "sl12"
   },
   {
-    "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
-    "title": "アジサイ -Xe-",
+    "md5": "de47ec858496f28f2f07e97ca211c0d5",
+    "title": "わるいコ -絶望-",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
   {
-    "md5": "78897b6144c95a866b645f8d0a222959",
-    "title": "タマモッチ [Snother]",
+    "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
+    "title": "アジサイ -Xe-",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -8256,6 +8238,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "70e3cfdbdcc317103ad3a00f30e5046d",
+    "title": "Faurie [unmeasured]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "98a5fc8d05858c7342d03420858b8663",
     "title": "Forty-Four [INSANE]",
     "level": "8.50...9.00",
@@ -8304,6 +8292,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "0f5b2b2df091b511e311873204203dcc",
+    "title": "Psychedelic Ritual -Despair-",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "6e7142d2af381896361100d23879d973",
     "title": "Red-rize \"B172 mix\" // 7keys GOD",
     "level": "8.50...9.00",
@@ -8324,6 +8318,12 @@
   {
     "md5": "1eeb095a41e3db3addbacf2483c80a3a",
     "title": "Sparkling☆Sunshine!! [INSANE]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "7ec4081796258a2b21d91f90e8670cbc",
+    "title": "Strahlzwerg [AromaMateria]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -8372,6 +8372,12 @@
   {
     "md5": "049a283f3e0ae3509a718474a2706c7c",
     "title": "シグナルほっぴんぐ [Yakther]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "78897b6144c95a866b645f8d0a222959",
+    "title": "タマモッチ [Snother]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },

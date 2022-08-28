@@ -105,7 +105,7 @@
     "md5": "7ef02e81e854726347059558cdaabb63",
     "bpm": "140",
     "notes": "2521",
-    "comment": "乱打 全押し複合",
+    "comment": "乱打 ガチ押し",
     "chart": "https://stellabms.xyz/upload/1760",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7ef02e81e854726347059558cdaabb63"
   },
@@ -155,28 +155,6 @@
   },
   {
     "level": "0",
-    "title": "SCARY BANQUET [Necrophobia]",
-    "artist": "NIKITA / Optie / obj.fuko",
-    "md5": "f092fe9d4113bdd1a78811836bc7222b",
-    "bpm": "250",
-    "notes": "2615",
-    "comment": "超高速 皿",
-    "chart": "https://stellabms.xyz/upload/1039",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=f092fe9d4113bdd1a78811836bc7222b"
-  },
-  {
-    "level": "0",
-    "title": "Schwerkraft [Lightning]",
-    "artist": "ROKINA / obj.fuko",
-    "md5": "1d00ea6c61017d0e73685abd1c4b58a8",
-    "bpm": "999",
-    "notes": "2666",
-    "comment": "実質BPM250の16分と32分",
-    "chart": "https://stellabms.xyz/upload/1033",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=1d00ea6c61017d0e73685abd1c4b58a8"
-  },
-  {
-    "level": "0",
     "title": "That's the style!! [Etude]",
     "artist": "nez / obj.fuko",
     "md5": "6f9f7d7ef227aeda4f12076160fc673e",
@@ -196,6 +174,17 @@
     "comment": "壁連打",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05932",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ad633b9e0273f807320f381b3dc1c46c"
+  },
+  {
+    "level": "1",
+    "title": "Bad Beat! [EXTREME]",
+    "artist": "あとぅす / obj.fuko",
+    "md5": "2af37ac8096e58659f14d6af115591fa",
+    "bpm": "200",
+    "notes": "2617",
+    "comment": "st2 乱打",
+    "chart": "https://stellabms.xyz/upload/1687",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=2af37ac8096e58659f14d6af115591fa"
   },
   {
     "level": "1",
@@ -295,17 +284,6 @@
     "comment": "同時押し",
     "chart": "https://stellabms.xyz/upload/1007",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=34a0bb8b6182a81044d22c5795726d08"
-  },
-  {
-    "level": "2",
-    "title": "Bad Beat! [EXTREME]",
-    "artist": "あとぅす / obj.fuko",
-    "md5": "2af37ac8096e58659f14d6af115591fa",
-    "bpm": "200",
-    "notes": "2617",
-    "comment": "st2 乱打",
-    "chart": "https://stellabms.xyz/upload/1687",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=2af37ac8096e58659f14d6af115591fa"
   },
   {
     "level": "2",
@@ -430,17 +408,6 @@
   },
   {
     "level": "2",
-    "title": "架空ユリカゴ [wide]",
-    "artist": "Hate × Ritsu × Salita / obj.fuko Douglas × Mentalstock",
-    "md5": "a126b8259a2ef3b5027c63b291676860",
-    "bpm": "175",
-    "notes": "3000",
-    "comment": "同時押し+ズレ ラストがクソゲー",
-    "chart": "https://stellabms.xyz/upload/986",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a126b8259a2ef3b5027c63b291676860"
-  },
-  {
-    "level": "2",
     "title": "世界殺戮ブラッドローズ [Ecstasy]",
     "artist": "LiA / obj.fuko",
     "md5": "a7f0d6a2a82e4bb88a516458af8651e0",
@@ -479,7 +446,7 @@
     "md5": "1e4292d8a20382d7940aa68ead676e34",
     "bpm": "111",
     "notes": "2908",
-    "comment": "ガチ押し",
+    "comment": "同時押し",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05679",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=1e4292d8a20382d7940aa68ead676e34"
   },
@@ -501,7 +468,7 @@
     "md5": "fe9990b7a0752e70f50c2e49cbe6559b",
     "bpm": "232",
     "notes": "3045",
-    "comment": "ガチ押し ★22より癖はないけど横に広い",
+    "comment": "同時押し",
     "chart": "https://stellabms.xyz/upload/1122",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=fe9990b7a0752e70f50c2e49cbe6559b"
   },
@@ -534,7 +501,7 @@
     "md5": "eeba1abcc4e2a0c928ff2ffe507a13cd",
     "bpm": "96",
     "notes": "2626",
-    "comment": "同時押し ズレハネでぐちゃぐちゃ系",
+    "comment": "同時押し ズレハネ",
     "chart": "https://stellabms.xyz/upload/1190",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=eeba1abcc4e2a0c928ff2ffe507a13cd"
   },
@@ -556,7 +523,7 @@
     "md5": "e79f933ddae3293aaa621a6aa4ebaa0d",
     "bpm": "116",
     "notes": "2200",
-    "comment": "ガチ押し",
+    "comment": "同時押し",
     "chart": "https://stellabms.xyz/upload/1369",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e79f933ddae3293aaa621a6aa4ebaa0d"
   },
@@ -567,7 +534,7 @@
     "md5": "b7e4335df57045be750a9b7bcc68007f",
     "bpm": "197 - 227",
     "notes": "3917",
-    "comment": "高速 ガチ押し ズレ",
+    "comment": "高速 同時 ズレ",
     "chart": "https://stellabms.xyz/upload/1778",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=b7e4335df57045be750a9b7bcc68007f"
   },
@@ -611,7 +578,7 @@
     "md5": "a6990a2b6c3a65e86b1939a077c42683",
     "bpm": "224",
     "notes": "3477",
-    "comment": "ガチ押し",
+    "comment": "同時押し",
     "chart": "https://stellabms.xyz/upload/1848",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a6990a2b6c3a65e86b1939a077c42683"
   },
@@ -639,6 +606,17 @@
   },
   {
     "level": "◆",
+    "title": "ルーネイトエルフ～霧の湖の物語～[LN]",
+    "artist": "9-zen / obj.fuko",
+    "md5": "f3851259f8411af5c15fcfe9e3d021a2",
+    "bpm": "154",
+    "notes": "947",
+    "comment": "LN 穴抜き入門",
+    "chart": "https://stellabms.xyz/upload/1928",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=f3851259f8411af5c15fcfe9e3d021a2"
+  },
+  {
+    "level": "◆",
     "title": "自強號 [LN Training]",
     "artist": "痛男次郎 / obj.fuko",
     "md5": "ab49a26247e31abdc0427498c79bac97",
@@ -647,16 +625,5 @@
     "comment": "LN1本+乱打 こういうので難しいのがやりたかった",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05576",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ab49a26247e31abdc0427498c79bac97"
-  },
-  {
-    "level": "隔離",
-    "title": "あにまら [Agape]",
-    "artist": "TOMA / obj.fuko",
-    "md5": "7a2f364feed7200d402f99e6ca237ee9",
-    "bpm": "255",
-    "notes": "3240",
-    "comment": "差分企画「異常譜面遊戯」提出譜面",
-    "chart": "https://note.com/unigon/n/ne54c8a36d763",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7a2f364feed7200d402f99e6ca237ee9"
   }
 ]

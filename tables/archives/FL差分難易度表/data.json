@@ -184,24 +184,12 @@
     "title": "A sense of victimization [FSRS]",
     "md5": "d437b63ebe5109b7275944cb653c70ab",
     "artist": "MarinEternity",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/A%20sense%20of%20victimization%20(by%20MarinEternity%20HarU).rar",
+    "url": "https://bms-mirror.com/pkg/2019/bofxv/MarinEternity_A%20sense%20of%20victimization.zip",
     "url_diff": "https://fsrs.github.io/sabun/fsrs/A%20sense%20of%20victimization.zip",
     "name_diff": "fsrs",
     "date": "Fri Dec 27 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/eqL2Qo3M3pU",
     "comment": ""
-  },
-  {
-    "level": "4",
-    "title": "Angel(IR Battle edition)",
-    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
-    "artist": "POM",
-    "url": "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
-    "url_diff": "https://darksabun.github.io/event/irbattle/sabun/B00_Angel_LuvTek.zip",
-    "name_diff": "M-SPIN",
-    "date": "Fri Aug 13 2021 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/27MgKJxZtqI",
-    "comment": "sl10 追加音源あり"
   },
   {
     "level": "4",
@@ -226,6 +214,18 @@
     "date": "Mon Oct 28 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/k646GKuXlT0",
     "comment": "60秒超のキー音あり (de.wavとre.wav)"
+  },
+  {
+    "level": "5",
+    "title": "Angel(IR Battle edition)",
+    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
+    "artist": "POM",
+    "url": "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
+    "url_diff": "https://darksabun.github.io/event/irbattle/sabun/B00_Angel_LuvTek.zip",
+    "name_diff": "M-SPIN",
+    "date": "Fri Aug 13 2021 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/27MgKJxZtqI",
+    "comment": "sl10 追加音源あり"
   },
   {
     "level": "5",
@@ -516,18 +516,6 @@
     "comment": ""
   },
   {
-    "level": "8",
-    "title": "Working Hard at the Warehouse [LT's INSANE]",
-    "md5": "f97b86594a836eca13d65b4be9c4a4f9",
-    "artist": "Dolphin",
-    "url": "https://venue.bmssearch.net/bmsshuin3/59",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Working_LT.zip",
-    "name_diff": "LuvTek",
-    "date": "Fri May 20 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/iQVvQqP66eE",
-    "comment": ""
-  },
-  {
     "level": "9",
     "title": "8bit Voyager [Auto Voyager]",
     "md5": "5ce71a6a916420bcb86fa929b4b35948",
@@ -616,7 +604,7 @@
     "title": "Le Specimen d'un Papillon [7標本]",
     "md5": "e33e7d73b5eae1b70c9ab637a60b35e8",
     "artist": "Process 2.3.1 vs Y-Itoh",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Le%20Specimen%20d%27un%20Papillon%20(by%20Process%202.3.1%20vs%20Y-Itoh).rar",
+    "url": "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6%211916",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Le_Specimen_M-S.zip",
     "name_diff": "M-SPIN",
     "date": "Fri May 01 2020 00:00:00 GMT+0900 (日本標準時)",
@@ -657,6 +645,18 @@
     "name_diff": "LuvTek",
     "date": "Tue Oct 08 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
+    "comment": ""
+  },
+  {
+    "level": "9",
+    "title": "Working Hard at the Warehouse [LT's INSANE]",
+    "md5": "f97b86594a836eca13d65b4be9c4a4f9",
+    "artist": "Dolphin",
+    "url": "https://venue.bmssearch.net/bmsshuin3/59",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Working_LT.zip",
+    "name_diff": "LuvTek",
+    "date": "Fri May 20 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/iQVvQqP66eE",
     "comment": ""
   },
   {
@@ -829,18 +829,6 @@
   },
   {
     "level": "10",
-    "title": "Voyager Nekochan [Auto Voyager]",
-    "md5": "e04e9138664c7bf1297b9caf03b93277",
-    "artist": "相生あおは",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=133",
-    "url_diff": "https://darksabun.github.io/event/bofxvi/sabun/20201107_VoyagerNekochan.zip",
-    "name_diff": "LuvTek",
-    "date": "Sat Nov 07 2020 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/fR0fBf35Bd0",
-    "comment": ""
-  },
-  {
-    "level": "10",
     "title": "Vis10ns [Str1v3]",
     "md5": "ea3bba6ff85492b1e4d3afccdbd57d76",
     "artist": "paraneumann",
@@ -849,6 +837,18 @@
     "name_diff": "M-SPIN",
     "date": "Sun May 08 2022 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/e8yh76sSjJY",
+    "comment": ""
+  },
+  {
+    "level": "10",
+    "title": "Voyager Nekochan [Auto Voyager]",
+    "md5": "e04e9138664c7bf1297b9caf03b93277",
+    "artist": "相生あおは",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=133",
+    "url_diff": "https://darksabun.github.io/event/bofxvi/sabun/20201107_VoyagerNekochan.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Nov 07 2020 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/fR0fBf35Bd0",
     "comment": ""
   },
   {
@@ -921,7 +921,7 @@
     "name_diff": "LuvTek",
     "date": "Sun Jul 10 2022 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/8jVrDgKe-M4",
-    "comment": ""
+    "comment": "st4"
   },
   {
     "level": "11",
@@ -976,7 +976,7 @@
     "title": "Ecaed -SP NIGHTMARE-",
     "md5": "ab9f3a8fad581c46ea0a49e82f8ea609",
     "artist": "Is-m",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Ecaed%20(by%20Is-m).rar",
+    "url": "https://bms-mirror.com/pkg/2016/bofu2016/%5Bem47%5DEcaed.zip",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Ecaed_MS.zip",
     "name_diff": "M-SPIN",
     "date": "Sat Aug 18 2018 00:00:00 GMT+0900 (日本標準時)",
@@ -1012,7 +1012,7 @@
     "title": "Le Specimen d'un Papillon [La colere]",
     "md5": "891f44dbd60bb177750d235760001826",
     "artist": "Process 2.3.1 vs Y-Itoh",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Le%20Specimen%20d%27un%20Papillon%20(by%20Process%202.3.1%20vs%20Y-Itoh).rar",
+    "url": "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6%211916",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Le_Specimen_M-S.zip",
     "name_diff": "M-SPIИ",
     "date": "Wed Feb 05 2020 00:00:00 GMT+0900 (日本標準時)",
@@ -1177,18 +1177,6 @@
   },
   {
     "level": "11",
-    "title": "What Lies Below [without reason]",
-    "md5": "450832c5d50b3b845058172ec4880689",
-    "artist": "RIN",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=137",
-    "url_diff": "https://fsrs.github.io/sabun/fsrs/WLB_fsrs.zip",
-    "name_diff": "fsrs",
-    "date": "Sat Apr 30 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/ZWrvkFYpl0c",
-    "comment": " 追加音源あり"
-  },
-  {
-    "level": "11",
     "title": "Violet Haze [410nm]",
     "md5": "8785e08433db1d9089a58c3fcf5e7e56",
     "artist": "Joulez",
@@ -1198,6 +1186,18 @@
     "date": "Mon Nov 16 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/XHo1zWoK18s",
     "comment": "st4 追加音源あり"
+  },
+  {
+    "level": "11",
+    "title": "What Lies Below [without reason]",
+    "md5": "450832c5d50b3b845058172ec4880689",
+    "artist": "RIN",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=137",
+    "url_diff": "https://fsrs.github.io/sabun/fsrs/WLB_fsrs.zip",
+    "name_diff": "fsrs",
+    "date": "Sat Apr 30 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/ZWrvkFYpl0c",
+    "comment": " 追加音源あり"
   },
   {
     "level": "11",
@@ -1222,6 +1222,18 @@
     "date": "Sun Nov 01 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/2e9f_fc_UoE",
     "comment": "st5 キツネ $20->$10->$11"
+  },
+  {
+    "level": "12",
+    "title": "\t1913 Schneider -Improvision-",
+    "md5": "88c98122524880f26acd61ace9e77afc",
+    "artist": "自由落下(FreeFall)",
+    "url": "https://venue.bmssearch.net/bmsshuin3/60",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Schneider_SA.zip",
+    "name_diff": "M-SPIN",
+    "date": "Thu May 26 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/pesw8taDEhQ",
+    "comment": "追加音源あり"
   },
   {
     "level": "12",
@@ -1261,18 +1273,6 @@
   },
   {
     "level": "12",
-    "title": "\t1913 Schneider -Improvision-",
-    "md5": "88c98122524880f26acd61ace9e77afc",
-    "artist": "自由落下(FreeFall)",
-    "url": "https://venue.bmssearch.net/bmsshuin3/60",
-    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Schneider_SA.zip",
-    "name_diff": "M-SPIN",
-    "date": "Thu May 26 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/pesw8taDEhQ",
-    "comment": "追加音源あり"
-  },
-  {
-    "level": "12",
     "title": "ad infinitum (complex forces mix) [recall]",
     "md5": "e08165bb7fbbc7df40ceb3fae026f445",
     "artist": "saikoro\r",
@@ -1288,7 +1288,7 @@
     "title": "Aliens are BAD! [Scratching Life]",
     "md5": "a33af4191ea7aa97611d1701b4e49245",
     "artist": "ProjectG as 東方朔",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132",
+    "url": "https://bms-mirror.com/pkg/2020/worldwar/Aliens_are_BAD_ogg.zip",
     "url_diff": "https://darksabun.github.io/event/bcel/sabun/C3b_LuvTek.zip",
     "name_diff": "LuvTek",
     "date": "Sat Jul 09 2022 00:00:00 GMT+0900 (日本標準時)",
@@ -1336,7 +1336,7 @@
     "title": "Le Specimen d'un Papillon [Arctiidae's Fury]",
     "md5": "6d460a7cdff1db3a2c9a2207683a5675",
     "artist": "Process 2.3.1 vs Y-Itoh",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Le%20Specimen%20d%27un%20Papillon%20(by%20Process%202.3.1%20vs%20Y-Itoh).rar",
+    "url": "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6%211916",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Le_Specimen_M-S.zip",
     "name_diff": "M-SPIN",
     "date": "Wed Dec 04 2019 00:00:00 GMT+0900 (日本標準時)",
@@ -1438,18 +1438,6 @@
     "date": "Sun Aug 15 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/qrOpfObjJc0",
     "comment": "長い連打系 追加音源あり"
-  },
-  {
-    "level": "12",
-    "title": "Tone deafness [Heavy]",
-    "md5": "399c541615df66c1ec20d7798fa8cf3e",
-    "artist": "SOMON",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=137",
-    "url_diff": "https://darksabun.github.io/event/bcel/sabun/C3a_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Sat Jul 09 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/PeGW_rbTZa0",
-    "comment": ""
   },
   {
     "level": "12",
@@ -1558,6 +1546,18 @@
     "date": "Wed Jan 22 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/07ixQjr9Tjg",
     "comment": "st7 more tears for DJ Ahn"
+  },
+  {
+    "level": "20",
+    "title": "Tone deafness [Heavy]",
+    "md5": "399c541615df66c1ec20d7798fa8cf3e",
+    "artist": "SOMON",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=137",
+    "url_diff": "https://darksabun.github.io/event/bcel/sabun/C3a_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Jul 09 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/PeGW_rbTZa0",
+    "comment": ""
   },
   {
     "level": "20",

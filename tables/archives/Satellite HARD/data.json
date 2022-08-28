@@ -1,19 +1,7 @@
 [
   {
-    "md5": "900ba4c7fcb22ae4fa3574f07bcaf1fd",
-    "title": "FIRST PROMIZE [ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "32f15e4a324ab1a2450913da7f121295",
     "title": "Sunset Toybox [ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "f1db5347fcc14d0d753a4242c961f99e",
-    "title": "織姫 -ANOTHER-",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -284,6 +272,12 @@
   {
     "md5": "442d9026f218255ba6ec41661364ce8f",
     "title": "Fatal Function (ANOTHER)",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "900ba4c7fcb22ae4fa3574f07bcaf1fd",
+    "title": "FIRST PROMIZE [ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -900,6 +894,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "f1db5347fcc14d0d753a4242c961f99e",
+    "title": "織姫 -ANOTHER-",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "9ee5524e4ed8a3e7033b4de1fedc35fd",
     "title": "翼の折れた天使たちのレクイエム [Another]",
     "level": "0.50...1.00",
@@ -936,8 +936,8 @@
     "comment": "sl0"
   },
   {
-    "md5": "7ed8c5bd26607cf757784ac4f633ca67",
-    "title": "Anotherkinetic [7KEY]",
+    "md5": "4c9eac48034b36614e00c0b957db33b0",
+    "title": "before... [mood]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -990,12 +990,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "4c086e143deaf315f8f4d0cf1bf8b527",
-    "title": "Pandora [ANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "259c6ff7871efb0492d1dac5d16fda17",
     "title": "PEACE BREAKER [HYPER]",
     "level": "1.00...1.50",
@@ -1034,12 +1028,6 @@
   {
     "md5": "94f6d6cb981939882e9010f7230801e2",
     "title": "STAR TRACK (NiraicA_nai Mix) [constellation]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
-    "title": "Zero Feet [ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -1116,6 +1104,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "7ed8c5bd26607cf757784ac4f633ca67",
+    "title": "Anotherkinetic [7KEY]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "435dc5f3ba1e956124281e470a9a7071",
     "title": "April's Fantasy -Spring Bloom-",
     "level": "1.50...2.00",
@@ -1142,12 +1136,6 @@
   {
     "md5": "c211005b8889e007aaf1941e241a82ed",
     "title": "B e l i - R [ANOTHER]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "4c9eac48034b36614e00c0b957db33b0",
-    "title": "before... [mood]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1502,6 +1490,12 @@
   {
     "md5": "30b0810f6c9be2ff9748e696f21c43fd",
     "title": "Pain Continues [SP Cloudy]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "4c086e143deaf315f8f4d0cf1bf8b527",
+    "title": "Pandora [ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1938,6 +1932,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "233b0091293574989d1d05f89e279174",
+    "title": "SEKIDO [Dead]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "e2c6d9010ce270b191eabb5aa2968449",
     "title": "Skyline [SP INSANE]",
     "level": "2.00...2.50",
@@ -1952,6 +1952,12 @@
   {
     "md5": "a71537335d29219b96f41f182e2547b1",
     "title": "YOU from \"ひぐらしのなく頃に\"",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "5f33511c706aa93fa7cc4447c50f9f77",
+    "title": "Zero Feet [ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -2442,12 +2448,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "233b0091293574989d1d05f89e279174",
-    "title": "SEKIDO [Dead]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "7cda74bdd1200b49a77a802ec3772f64",
     "title": "Shining Stage",
     "level": "2.50...3.00",
@@ -2808,12 +2808,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "4997f0968a625f3b2de04fddd850dd96",
-    "title": "Objection to the vortex [Max]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "1ce4647af15a4a40410f9309b0d37378",
     "title": "Postliminium [SP INSANE]",
     "level": "3.00...3.50",
@@ -2826,12 +2820,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "7cb92a0c0bcc322064f038cb9722b818",
-    "title": "★LittlE HearTs★ [ZOI]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "b656db5f627112967adb999968591435",
     "title": "ただいま、Bar“BOOMY” [Cocktail]",
     "level": "3.00...3.50",
@@ -2840,12 +2828,6 @@
   {
     "md5": "15ebd2f3aca1c35876c795c94c8d6302",
     "title": "ヒメタイプ [エヒメ]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "5db7bef388eef5816d2caf4231a37ec2",
-    "title": "プラネット -Nebula-",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
@@ -3120,6 +3102,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "4997f0968a625f3b2de04fddd850dd96",
+    "title": "Objection to the vortex [Max]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "869cc79745fd54db3aa1824c2cc1ce5d",
     "title": "on impetus -for noobetus-",
     "level": "3.50...4.00",
@@ -3300,6 +3288,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "7cb92a0c0bcc322064f038cb9722b818",
+    "title": "★LittlE HearTs★ [ZOI]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "578cf24b6064631eb94e02d21db498e9",
     "title": "あきいろ アルバム [秋]",
     "level": "3.50...4.00",
@@ -3368,6 +3362,12 @@
   {
     "md5": "a98ff1c9d7ffac9cb333b7278306bbb4",
     "title": "プナイプナイせんそう [HARD]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "5db7bef388eef5816d2caf4231a37ec2",
+    "title": "プラネット -Nebula-",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -4182,6 +4182,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "a417276a7ddac91a97e6bc884f1901f2",
+    "title": "＊CinnamoN＊",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "deab2d7c66503690608c04e5c5211f6d",
     "title": "Adularescence [ANOTHER]",
     "level": "5.00...5.50",
@@ -4410,12 +4416,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "d4b933c5b43a7bd4bbc5570d777d09e3",
-    "title": "図書室のエルザ [HARDEST]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "f4f06e45e09b5aa2e7907619d3be6311",
     "title": "天 -Apocalypse-",
     "level": "5.00...5.50",
@@ -4456,12 +4456,6 @@
     "title": "魂姫～たまひめ～ -狂-",
     "level": "5.00...5.50",
     "comment": "sl5"
-  },
-  {
-    "md5": "a417276a7ddac91a97e6bc884f1901f2",
-    "title": "＊CinnamoN＊",
-    "level": "5.00...5.50",
-    "comment": "sl4"
   },
   {
     "md5": "b1bfc73fc06bdc2345eca9ea9286292d",
@@ -4776,6 +4770,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "d4b933c5b43a7bd4bbc5570d777d09e3",
+    "title": "図書室のエルザ [HARDEST]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "6e3a179e98fcaddc08bf998c7462cf88",
     "title": "太陽と月の宴",
     "level": "5.50...6.00",
@@ -4838,6 +4838,12 @@
   {
     "md5": "5701a1cb14007b1b0adb79e7df9af30c",
     "title": "Fireball -Hopeless-",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "caa803a5156405d0ede822d165bd91a6",
+    "title": "Horizon of Eternity",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -5060,12 +5066,6 @@
   {
     "md5": "081f3e162b1d88f0f0e59a44593af6e4",
     "title": "HEXPERUS [SP INSANE]",
-    "level": "6.50...7.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "caa803a5156405d0ede822d165bd91a6",
-    "title": "Horizon of Eternity",
     "level": "6.50...7.00",
     "comment": "sl6"
   },
@@ -6438,6 +6438,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "efa5defcff334b6e382aab26ec375e5a",
+    "title": "雪月夜鐘 [まだまだ走れます]",
+    "level": "9.00...9.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "ad82fe9f05165777f03bcc7b93766caa",
     "title": "Aeventyr [HARDEST]",
     "level": "9.50...10.00",
@@ -6618,12 +6624,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "602cc5ef40df734beb381fb348e75b83",
-    "title": "Valedict -SA-",
-    "level": "9.50...10.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "6365227660e0056c8809e4a3e31c2459",
     "title": "WE ARE HARDCORE [Gang]",
     "level": "9.50...10.00",
@@ -6702,12 +6702,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "efa5defcff334b6e382aab26ec375e5a",
-    "title": "雪月夜鐘 [まだまだ走れます]",
-    "level": "9.50...10.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "74b62e4ae1878268d33c5e328243a1dd",
     "title": "A-chasing-Y [Pain]",
     "level": "10.00...10.50",
@@ -6754,6 +6748,12 @@
     "title": "Seiren [Siren]",
     "level": "10.00...10.50",
     "comment": "sl10"
+  },
+  {
+    "md5": "602cc5ef40df734beb381fb348e75b83",
+    "title": "Valedict -SA-",
+    "level": "10.00...10.50",
+    "comment": "sl9"
   },
   {
     "md5": "64c5d825e6b4eb6d288270719aedb793",
@@ -7248,8 +7248,14 @@
     "comment": "sl11"
   },
   {
-    "md5": "c7bbb20702438642af7a04677f68da54",
-    "title": "Trinity [DELAYMASTER]",
+    "md5": "d292b5c6eacd78d7104ead204ed2192a",
+    "title": "Rocketropolis [Tannhauser Gate]",
+    "level": "11.00...11.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "2cb2d624cc63dd66e3534c1e5dde5c29",
+    "title": "Singing of Night birds [yumether]",
     "level": "11.00...11.50",
     "comment": "sl11"
   },
@@ -7262,12 +7268,6 @@
   {
     "md5": "13756934dd32940cdd59df75dc94509c",
     "title": "wholeheartedly [lightray]",
-    "level": "11.00...11.50",
-    "comment": "sl11"
-  },
-  {
-    "md5": "4c4e384172c5eb1cdea72752430bebae",
-    "title": "インフィニット・パラダイムシフト [yumether]",
     "level": "11.00...11.50",
     "comment": "sl11"
   },
@@ -7299,6 +7299,12 @@
     "md5": "24ccef65138cbd461f82780aca4f7e47",
     "title": "黄昏のメロディア [トワイライト]",
     "level": "11.00...11.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "c6e40998c81fbf3ae79484adc8975280",
+    "title": "After Burner [SKY HIGH]",
+    "level": "11.50...12.00",
     "comment": "sl11"
   },
   {
@@ -7584,12 +7590,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "d292b5c6eacd78d7104ead204ed2192a",
-    "title": "Rocketropolis [Tannhauser Gate]",
-    "level": "11.50...12.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "4c0f369bdf3cd195fab755481a78bde8",
     "title": "Romancecar (Kukan Junkyu Edit) [Nemesis]",
     "level": "11.50...12.00",
@@ -7632,12 +7632,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "2cb2d624cc63dd66e3534c1e5dde5c29",
-    "title": "Singing of Night birds [yumether]",
-    "level": "11.50...12.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "64d74b7fefcc2d41e21643f600e1a81d",
     "title": "Song for Denim [unmeasured]",
     "level": "11.50...12.00",
@@ -7658,6 +7652,12 @@
   {
     "md5": "b83a9dc81958ec91a11e5b338e4404f3",
     "title": "tinnitus -7 Minether-",
+    "level": "11.50...12.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "c7bbb20702438642af7a04677f68da54",
+    "title": "Trinity [DELAYMASTER]",
     "level": "11.50...12.00",
     "comment": "sl11"
   },
@@ -7688,6 +7688,12 @@
   {
     "md5": "d920d25c67322dbf47824f6a56aeb173",
     "title": "Wondering Fortune [Lucky]",
+    "level": "11.50...12.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "4c4e384172c5eb1cdea72752430bebae",
+    "title": "インフィニット・パラダイムシフト [yumether]",
     "level": "11.50...12.00",
     "comment": "sl11"
   },
@@ -7752,10 +7758,10 @@
     "comment": "sl11"
   },
   {
-    "md5": "c6e40998c81fbf3ae79484adc8975280",
-    "title": "After Burner [SKY HIGH]",
+    "md5": "a0b3027ae8eb899fce45286c2d8f6e70",
+    "title": "^ [CIRCUMFLEX]",
     "level": "12.00...12.50",
-    "comment": "sl11"
+    "comment": "sl12"
   },
   {
     "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
@@ -7802,6 +7808,12 @@
   {
     "md5": "1bc3c15a4c40d87dbffa8be429140478",
     "title": "DANCING KIWI [WARK]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "9b3b8e98a362e86546551d5a16052364",
+    "title": "Daydreamer [EX]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -7962,12 +7974,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "a0b3027ae8eb899fce45286c2d8f6e70",
-    "title": "^ [CIRCUMFLEX]",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 -L u N A-",
     "level": "12.50...13.00",
@@ -8048,12 +8054,6 @@
   {
     "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
     "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "9b3b8e98a362e86546551d5a16052364",
-    "title": "Daydreamer [EX]",
     "level": "12.50...13.00",
     "comment": "sl12"
   },
@@ -8346,6 +8346,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "eb25dca7e802ccac43477f9f6e3e9bee",
+    "title": "禁忌と緋色幻想 -The Primary Plasm- [SP ANOTHER]",
+    "level": "12.50...13.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "687a49d3b6d25d8fac7b7879515ae83b",
     "title": "絵空事の世界と私 -aletheia-",
     "level": "12.50...13.00",
@@ -8442,9 +8448,9 @@
     "comment": "sl12"
   },
   {
-    "md5": "eb25dca7e802ccac43477f9f6e3e9bee",
-    "title": "禁忌と緋色幻想 -The Primary Plasm- [SP ANOTHER]",
-    "level": "13.00...13.50",
-    "comment": "sl12"
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "title": "スナレ",
+    "level": "-",
+    "comment": "sl10"
   }
 ]

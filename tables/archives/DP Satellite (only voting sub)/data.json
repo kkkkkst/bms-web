@@ -1,16 +1,30 @@
 [
   {
-    "md5": "6ec13a59a0f84b46799fe459363a2737",
-    "sha256": "2f2850f524a5961e4fa16ebe86399ff86a3793ef0a56b79a38e2ed0173c63ced",
-    "title": "Soul of Deep-sea Fish [A14]",
-    "artist": "HOUJIROU obj:ucc",
-    "url_diff": "https://web.archive.org/web/20181106000811/http://www.geocities.jp/uccdpbms/bof2012/sdf.zip",
-    "url": "https://www.dropbox.com/s/5pywdhpfcozj7xs/%5BMaple_brit%27S%5DSoul_of_Deep-sea_Fish-HOUJIROU.rar?dl=0",
+    "md5": "8cc059349bc4f1af82a40e1561085a35",
+    "sha256": "a4d80864a124eb95fd881d364b8b686ff5f58757ba3a35ce759a7b9cbc387cbe",
+    "title": "平衡世界 Parallel World",
+    "artist": "daisan obj:ucc",
+    "url_diff": "https://web.archive.org/web/20181105105351/http://www.geocities.jp/uccdpbms/bof2012.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
+    "level": "1",
+    "comment": "1?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 744,
+    "proposerLr2id": 128228
+  },
+  {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "sha256": "4a8511f62f6b81328e4845e90b157ec67442497f96306806a5c52fdc19bfbb97",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
+    "artist": "HOUJIROU (obj:k)",
+    "url_diff": "http://dpbms.at-ninja.jp/bms/buki_14k_A.zip",
+    "url": "https://web.archive.org/web/20070125021907/http://page.freett.com/takacyan930/ev_dlpage.html",
     "level": "2",
     "comment": "1~2?",
     "zureCount": 0,
     "proposer": "JHS",
-    "submission": 738,
+    "submission": 745,
     "proposerLr2id": 128228
   },
   {
@@ -41,20 +55,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "29795d9e9d470675490831c40e16a552",
-    "sha256": "f7963bb2c9513e07c433c75c81766d39db360df3a173fb99e6699330a79d93aa",
-    "title": "事象の地平 [平行世界：事件の始作]",
-    "artist": "wa. / Limite",
-    "url_diff": "https://www.limiteknj.net/BMS/",
-    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?0V9DDTKD",
-    "level": "6",
-    "comment": "5~6?",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 737,
-    "proposerLr2id": 128228
-  },
-  {
     "md5": "add6209f52df4d9c18d31a5a33e0b606",
     "sha256": "0798cc649524795a36f0f5dd6d464ed7a075337f8baff136162ee853b7f13e6b",
     "title": "悠奏線上のアスタルテ [DP ANOTHER]",
@@ -67,47 +67,5 @@
     "proposer": "JHS",
     "submission": 740,
     "proposerLr2id": 128228
-  },
-  {
-    "md5": "83e2eb6882794750f364981150ff82fb",
-    "sha256": "73cda9c9197e8e9bc17767ff7e5673f274023712116ba8123ce1f85f954cdc17",
-    "title": "虚空グラデーション",
-    "artist": "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / obj:lichtr",
-    "url_diff": "http://objlr.kirara.st/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=74",
-    "level": "7",
-    "comment": "7~8?",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 736,
-    "proposerLr2id": 128228
-  },
-  {
-    "md5": "2da426b24a002de947d412305b149c92",
-    "sha256": "fa1e5b403ae0ac093cf90e3b50f02799c7969dd200fcb2f9a613daaf0cb39e02",
-    "title": "A c i - L [DP ANOTHER]",
-    "artist": "裏 吉 川 Obj. KENIN*",
-    "url_diff": "https://www.dropbox.com/s/obtkshiedykhvya/dpsabun_kenin_200408.rar?file_subpath=%2FA+c+i+-+L+DP+ANOTHER+.rar",
-    "url": "http://malie.noor.jp/",
-    "level": "10",
-    "comment": "10~11",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 741,
-    "proposerLr2id": 128228
-  },
-  {
-    "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
-    "sha256": "64c1c106943535c016b31845f6486e5708455eb6093f565935cb02c9625906d0",
-    "title": "テウメッサ [matrix]",
-    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee obj.KENIN*",
-    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
-    "level": "12",
-    "comment": "同梱SPAと比較してズレ抜け無し",
-    "zureCount": 0,
-    "proposer": "にぇ",
-    "submission": 742,
-    "proposerLr2id": 53819
   }
 ]
