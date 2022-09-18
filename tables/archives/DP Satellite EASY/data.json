@@ -654,6 +654,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "6ec13a59a0f84b46799fe459363a2737",
+    "title": "Soul of Deep-sea Fish [A14]",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
     "title": "The Microbe [DP ANOTHER]",
     "level": "0.50...1.00",
@@ -1542,6 +1548,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "762258885246b239006c8294e08b1165",
+    "title": "Modern Times",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "d294adfc2a5ba6dbea9795ce7b226a15",
     "title": "orangegirl sentiment [DP-sagINSANE]",
     "level": "3.00...3.50",
@@ -1616,6 +1628,12 @@
   {
     "md5": "66d86b3543736c6925509bbf533fce04",
     "title": "VENUS INVADER [14K ANOTHER+]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "b33e89e037924cbb8417f6bdd3c80d8b",
+    "title": "World Against 2 [DP sub another]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -1788,12 +1806,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "762258885246b239006c8294e08b1165",
-    "title": "Modern Times",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
     "title": "Moon-gate -DP Chalenger-",
     "level": "3.50...4.00",
@@ -1860,12 +1872,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "b33e89e037924cbb8417f6bdd3c80d8b",
-    "title": "World Against 2 [DP sub another]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "910681db5dfded14ac907e0cfe9122e2",
     "title": "Zero Dimension [ANOTHER14]",
     "level": "3.50...4.00",
@@ -1888,12 +1894,6 @@
     "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl5"
-  },
-  {
-    "md5": "24479651932a5b101b055744d32ba529",
-    "title": "田中 -KATAKATA-",
-    "level": "3.50...4.00",
-    "comment": "sl6"
   },
   {
     "md5": "395811c489090c3e648d2385995de94c",
@@ -2092,6 +2092,12 @@
     "title": "浮世絵横丁",
     "level": "4.00...4.50",
     "comment": "sl5"
+  },
+  {
+    "md5": "24479651932a5b101b055744d32ba529",
+    "title": "田中 -KATAKATA-",
+    "level": "4.00...4.50",
+    "comment": "sl6"
   },
   {
     "md5": "9efd3a958f5f34ddbbe9068262673652",
@@ -2634,12 +2640,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "80688a79f251ece911a4a1c3b782f835",
-    "title": "Absurd Gaff [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
     "title": "Acid Drizzle -レイクサイド-",
     "level": "6.00...6.50",
@@ -2793,6 +2793,12 @@
     "md5": "43a1e8beaf36ce9d9ddbf6b5862a3926",
     "title": "ミライトコネクト [DP-sagINSANE]",
     "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "80688a79f251ece911a4a1c3b782f835",
+    "title": "Absurd Gaff [DP ANOTHER]",
+    "level": "6.50...7.00",
     "comment": "sl9"
   },
   {

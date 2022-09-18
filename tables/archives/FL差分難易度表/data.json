@@ -313,6 +313,18 @@
   },
   {
     "level": "6",
+    "title": "eyes [2k22 reinterpretation]",
+    "md5": "b552c5f848827defc9fd5961c7fca24f",
+    "artist": "juno & une",
+    "url": "http://web.archive.org/web/20040301071607/http://lagunabms.hp.infoseek.co.jp/eyes.zip",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/eyes_2k22.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Sep 10 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/l2Y7s3z1ebk",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "6",
     "title": "GLaDOS [A piece of cake]",
     "md5": "377570a11bf6eae491a106ec9a50c43c",
     "artist": "Avantgarde",
@@ -409,18 +421,6 @@
   },
   {
     "level": "7",
-    "title": "PUPA [LighT]",
-    "md5": "babde07aa3c2f6fbf036f69849d668ed",
-    "artist": "モリモリあつし",
-    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
-    "url_diff": "https://darksabun.github.io/event/bcel/sabun/AF_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Sat Aug 06 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/jIl1z-kiuEk",
-    "comment": "追加音源あり"
-  },
-  {
-    "level": "7",
     "title": "Seiren [Siren+]",
     "md5": "ffb3731fb348e4e193b3e8f7bf4fe2ce",
     "artist": "kanoryo",
@@ -514,6 +514,18 @@
     "date": "Wed Oct 23 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/nOq0tDa58-s",
     "comment": ""
+  },
+  {
+    "level": "9",
+    "title": "PUPA [LighT]",
+    "md5": "babde07aa3c2f6fbf036f69849d668ed",
+    "artist": "モリモリあつし",
+    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
+    "url_diff": "https://darksabun.github.io/event/bcel/sabun/AF_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Aug 06 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/jIl1z-kiuEk",
+    "comment": "追加音源あり"
   },
   {
     "level": "9",

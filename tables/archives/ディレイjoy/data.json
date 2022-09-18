@@ -221,16 +221,6 @@
   },
   {
     "level": " DELAY BEGINNER",
-    "title": "アルティメットリユニオン[DELAYMASTER] ",
-    "artist": "nmk/-if-/差分　赤い人",
-    "url": "https://web.archive.org/web/20140111152912fw_/http://miohosina.moe.hm/bms/dl/nmk_reunion.zip",
-    "url_diff": "http://akred.web.fc2.com/reunion_delaymaster.bms",
-    "md5": "4a32d2a303c1e260498edd0f30ca44bb",
-    "comment": "368",
-    "打鍵速度": "368"
-  },
-  {
-    "level": " DELAY BEGINNER",
     "title": "イナリッチ",
     "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj:Frnter",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
@@ -461,6 +451,16 @@
   },
   {
     "level": "-2",
+    "title": "FF4 巨人のダンジョン [DELAY＋]",
+    "artist": "yassu /差分　赤い人",
+    "url": "http://sound.jp/brilliantharmony/",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2335.rar",
+    "md5": "0a15b2b6e2223646bf7bafd87dde3519",
+    "comment": "280",
+    "打鍵速度": "280"
+  },
+  {
+    "level": "-2",
     "title": "GO! GO! MANIAC -nrg mix- [DERAY]",
     "artist": "remixed celas/赤い人 Notes:ztar",
     "url": "http://web.archive.org/web/20161022231551/http://creation-records.info/bms/gogomaniac_r_ogg.rar",
@@ -576,7 +576,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
     "url_diff": "同梱譜面",
     "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "comment": "sub sl10/298",
+    "comment": "sl9/298",
     "打鍵速度": "298"
   },
   {
@@ -931,16 +931,6 @@
   },
   {
     "level": "-1",
-    "title": "ラケシスと永遠の祈祷者 [G]",
-    "artist": "しーけー obj:goe",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=110",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00395",
-    "md5": "9fb27707ddbcc8a8a73df754947196b5",
-    "comment": "▼16/345?",
-    "打鍵速度": "345?"
-  },
-  {
-    "level": "-1",
     "title": "稲田姫様に叱られるから　 (BEGINNER)",
     "artist": "BMS：Ｆ／Ａ１８　MIDI：ロウファ　BGA:LZH　OBJ:air",
     "url": "http://fa18af.sakura.ne.jp/bmsfa18/bmsfa18.html",
@@ -988,16 +978,6 @@
     "md5": "228feb06a9a2d781624a041d52ae1507",
     "comment": "★20/328?",
     "打鍵速度": "328?"
-  },
-  {
-    "level": "0",
-    "title": "Diamond Planet [Delay＋]",
-    "artist": "Telno obj.もさ子（＾＾）",
-    "url": "http://yaruki0.sakura.ne.jp/bms/Planet.zip",
-    "url_diff": "同梱譜面",
-    "md5": "e4b2c177628211d31f78618daa1d0779",
-    "comment": "284",
-    "打鍵速度": "284"
   },
   {
     "level": "0",
@@ -1088,6 +1068,16 @@
     "md5": "1998907105914ce7c8609b2ec20ac52b",
     "comment": "360",
     "打鍵速度": "360"
+  },
+  {
+    "level": "0",
+    "title": "FF4 巨人のダンジョン [DELAYMASTER]",
+    "artist": "yassu /差分　赤い人",
+    "url": "http://sound.jp/brilliantharmony/",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2335.rar",
+    "md5": "637f4fce2bc5c7ca3883b90fec9d5002",
+    "comment": "280",
+    "打鍵速度": "280"
   },
   {
     "level": "0",
@@ -1358,16 +1348,6 @@
     "md5": "f5dc520523bf9327d818990b48320708",
     "comment": "st0/270",
     "打鍵速度": "270"
-  },
-  {
-    "level": "1",
-    "title": "44river [nox]",
-    "artist": "-45 / obj : cieu",
-    "url": "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21292&parId=FC95A680740CA8C9%21111",
-    "url_diff": "http://cieu.web.fc2.com/",
-    "md5": "5b5b2a56526393ae893e4092068aa1cd",
-    "comment": "★★1 ★21/284",
-    "打鍵速度": "284"
   },
   {
     "level": "1",
@@ -2951,6 +2931,16 @@
   },
   {
     "level": "4",
+    "title": "妹 -分からせ-",
+    "artist": "TRIAL BGA：出前 obj:んちゃぱ",
+    "url": "https://venue.bmssearch.net/bmskanji2/8",
+    "url_diff": "https://stellabms.xyz/upload/1951",
+    "md5": "d525fccf9d81063ef2d38a5facc140df",
+    "comment": "444",
+    "打鍵速度": "444"
+  },
+  {
+    "level": "4",
     "title": "探し物 [WTF]",
     "artist": "onoken Obj.Triforce",
     "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
@@ -3618,16 +3608,6 @@
     "md5": "62cbf8e0d9f37f9ad736b4ada63e6d08",
     "comment": "st6/517",
     "打鍵速度": "517"
-  },
-  {
-    "level": "6",
-    "title": "44river [fatal]",
-    "artist": "-45 / obj : cieu",
-    "url": "http://cid-ec29adccad727122.office.live.com/self.aspx/%e5%85%ac%e9%96%8b/-45/%5BBMS%5D%5B-45%5D%5Btrance%5D%5B44river%5D.7z",
-    "url_diff": "http://cieu.web.fc2.com/",
-    "md5": "9ff70c1c66c9bd9377a799fb87115d82",
-    "comment": "★★4/284",
-    "打鍵速度": "284"
   },
   {
     "level": "6",
@@ -4371,6 +4351,16 @@
   },
   {
     "level": "7",
+    "title": "Rainy [Typhoon]",
+    "artist": "Yu^ta obj.Harae",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
+    "url_diff": "https://drive.google.com/file/d/1E6vq7tQABTcNRDmlCYqTGT6q_tm6YLpy/view",
+    "md5": "7e5413258f4d7e199dbff00cca1ccf94",
+    "comment": "st7/536?",
+    "打鍵速度": "563?"
+  },
+  {
+    "level": "7",
     "title": "Reason of being [genesis]",
     "artist": "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
@@ -4726,7 +4716,7 @@
     "url": "https://venue.bmssearch.net/bmsshuin3/111",
     "url_diff": "https://hpx.getonpictochat.com/bmss/2021/",
     "md5": "7fc3fee2272490597e2ac819ecad4a67",
-    "comment": "sub st8/450?",
+    "comment": "st8/450?",
     "打鍵速度": "450?"
   },
   {
@@ -5758,6 +5748,16 @@
     "md5": "75c4a795eaf4076c59852cb2c52e3b23",
     "comment": "564",
     "打鍵速度": "564"
+  },
+  {
+    "level": "10",
+    "title": "Spider Dance(METTAMETA Remix) [///]",
+    "artist": "toby fox Remixed by uet BGI : morph / OBJ：tyrcs",
+    "url": "http://beatmaniauet.sakura.ne.jp/BMS/uet_spiderdancermx_ogg.zip",
+    "url_diff": "https://stellabms.xyz/upload/1961",
+    "md5": "a08fca4401e602e485ae5ff5d8c3f99d",
+    "comment": "480",
+    "打鍵速度": "480"
   },
   {
     "level": "10",

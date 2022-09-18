@@ -3662,20 +3662,6 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "ad2247e174503edd15bb965dfe60ec9c",
-    "sha256": "ee84ad0b9e04573fa207d91ed6070a273d962dd3f530932e0f7d4ca9748fb292",
-    "title": "Chatter Growl [Maryther]",
-    "artist": "Neun_jack / BGI:うまるつふり / OBJ: Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Chatter%20Growl%20(by%20Neun_jack).rar",
-    "level": "1",
-    "comment": "乱打 / 階段 / 連打",
-    "zureCount": 0,
-    "proposer": "ぶんぺ～",
-    "submission": 1474,
-    "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
-  },
-  {
     "md5": "4c8df66485efbfa0dedefbef77d69ee4",
     "sha256": "e78458fc6b964defb949584516152af9a698e1e8688b671f994e7d1ea5b3afcb",
     "title": "Chilly [SP Blizzard]",
@@ -3744,6 +3730,19 @@
     "proposer": "Mary_Sue",
     "submission": 1713,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "949989af49f5de175895edc0e81f832c",
+    "sha256": "420d6424aaad3dc4228e1ac338e59867c4457330f3dba75b4ab284d126d4119f",
+    "title": "Crazy Watermelon [Pentagon]",
+    "artist": "かむちゃうらる obj.hex",
+    "url_diff": "https://venue.bmssearch.net/bcel_final/6",
+    "url": "https://drive.google.com/file/d/1cYi45CfTsHbaUAi-QL4DlmU-RFN63EMn/view",
+    "level": "1",
+    "comment": "BPM190　乱打・ディレイ",
+    "proposer": "EGRET.",
+    "submission": 1915,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "title": "Creamy Sky [はっぴぃ↑↑]",
@@ -3919,6 +3918,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "35506a715969231f7d4cea8274346e77",
+    "sha256": "01d3380352cf81338484504c931f433135d49975cbc052a362b557fc9bbb9aae",
+    "title": "Dog-Run Panic! -Despair-",
+    "artist": "kas_0120 obj:七海",
+    "url_diff": "https://hpx.getonpictochat.com/bmss/2021/",
+    "url": "https://venue.bmssearch.net/bmsshuin3/113",
+    "level": "1",
+    "comment": "BPM164 微縦 皿複合",
+    "zureCount": 0,
+    "proposer": "mukyu--",
+    "submission": 1896,
+    "proposerLr2id": 71314
   },
   {
     "md5": "058166279df278ff728ff04067a83aa3",
@@ -6517,6 +6530,21 @@
     "sha256": "7c305bc5180dd79d42b87cf4d738dd34afbe653861dc3494f49c50e5a07fde93"
   },
   {
+    "md5": "794e0b5c0ad4ae1ecda47148171ba730",
+    "title": "幽冥クライシス [INFERNO]",
+    "artist": "kanoryo/obj:赤い人",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/yuumei_INFERNO.bms",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=114",
+    "level": "1",
+    "proposer": "SEKI-7",
+    "comment": "同時押し",
+    "submission": 322,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "0025275321c94ab8cbfe15b3d943bc96c42a12b85b11f8a83feae1626bff1c28"
+  },
+  {
     "md5": "a4675f892ef5d2372056e355e468c601",
     "title": "幽雅に開け、青空の扉 -EXUSIA-",
     "artist": "Ark-Z / BAECON",
@@ -7415,6 +7443,20 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "ad2247e174503edd15bb965dfe60ec9c",
+    "sha256": "ee84ad0b9e04573fa207d91ed6070a273d962dd3f530932e0f7d4ca9748fb292",
+    "title": "Chatter Growl [Maryther]",
+    "artist": "Neun_jack / BGI:うまるつふり / OBJ: Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Chatter%20Growl%20(by%20Neun_jack).rar",
+    "level": "2",
+    "comment": "乱打 / 階段 / 連打",
+    "zureCount": 0,
+    "proposer": "ぶんぺ～",
+    "submission": 1474,
+    "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
     "md5": "657a6aef8febf7bc31c0962305a36cd7",
     "title": "Cinderella Story -Starlight stage-",
     "artist": "adumac / obj:羽藤桂",
@@ -7614,20 +7656,6 @@
     "votePercent": 0,
     "sha256": "e16250d20ca0ebb8798953b8111538c0eff482cd122a3f5209d9f713dceadc69",
     "proposerLr2id": 80964
-  },
-  {
-    "md5": "35506a715969231f7d4cea8274346e77",
-    "sha256": "01d3380352cf81338484504c931f433135d49975cbc052a362b557fc9bbb9aae",
-    "title": "Dog-Run Panic! -Despair-",
-    "artist": "kas_0120 obj:七海",
-    "url_diff": "https://hpx.getonpictochat.com/bmss/2021/",
-    "url": "https://venue.bmssearch.net/bmsshuin3/113",
-    "level": "2",
-    "comment": "BPM164 微縦 皿複合",
-    "zureCount": 0,
-    "proposer": "mukyu--",
-    "submission": 1896,
-    "proposerLr2id": 71314
   },
   {
     "level": "2",
@@ -7930,6 +7958,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "c204bc892539c5972249ee71976c8c7fe8d7315fdd9abb760628b18c7159a5da"
+  },
+  {
+    "md5": "4a2f790fcb892e642483c576834d1f78",
+    "sha256": "febf2609831f5a5cd1214252403c80ba4d4ef9e7bbf6079c5d6d12cd8979c1df",
+    "title": "Fuzzy-Navel [Blossom]",
+    "artist": "Music:わかどり | Movie:もがみ Obj:alt",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/33",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=137",
+    "level": "2",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 1913,
+    "proposerLr2id": 86559
   },
   {
     "md5": "4d82215f72cd4233820044302e5430a9",
@@ -8770,6 +8811,20 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "d9fd6bccd0ef9a523a988d886610a8f6",
+    "sha256": "fc494030f4783768e6f6778998e1a572ecc550e68851041793dbec9e23dabcfb",
+    "title": "perfume of reunion -SP LOVESICK-",
+    "artist": "parakeet41/2 OBJ:Mary_Sue BGA:HAINA",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/61",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/perfume%20of%20reunion%20(by%20parakeet41%EF%BC%8F2).rar",
+    "level": "2",
+    "comment": "BPM140 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1917,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
     "sha256": "e6c2bac7d7f5e27b1f24610d8eb2e8ec40bf6860847160d7ec8ceb877a7f05ac",
     "title": "Poppy [Opium]",
@@ -9524,6 +9579,19 @@
     "sha256": "ce30b201f551583d9f664d3c90a147e5c0e086f41b243ad3d0c8ee86537c297c"
   },
   {
+    "md5": "d10cf6a71f818b3b6219cf74e44352d6",
+    "sha256": "19f58b5a31b3e7937c496633ca787c517d75718236f3d12ca63f9a1ad8aff621",
+    "title": "Under The Red Foon",
+    "artist": "midori / YARRRRRRRRRRRRRRRRRRRRRRR",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/24",
+    "url": "https://dl.dropboxusercontent.com/s/rhrjtry15ssta7p/%5Bmidori%5DUnder%20The%20Red%20Moon.zip",
+    "level": "2",
+    "comment": "respect for 29another (misalignment by minor gimmick; no audio misalignment)",
+    "proposer": "qtp13",
+    "submission": 1912,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "96c017e393898a99000ecbd2c3ae80ac",
     "sha256": "1f86806a3d86aa49aeea8c1bbec62ede552780a6deec45a43c8380f761cd15da",
     "title": "Unshakable -Zen-",
@@ -10181,21 +10249,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "4e89adcf3871667b91096eb549a6cbcbd5dba69bc9a89bb9fc12f7c58e804a66"
-  },
-  {
-    "md5": "794e0b5c0ad4ae1ecda47148171ba730",
-    "title": "幽冥クライシス [INFERNO]",
-    "artist": "kanoryo/obj:赤い人",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/yuumei_INFERNO.bms",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=114",
-    "level": "2",
-    "proposer": "SEKI-7",
-    "comment": "同時押し",
-    "submission": 322,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "0025275321c94ab8cbfe15b3d943bc96c42a12b85b11f8a83feae1626bff1c28"
   },
   {
     "level": "2",
@@ -11779,6 +11832,20 @@
     "proposer": "qtp13",
     "submission": 1087,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "8fd09653dcf95a09ecc7df8c87a35ade",
+    "sha256": "c72e09c8b148bf33eb25038d30f502d7113a89a5098671d28870fe7f4724335e",
+    "title": "GET READY [尖兵]",
+    "artist": "Nakaiankow obj:LindBlum",
+    "url_diff": "https://venue.bmssearch.net/bcel_final/9",
+    "url": "https://beatmaniauet.sakura.ne.jp/kusekorepack/kusekore_bmspackage.zip",
+    "level": "3",
+    "comment": "BPM(150-)180 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1916,
+    "proposerLr2id": 65624
   },
   {
     "title": "glorious red - 赫月、黒陽ヲ穿ツ - [yumether]",
@@ -14160,19 +14227,6 @@
     "sha256": "0646ccbd8a0ed97b4948c21f781181dc728cbf0cdea7ff9b7322c766159e83d7"
   },
   {
-    "md5": "e1b7b7e59f9136d59e65a64a6d158f0b",
-    "sha256": "8c738e9b89d663f12f6440b9cbd4dcd0dc14b9115f0390b91f96a2a7d5521d39",
-    "title": "紅い月夜に花の乱 [桜吹雪]",
-    "artist": "AKITO / mixed by TOSH /eleanor",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04732",
-    "url": "https://web.archive.org/web/20051123015828/http://big.freett.com:80/akito11/sakurak.rar",
-    "level": "3",
-    "comment": "16分咲き (桜華月の曲変更差分)",
-    "proposer": "qtp13",
-    "submission": 1875,
-    "proposerLr2id": 86559
-  },
-  {
     "md5": "d324f981955e881393501f0f791b2d93",
     "title": "絵空事の世界と私　 [EX]",
     "artist": "イヴ/さ",
@@ -16396,6 +16450,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "39efc3b790d07526f48649a93e76165a",
+    "sha256": "cdd0f51c8e5c5f61e61d4ca075807d675a3861f3e212112f8a369349f596c093",
+    "title": "The Lizard Tail [Hexagon]",
+    "artist": "Luphus obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "https://bms-mirror.com/pkg/2017/bofu2017/The%20Lizard%20Tail.zip",
+    "level": "4",
+    "comment": "BPM168の12分ガチ押し st3上位～st4入門クラス？",
+    "zureCount": 0,
+    "proposer": "なうもとわんたろう",
+    "submission": 1918,
+    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
+  },
+  {
     "md5": "a4ec37bd57910cbb6649f6f376322db0",
     "sha256": "33f78bd521cb8734b07d722b0998f7aaf5e383aa39bdc9f2378ca8e81ae93244",
     "title": "Time shrinker [PARADOX]",
@@ -17310,6 +17378,19 @@
     "proposer": "Sehunyg",
     "submission": 1318,
     "proposerLr2id": 141530
+  },
+  {
+    "md5": "e1b7b7e59f9136d59e65a64a6d158f0b",
+    "sha256": "8c738e9b89d663f12f6440b9cbd4dcd0dc14b9115f0390b91f96a2a7d5521d39",
+    "title": "紅い月夜に花の乱 [桜吹雪]",
+    "artist": "AKITO / mixed by TOSH /eleanor",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04732",
+    "url": "https://web.archive.org/web/20051123015828/http://big.freett.com:80/akito11/sakurak.rar",
+    "level": "4",
+    "comment": "16分咲き (桜華月の曲変更差分)",
+    "proposer": "qtp13",
+    "submission": 1875,
+    "proposerLr2id": 86559
   },
   {
     "md5": "8244df1b6371ba82d8cf3c2374d3b91a",
@@ -20358,6 +20439,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
+    "sha256": "9326822a028363af602272d42b343a3dc26aaaab624da9f3d7d4b03bcc1fdcc6",
+    "title": "INSANER [DELAYER]",
+    "artist": "saaa obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02811",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
+    "level": "6",
+    "comment": "#90.25からディレイの表現なのでズレがあります",
+    "proposer": "七海",
+    "submission": 1914,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "91c72bd5a5df77367c66e3cf98c6e941",
     "title": "Kalte [Heimweh]",
     "artist": "Dachs Movie : mi / obj:otoshi.b",
@@ -23094,7 +23188,7 @@
     "title": "G-Bass / mild_hihat.wav REAL LIFE",
     "artist": "Theme -----",
     "url_diff": "https://hpx.getonpictochat.com/bmss/2021/",
-    "url": "https://venue.bmssearch.net/bmsshuin3/111",
+    "url": "https://bms-mirror.com/pkg/2021/bmsshuin3/G-Bass.zip",
     "level": "8",
     "comment": "キー音アレンジ Delay",
     "proposer": "LUXURY♪",

@@ -40068,7 +40068,7 @@
     "url_diff": ""
   },
   {
-    "level": "★★7",
+    "level": "★★6",
     "sha256": "9f21fb601053e04a06146ae925b8e9102a28e5b697e7c4a096f503f59a4ce1b4",
     "title": "esc [124P] ",
     "artist": "onoken / obj. hplaner",
@@ -43596,7 +43596,7 @@
     "url_diff": ""
   },
   {
-    "level": "★★0",
+    "level": "★★1",
     "sha256": "b48824696d6d6329bf16bd053cb12b7d05b811ce4985635c2fbae5abd3e4e486",
     "title": "愛と煩悩と輪廻と常識の極彩世界 [SP EX] ",
     "artist": "sound piercer feat.Ritsu/さ",
@@ -49437,7 +49437,7 @@
     "url_diff": ""
   },
   {
-    "level": "★★???",
+    "level": "★★8",
     "sha256": "da8553a15d07a9bbd3ed71be1c54b259159b238a9a408a9d02aa76eb96c6d61c",
     "title": "Trahison[SP LUNATIC] ",
     "artist": "be5moti / うまるつふり",
@@ -54108,7 +54108,7 @@
     "url_diff": ""
   },
   {
-    "level": "★???",
+    "level": "★★??",
     "sha256": "2a9b838b2973d19a6784a46e7c42fc9a55abc696eac1156f8eaaeab94fb3cd31",
     "title": "キメラ [M.P.F.G.] ",
     "artist": "BACO",
@@ -61470,7 +61470,7 @@
     "url_diff": ""
   },
   {
-    "level": "★★???",
+    "level": "★★8",
     "sha256": "e913ae12c4a6e96fbc85b5fe5229003c0238e770ff5947886ddf78dc943086b6",
     "title": "glittering moment -starry heaven- ",
     "artist": "horoscope",
@@ -63990,7 +63990,7 @@
     "url_diff": ""
   },
   {
-    "level": "★★?",
+    "level": "★★2",
     "sha256": "88dd27fe1499af98af00ea16886ea3a166b347bad48dfa26cd68c58cbc1bb6bf",
     "title": "ヒメタイプ [SSSA] ",
     "artist": "ノクティス・江口・チェラム",
@@ -73575,7 +73575,7 @@
     "url_diff": ""
   },
   {
-    "level": "★★???",
+    "level": "★★7",
     "sha256": "fd7cb5799892ef67317fdd4701f30a2459a855f384fb7f1103e86e3063a419e2",
     "title": "The Heroine Appears. -GENOCIDE- ",
     "artist": "P4koo",
@@ -75857,15 +75857,6 @@
     "title": "Four Veiled Stars ",
     "artist": "BilliumMoto",
     "md5": "c9e722fb8a2cf7dee0bc3e81b2c95872",
-    "comment": "",
-    "url_diff": ""
-  },
-  {
-    "level": "★★0",
-    "sha256": "4625c7523c2adcdfc17e68eef4512292da699a7801b734ff244d0592f6b2de18",
-    "title": "禁忌と緋色幻想 -The Primary Plasm- [biginner] ",
-    "artist": "ZUN Remixed by NoKANY",
-    "md5": "51457b07df1c34047cf172ef296f8a85",
     "comment": "",
     "url_diff": ""
   },
@@ -79497,8 +79488,89 @@
     "url_diff": ""
   },
   {
-    "level": "",
-    "sha256": "",
+    "level": "★2",
+    "sha256": "a1860470442413e15b110ff2806f5cffaeaaa8a58d539869a216b01db6f6bf50",
+    "title": "エナジーストリーム[ ^ ^ ] ",
+    "artist": "キュアプラネット",
+    "md5": "b262784546fbdf540da93e605bab6179",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "63e3b2ec578d980ba40aa11c7a5c4a0b827a1ad8aab1d201142ebffc6236efb6",
+    "title": "エナジーストリーム -another7- ",
+    "artist": "キュアプラネット",
+    "md5": "995911ccfafec2cde1c4ab9075013d4f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "507d3b8f6af9f7ce0beb1714b418008567ed81b505e9602eb5c99d7219dc8972",
+    "title": "Arcadia [Totemism] ",
+    "artist": "HaL feat. riri BGA fity /obj.瀧 廉太郎",
+    "md5": "f485371865bd0ae9459df225f2bfe96f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★8",
+    "sha256": "63fda6d84d1f33b19b314f5e7ff8217b7e6e0b593a7cd38c64f820a638f7cd3e",
+    "title": "レトロモダンの玩具工場 [INSANE] ",
+    "artist": "38k",
+    "md5": "3e40449140978a7124ba7ef29c3d4a18",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "7ab7ca6e6d756d283693f9111948adca3d7712747ff55746fd98fbd196e77f63",
+    "title": "story of dreamers ",
+    "artist": "ノア remixed by otokaz",
+    "md5": "e5ecfc22ff559bd5fd0bec0f5a407036",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★?",
+    "sha256": "8b61193711f3d6e8cc90e2114ae7d9a65ebf9c9cd89434ae41c87aaba0a7a6ae",
+    "title": "円形の音楽[円形脱毛症] ",
+    "artist": "6yen",
+    "md5": "84844c0c49cbd99d81c22514838936fd",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "428dbbe4461f613b72ebae40aa7336da3399482937851eefb7b087c6c1b1e65e",
+    "title": "Metropolis[LN-SC] ",
+    "artist": "mommy/objぐっさん",
+    "md5": "0e1c969fb348b25b0e3fe6e5fe854fea",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "69176bedab5e21a989d8a5aed6cfbf878510b62834a536c0b37f0730e2f99907",
+    "title": "SCP-1256 - ミツバチはあなたが思っているよりもずっと賢い ",
+    "artist": "Dr.■■■■",
+    "md5": "10a0b72925fecc177e58cddad07b82ad",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "c0731a21b599fc3de4c30e4793eed21af23d5606226d5a97facd2a67f947dfb1",
+    "title": "melancholy my day song ",
+    "artist": "柳田惣一郎 / ИAMUHIM",
+    "md5": "61939f207214c7c7804ce247e072a19e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "7fdecb15b23e38c9bfb23d829e9784c06452cdf70976a1dd2d9141ebcb82f4db",
     "title": "#N/A",
     "artist": "#N/A",
     "md5": "#n/a",
@@ -79506,20 +79578,965 @@
     "url_diff": ""
   },
   {
-    "level": "",
-    "sha256": "",
-    "title": "#N/A",
-    "artist": "#N/A",
-    "md5": "#n/a",
+    "level": "★??",
+    "sha256": "dc12ab482db1b8732f6dcace904fe8ff12fe9e1a8f7897ea30a75969c9e8057b",
+    "title": "SCP-173 - 彫刻 - オリジナル [7KEYS HAZARDOUS] ",
+    "artist": "Dr. Mortimer, Agent Barrett, Agent Preis",
+    "md5": "3c0cd0ff9f6591d22b42e5de20975252",
     "comment": "",
     "url_diff": ""
   },
   {
-    "level": "",
-    "sha256": "",
-    "title": "#N/A",
-    "artist": "#N/A",
-    "md5": "#n/a",
+    "level": "†",
+    "sha256": "d644837cae237a2bb657861ce27ef1f5bb59e8f42a4772cf836372333b10a1e0",
+    "title": "ophiuchi_endpoint [#]",
+    "artist": "nitro",
+    "md5": "ee25ef34cfbf91a6993a159f3b49bab0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "19d3611cb6ed7e7a7bf1126cfb2899e7c46390ff8acf13f1da5f95250a09e753",
+    "title": "あまやどり ゲリラ豪雨",
+    "artist": "9A",
+    "md5": "a41bfe7961f12493de5e76c265228a38",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "f1a6c6319aebd08df29165dd7f923a564e3fd1e7ea69330dc11f39cc1294c119",
+    "title": "THE WHALE [Cetus] ",
+    "artist": "anubasu-anubasu / obj: LeaF",
+    "md5": "db32025b3d810bd56795b09606c5ad4e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "98de6a235c019f0e57a84f37b19ebcb85efe4842acf86c65a175bc7a625bd3bb",
+    "title": "Celeste [Atlantis] ",
+    "artist": "Sigma X3 / yusi",
+    "md5": "7600a3199bbade63b070983f51102623",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★0",
+    "sha256": "5c22effea7b3085b7d198f91892929ee83f89a1bf47a850e2c01b4c1cac295e3",
+    "title": "ココナツ・アバンチュール [#] ",
+    "artist": "ぽんきち",
+    "md5": "51d231b1532977738778014cf7c55b73",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "5fd9b1e8cfed13fad3d3e7a874bf1a34155198a1e4217d2768fad55fcda32bb6",
+    "title": "snowflake -exquisite style- (LN7) ",
+    "artist": "Est /obj：彩雛",
+    "md5": "4b46d5a3bd380fc91984496391d27459",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "9def84e39c92edfb6c461cb642b1bfdb78188d4c3548aa79b5ec8e03a66fb377",
+    "title": "Greenish Heaven -radio edit- (LUNATIC) ",
+    "artist": "Est",
+    "md5": "4e5193145122fa3fbd3aa2a1d38560b9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "0b5e642304fd8beb56d681031f56c907555c9d67de5ca35d095ae2313434ac95",
+    "title": "TURNDOWN [Excelsior]",
+    "artist": "Ras / И",
+    "md5": "9c1c5469307b9e138fe832884f3a8dd0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "†",
+    "sha256": "a5f53102c27402569ccd39d906bc30e809f0e37d2ac711177a2ea05932c50717",
+    "title": "歪んだ神 -原曲を忘れられし者- ",
+    "artist": "次元大介",
+    "md5": "3ad42f0667c3ead107cc43eee79b6cd4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★10",
+    "sha256": "51a8ca421dfbb38600c02c23f35479adaadcb0c68718a8c3e446ae7ba6243211",
+    "title": "次ギ剥ギ[剿滅]",
+    "artist": "Penu /obj.turbow",
+    "md5": "7aa0329afd3c06c97e93b55460a82cc0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "30d874730a5214ff8cea41560b6c993e9c0539b06c89c5ec03ae1577222b6e06",
+    "title": "Far in the distance 'Remember' (7 Main) ",
+    "artist": "kiri vs bbangsami",
+    "md5": "310f76988842ca15e331cede94bd310b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆???",
+    "sha256": "0e8491be566c82fe219603f3ec949ab95a01e1bf727fd828b05b6e2db31a27db",
+    "title": "Spiral Field[another] ",
+    "artist": "rukhdrop",
+    "md5": "276fc928af8fc56541e91061556ebb5a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "ab18dcd154b2427bcd268e5ded530d8ad190f0d6f35622fad54b3b7c98231ee2",
+    "title": "MI☆SO☆KA☆TSU☆ ",
+    "artist": "長沼浩太(フライパンでやりまーす)",
+    "md5": "f98d7583ce9b555e6573fcf8c70f9a5e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "f6027cbde39687c7380e2251c3ce4b3f7fa7f71c364247c77279d76898d51f2f",
+    "title": "Morgenglut (amane2000 Remix) [yumether] ",
+    "artist": "sun3 (Remixed by 天音) / BGA:Johnny / obj:夢瑠",
+    "md5": "c1a161f419c955925516d637306ef1db",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "†?",
+    "sha256": "b4c5f0d4ef2f7ca1831546c8d5e0adfe96cd7e54a0a239914d998c0f4004fc0d",
+    "title": "sterminio [#]",
+    "artist": "tarolabo/石王マサト",
+    "md5": "99a3f7d3498187ad5dc6aab16e41f967",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "4887172a9fe730ad0457132f3e7fd5bcca6b16ebe2112abbe0a9d73443a48b64",
+    "title": "FUTURE 1999 [FUTURE 2020]",
+    "artist": "Yosk! / SubAtrist / И",
+    "md5": "de7c678fc38a5831d01b772f35ced46b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★2",
+    "sha256": "c204bc892539c5972249ee71976c8c7fe8d7315fdd9abb760628b18c7159a5da",
+    "title": "FUTURE 1999 [2299.06.15] ",
+    "artist": "Yosk! / A",
+    "md5": "2fc9c12eeee75532bc464431efc381fc",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "6d030223df8bf2ff739845909f6c7b7b0c290d16d58b33a2a021e9ea19b8b3d8",
+    "title": "星屑ノート [ANOTHER]",
+    "artist": "4696-D feat.初音ミク",
+    "md5": "cb48440f6cf6dabd62defc87422978e9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "8519029c168e7fca02d676777049a5280b9659a663c14780681a0405db1c708e",
+    "title": "Narcissus ",
+    "artist": "睡蓮",
+    "md5": "2f007b030abab759c440d384c13eeb0b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "2b0fb86faf1561b3b3f7aaf01d64b7d33b1dc9c6bb190361b19626fb72f24697",
+    "title": "Night border -Xe-",
+    "artist": "Qga",
+    "md5": "158b846364eb0a6947613a1a4c24441c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "1324972596834d37b1e0ac09744b5b8fb48161dcdd8720a687c90d24cb728e70",
+    "title": "Orbitaloid[SP ANOTHER] ",
+    "artist": "Chart",
+    "md5": "881b9b522a321af31190ca4603c05de8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "7c2a2b9e56499834d34ca8c8ff70c858f9f26e7178050b3d82a5b64b0ec75962",
+    "title": "Red Rose Paradise (7K Another) ",
+    "artist": "HyuN X Hazel-D / obj: InnorK",
+    "md5": "4b25b0939858bda927a832ff792e62f8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "e6cf7f129a7eabfa384f0bc0acbe31b15a8ee6d8d9952f3d554e28bc8ddfe37b",
+    "title": "Lost Reality ",
+    "artist": "------",
+    "md5": "af260ced28ae909b55bd50880edd165e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "50837717025bf5962b1434a4f728a34c5ad715fb5c87e3d486345344b5c46555",
+    "title": "Lost Reality ",
+    "artist": "------",
+    "md5": "b3fed26590cc269afa8f3e35a34b3756",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "ede2ae1f4870c1671a1fb70d23d05669e617149524b78a6c1efcc7f25414b3a1",
+    "title": "Lost Reality ",
+    "artist": "------",
+    "md5": "e5367ae7f7ca878e700cdbdaaf8c030f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★??",
+    "sha256": "6cd0a765233be7388522528ce65889d50861df4096dbdd9a410f9a9e1894f534",
+    "title": "Lost Reality ",
+    "artist": "------",
+    "md5": "4f0478e6826761c0b9570f10ccc1b514",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "1147ac03cdb6c8eed1d1b7945d0a79f955cb3233c882bf57da039e8956931851",
+    "title": "LOSTAIR [働いたら負けnother]",
+    "artist": "Nardis",
+    "md5": "ab6cddacc149a6df8c5815ac72841faf",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "bc41e6d2fcc06a5d10bba930d86688f5a19e3f2b2bfb5a41b922e6aaa82a5459",
+    "title": "Escape Sky [INSANE] ",
+    "artist": "Block",
+    "md5": "db747449a5ec6ed837b19ea32df39ca6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★10",
+    "sha256": "2671586f28f22cd6e81801b952e3eac06f19376ca44f66d990fc13412959b27c",
+    "title": "Divergence [  ]",
+    "artist": "Nego_tiator / BGA:Fiz",
+    "md5": "1e11bac290585b58bb78551060f97439",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "f7cbd65c2a87b1d4828127a241044131ef5fed288119f432fd86012eb574330f",
+    "title": "アリスの空虚で愉快な人形劇 [Punishment]",
+    "artist": "ろうて",
+    "md5": "73b13764caa1f8070c6cda95bc294c35",
+    "comment": "中盤のみ",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "809c0339caff381c00a77a77ca2371591528234f13a4f55b7ee8b7078d1c8dbb",
+    "title": "H.S : Hadron Strike[7key EXTEND] ",
+    "artist": "zest:rave / obj:BAECON",
+    "md5": "3a352a9833250bb882849d14d6984f2b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★3",
+    "sha256": "80935be5a0d044519446cadf12b850f4abedeaacbf92a1acb323ea24686d075b",
+    "title": "sola[Other] ",
+    "artist": "nmk / obj:Omino",
+    "md5": "a083941fd4ee1ee86830c87840ac6e79",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★5",
+    "sha256": "ac0c799bcc7df99338b62f508a237d9075059de729fc17ac82c4c5fe8baefbab",
+    "title": "コスモワンダラー [Other]",
+    "artist": "FALL feat. yufu_sekka",
+    "md5": "8c5c9e17f3bfb6f6ef423200c60a7d36",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "≡e",
+    "sha256": "5bf24faccb58d64d6a65d8ac38c56665213754d82dd8e9a212d9a2aa852505ed",
+    "title": "Good Taste. -SP HYPER- ",
+    "artist": "LE9",
+    "md5": "3fa2890c8e03a07d26b55806ee42e604",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "8eaa9d08aed8a626959e98e6f51d9371e76b7f9f8615ae9e885731ddecd10411",
+    "title": "Desert Rose[ANOTHER] ",
+    "artist": "D.J.Nero",
+    "md5": "a256a75cf1589b27c77eadf92760bb76",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "279b5244b73c2a6c593ebe728315b2d0c9d95f2fd0c231e8e27a0ddb0e118bcd",
+    "title": "The Lies [EX] ",
+    "artist": "奏 / obj.siokaze",
+    "md5": "dfc31b388be8a2995645841615ec9993",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "b0b427ad5fe6819bca07b0280d7b975593c3824b538d4916b3c7618fb921ca53",
+    "title": "HARDSTYLE BOTTI (7KEYS ANOTHER) ",
+    "artist": "nora2r",
+    "md5": "566fb3bb50b42c7935de4650d39d0c08",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "bf1901434e0c8ddff668b9c4b0c6cdc5feb9fcca0f8959e9592016596ea1a24f",
+    "title": "Dolize [A] ",
+    "artist": "polycube",
+    "md5": "32124cf28a04e4dd418959bb150be20b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "87fdddec346f75ca324956eb5f8ba1679a6fddd96bccdaccd9367cb8e155a024",
+    "title": "Angelic beaT[another] ",
+    "artist": "Ta2'nbeaT",
+    "md5": "7f05dd98d4f1f074c229ec69ed81549c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "100e1684e0c346865adc686156583a2f271cb11b90c9ee82d62f7c3efd9424c2",
+    "title": "Online [Ragnarok] ",
+    "artist": "牧野 / obj.swa",
+    "md5": "4fa3c183619547340bd396d98f2b59e6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "2bb2c17a2fa55a89606c5c55a0c72c94e383479abbf09574f4241d4fd0032a1a",
+    "title": "dolorosa melodia　-EX- ",
+    "artist": "がむつ氏 + けえ氏/さ",
+    "md5": "058166279df278ff728ff04067a83aa3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★3",
+    "sha256": "fbd05c964b3b2307e274e81b92bcfe3c67a1d4561c5706459d13367bf9502b8b",
+    "title": "MEPHISTO[EX] ",
+    "artist": "LeaF/さ",
+    "md5": "9f98ad944bbe7036aefe4d57b66a4258",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★?",
+    "sha256": "98755577e1cbe5ec196edba4a29f1d50003e8184692e5844d344fd36af96ac1e",
+    "title": "DIET or DIE (Let's break happiness) [7KEYS WORK OUT] ",
+    "artist": "AOiRO_Manbow (a.k.a. hapi⇒)",
+    "md5": "958af087f49b67a66c5509198a7012c7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "32c4acb941f40f71501af813326f0a81ff593ef53acf3253f8d5e72db0ad9b89",
+    "title": "FuNeRaL ",
+    "artist": "EcHiNoCoCcUs",
+    "md5": "eaaa379d182ef104c74acc416d860b16",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "f49c4f6ccadd44cd705b50886d427a7c00b6ce0272766919dbac897aa5846eaf",
+    "title": "Night Resolution [ANOTHER] ",
+    "artist": "nora2r",
+    "md5": "fca0f4d49fb002f62985459142f01136",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "0aaa56b2f6009028cd19c2c2937685669f5c316d6e84dc84c95f7662b4d58a0b",
+    "title": "So Fluffy!! [7keys_Insane] ",
+    "artist": "Felisica",
+    "md5": "d1786f919aa32275b05390edf954a3de",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "1a4f11f689562ec3a17fa83c1f9ab54d45773877e3adf6c7df95a9d45e27d89a",
+    "title": "MondlichT [SP ANOTHER+] ",
+    "artist": "REVLIS",
+    "md5": "80d7f417e90169f1cd4933893ff131c6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "dacd188147b0121d16523abff8d8ae51f91b292ee1270259f0205e9163e1b0a9",
+    "title": "Shiny Four-Seam ",
+    "artist": "9.kawaiicore Team",
+    "md5": "d6c2222374618be9be64e32169930ae4",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★12",
+    "sha256": "20cd90d83cae2d001ed5458d7ffb93a484c1cb16cd1046b688e971135029b9df",
+    "title": "BLAZES ASSAULT -Xe-",
+    "artist": "ikaruga_nex / obj : LindBlum",
+    "md5": "32e4a0d1385441058ef83ecd30fb042a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★0",
+    "sha256": "01aed2cd5a32089bccf8c4827fadde15ae44502d730bea8a476be6b129a7f121",
+    "title": "Struggle for the end [Despair]",
+    "artist": "Ogu",
+    "md5": "f8845678031b5b2678de13643a5af431",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★?",
+    "sha256": "f7905587b95ec2cc1af51d5c0ad4123ff74a968fd2745e8605d8544a84d5e974",
+    "title": "Happy Light (Edit Ver.) [Yoyuther] ",
+    "artist": "Star* / obj:Yuung",
+    "md5": "03eeb3a4314345811ef954415d0cd98e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "28d5a610a09055d2c40ed0214d1aeb591925fbebc3b95ae6096295f998ee59ba",
+    "title": "The Heroine Appears. -SP NORMAL- ",
+    "artist": "P4koo",
+    "md5": "73e5f08de2b362edd846677b2fee01ce",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "e5170eba35bfb66276d1041974cac7a8e990f47969b9329315edb37f86fba995",
+    "title": "The Heroine Appears. -SP HYPER- ",
+    "artist": "P4koo",
+    "md5": "0dae130bd62f69bf5f322bf7e3a051d1",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★9",
+    "sha256": "1937e8c1af2598f0f7bfd62717f4f80a51c4c1cecab15e03741d3e46253881f3",
+    "title": "Mirage Garden[EX] ",
+    "artist": "xi",
+    "md5": "a6af748bcc69c19c64f536e437068ecc",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★12",
+    "sha256": "17daf2872bb63f26d31db40cdaeb14d23bb87b5b6b0803fa3b806f46a85b0b88",
+    "title": "Mirage Garden[The EX] ",
+    "artist": "xi / obj:秘密",
+    "md5": "d4014b5eb8b88f75202e9236b2408c84",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★8",
+    "sha256": "56b72fc6ee8467f2790c74316ddd080ed97766f3ed0cea8eed632385a7964b4f",
+    "title": "esc [247P] ",
+    "artist": "onoken / obj. hplaner",
+    "md5": "aa07a033b50f7913d8567a08399a389e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★10",
+    "sha256": "3dfe98634d6d4a82aa56f19ce1e88370fa62f54c8b9ec6ea09bfa180e1c11cb7",
+    "title": "ELIMINATOR [LEVEL : OMEGA]",
+    "artist": "Cosmograph / yusi.",
+    "md5": "c294f237654a00b7021dcaa87d968bb3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★8",
+    "sha256": "22a15aa9cb0f9e4cce8149aef0efa58fd2dab1e79ee241af9294521df0d6c6bc",
+    "title": "Trichterwinde[infinity] ",
+    "artist": "GNMD (Feat. Eve Yi) / ∞",
+    "md5": "ef7bf467e73ab8408c2611d71b999675",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "f0e13cbc0b9286ac2f804a74d61d747903f4e3ec5ee24070daaeb3aa8cc0034c",
+    "title": "無機質世界に彩を [HYPER 7]",
+    "artist": "MisomyL",
+    "md5": "7298e9bdb060921963e83fb223f91a5a",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "d0145ff76d8aa67b7bcbeb63a80e9d3c779f8560c551d3c78472b8decae1ade7",
+    "title": "The Nine ",
+    "artist": "Squar / Ds",
+    "md5": "98afb788afb58bc2e06e4733e718f3d9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "79d432b9a7ec64bb07e167eedebdd7b9c7a0defe04a7567f870acf3907ca72ee",
+    "title": "サウンドコラージュ・ダイスキズム [HYPER]",
+    "artist": "Vo:初音ミク",
+    "md5": "ce832d8e034b325fb0c2429b579b24b3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "fee83b83a06f71ee8f093afc2e4293c8098da9a93e5c2f43f12263f3a2206186",
+    "title": "7th Photon Burst [NORMAL]",
+    "artist": "原木シィタケ",
+    "md5": "48daed88572d8d89c390017aacf444c8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "a0453f24a7484e77baf9947b68df0ca05a71797df833aa33bd2863cfe64d71e1",
+    "title": "Agilion[BEGINNER] ",
+    "artist": "LeaF",
+    "md5": "1d5ddc3a8e8e0b7ecb801622ba22bc98",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "cf1ceb3a1d80a2c1ee3da076d876c7939f814ba5fcd40314992cb6be05f586fc",
+    "title": "Maiglockchen ",
+    "artist": "dj koishi",
+    "md5": "5102e6dbfc86c2d6e3d2c7f387f92bc9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "12eec18652311d6ffd5586a38f8b4a17187bff1e0047c3ba3cbf7baea5fd0e9a",
+    "title": "Fear of the Past ",
+    "artist": "q/stol",
+    "md5": "60651ad1acbede4c3061d9ff3260c3e8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆B",
+    "sha256": "88e0e04088f75547256be493ff8a9c007d47f845b341b316198e2a83c1866116",
+    "title": "Alice Blue [Beginner] ",
+    "artist": "Ariel",
+    "md5": "8103d3b4f371cc38517650e4f4410f88",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "e2e1f76cdb2c299079111a9517f3a6cf5797fec0efc6bdf1ec335ab5a0077a4b",
+    "title": "Sword of Salvation [Normal] ",
+    "artist": "Humdrumbass",
+    "md5": "8745a79e056c4bc3ff3d2bbffb50ece7",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "3380b3388e9beb7be6894135f31e7d38a13511e34728d6f99e43d5cf351157bd",
+    "title": "Raid [SP INSANE] ",
+    "artist": "[IX] (BGA : Yusie)",
+    "md5": "137e1d0b46331fa6a48d7d9c6f0adffc",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "e4da670ba7ab2f67817c3f71d30ec1e35bb8376829748b0cecd2f4ae723a0717",
+    "title": "Phantom Whisper (SP ANOTHER)",
+    "artist": "STASTA",
+    "md5": "3475cff033cc942eee2c6ed1c27a3aa6",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "87de70578971a5d78e163695fb5e09df20b0dde4dc1fe884670070b8981c260e",
+    "title": "Danse de Romani [Another] ",
+    "artist": "MUE / mov : Lyrebird Ferdinant",
+    "md5": "2c4b89ff7b49d7d8dc10b354415454c3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "fd762eb995b5d8848ae5f464b41007705320999f5dd079e3d69881533a64a681",
+    "title": "Danse de Romani [Elegant] ",
+    "artist": "MUE / mov : Lyrebird Ferdinant",
+    "md5": "d31cfd8f1bce133d58acd9f9fd6400e3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★12",
+    "sha256": "0173576a4fde7fc57ea42c5e55acb066bf0367962672827ada09daef086900bb",
+    "title": "MOREЯAVES [EX]",
+    "artist": "HOUJIROU / obj:marquee",
+    "md5": "e92ce30d9e82822adcab89a3ea20c314",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "92cbc7ac7f1c31634ff50aea35e5a085dcf57d4fc1640e5ed2855ac5a6d8af47",
+    "title": "Elysian Forest [7Keys Insane] ",
+    "artist": "zest:rave obj:Troz",
+    "md5": "dd68239ed65064a1baa6de0ba11af2e9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "fca650de71a7a0e0cbdff575bda462aaf8077b3d1a65683e9ed9cb29eae09e70",
+    "title": "Flandre, sister of INSANITY [7key INSANITY] ",
+    "artist": "SANY-ON",
+    "md5": "fca3f8f86ac5f8ef99f519fe0eb2b9d9",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★9",
+    "sha256": "308bb7d2d2cbf49b40218c6560d3a7e105353b03c02360fe4fb98af62e6303f7",
+    "title": "Flandre, sister of insanity [Darkness] ",
+    "artist": "SANY-ON / obj : LindBlum",
+    "md5": "831f994900566a0053bf6a723b72d5ca",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★???",
+    "sha256": "d7b8545fa4d976314872f31e7e74f0675000610955e83c203fb3843643555982",
+    "title": "Gaestrak (7 Star lv5) ",
+    "artist": "bbangsami",
+    "md5": "c958e45c15cfdccfd99f662a54198a5c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★0",
+    "sha256": "19c0cbdd686bee9faa9fe863fb69844ae86eeaeefc7a89d2088ad6c6ba226b49",
+    "title": "Gaestrak (7 Main) ",
+    "artist": "bbangsami",
+    "md5": "37f768f5c30137ab94de81dc40b85cba",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "eab7820186ee440ba28e87ca7d55122f0298983987da39fa6eada611f05b971f",
+    "title": "Regret Wave [ANOTHER7] ",
+    "artist": "Fellkachina",
+    "md5": "c0d06f38ad7f50c8c9f4ed87f252a32c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "62067a0c22e535174073d69d20b0d40e9e2dcadcba59328bff19ade868b4956c",
+    "title": "Armageddon -Twilght- ",
+    "artist": "ZUN remixed by LeaF",
+    "md5": "1c1ec5ab3d7d7118ea94e90e87bffb24",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆3",
+    "sha256": "aaf41a898170ab9b15109904d1af876c900ab31a32943b2915e1f58a7b018546",
+    "title": "Enigma [N]",
+    "artist": "polycube",
+    "md5": "6ec36b06a4d82e60d1408e7cdde12cf0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "ea10e8c361bf6bec4c10154eb2f6e73ec61e3597a006555339c4d90486ac10fb",
+    "title": "Enigma [Bonaparte]",
+    "artist": "polycube / obj.swa",
+    "md5": "51bbd3a8e3cee44e22740cf6521fd5c8",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "a426687890b5a101e1b9d5a3ebf74fc96ae85e3b0fd144e8b41e797026a647ce",
+    "title": "Enigma [Decryption] ",
+    "artist": "polycube",
+    "md5": "567240f854b0a85ed359feb9f76261c3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★5",
+    "sha256": "e38cdb44c752c6dddda4233ca4e4394ac43173e73fb8737699acefd67e535a0e",
+    "title": "Another [exceed]",
+    "artist": "polycube",
+    "md5": "ed7230ac7cd328e3d8608fc63a023a5e",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "65c7f6446cf38abd35847acb7484ec235618bed2e80ceda1b456943cb9dfc163",
+    "title": "Another[one more] ",
+    "artist": "polycube",
+    "md5": "bdcf40675c78bf0ccf8538e9c7486c9c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "85dbe6061cfb51650b8ce8341a401a61acb078b89830504649cc921332e957da",
+    "title": "Colorful Emotion ",
+    "artist": "Dachs obj.screw",
+    "md5": "f04a0a33ba166280801331a00e6f585d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "15f58aaea1a455167307140d4b1e5a4a8d002c413847d48608285364ea20be19",
+    "title": "ホーリーサンバランド └（ 'ω' ）┘",
+    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH-",
+    "md5": "534997fa178aab6b0625b380fab71d58",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "f169c9a0c31453fc78c2cb2a03c1e5f73517422958b06b77d2334b8f85d227d1",
+    "title": "Blacksphere [Dancing] ",
+    "artist": "Iriss-Frantzz / obj:みっと",
+    "md5": "6b7132cf06c221f84428c2444a0abebb",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★??",
+    "sha256": "e130e0d45504aedc7677eaa17eacd84a4d195e0663e45c2fa955d75b8a8c1f87",
+    "title": "Blacksphere[Vantablack] ",
+    "artist": "Iriss-Frantzz / O",
+    "md5": "f9bee44c97648236d5127a88558e9c6f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★6",
+    "sha256": "30085b2c55604e42a499d147f52e63c29c6b62760bdc15c9bc3b46fc00ed9527",
+    "title": "私のヒトミ[Na] ",
+    "artist": "nmk feat.橘花音",
+    "md5": "47de06762f16d164426e3197c5de967c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "775fd15db9e59f85df91f644abff7f65afe5bad684818e1323ae0706bcf6436e",
+    "title": "AXIS DIMENSION[X-Axis] ",
+    "artist": "REX",
+    "md5": "f4c0edee7bcb3f21f4796a2929799585",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "be467e25ca05117a44bef12657207b20e372a6fd4262391f20493e1e96f55eae",
+    "title": "LEAVING IN THE NIGHT [たいへん] ",
+    "artist": "青い厚揚げ/絵 みにしめじ",
+    "md5": "08e7efe9ab92e374427eaa30db3d60d5",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "59dcacb889550f2dc046864831f70a134ee966a88a19ea18500abf2f6bbe5a6d",
+    "title": "Zwei Damonenschwert ",
+    "artist": "Dainsleif VS Laevateinn　BGA:Tyrhung",
+    "md5": "7bda82274144b3b4838416be2717e2bd",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★?",
+    "sha256": "11df3aec3825572fa4194a4f8c08034615aede3fa62809d91702dbc28dfbd8b2",
+    "title": "Zwei Damonenschwert ",
+    "artist": "Dainsleif VS Lavateinn　BGA:Tyrhung",
+    "md5": "3082952152e3faf57740aec009889a13",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "aa2a52b3bba84c09744a79705d9dece16e3812b31da7999dac7788e6f5b78ddb",
+    "title": "Side-5 [ANOTHER] ",
+    "artist": "Axez",
+    "md5": "08a3b885271a8ccc6b054efbcefa44a3",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★★1",
+    "sha256": "8b08a097f01e6335160ecb78841e585d5f8140bff5ef34660eff178be4d15cb9",
+    "title": "Castorpollux [Geminga] ",
+    "artist": "sound piercer/obj:83929",
+    "md5": "72eb796cb6a69c4352a8ce3d02dd8afa",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆4",
+    "sha256": "2e161761b473152e3210b2fd8a0ed4b6fb674280eac134948e2b060c0ad65755",
+    "title": "SkyGazer(PSG Remix) ",
+    "artist": "KNTS 8bitWorks",
+    "md5": "d35b40d49825d71adb2bd33e1f41c0e0",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★2",
+    "sha256": "d6a4a9626fee8520c1dffc75d9564881e9e5ade330bc4a01d7686044b6b9be34",
+    "title": "Bumblebee(Hardtek_Refix) ",
+    "artist": "Neun_jack",
+    "md5": "33ab1bbd0f48f320cb62d2f3aaa77a4d",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆6",
+    "sha256": "94fcf59ba489d6b5039f914b63fb6e8fb997b803f1e429d9f7978c2e5d3a0556",
+    "title": "Drug on the Drop (BMS Edit) ",
+    "artist": "Neun_jack",
+    "md5": "1c1743f97c02ef99d58006302012d925",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "c48101836126ce9296a0ed018563979cd949e9ee967a591019bdc6ceb7dfd103",
+    "title": "Luca [ABNORMAL] ",
+    "artist": "eicateve / obj:Restia",
+    "md5": "edf3b5d7f64ea23cf04f70443632b782",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★3",
+    "sha256": "4a8ad2631dfad1a187cdd6218e93f7eed5255546adcd2026f3d4fd8cdee7afb3",
+    "title": "Cura［Another＋］ ",
+    "artist": "W-Fly",
+    "md5": "db1c7966e7af906934b3db8ce3dd0b7b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★1",
+    "sha256": "0722ee455c27fef137a64940f917452d96e919c900b731b8a03aee0d0c6c5216",
+    "title": "Reminiszenz[Another] ",
+    "artist": "TOOTH",
+    "md5": "bdeae751f2a15457425bef6697832c6b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★4",
+    "sha256": "bf95039e04617a7580b68cdefbbaecbb04663c70e80922f4b792c9bed9a82430",
+    "title": "Memory Of Sunrise [Futabather]",
+    "artist": "nora2r",
+    "md5": "c10d7be197b7e8cb3ae397f22fe5b26f",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "★7",
+    "sha256": "8783e4be965dd313266c00b9d6276f3e18d144f7f397b3ba100acaea235afa0b",
+    "title": "Memory Of Sunrise [Pfeil] ",
+    "artist": "nora2r",
+    "md5": "3c6ac5a2070f17b62a401202775db52b",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆5",
+    "sha256": "fcf6a3a8fab3789b0dc66d301a9fa920e555666570960c1b2cdd8e8a636f9e3a",
+    "title": "Chaos Squad ",
+    "artist": "LAZ Shin",
+    "md5": "922458c42b404d00d00c5d7e3275e94c",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆2",
+    "sha256": "a08bc8037f38a819ad4e0c59b7b060e9fb6caabb00b143b8c17f7de66e6a346c",
+    "title": "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　～KEFIFAワールドカップ編 We love 汚滝健太郎～ ",
+    "artist": "11.Soccer Team",
+    "md5": "a0afdf474ed066e445ce28e0bdbadf15",
+    "comment": "",
+    "url_diff": ""
+  },
+  {
+    "level": "☆1",
+    "sha256": "27b6d91921b537570aa1176808e831260e93d3177e2ea5e76c22164881a44924",
+    "title": "Flame War ",
+    "artist": "s-don / Can.D-mtmrw",
+    "md5": "601606b24eb168d7929503cc97227cf7",
     "comment": "",
     "url_diff": ""
   },
