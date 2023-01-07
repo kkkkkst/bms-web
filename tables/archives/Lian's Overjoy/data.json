@@ -373,7 +373,7 @@
     "name_diff": "同梱",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=131",
     "artist": "Shinji Hirano",
-    "comment": "st3 総合力",
+    "comment": "st3 謎譜面　総合力",
     "state": "1"
   },
   {
@@ -383,7 +383,7 @@
     "video1": "",
     "video2": "",
     "url_diff": "",
-    "name_diff": "同梱",
+    "name_diff": "同梱（隠し譜面）",
     "url": "http://diaryofrian.blog.fc2.com/blog-entry-22.html",
     "artist": "Lian",
     "comment": "ハード地雷　重発狂+ズレ",
@@ -529,8 +529,8 @@
     "name_diff": "Lian",
     "url": "",
     "artist": "daisan",
-    "comment": "連打複合と32分絡み 3連打以上マシマシ",
-    "state": ""
+    "comment": "st5 連打複合と32分絡み 3連打以上マシマシ",
+    "state": "1"
   },
   {
     "level": "4",
@@ -650,7 +650,7 @@
     "state": "1"
   },
   {
-    "level": "4",
+    "level": "3",
     "title": "俗物フェスティバル [无何之郷]",
     "md5": "f19e43deacedd0cd190ce7aa75c67479",
     "video1": "",
@@ -659,7 +659,7 @@
     "name_diff": "同梱",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
     "artist": "Micelle",
-    "comment": "st4 横に広い譜面だーいすき",
+    "comment": "st3 横に広い譜面同好会",
     "state": "1"
   },
   {
@@ -724,7 +724,7 @@
     "name_diff": "Lian",
     "url": "",
     "artist": "SHIKI",
-    "comment": "st7 超・強化版",
+    "comment": "st7 GACHIOSHI",
     "state": "1"
   },
   {
@@ -786,10 +786,10 @@
     "video1": "",
     "video2": "",
     "url_diff": "",
-    "name_diff": "同梱",
+    "name_diff": "同梱（隠し譜面）",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=34",
     "artist": "Lian",
-    "comment": "連打複合メインで色々　強化版",
+    "comment": "強化版　きちゃない譜面",
     "state": ""
   },
   {
@@ -828,7 +828,7 @@
     "name_diff": "Lian",
     "url": "",
     "artist": "Micelle ",
-    "comment": "これはひどい",
+    "comment": "＼ペイペイ／",
     "state": ""
   },
   {
@@ -841,7 +841,7 @@
     "name_diff": "Lian",
     "url": "",
     "artist": "Est",
-    "comment": "どうしようもない",
+    "comment": "わたしにふれないで",
     "state": ""
   },
   {
@@ -854,7 +854,7 @@
     "name_diff": "Lian",
     "url": "",
     "artist": "KeiuO",
-    "comment": "やりすぎです。",
+    "comment": "バラバラのグチャグチャ",
     "state": ""
   },
   {
@@ -880,7 +880,46 @@
     "name_diff": "同梱",
     "url": "https://venue.bmssearch.net/bmstukuru2020/12",
     "artist": "Lian",
-    "comment": "はしれはしれ！にげろにげろ！",
+    "comment": "st9 はしれはしれ！にげろにげろ！",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "Rechronize [DEPARTURE]",
+    "md5": "a04edbabe5a670e5b7ef98c693371fd2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "",
+    "artist": "あとぅす",
+    "comment": "st4 目一杯の連打複合",
+    "state": "1"
+  },
+  {
+    "level": "3",
+    "title": "レミニセンス [HELL]",
+    "md5": "4464d56532665032cf3e4452dbe56a65",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "",
+    "artist": "Lian",
+    "comment": "乱打　と、アクセント程度の微連打",
+    "state": ""
+  },
+  {
+    "level": "4",
+    "title": "MMXI [ULTIMATE]",
+    "md5": "3661ecd6136f9a452b7914a02c980286",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "同梱",
+    "url": "",
+    "artist": "Lian",
+    "comment": "微連打ジャリジャリフェスティバル",
     "state": ""
   }
 ]

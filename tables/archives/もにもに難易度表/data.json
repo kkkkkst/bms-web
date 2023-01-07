@@ -6,8 +6,9 @@
     "md5": "",
     "notes": "",
     "total": "",
-    "chart": "",
-    "comment": ""
+    "url_diff": "",
+    "comment": "",
+    "": ""
   },
   {
     "level": "1",
@@ -16,8 +17,9 @@
     "md5": "",
     "notes": "",
     "total": "",
-    "chart": "",
-    "comment": ""
+    "url_diff": "",
+    "comment": "",
+    "": ""
   },
   {
     "level": "2",
@@ -26,18 +28,9 @@
     "md5": "ea770f494e2d1aedf3a44fb014b160f9",
     "notes": "2154",
     "total": "400",
-    "chart": "",
-    "comment": "低トータルガチ押し"
-  },
-  {
-    "level": "2",
-    "title": "闘気に満ちた草原 [もふもふ！]",
-    "artist": "Arranged by Y.W bga:kotomi obj:もふもふ (もにもに & fuko)  ",
-    "md5": "846346b51e39713b22247f03c2ffdea8",
-    "notes": "2449",
-    "total": "450",
-    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05701",
-    "comment": "ふーこさまとの合作譜面(初めての合作譜面)、ガチ押しとディレイ"
+    "url_diff": "https://stellabms.xyz/upload/236",
+    "comment": "#002",
+    "": "低トータルガチ押し"
   },
   {
     "level": "3",
@@ -46,18 +39,31 @@
     "md5": "",
     "notes": "",
     "total": "",
-    "chart": "",
-    "comment": ""
+    "url_diff": "",
+    "comment": "",
+    "": "ふーこさまとの合作譜面(初めての合作譜面)、ガチ押しとディレイ"
   },
   {
     "level": "4",
-    "title": "",
-    "artist": "",
-    "md5": "",
-    "notes": "",
-    "total": "",
-    "chart": "",
-    "comment": ""
+    "title": "Bubbling Fairies (2020 BMS edit) [Diamond Blizzard]",
+    "artist": "dj MASTER / obj:もにもに vs fuko",
+    "md5": "7bd98bf6bfecc16e440ba4fe4302829c",
+    "notes": "3056",
+    "total": "600",
+    "url_diff": "https://stellabms.xyz/upload/1886",
+    "comment": "#013",
+    "": ""
+  },
+  {
+    "level": "5",
+    "title": "CHMR [Dystopia]",
+    "artist": "TEKINA / obj.もにもに＆マダーム",
+    "md5": "ad9276220591100dc9452f8aca35b7fb",
+    "notes": "2611",
+    "total": "485",
+    "url_diff": "https://stellabms.xyz/upload/2254",
+    "comment": "#017",
+    "": ""
   },
   {
     "level": "5",
@@ -66,18 +72,20 @@
     "md5": "55608d3ca34e95dfebbe874babe0c536",
     "notes": "3535",
     "total": "800",
-    "chart": "",
-    "comment": "高トータルガチ押し"
+    "url_diff": "https://stellabms.xyz/upload/726",
+    "comment": "#007",
+    "": ""
   },
   {
     "level": "6",
-    "title": "Hyper Sugary Rush! [miracle]",
-    "artist": "ezo/obj.もにもに",
-    "md5": "92fcf796ad34dc0f1c06e2f398a92659",
-    "notes": "2205",
-    "total": "470",
-    "chart": "",
-    "comment": "ディレイ、個人的には楽しいけど難易度表に向かないタイプの譜面"
+    "title": "BIRKIE [ちあふる]",
+    "artist": "oratoruk (BGI : チキンピカタ) / obj.IIVOΣ",
+    "md5": "28b2ab49f4c0f8d6f2dbe3d1b55f12f6",
+    "notes": "2595",
+    "total": "490",
+    "url_diff": "https://stellabms.xyz/upload/2164",
+    "comment": "#016",
+    "": "高トータルガチ押し"
   },
   {
     "level": "6",
@@ -86,18 +94,20 @@
     "md5": "175195e735b0d22e45a9f905b605afdb",
     "notes": "2829",
     "total": "650",
-    "chart": "",
-    "comment": "ディレイとガチ押し、初めて作った譜面"
+    "url_diff": "https://stellabms.xyz/upload/132",
+    "comment": "#001",
+    "": "ディレイ、個人的には楽しいけど難易度表に向かないタイプの譜面"
   },
   {
     "level": "7",
-    "title": "Galaxy in Toybox [miracle]",
-    "artist": "梅干茶漬け / obj.もにもに",
-    "md5": "7dcd851cb896a514d1013d405e2ea3c2",
-    "notes": "2501",
-    "total": "420",
-    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05674",
-    "comment": "Galaxy Delay、Ni7-8くらい"
+    "title": "",
+    "artist": "",
+    "md5": "",
+    "notes": "",
+    "total": "",
+    "url_diff": "",
+    "comment": "",
+    "": "ディレイとガチ押し、初めて作った譜面"
   },
   {
     "level": "8",
@@ -106,8 +116,9 @@
     "md5": "ec5cfca54e8ce69f662a68bad4db9ee5",
     "notes": "4020",
     "total": "724",
-    "chart": "",
-    "comment": "Ni8-9くらい、ちょっと難しくしすぎた譜面"
+    "url_diff": "https://stellabms.xyz/upload/517",
+    "comment": "#006",
+    "": "Galaxy Delay、Ni7-8くらい"
   },
   {
     "level": "9",
@@ -116,48 +127,97 @@
     "md5": "624fb91e1f85f963601811b03ea2a19a",
     "notes": "328",
     "total": "100",
-    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05675",
-    "comment": "乱ノックで目指せクリア安定！Ni8-9くらい"
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05675.zip",
+    "comment": "#009",
+    "": ""
   },
   {
     "level": "10",
-    "title": "",
-    "artist": "",
-    "md5": "",
-    "notes": "",
-    "total": "",
-    "chart": "",
-    "comment": ""
+    "title": "Pandora [Forbidden Boxes]",
+    "artist": "SOMON / obj.IIVOΣ",
+    "md5": "6ec6a1ce94c3d681661e5c395441d399",
+    "notes": "2720",
+    "total": "531",
+    "url_diff": "https://stellabms.xyz/upload/1972",
+    "comment": "#011",
+    "": "Ni8-9くらい、ちょっと難しくしすぎた譜面"
+  },
+  {
+    "level": "10",
+    "title": "Streiflicht [Starlight]",
+    "artist": "MALVA. / obj.IIVOΣ",
+    "md5": "5f5f3af78d1582afd3513ac0fa5d38e8",
+    "notes": "3400",
+    "total": "675",
+    "url_diff": "https://stellabms.xyz/upload/2027",
+    "comment": "#012",
+    "": "乱ノックで目指せクリア安定！Ni8-9くらい"
   },
   {
     "level": "11",
-    "title": "",
-    "artist": "",
-    "md5": "",
-    "notes": "",
-    "total": "",
-    "chart": "",
-    "comment": ""
+    "title": "Pixel Princess [Royal Dignity]",
+    "artist": "Lime / obj.IIVOΣ",
+    "md5": "1ef5001c24437a3d4991723c84b092ed",
+    "notes": "3727",
+    "total": "700",
+    "url_diff": "https://stellabms.xyz/upload/2028",
+    "comment": "#014",
+    "": ""
+  },
+  {
+    "level": "11",
+    "title": "BIRKIE [えなじぇてぃっく]",
+    "artist": "oratoruk (BGI : チキンピカタ) / obj.IIVOΣ",
+    "md5": "97d5184295c0b32f94e09bb2c29136e9",
+    "notes": "3250",
+    "total": "615",
+    "url_diff": "https://stellabms.xyz/upload/2164",
+    "comment": "#015",
+    "": ""
+  },
+  {
+    "level": "11",
+    "title": "First Creation [Galaxy]",
+    "artist": "るるりえーる / obj.ヌオーvsドオー",
+    "md5": "59e43380443c8796d76c8d4f064c47ff",
+    "notes": "3720",
+    "total": "690",
+    "url_diff": "https://stellabms.xyz/upload/2341",
+    "comment": "#018",
+    "": ""
   },
   {
     "level": "12",
-    "title": "",
-    "artist": "",
-    "md5": "",
-    "notes": "",
-    "total": "",
-    "chart": "",
-    "comment": ""
+    "title": "GIGAHERTZ [Farthest]",
+    "artist": "Snack_X / obj.IIVOΣ",
+    "md5": "cfc2272652b40526d5b617bdc730e026",
+    "notes": "4400",
+    "total": "830",
+    "url_diff": "https://stellabms.xyz/upload/2246",
+    "comment": "#016",
+    "": ""
   },
   {
     "level": "？",
-    "title": "Lapis [miracle]",
-    "artist": "SHIKI/obj.もにもに",
-    "md5": "933ee63ff10a18c8134a6abfe3f1d992",
-    "notes": "2150",
+    "title": "闘気に満ちた草原 [もふもふ！]",
+    "artist": "Arranged by Y.W bga:kotomi obj:もふもふ (もにもに & fuko)  ",
+    "md5": "846346b51e39713b22247f03c2ffdea8",
+    "notes": "2449",
     "total": "450",
-    "chart": "",
-    "comment": "2秒で作った超絶微妙な譜面、Ni3くらい"
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05701.zip",
+    "comment": "#010",
+    "": ""
+  },
+  {
+    "level": "？",
+    "title": "Galaxy in Toybox [miracle]",
+    "artist": "梅干茶漬け / obj.もにもに",
+    "md5": "7dcd851cb896a514d1013d405e2ea3c2",
+    "notes": "2501",
+    "total": "420",
+    "url_diff": "https://stellabms.xyz/upload/1250",
+    "comment": "#008",
+    "": ""
   },
   {
     "level": "？",
@@ -166,7 +226,30 @@
     "md5": "53d61c3bfc4d027151be895343a33962",
     "notes": "1985",
     "total": "403",
-    "chart": "",
-    "comment": "勢いで完成した超微妙な個人差系ガチ押しとディレイ、Ni5くらい"
+    "url_diff": "https://stellabms.xyz/upload/303",
+    "comment": "#003",
+    "": ""
+  },
+  {
+    "level": "？",
+    "title": "Hyper Sugary Rush! [miracle]",
+    "artist": "ezo/obj.もにもに",
+    "md5": "92fcf796ad34dc0f1c06e2f398a92659",
+    "notes": "2205",
+    "total": "470",
+    "url_diff": "https://stellabms.xyz/upload/325",
+    "comment": "#004",
+    "": "2秒で作った超絶微妙な譜面、Ni3くらい"
+  },
+  {
+    "level": "？",
+    "title": "Lapis [miracle]",
+    "artist": "SHIKI/obj.もにもに",
+    "md5": "933ee63ff10a18c8134a6abfe3f1d992",
+    "notes": "2150",
+    "total": "450",
+    "url_diff": "https://stellabms.xyz/upload/397",
+    "comment": "#005",
+    "": "勢いで完成した超微妙な個人差系ガチ押しとディレイ、Ni5くらい"
   }
 ]

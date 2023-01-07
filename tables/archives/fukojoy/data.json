@@ -105,7 +105,7 @@
     "md5": "7ef02e81e854726347059558cdaabb63",
     "bpm": "140",
     "notes": "2521",
-    "comment": "乱打 ガチ押し",
+    "comment": "st0 乱打 ガチ押し",
     "chart": "https://stellabms.xyz/upload/1760",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7ef02e81e854726347059558cdaabb63"
   },
@@ -163,17 +163,6 @@
     "comment": "裏拍軸付きの高速乱打",
     "chart": "https://stellabms.xyz/upload/922",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6f9f7d7ef227aeda4f12076160fc673e"
-  },
-  {
-    "level": "0",
-    "title": "theme of Maia [腕押しトレーニング]",
-    "artist": "ねこみみ魔法使い / obj.fuko",
-    "md5": "ad633b9e0273f807320f381b3dc1c46c",
-    "bpm": "232",
-    "notes": "2929",
-    "comment": "壁連打",
-    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05932",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ad633b9e0273f807320f381b3dc1c46c"
   },
   {
     "level": "1",
@@ -463,6 +452,28 @@
   },
   {
     "level": "3",
+    "title": "Pixel Princess [Cutest]",
+    "artist": "Lime / obj.fuko",
+    "md5": "8fd6aa79eb5aded7ef781c4c774d98fd",
+    "bpm": "188",
+    "notes": "3070",
+    "comment": "st3 乱打 同時 32分複合",
+    "chart": "https://stellabms.xyz/upload/1984",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=8fd6aa79eb5aded7ef781c4c774d98fd"
+  },
+  {
+    "level": "3",
+    "title": "SYNCHRO BUSTER [Scarlet]",
+    "artist": "あとぅす feat.橘花音 / obj.fuko BGI:さのり",
+    "md5": "d3d3d08067a47805d093c6fc48762e1c",
+    "bpm": "163",
+    "notes": "2577",
+    "comment": "連打複合",
+    "chart": "https://stellabms.xyz/upload/2227",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=d3d3d08067a47805d093c6fc48762e1c"
+  },
+  {
+    "level": "3",
     "title": "theme of Maia [CHORDMASTER]",
     "artist": "ねこみみ魔法使い / obj.fuko",
     "md5": "fe9990b7a0752e70f50c2e49cbe6559b",
@@ -534,7 +545,7 @@
     "md5": "b7e4335df57045be750a9b7bcc68007f",
     "bpm": "197 - 227",
     "notes": "3917",
-    "comment": "高速 同時 ズレ",
+    "comment": "st6 高速 同時 ズレ",
     "chart": "https://stellabms.xyz/upload/1778",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=b7e4335df57045be750a9b7bcc68007f"
   },
@@ -583,13 +594,46 @@
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a6990a2b6c3a65e86b1939a077c42683"
   },
   {
+    "level": "?",
+    "title": "theme of Maia [腕押しトレーニング]",
+    "artist": "ねこみみ魔法使い / obj.fuko",
+    "md5": "ad633b9e0273f807320f381b3dc1c46c",
+    "bpm": "232",
+    "notes": "2929",
+    "comment": "壁連打",
+    "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05932",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ad633b9e0273f807320f381b3dc1c46c"
+  },
+  {
+    "level": "?",
+    "title": "同時同時",
+    "artist": "momo★yama / obj.fuko",
+    "md5": "6d76d3cb7759b70cc616bfc504a5c39f",
+    "bpm": "160",
+    "notes": "3000",
+    "comment": "同時押し VERYHARD判定",
+    "chart": "https://stellabms.xyz/upload/1993",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6d76d3cb7759b70cc616bfc504a5c39f"
+  },
+  {
+    "level": "◆",
+    "title": "Blizzard [LN EXTREME]",
+    "artist": "38k / obj.fuko",
+    "md5": "577f61c9ec5765dada2599679c0f0d6b",
+    "bpm": "252",
+    "notes": "1649",
+    "comment": "◆17?",
+    "chart": "https://stellabms.xyz/upload/2097",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=577f61c9ec5765dada2599679c0f0d6b"
+  },
+  {
     "level": "◆",
     "title": "Chinese Tea [LN EXTREME]",
     "artist": "itaojirou / obj.fuko",
     "md5": "33d57c1b71f3e9e28da25a18e2609aa4",
     "bpm": "145",
     "notes": "940",
-    "comment": "LN 穴抜き",
+    "comment": "◆14?",
     "chart": "https://stellabms.xyz/upload/1899",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=33d57c1b71f3e9e28da25a18e2609aa4"
   },
@@ -600,7 +644,7 @@
     "md5": "80b924a54a71d5e2b5c7a4f0ba103eac",
     "bpm": "144",
     "notes": "409",
-    "comment": "LN 穴抜き",
+    "comment": "◆12?",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=06219",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=80b924a54a71d5e2b5c7a4f0ba103eac"
   },
@@ -611,7 +655,7 @@
     "md5": "f3851259f8411af5c15fcfe9e3d021a2",
     "bpm": "154",
     "notes": "947",
-    "comment": "LN 穴抜き入門",
+    "comment": "◆6?",
     "chart": "https://stellabms.xyz/upload/1928",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=f3851259f8411af5c15fcfe9e3d021a2"
   },
@@ -622,8 +666,19 @@
     "md5": "ab49a26247e31abdc0427498c79bac97",
     "bpm": "192",
     "notes": "2568",
-    "comment": "LN1本+乱打 こういうので難しいのがやりたかった",
+    "comment": "LN1本+乱打",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05576",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ab49a26247e31abdc0427498c79bac97"
+  },
+  {
+    "level": "◆",
+    "title": "風の憧憬 [LN]",
+    "artist": "Celas / obj.fuko",
+    "md5": "d9c12b9779440278df99484b4345b4e0",
+    "bpm": "83",
+    "notes": "868",
+    "comment": "◆17?",
+    "chart": "",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=d9c12b9779440278df99484b4345b4e0"
   }
 ]

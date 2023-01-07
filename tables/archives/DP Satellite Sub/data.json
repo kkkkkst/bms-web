@@ -1240,6 +1240,19 @@
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
+    "md5": "34eb42d8356aed5e316480d84a6aa29d",
+    "sha256": "3603b2f32854be47082241e6743486ff8110b1a96a16c6fa883194ebd7886edc",
+    "title": "Name of oath [DP ANOTHER]",
+    "artist": "void feat. コツキミヤ , Gt. えば BGA : Photonskyto",
+    "url_diff": "",
+    "url": "http://mournfinale.com/",
+    "level": "1",
+    "comment": "1~2?",
+    "proposer": "Topio",
+    "submission": 751,
+    "proposerMinirid": "381c5078-4634-43ae-a3b9-e042de243d8c"
+  },
+  {
     "level": "1",
     "comment": "BOF2017",
     "md5": "24b84a5f70b67bb54b4da39bcead1e56",
@@ -1839,6 +1852,19 @@
     "proposerMinirid": "381c5078-4634-43ae-a3b9-e042de243d8c"
   },
   {
+    "md5": "6212177038c572314f64f1761ebd7d1c",
+    "sha256": "f3bd595a4e62f80a7a677b70cb3d1280b7e78c695751695dad81d605ee82888b",
+    "title": "Elixir",
+    "artist": "Lime / Kankitsu / Limite feat.制限",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1452",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=140",
+    "level": "2",
+    "comment": "16分乱打、ちょっとLN絡みアリ",
+    "proposer": "なうもとわんたろう",
+    "submission": 760,
+    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
+  },
+  {
     "md5": "d95223a411d9aece9a16eaf733d6797c",
     "sha256": "1c96df23058a44ffc4b776fd5c3a799b00d15b14b723e24f5bab611ef11f43a6",
     "title": "Empress of Raizze (14H)",
@@ -2342,20 +2368,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
-    "sha256": "f5543f1084352578c1a0195ee398c60831b5fc215835d4f55f7a5f70c9535bee",
-    "title": "あなた [DP HYPER]",
-    "artist": "mitssi feat. SeeU Movie: Sabhwa Note: LiTaNia / reobj:Louis",
-    "url_diff": "http://slash24th.web.fc2.com/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
-    "level": "2",
-    "comment": "片手12分階段・乱打",
-    "zureCount": 0,
-    "proposer": "selene.",
-    "submission": 385,
-    "proposerLr2id": 84521
-  },
-  {
     "level": "2",
     "comment": "繰り返し、階段、多少着地",
     "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
@@ -2431,6 +2443,20 @@
     "proposer": "coco",
     "submission": 659,
     "proposerLr2id": 147123
+  },
+  {
+    "md5": "a1d2647df7778a7a53e4fe64ba025004",
+    "sha256": "95f5e6f4e314b86a89dcfd6a3162a2bfdc93538cd08863c09131e4f939433fea",
+    "title": "俗物フェスティバル [Gut Boot 2]",
+    "artist": "Micelle feat.Yshida / obj:alt",
+    "url_diff": "https://yaruki0.net/sabun/dp2021.html?s=09",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
+    "level": "2",
+    "comment": "速くて俗物（！？）な譜面",
+    "zureCount": 0,
+    "proposer": "なうもとわんたろう",
+    "submission": 753,
+    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
     "level": "2",
@@ -3177,19 +3203,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "386b1e2c965fd5feb15e82e6cced53ca",
-    "sha256": "24bf78cf2a9725c8341483c3121c4777176dfe965bbadaa21a3e2481e939d661",
-    "title": "The Crack of Dawn [SUNRISE]",
-    "artist": "shimizushi BGA : AnD ILLUST : a.a obj:フォルティッシモ",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=133",
-    "level": "3",
-    "comment": "3~4? 同梱譜面",
-    "proposer": "にゃむ",
-    "submission": 438,
-    "proposerLr2id": 139958
-  },
-  {
     "level": "3",
     "md5": "4988380f70fe9c0d1a0197e8e5ef9643",
     "sha256": "f4b5c6321af40fc2f3544c738a47025621e91f3b6e3bd05ba63ffb8c118efdec",
@@ -3293,6 +3306,20 @@
     "proposer": "nono22",
     "submission": 100,
     "proposerLr2id": 122934
+  },
+  {
+    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
+    "sha256": "f5543f1084352578c1a0195ee398c60831b5fc215835d4f55f7a5f70c9535bee",
+    "title": "あなた [DP HYPER]",
+    "artist": "mitssi feat. SeeU Movie: Sabhwa Note: LiTaNia / reobj:Louis",
+    "url_diff": "http://slash24th.web.fc2.com/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
+    "level": "3",
+    "comment": "片手12分階段・乱打",
+    "zureCount": 0,
+    "proposer": "selene.",
+    "submission": 385,
+    "proposerLr2id": 84521
   },
   {
     "level": "3",
@@ -3717,6 +3744,19 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "2e20d9726feb8fba2563a3af6b4ce17c",
+    "sha256": "6b64321c93f4aab95c74ae7adf946e1230c63735bab218b2a4a55f8fcefe3984",
+    "title": "Heartstrings [DPA]",
+    "artist": "庭師 / obj. Sobrem BGA:noixy",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=140",
+    "level": "4",
+    "comment": "めっちゃ楽しい",
+    "proposer": "Telperion",
+    "submission": 759,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
+  },
+  {
     "md5": "e60dde8b3b6ccb26f0e555b807d2a157",
     "sha256": "61226dab8d640e49ff89f2ae47867b5341477d88559fd95aa63976ff7b4586a2",
     "title": "Hey-day狂騒曲 ～THE 6TH REMIX～ [Creeping]",
@@ -3823,6 +3863,20 @@
     "proposerLr2id": 53819
   },
   {
+    "md5": "2f40c551e8ef2c06d4276d4f4c48bc43",
+    "sha256": "290bc42a791aea89bc24d1cd19b8769274dcb584c9a7ccceef7e947a72f219ed",
+    "title": "Prominence [DPAnother]",
+    "artist": "KaKi / obj: Dune BGA:1B",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1429",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=140",
+    "level": "4",
+    "comment": "イケメンソング+いい乱打譜面",
+    "zureCount": 0,
+    "proposer": "なうもとわんたろう",
+    "submission": 756,
+    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
+  },
+  {
     "md5": "c8165d170ccb541a766ce33a74d284a7",
     "sha256": "a6b889cae7ac16b4c0f422b900e7dc9c2fb80b323c32f64111f0e53a65810180",
     "title": "S'il vous plait! [DP_Li]",
@@ -3902,6 +3956,20 @@
     "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
   },
   {
+    "md5": "b96ba398a774ecaeb210c4da956fe9a7",
+    "sha256": "9599d99761474c559f01bee90f77563f42e6affe779f8abd89c9f19d73ffe728",
+    "title": "Summertime(2013 mix) [DP Another]",
+    "artist": "Lime / 温泉の力 / obj:ue",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=88",
+    "level": "4",
+    "comment": "爽やかな曲でいい練習を",
+    "zureCount": 0,
+    "proposer": "なうもとわんたろう",
+    "submission": 752,
+    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
+  },
+  {
     "level": "4",
     "comment": "3~4? 混フレ、同時押し",
     "md5": "e80b8d644b47e94cda1c90ca27014a3b",
@@ -3912,6 +3980,19 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
     "proposer": "にゃむ",
     "submission": 166,
+    "proposerLr2id": 139958
+  },
+  {
+    "md5": "386b1e2c965fd5feb15e82e6cced53ca",
+    "sha256": "24bf78cf2a9725c8341483c3121c4777176dfe965bbadaa21a3e2481e939d661",
+    "title": "The Crack of Dawn [SUNRISE]",
+    "artist": "shimizushi BGA : AnD ILLUST : a.a obj:フォルティッシモ",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=133",
+    "level": "4",
+    "comment": "3~4? 同梱譜面",
+    "proposer": "にゃむ",
+    "submission": 438,
     "proposerLr2id": 139958
   },
   {
@@ -4114,6 +4195,20 @@
     "proposer": "coco",
     "submission": 454,
     "proposerLr2id": 147123
+  },
+  {
+    "md5": "602f981c26cf590550b401b4fb09a0b0",
+    "sha256": "30351136cdd61c14f470ad7a6bd0389f9430c8fbf19a350474e113e2a9fa6619",
+    "title": "東の国のFLYING PAPARAZZI！ -DP ANOTHER-",
+    "artist": "樋奈月みつ / obj:けろりん",
+    "url_diff": "http://web.archive.org/web/20181108061834/http://www.geocities.jp/d_c_kick/bms/higash.zip",
+    "url": "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
+    "level": "4",
+    "comment": "3~4?",
+    "zureCount": 0,
+    "proposer": "Topio",
+    "submission": 750,
+    "proposerMinirid": "381c5078-4634-43ae-a3b9-e042de243d8c"
   },
   {
     "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
@@ -4353,6 +4448,19 @@
     "proposer": "nono22",
     "submission": 125,
     "proposerLr2id": 122934
+  },
+  {
+    "md5": "eeb1baee569e51401c1c5d4f9aa478c0",
+    "sha256": "ca1accfe98019ae5866e9f86718c5198adad55dbef8d37df3774f94300b237ae",
+    "title": "Cockroach Cooking [DP Another]",
+    "artist": "Yosk!",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=140",
+    "level": "5",
+    "comment": "めっちゃ楽しい",
+    "proposer": "Telperion",
+    "submission": 755,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
   },
   {
     "md5": "d650ba8622f1f079681efb67dd7ee04e",
@@ -6433,20 +6541,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
-    "sha256": "7fb02fa088d7675335ba64231e6e8995c71f3c1ec8083a1b09e0a4b4113f92fe",
-    "title": "Re:Sound Sing Step [DP-sagINSANE]",
-    "artist": "竜。 feat.結月ゆかり / obj:sagoo",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/705",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=116",
-    "level": "7",
-    "comment": "7?、物量",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 322,
-    "proposerLr2id": 128228
-  },
-  {
     "level": "7",
     "comment": "地力、180BPM、着地皿、12分同時押し",
     "md5": "07da42898d941bd2d6371894bba2fa90",
@@ -7381,6 +7475,20 @@
     "proposerLr2id": 147123
   },
   {
+    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
+    "sha256": "7fb02fa088d7675335ba64231e6e8995c71f3c1ec8083a1b09e0a4b4113f92fe",
+    "title": "Re:Sound Sing Step [DP-sagINSANE]",
+    "artist": "竜。 feat.結月ゆかり / obj:sagoo",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/705",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=116",
+    "level": "8",
+    "comment": "7?、物量",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 322,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "caae5f67879616eeebc2049203bf46f3",
     "sha256": "00817d890ee27539f4d35b749abb2b161a334ddc9deb7b64d3a55ae62035e876",
     "title": "Reality [DP-sagINSANE]",
@@ -8070,6 +8178,19 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "de5ff651471667816b25247fec5434b6",
+    "sha256": "1b65f35c935adee6f6c96ee32a7e7a31fb2c8549a2bd00ac3ca4414caac23c72",
+    "title": "Picaresque & Burlesque",
+    "artist": "Jeipouju",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=140",
+    "level": "9",
+    "comment": "★9~10? 265BPMに8分のガチ押し、デカい同時押し",
+    "proposer": "Telperion",
+    "submission": 754,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
+  },
+  {
     "level": "9",
     "comment": "",
     "md5": "d69afec5896d7e9963869d1b0247edaf",
@@ -8190,6 +8311,19 @@
     "proposer": "JHS",
     "submission": 517,
     "proposerLr2id": 128228
+  },
+  {
+    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
+    "sha256": "40117842264abe4c58e85382f381a6eb9fd51ada8ba135df3c228215bbfbe30a",
+    "title": "STELLA FOMA [DP ANOTHER]",
+    "artist": "りょくちゃくん",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=140",
+    "level": "9",
+    "comment": "★9～10? 130BPMで一般的な🌏⚡の譜面",
+    "proposer": "Telperion",
+    "submission": 758,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
   },
   {
     "md5": "d456037131dc98541200c34c3fe146ae",
@@ -8722,6 +8856,20 @@
     "proposerLr2id": 53819
   },
   {
+    "md5": "ff344cb441cdfd5a343b05f7f5d930ab",
+    "sha256": "99f75ac14ca2dbedd2e81446887cbdf004fd2e5bd084bd9397a5483891b0b4f6",
+    "title": "キユビック [(d+p)^3]",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:alt",
+    "url_diff": "https://yaruki0.net/sabun/dp2021.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=137",
+    "level": "10",
+    "comment": "同梱SPAと比較してズレ抜け無し",
+    "zureCount": 0,
+    "proposer": "にぇ",
+    "submission": 748,
+    "proposerLr2id": 53819
+  },
+  {
     "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
     "sha256": "7b71449d80208d0ef82114a5332538da06e18bd619264b6588b120a9cac05061",
     "title": "トココ21 ⊂㌍㌢⊃",
@@ -8913,7 +9061,7 @@
     "title": "Adansonia (short ver.) [DP-soijoy]",
     "artist": "sweez & Meine Meinung / obj:sagoo",
     "url_diff": "https://ux.getuploader.com/dpbms/download/1383",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Adansonia%20(by%20SWEEZ%20&%20Meine%20Meinung).rar",
+    "url": "https://web.archive.org/web/20150713173023/http://str3.org/data/bms/bms03_adansonia.zip",
     "level": "11",
     "comment": "同梱のショート版無配置ファイルshort.Irと比較してズレ抜け無し",
     "zureCount": 0,
@@ -9323,6 +9471,20 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "aeff92e41cb89728bee5c840fd1d1541",
+    "sha256": "885791d8db47370f3a582d5802dc68a4691d2bfee33f0d4370be9e517a0d9a39",
+    "title": "Angel's Salad [CataStr0phE / DP譜面]",
+    "artist": "かたぎり / Limite BGA: 2nd_identity (mst×かたぎり)",
+    "url_diff": "https://www.limiteknj.net/BMS/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=133",
+    "level": "12",
+    "comment": "高BPMでの基本的な配置の練習譜面",
+    "zureCount": 0,
+    "proposer": "GRAECA",
+    "submission": 757,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
+  },
+  {
     "md5": "6f9b11e0ff8d347672bbd8e715f04ccd",
     "sha256": "fa3b9fb3314a23d229c433273a8d0f6d32e21c6c8e9bc4a7f9fce4aa26859030",
     "title": "Apollo [1970.04.11]",
@@ -9473,6 +9635,34 @@
     "proposer": "JHS",
     "submission": 341,
     "proposerLr2id": 128228
+  },
+  {
+    "md5": "61c6f23a3c01ad022c4b669eefd2f9eb",
+    "sha256": "2753e0383e429458d8a140ab14bfec62c5dbcd53312aa4b9b7585ba1ec4766d2",
+    "title": "whither [whilst]",
+    "artist": "qfeileadh obj: shiba",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1026",
+    "url": "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=59&order=reg&odtype=a",
+    "level": "12",
+    "comment": "中速の押しにくい物量",
+    "zureCount": 0,
+    "proposer": "GRAECA",
+    "submission": 761,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
+  },
+  {
+    "md5": "59bee181c697177bc186fdde396c0cc9",
+    "sha256": "10a0d4eeeed7ecd875bcb9295a553f473487e75a6fa12a0b6a1c2b88e2e48632",
+    "title": "タマモッチ -ダイエット-",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : 71066",
+    "url_diff": "https://stellabms.xyz/upload/1616",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=133",
+    "level": "12",
+    "comment": "12か11で悩んだのでとりあえず高い方で。同梱SPAと比較してズレ抜け無し",
+    "zureCount": 0,
+    "proposer": "にぇ",
+    "submission": 749,
+    "proposerLr2id": 53819
   },
   {
     "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",

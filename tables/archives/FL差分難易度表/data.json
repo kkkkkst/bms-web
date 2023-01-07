@@ -1,18 +1,6 @@
 [
   {
     "level": "1",
-    "title": "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 [%E3%82%B5%E3%83%96%E3%83%B3]",
-    "md5": "2bde855f235dba93b9f933266dce0f56",
-    "artist": "ルナ・ヴィオーラ",
-    "url": "http://web.archive.org/web/20130224144237/http://big.freett.com/mikoko/lb_b.zip",
-    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/buntan_MS.zip",
-    "name_diff": "M-SPIN",
-    "date": "Sat Aug 09 2014 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
-    "comment": "最低レベルでも容赦ないソフラン"
-  },
-  {
-    "level": "1",
     "title": "Drumkit Retrospect [reasonable]",
     "md5": "8ca5fe905c6806f88bdc35d2c2833edd",
     "artist": "DJ DLPHN",
@@ -49,6 +37,18 @@
   },
   {
     "level": "1",
+    "title": "Neo Side",
+    "md5": "07f9eb88365d71b6e0a3c6e2afb461d2",
+    "artist": "Harunao, Kanna",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Mon Oct 17 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/AzBKLT-pQqw",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "1",
     "title": "The Beginnings [2k20 reinterpretation]",
     "md5": "6cd7805803e5dcbfea91b24de3fce017",
     "artist": "juno & une",
@@ -58,6 +58,42 @@
     "date": "Thu Jul 30 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/WMUamLkW-c4",
     "comment": "追加音源たくさんあり"
+  },
+  {
+    "level": "2",
+    "title": "☆お散歩シミュレータ☆",
+    "md5": "c5152a2e33627e4d457ffaafff82609a",
+    "artist": "ちよもも魔法使い",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Mon Oct 03 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/DU8SE16z6S8",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "2",
+    "title": "ARCADE! 爆竹 PARTY (Remaster)",
+    "md5": "1d05119ece7d1d2fa3894c14eafc1db4",
+    "artist": "Harunao, Kanna, Choko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Sun Oct 23 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/hj_ibL8dCSU",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "2",
+    "title": "DELTA CORE",
+    "md5": "2a8d9463aa5895b2f79e6a9e2c6fa860",
+    "artist": "Harunao, Kanna",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Wed Oct 19 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/njgoG6KtgyY",
+    "comment": "本体同梱"
   },
   {
     "level": "2",
@@ -112,12 +148,12 @@
     "title": "Arctic Ray [INSANE]",
     "md5": "b539c48381b6369931ef4471f0198e4c",
     "artist": "R5_D / simeis",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Arctic%20Ray%20(by%20R5_D%EF%BC%8Fsimeis%20DAC).rar",
+    "url": "https://drive.google.com/file/d/1F0N7JSuBnT1jOPIFxZjedty3bNXOFx0Z/view?usp=sharing",
     "url_diff": "",
     "name_diff": "M-SPIN",
     "date": "Sun Feb 28 2016 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "PABAT! 2016 同梱譜面"
+    "comment": "本体同梱"
   },
   {
     "level": "3",
@@ -157,6 +193,18 @@
   },
   {
     "level": "3",
+    "title": "Things of Peculiar Nature [7k Teknical]",
+    "md5": "3cc679e98b7b6e3417763f0b8c60fc1e",
+    "artist": "isocosa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/TPN_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Thu Nov 17 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/mm1pvo8nRY0",
+    "comment": ""
+  },
+  {
+    "level": "3",
     "title": "カラスアゲハ [Arctiidae]",
     "md5": "a2d2cae72867e0883fe6643a80a8018d",
     "artist": "けふぃー",
@@ -164,7 +212,7 @@
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/reanimated_f.zip",
     "name_diff": "M-SPIN",
     "date": "Tue Apr 14 2020 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
+    "movie_link": "https://youtu.be/oghw4_Afe78",
     "comment": ""
   },
   {
@@ -200,7 +248,7 @@
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/zodiac_MS.zip",
     "name_diff": "M-SPIN",
     "date": "Fri Dec 01 2017 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
+    "movie_link": "https://youtu.be/tzsMV9wXVLk",
     "comment": "追加音源(?)あり"
   },
   {
@@ -241,6 +289,18 @@
   },
   {
     "level": "5",
+    "title": "out on the pier [fLoaT]",
+    "md5": "37d76944d1eeb83a89f6402a7a6eb213",
+    "artist": "lollipop",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Mon Oct 03 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/PzG15iTL3Q0",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "5",
     "title": "Seiren [Siren]",
     "md5": "9507a703aa2aee86c21c69abef0c9bc3",
     "artist": "kanoryo",
@@ -277,6 +337,18 @@
   },
   {
     "level": "5",
+    "title": "Target=Infiltrate [INSANE]",
+    "md5": "4fd90618c7ee26b47d137e0fa2807cdc",
+    "artist": "Y.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/target_insane15_old.zip",
+    "name_diff": "LuvTek",
+    "date": "Mon Oct 03 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/FrK31ICiA_E",
+    "comment": "修正前の本体同梱"
+  },
+  {
+    "level": "5",
     "title": "Turndup [転換点]",
     "md5": "8f083786af940748e4ec0493cc5bd058",
     "artist": "Iriss-Frantzz",
@@ -284,7 +356,7 @@
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Turndup_M-S.zip",
     "name_diff": "M-SPIN",
     "date": "Sat Feb 08 2020 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
+    "movie_link": "https://youtu.be/2Ta7tp2phv8",
     "comment": "過去差分のズレ修正本。N音源基盤にAキー音を一部使用。"
   },
   {
@@ -313,6 +385,18 @@
   },
   {
     "level": "6",
+    "title": "async [A piece of cake]",
+    "md5": "32e18f33c266433efd954ddd07f34676",
+    "artist": "Kolaa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Mon Oct 03 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/7ORRCuRFGlA",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "6",
     "title": "eyes [2k22 reinterpretation]",
     "md5": "b552c5f848827defc9fd5961c7fca24f",
     "artist": "juno & une",
@@ -332,7 +416,7 @@
     "url_diff": "https://fsrs.github.io/sabun/LuvTek/GLaDOS_LuvTek.zip",
     "name_diff": "LuvTek",
     "date": "Tue Nov 12 2019 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
+    "movie_link": "https://youtu.be/3B9WMzH4vHQ",
     "comment": "HS-FIX MINBPM 推奨"
   },
   {
@@ -457,6 +541,18 @@
   },
   {
     "level": "8",
+    "title": "ARCADE! 爆竹 PARTY (Remaster)",
+    "md5": "27bcf7dfba20d0afceb257bfd46d6007",
+    "artist": "Harunao, Kanna, Choko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Sun Oct 23 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/SrA3KFXXMLg",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "8",
     "title": "Curry (英国式)",
     "md5": "faab1fb9c88fd164a1f4a40150c37b70",
     "artist": "India Action Team",
@@ -514,18 +610,6 @@
     "date": "Wed Oct 23 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/nOq0tDa58-s",
     "comment": ""
-  },
-  {
-    "level": "9",
-    "title": "PUPA [LighT]",
-    "md5": "babde07aa3c2f6fbf036f69849d668ed",
-    "artist": "モリモリあつし",
-    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
-    "url_diff": "https://darksabun.github.io/event/bcel/sabun/AF_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Sat Aug 06 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/jIl1z-kiuEk",
-    "comment": "追加音源あり"
   },
   {
     "level": "9",
@@ -609,7 +693,7 @@
     "name_diff": "LuvTek",
     "date": "Sun Feb 23 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/ZOVbAO9iTRw",
-    "comment": "st2"
+    "comment": "st1"
   },
   {
     "level": "9",
@@ -637,6 +721,18 @@
   },
   {
     "level": "9",
+    "title": "PUPA [LighT]",
+    "md5": "babde07aa3c2f6fbf036f69849d668ed",
+    "artist": "モリモリあつし",
+    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
+    "url_diff": "https://darksabun.github.io/event/bcel/sabun/AF_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Aug 06 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/jIl1z-kiuEk",
+    "comment": "st2 追加音源あり"
+  },
+  {
+    "level": "9",
     "title": "SCHREiKRiEG [for some reason]",
     "md5": "ae36582758da96bb250dfe22d527b840",
     "artist": "tkqn14",
@@ -646,6 +742,18 @@
     "date": "Tue Aug 11 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/G6vxpNftczs",
     "comment": "st2"
+  },
+  {
+    "level": "9",
+    "title": "Strange Night [Unstageable Chart]",
+    "md5": "526c00a14b96a415809b9d09995030e6",
+    "artist": "Heinz Schweers",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/StrangeNight_SA.zip",
+    "name_diff": "M-SPIN",
+    "date": "Mon Nov 21 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/_PWPHLvvj1E",
+    "comment": ""
   },
   {
     "level": "9",
@@ -733,6 +841,18 @@
   },
   {
     "level": "10",
+    "title": "Audiovisual [for some reason]",
+    "md5": "4da46cb1c5277344ea8a04c961356263",
+    "artist": "Hyparpax",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=245&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/fsrs/audiovis_fsrs.zip",
+    "name_diff": "fsrs",
+    "date": "Fri Dec 09 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/3yomIAL4f5k",
+    "comment": ""
+  },
+  {
+    "level": "10",
     "title": "BMS [7SABUN]",
     "md5": "9e67f1cddf1251ac694fd41fe3b3fdc1",
     "artist": "Blue-J",
@@ -742,6 +862,30 @@
     "date": "Fri Oct 25 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/-Rdl6L2rRnY",
     "comment": ""
+  },
+  {
+    "level": "10",
+    "title": "Clever machine Crazy [Crazy minijack Chordstream]",
+    "md5": "725e71223a68784d3e03b6fd1a0582ce",
+    "artist": "NASVINE",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/CmC_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Thu Nov 17 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/jN_ZAjTkynA",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "10",
+    "title": "Crystal Snow [Christmas Sabun]",
+    "md5": "7fb07b6643becbd2f35b735ef30671da",
+    "artist": "HaL feat. riri",
+    "url": "http://web.archive.org/web/20060621123759/http://www.remarkablesense.org:80/~hal/waveceptor/bms/bms_crystal.zip",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/cs_CSC.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Dec 24 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/Lr9Es5eraNc",
+    "comment": "追加音源あり キー音配列変更あり"
   },
   {
     "level": "10",
@@ -825,7 +969,7 @@
     "name_diff": "LuvTek",
     "date": "Sun Nov 08 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/lIa8O7DwCZc",
-    "comment": "st4"
+    "comment": "st3"
   },
   {
     "level": "10",
@@ -838,6 +982,30 @@
     "date": "Sun Oct 27 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/xknkgNA3jbw",
     "comment": "st2"
+  },
+  {
+    "level": "10",
+    "title": "slplsh [fLoaT]",
+    "md5": "4b69605edd3bf7fbb41fd679a4d21631",
+    "artist": "dandeless",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Fri Sep 30 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/oTp7G2BJQtw",
+    "comment": "本体同梱"
+  },
+  {
+    "level": "10",
+    "title": "TheFLEX2 [FL-EX]",
+    "md5": "97eab4608c426aa59d7dbee541ba389d",
+    "artist": "ocogamas",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/213",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/TheFLEX2_MS.zip",
+    "name_diff": "M-SPIN",
+    "date": "Fri Sep 23 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/PNh-21MqHzg",
+    "comment": ""
   },
   {
     "level": "10",
@@ -898,6 +1066,30 @@
     "date": "Tue Nov 24 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/ZvAMpxujXMc",
     "comment": "st3"
+  },
+  {
+    "level": "10",
+    "title": "シャトヤンシーにくちづけを",
+    "md5": "5a0de010eadb870bcf112c00ee0f2e0b",
+    "artist": "Rner",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Chatyancy_MS.zip",
+    "name_diff": "M-SPIN",
+    "date": "Mon Dec 05 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/e8lAABtcGM0",
+    "comment": ""
+  },
+  {
+    "level": "10",
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [BLACK LABLE]",
+    "md5": "b29e44513e3389a81336f72842b980c6",
+    "artist": "潮音きつね feat. Ei",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Fri Oct 14 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/iyX7sPAoR7M",
+    "comment": "本体同梱"
   },
   {
     "level": "11",
@@ -1069,6 +1261,18 @@
   },
   {
     "level": "11",
+    "title": "petal [LeapT]",
+    "md5": "9ae63deb59c4660346d1b47e8cf3c1d9",
+    "artist": "Fractal Paws",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/petal_LuvTek.zipp",
+    "name_diff": "LuvTek",
+    "date": "Fri Sep 30 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/63kR-93XCvw",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "11",
     "title": "Princess × Pegasus [微縦乱舞]",
     "md5": "7a8cef929dd3003230cf03ee3952f978",
     "artist": "rider",
@@ -1186,6 +1390,18 @@
     "date": "Tue Mar 16 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/qkgH3WF2JQQ",
     "comment": "追加音源あり"
+  },
+  {
+    "level": "11",
+    "title": "Sungrazer",
+    "md5": "0f4cef726def4335cf423c32dba495a1",
+    "artist": "KITUNE",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=140",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Sungrazer_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Sun Nov 27 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/_wdRfVY8qR0",
+    "comment": ""
   },
   {
     "level": "11",
@@ -1393,6 +1609,18 @@
   },
   {
     "level": "12",
+    "title": "Nimbus",
+    "md5": "9e6a7056fd7d0a914c29c636fb4bf934",
+    "artist": "CAMEL",
+    "url": "https://mega.nz/file/eW5CWKTS#cJ1fHt5DFqq8H3v4K1fNoBSuOQQxqBRh_KXS1cNa5ME",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Nimbus_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Fri Dec 23 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/-T8QF_P-B3w",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "12",
     "title": "Parallel Evolution [for some reason]",
     "md5": "44917d47f28696840476759533f2da1d",
     "artist": "Nakaiankow × VirtualNoiz × kju8",
@@ -1498,6 +1726,18 @@
     "date": "Sat Feb 01 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/iChTHDZa2MU",
     "comment": "追加音源あり"
+  },
+  {
+    "level": "12",
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [最終鬼畜兵器L7]",
+    "md5": "75345358efd2212b30a68925b74ea150",
+    "artist": "潮音きつね feat. Ei",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=140",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Fri Oct 14 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/lEZY47hVxvw",
+    "comment": "本体同梱"
   },
   {
     "level": "20",
@@ -1681,6 +1921,18 @@
   },
   {
     "level": "90",
+    "title": "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 [%E3%82%B5%E3%83%96%E3%83%B3]",
+    "md5": "2bde855f235dba93b9f933266dce0f56",
+    "artist": "ルナ・ヴィオーラ",
+    "url": "http://web.archive.org/web/20130224144237/http://big.freett.com/mikoko/lb_b.zip",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/buntan_MS.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Aug 09 2014 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "",
+    "comment": "旧FL1 容赦ないソフラン"
+  },
+  {
+    "level": "90",
     "title": "Algorhythm 〈sequenceR?〉",
     "md5": "83ea1e837e56a16a9f6316b9977d69d4",
     "artist": "maxXx65535",
@@ -1689,7 +1941,7 @@
     "name_diff": "M-SPIN",
     "date": "Mon Oct 18 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/O6NwOy7zq1E",
-    "comment": "追加音源あり"
+    "comment": "追加音源あり ★★3?"
   },
   {
     "level": "90",
@@ -1701,7 +1953,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Oct 28 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "★16?ノーマゲで12POOR出すならクリア不可か"
+    "comment": "ノーマゲで12POOR出すならクリア不可か ★16?"
   },
   {
     "level": "90",
@@ -1714,6 +1966,18 @@
     "date": "Wed Dec 04 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
     "comment": "過去差分のキー音duplicate修正本(7A音源基盤)"
+  },
+  {
+    "level": "90",
+    "title": "Halation [SP OVERGLOW]",
+    "md5": "04a17fc7f2c24039bf304eef01238bca",
+    "artist": "Nyolfen",
+    "url": "https://venue.bmssearch.net/artisticbms/9",
+    "url_diff": "",
+    "name_diff": "LuvTek",
+    "date": "Thu Dec 22 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "",
+    "comment": "★★4?"
   },
   {
     "level": "90",
@@ -1773,7 +2037,7 @@
     "name_diff": "M-SPIN",
     "date": "Fri Mar 30 2018 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "★20? TOTAL 222。 ギミックに注意?"
+    "comment": "TOTAL 222。 ギミックに注意? ★20? "
   },
   {
     "level": "90",
@@ -1786,6 +2050,18 @@
     "date": "Fri Nov 13 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/TRrf-kSFyL0",
     "comment": ""
+  },
+  {
+    "level": "90",
+    "title": "花音 con tenerezza [譜面 con forza]",
+    "md5": "abd48e2b7f6e09f2d628a3d541f5f659",
+    "artist": "大前 司",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=340&event=137",
+    "url_diff": "https://www.dropbox.com/s/rur8j9meo344m5m/Fa_LuvTek.zip?dl=1",
+    "name_diff": "LuvTek",
+    "date": "Sat Aug 13 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/-yUo43Nrh1I",
+    "comment": "ソフラン、局所発狂 ★★3?"
   },
   {
     "level": "99",

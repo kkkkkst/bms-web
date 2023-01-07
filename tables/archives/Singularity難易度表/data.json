@@ -374,7 +374,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
     "artist": "kanone(BGI:TAKA.S)",
     "comment": "高速物量、ラス殺し",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "1",
@@ -738,7 +738,7 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
     "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト",
     "comment": "ディレイ",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "3",
@@ -933,7 +933,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
     "artist": "kanone(BGI:TAKA.S)",
     "comment": "高速物量",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "4",
@@ -960,6 +960,19 @@
     "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト",
     "comment": " [ディレイ論]、TOTAL値はディレイ易論の半分",
     "state": ""
+  },
+  {
+    "level": "4",
+    "title": "NS22 [FUX]",
+    "md5": "02bbbdb25c16079f6e929ec0499549a5",
+    "video1": "",
+    "video2": "Fj7SSbb938w",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=06268",
+    "name_diff": "N",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
+    "artist": "3034",
+    "comment": "加速",
+    "state": "1"
   },
   {
     "level": "4",
