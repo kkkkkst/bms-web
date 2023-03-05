@@ -4281,8 +4281,8 @@
     "artist": "庭師 BGA:noixy",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=140",
     "url_diff": "",
-    "md5": "ead60150e363f0685eafb9d9bc827ad1",
-    "sha256": "2b4d2e4847c44d3b65581774e00af3e26aff23b0128d136c84551b5b6a7d12f1"
+    "md5": "5dc11f098fee2d246970106436c790db",
+    "sha256": "f42f6e8776b1dc38b9631791fb7b78b75f0ec34ed7afd378a857c6f60662c80f"
   },
   {
     "state": "1",
@@ -4305,5 +4305,49 @@
     "url_diff": "",
     "md5": "1b89987cc41cc4b3f6d47b2ee7c18723",
     "sha256": "e1ae221b1cd7fbbc789754a05b13a95633833ea930a4662d053a6ea9afd7ad9e"
+  },
+  {
+    "state": "1",
+    "title": "生ハムメロンのうた [secondo piatto]",
+    "level": "☆9",
+    "comment": "F / 3 ",
+    "artist": "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=140",
+    "url_diff": "",
+    "md5": "87c07550422e260d4c0d1048800d54f3",
+    "sha256": "564d3cbf8754f02510bb992958e7b910e4495117bcfc2b139a254521f8657a78"
+  },
+  {
+    "state": "1",
+    "title": "情熱大邱 [道]",
+    "level": "☆11",
+    "comment": "I / 5 LN、微縦連",
+    "artist": "Qyubey pattern: w / BGA: DARUMUL",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=437&event=140",
+    "url_diff": "",
+    "md5": "5209d96bd6a460d45adfdedd317e1028",
+    "sha256": "0ee86eeb509f0c80b1dfe8740da58df45bd52d78a741a36c21f37ffeb14ac090"
+  },
+  {
+    "state": "1",
+    "title": "Sacred Lullaby [SP ANOTHER]",
+    "level": "☆11",
+    "comment": "F / 2 ",
+    "artist": "Axya BG by Empty404 / obj AZVW_2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=372&event=140",
+    "url_diff": "",
+    "md5": "5c6f14069fbea51add9cb5fbfbb27f3a",
+    "sha256": "fa6d3d6761a44cc52834dbd8883935cff2672020c800ce43a79d72e3454a6d58"
+  },
+  {
+    "state": "1",
+    "title": "Rottfill [7K ANOTHER]",
+    "level": "☆11",
+    "comment": "F / 2 ",
+    "artist": "NIKANON / obj. NIKANON feat. Seori",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=140",
+    "url_diff": "",
+    "md5": "b1d9fa916ab18c1b17951ec7ed45e4ec",
+    "sha256": "8394db8ce156347d11a5bce22e685f7c42cd26d5d4166050bd482dd2b0ad56d6"
   }
 ]
