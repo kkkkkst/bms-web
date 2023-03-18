@@ -1189,6 +1189,19 @@
     "proposerLr2id": 129162
   },
   {
+    "md5": "1325d3afde897dbe6c814af794a3a85d",
+    "sha256": "7fc7e8b2825bb934a484bdce89102c1521e821c1f049ae72e583433cb9c9a101",
+    "title": "FakeAltar 0.6 [7K Hyper]",
+    "artist": "19XX",
+    "url_diff": "",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/236",
+    "level": "0",
+    "comment": "BPM182 バラエティー",
+    "proposer": "SHAX.",
+    "submission": 2705,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "6f00896a24953aee0a0962eb712be9ac",
     "sha256": "857b0dcf2ef58f5f0bd46ebf2332d7b5124306a930bfd02850113ada06ef3b85",
     "title": "Fall Apart [SP INSANE]",
@@ -13607,6 +13620,19 @@
     "votePercent": 0
   },
   {
+    "md5": "69d4030cd2a5bf01dbf82cb59e56222a",
+    "sha256": "483775a52cc634ef56b96717285ff583c374e054126ec34a3b284d16981c7f52",
+    "title": "Friendship Trading [SP ANOTHER]",
+    "artist": "WhiteXoon BG by mitaiiii / obj AZVW_2",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=140",
+    "level": "3",
+    "comment": "同梱譜面 /地力/皿複合/★4中?",
+    "proposer": "H∀H",
+    "submission": 2706,
+    "proposerLr2id": 152181
+  },
+  {
     "md5": "e0fad5fcb854abe2cdb29b2d8d7b2001",
     "sha256": "60986c505de86579239aa998f12997bb0fedf5c663e82ec05dc50f5e88faf937",
     "title": "FUELBLOODS [SP ANOTHER]",
@@ -17362,20 +17388,6 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "7e1419a9ce6ce67c76154e7b3ee805ca",
-    "sha256": "91dc865c62b9e41c3482d85085e4d3a8b4ea6c4b30b90db9ecad5a4c5fc3103c",
-    "title": "HOPE -Hopeful-",
-    "artist": "Notorious(Nota & TRIAL) BGA：出前 / obj : 七海",
-    "url_diff": "https://egosa0424.github.io/sabun/hope_nanami.zip",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=140",
-    "level": "4",
-    "comment": "高速乱打",
-    "zureCount": 0,
-    "proposer": "Mary_Sue",
-    "submission": 2674,
-    "proposerLr2id": 147889
-  },
-  {
     "md5": "c0497bd4537d0937803e79a2df3f6368",
     "sha256": "42364b9811e6b184482d4ffddc5f1582070ce6bed95810ec63e1f05e05a405ca",
     "title": "Hurnage [INSANE]",
@@ -17582,19 +17594,6 @@
     "proposer": "氷城つるぎ",
     "submission": 1353,
     "proposerLr2id": 151185
-  },
-  {
-    "md5": "1fa97ef1958cc5b6ee78d7ac3969c4ed",
-    "sha256": "2e512fc375747cc9f57b028ade075c0c61a2c85a3a814c944c78a86571cc1d45",
-    "title": "Lacrimosa [SP Another]",
-    "artist": "Abel & RiraN Movie:Minho Obj:Triforce",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=140",
-    "level": "4",
-    "comment": "sl 4～5？",
-    "proposer": "ii5",
-    "submission": 2695,
-    "proposerLr2id": 141043
   },
   {
     "md5": "5c967522d9186a4365501e7818611018",
@@ -20202,6 +20201,20 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "7e1419a9ce6ce67c76154e7b3ee805ca",
+    "sha256": "91dc865c62b9e41c3482d85085e4d3a8b4ea6c4b30b90db9ecad5a4c5fc3103c",
+    "title": "HOPE -Hopeful-",
+    "artist": "Notorious(Nota & TRIAL) BGA：出前 / obj : 七海",
+    "url_diff": "https://egosa0424.github.io/sabun/hope_nanami.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=140",
+    "level": "5",
+    "comment": "高速乱打",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2674,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "a2b6255523f2bafd16b058ab5ad5b425",
     "sha256": "b1cc3ce58c22f25dbad9b118e50f315dc2ee6a7a00f55c5110f982528180f1d2",
     "title": "itsuka [明日また会えるよね]",
@@ -20349,6 +20362,19 @@
     "zureCount": 0,
     "proposer": "511",
     "submission": 2448,
+    "proposerLr2id": 141043
+  },
+  {
+    "md5": "1fa97ef1958cc5b6ee78d7ac3969c4ed",
+    "sha256": "2e512fc375747cc9f57b028ade075c0c61a2c85a3a814c944c78a86571cc1d45",
+    "title": "Lacrimosa [SP Another]",
+    "artist": "Abel & RiraN Movie:Minho Obj:Triforce",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=140",
+    "level": "5",
+    "comment": "sl 4～5？",
+    "proposer": "ii5",
+    "submission": 2695,
     "proposerLr2id": 141043
   },
   {
@@ -40453,6 +40479,19 @@
     "proposerLr2id": 53819
   },
   {
+    "md5": "9f8df86d3df3af71c44a07edd431527f",
+    "sha256": "9ca5ac843277fed324e9c40970e48457e28e762c776e4b87c86bcf533168ec5e",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP MARYTHER]",
+    "artist": "立秋feat.ちょこ / obj: Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
+    "level": "14",
+    "comment": "1~2?",
+    "proposer": "七海",
+    "submission": 1983,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "d7072472f308c89eb055d8704db76663",
     "title": "+i m a z i n e x o+ [Limit Edition]",
     "artist": "sasakure.UK / obj:DDX",
@@ -44528,19 +44567,6 @@
     "proposer": "otoshi.b",
     "submission": 1155,
     "proposerLr2id": 87474
-  },
-  {
-    "md5": "9f8df86d3df3af71c44a07edd431527f",
-    "sha256": "9ca5ac843277fed324e9c40970e48457e28e762c776e4b87c86bcf533168ec5e",
-    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP MARYTHER]",
-    "artist": "立秋feat.ちょこ / obj: Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
-    "level": "15",
-    "comment": "1~2?",
-    "proposer": "七海",
-    "submission": 1983,
-    "proposerLr2id": 84597
   },
   {
     "title": "* Crow Solace * [EXTRA]",
@@ -49581,20 +49607,6 @@
     "sha256": "8a0ad379aeea9a3e11bab8f024375e4fed888cb0fedab6b4e6597e91b313ee96"
   },
   {
-    "md5": "0d2167c24de685d7ba965301eb5b3d76",
-    "sha256": "32d4900e5ddd4fe6165dc52ab0e20d76f5b7748987a57d04a5127c3c4f4e5231",
-    "title": "G e n g a o z o -Screen music- -Despair-",
-    "artist": "45Is-m BGA:-45 / obj:七海",
-    "url_diff": "https://dl.dropboxusercontent.com/s/53znfwj568fxwel/gengaremix_nanami.zip",
-    "url": "https://web.archive.org/web/20161109171334/http://www.is-m.jp/download/bme-song/[em41]gengaozo_screen_music-cdqogg.zip",
-    "level": "16",
-    "comment": "BPM153 総合力",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 2032,
-    "proposerLr2id": 65624
-  },
-  {
     "title": "gazer [Delay MANIAQ]",
     "artist": "scytheleg",
     "url": "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
@@ -53163,6 +53175,20 @@
     "sha256": "f4ca7048585bf905bc6d31d73a4b957dbd7de62607208e30aa90b389b213ff22"
   },
   {
+    "md5": "0d2167c24de685d7ba965301eb5b3d76",
+    "sha256": "32d4900e5ddd4fe6165dc52ab0e20d76f5b7748987a57d04a5127c3c4f4e5231",
+    "title": "G e n g a o z o -Screen music- -Despair-",
+    "artist": "45Is-m BGA:-45 / obj:七海",
+    "url_diff": "https://dl.dropboxusercontent.com/s/53znfwj568fxwel/gengaremix_nanami.zip",
+    "url": "https://web.archive.org/web/20161109171334/http://www.is-m.jp/download/bme-song/[em41]gengaozo_screen_music-cdqogg.zip",
+    "level": "17",
+    "comment": "BPM153 総合力",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2032,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "ff1623755da6b9446f2aa1aca553f500",
     "title": "G e n g a o z o _ 2 4 M A N I A Q",
     "artist": "455 / rio / black train",
@@ -54344,6 +54370,19 @@
     "comment": "BPM145 ズレ",
     "proposer": "SHAX.",
     "submission": 1152,
+    "proposerLr2id": 65624
+  },
+  {
+    "md5": "01fe7d00f4aeb61afc4ba900d7a2c1e4",
+    "sha256": "cb8846e58330c4c02fad4587b57e26800355345f71999e5f2ceceb623a69579d",
+    "title": "Song for Denim",
+    "artist": "Wide ステファン Walking",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=132",
+    "level": "17",
+    "comment": "BPM115 同時押し+α",
+    "proposer": "SHAX.",
+    "submission": 2038,
     "proposerLr2id": 65624
   },
   {
@@ -58149,6 +58188,19 @@
     "sha256": "e3728135c33d19ba04172f6cddf8d12973721bcde6e7ef0e1a92fa041e9c78dc"
   },
   {
+    "md5": "75345358efd2212b30a68925b74ea150",
+    "sha256": "629a5d1ef9c06b7815247bac76c2d281863b2b56289224ac0a45d41d70314703",
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [最終鬼畜兵器L7]",
+    "artist": "潮音きつね feat. Ei (bunny rhyTHm) / obj. LuvTek",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=140",
+    "level": "18",
+    "comment": "255bpm",
+    "proposer": "Guaema",
+    "submission": 2037,
+    "proposerLr2id": 73333
+  },
+  {
     "md5": "44544c7d63cc2b481156541c7c2bd0cc",
     "sha256": "6addca48e6a4bece7bca429fc199eaf4fb706e3dac932e08d57ad514a70d9c24",
     "title": "神様の恋心 [Lily]",
@@ -59291,19 +59343,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "20988880e9222cce13b9be92256bd81b9e879007ba9dfbc97caf913a3fc79555"
-  },
-  {
-    "md5": "a43af3297f4f1e418042b1e72a44f248",
-    "sha256": "6531e98812209eb730e5ee873cba3b735aa195926ce5e9aa91c8eae389bdb8dd",
-    "title": "SHI☆A☆WA☆SE [MASTER]",
-    "artist": "eye burn Reading: 冬乃桜 / obj.Mallow♪",
-    "url_diff": "https://stellabms.xyz/upload/1762",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=116",
-    "level": "19",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 1874,
-    "proposerLr2id": 84597
   },
   {
     "md5": "9c158fd410f9dd3464d3506bd9f562dd",
@@ -60961,6 +61000,19 @@
     "proposer": "qfeileadh",
     "submission": 1324,
     "proposerLr2id": 143120
+  },
+  {
+    "md5": "a43af3297f4f1e418042b1e72a44f248",
+    "sha256": "6531e98812209eb730e5ee873cba3b735aa195926ce5e9aa91c8eae389bdb8dd",
+    "title": "SHI☆A☆WA☆SE [MASTER]",
+    "artist": "eye burn Reading: 冬乃桜 / obj.Mallow♪",
+    "url_diff": "https://stellabms.xyz/upload/1762",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=116",
+    "level": "20",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1874,
+    "proposerLr2id": 84597
   },
   {
     "md5": "6435071e8a1660dac00546b5892d6bbe",

@@ -2,7 +2,7 @@
   {
     "md5": "c80f82c866039e7f563ad6e2020e4980",
     "title": "Anger Control [14KEYS]",
-    "level": "3.50...4.00",
+    "level": "4.00...4.50",
     "comment": "sl0"
   },
   {
@@ -396,20 +396,8 @@
     "comment": "sl1"
   },
   {
-    "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
-    "title": "玉響サーチライト [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "190ef89f7c890d5ac3bf327acc4f6800",
     "title": "-Never ending journey- [Forever]",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
-    "title": "A.O. [DP]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -606,6 +594,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
+    "title": "玉響サーチライト [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "1c8c39a9a94d6f5cf13616fbefaed119",
     "title": "私のヒトミ",
     "level": "6.00...6.50",
@@ -621,6 +615,12 @@
     "md5": "5ecedbe580a0056acc597f1019171528",
     "title": "４２２ [DP HYPER]",
     "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
+    "title": "A.O. [DP]",
+    "level": "6.50...7.00",
     "comment": "sl1"
   },
   {
@@ -1614,20 +1614,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "93086ca5d235d4b32016cf44520f50b9",
-    "title": "New Windy Paradise [DP MANIAC]",
-    "level": "14.50...15.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "59ab1c484a6bbbdf3b13d0a34036e639",
     "title": "Postliminium [DP INSANE]",
-    "level": "14.50...15.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "5ad08be587d9d42971084fc701df0693",
-    "title": "witchcraft [14A]",
     "level": "14.50...15.00",
     "comment": "sl8"
   },
@@ -1652,6 +1640,18 @@
   {
     "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
     "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
+    "level": "15.00...15.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "93086ca5d235d4b32016cf44520f50b9",
+    "title": "New Windy Paradise [DP MANIAC]",
+    "level": "15.00...15.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "5ad08be587d9d42971084fc701df0693",
+    "title": "witchcraft [14A]",
     "level": "15.00...15.50",
     "comment": "sl8"
   },
@@ -1959,7 +1959,7 @@
     "md5": "34e80fc82b43ce986f37cf8a63831cc1",
     "title": "CHRISTMAS EVE [DPINSA.NE]",
     "level": "-",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "968e735562607ffb60a83d4170b5c138",
@@ -2016,6 +2016,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "767177285abbedf42d833793842cc70d",
+    "title": "CYCLONE [Gravity Distorting Module]",
+    "level": "-",
+    "comment": "sl12"
+  },
+  {
     "md5": "714082d72dafdfd12bf4810980ae179d",
     "title": "Dance revolution [DP ANOTHER]",
     "level": "-",
@@ -2038,6 +2044,12 @@
     "title": "DELIGHTS -EXTREME14-",
     "level": "-",
     "comment": "sl9"
+  },
+  {
+    "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
+    "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
+    "level": "-",
+    "comment": "sl2"
   },
   {
     "md5": "11c50f76c098e858c2b61e04db177ecc",
@@ -2160,6 +2172,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "a9988216fa374c97a807e1148c87a4bc",
+    "title": "eth剣 (DP激)",
+    "level": "-",
+    "comment": "sl12"
+  },
+  {
     "md5": "09ddc29dfc8ac70ceba82c7755efd84f",
     "title": "Evanescent [DP ANOTHER]",
     "level": "-",
@@ -2199,7 +2217,7 @@
     "md5": "1a6b6567fe1fa051f532e161a491ac88",
     "title": "Fine Logic [DP INSANE]",
     "level": "-",
-    "comment": "sl5"
+    "comment": "sl6"
   },
   {
     "md5": "7a26d0eda820c694576926482b5ef5a6",
@@ -2238,6 +2256,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "1f34b9ffc132ade5865c86c6c8297a0b",
+    "title": "fushigichan [DP LEGGENDARIA]",
+    "level": "-",
+    "comment": "sl11"
+  },
+  {
     "md5": "8f4c529cc67018c14ffe0463efce9e25",
     "title": "Galaxy in Toybox [DP >▽<]",
     "level": "-",
@@ -2254,6 +2278,12 @@
     "title": "Gift of Tears [DP-sagINSANE]",
     "level": "-",
     "comment": "sl8"
+  },
+  {
+    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
+    "title": "GIRIMECHALA Reflects! (Chefei)",
+    "level": "-",
+    "comment": "sl11"
   },
   {
     "md5": "5b142a206aefddceffb43f71e45ec6f0",
@@ -2734,6 +2764,12 @@
     "title": "RE:START [DP-soijoy]",
     "level": "-",
     "comment": "sl12"
+  },
+  {
+    "md5": "bd55eb2af8360550dde4a07d703fbe39",
+    "title": "Rechronize [DP 202THER]",
+    "level": "-",
+    "comment": "sl0"
   },
   {
     "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
@@ -3322,6 +3358,12 @@
     "title": "月時計 Last・Dial (DoubleLunatic+)",
     "level": "-",
     "comment": "sl8"
+  },
+  {
+    "md5": "564c3e9978f9863253bb8c4f00a796c2",
+    "title": "月時計　Last・Dial (DPA+)",
+    "level": "-",
+    "comment": "sl11"
   },
   {
     "md5": "afac99105d812beffa8de61b3f47ea51",

@@ -1677,7 +1677,7 @@
     "url_pack": "",
     "name_pack": "",
     "date": "Sun Nov 13 2022 00:00:00 GMT+0900 (日本標準時)",
-    "comment": "SRが良譜面"
+    "comment": "SRが良譜面"
   },
   {
     "level": "0",
@@ -2716,7 +2716,7 @@
     "comment": "ddddddd"
   },
   {
-    "level": "3",
+    "level": "4",
     "md5": "baa5e84f3b4e37410c04258d2e2428d5",
     "title": "Not Everyone Is For You: How To Not Fall In Love [7K Insane]",
     "artist": "\tTJ Ah",
@@ -3554,6 +3554,20 @@
     "name_pack": "",
     "date": "",
     "comment": "kurenaissance最終版"
+  },
+  {
+    "level": "4-",
+    "md5": "61f156bed1b74941c102b351fa58c3e5",
+    "title": "Computer [ENIAC]",
+    "artist": "pocket Eckert-Mauchly Computer Corporation",
+    "state": "2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=140",
+    "url_diff": "https://darksabun.github.io/event/bofet/sabun/111_fr7_EMCC.zip",
+    "name_diff": "",
+    "url_pack": "",
+    "name_pack": "",
+    "date": "",
+    "comment": "機械的、原始的"
   },
   {
     "level": "4-",

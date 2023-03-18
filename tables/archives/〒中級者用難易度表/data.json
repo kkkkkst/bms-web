@@ -289,6 +289,24 @@
   },
   {
     "level": "10",
+    "title": "Counterevidence",
+    "artist": "q/stol",
+    "comment": "【GENOSIDE 2018】",
+    "md5": "87dd508acd2ba1d035d8a64e4d3b7838",
+    "url_diff": "",
+    "comment_2": ""
+  },
+  {
+    "level": "10",
+    "title": "Conviction",
+    "artist": "SHALE vs A4paper",
+    "comment": "【GENOSIDE 2018】",
+    "md5": "cc410b930556c18a6c9ce63bc084be1b",
+    "url_diff": "",
+    "comment_2": ""
+  },
+  {
+    "level": "10",
     "title": "elegante  [Another]",
     "artist": "高嶺　愛花 BGA : 室谷",
     "comment": "【GENOSIDE 1st】",
@@ -387,29 +405,29 @@
     "comment_2": ""
   },
   {
+    "level": "10",
+    "title": "先手必勝戦闘機 鳳 -ANOTHER-",
+    "artist": "Dr.A (BGA:八嶋)",
+    "comment": "【GENOSIDE 2018】",
+    "md5": "67ca10f17f2bd4a4cde89edff2946070",
+    "url_diff": "",
+    "comment_2": ""
+  },
+  {
+    "level": "11",
+    "title": "B.B.K.K.B.K.K (Another)",
+    "artist": "nora2r / 出前",
+    "comment": "【GENOSIDE 2018】",
+    "md5": "6ba57c0187a93635a8caa93f7e2061fd",
+    "url_diff": "",
+    "comment_2": "2023_01 追加"
+  },
+  {
     "level": "11",
     "title": "Bicolor Spirit [Hyper]",
     "artist": "urimu Movie:RAIDEN",
     "comment": "【GENOSIDE 2018】",
     "md5": "f9ba43c7c5f9494f6de472400c4a7000",
-    "url_diff": "",
-    "comment_2": ""
-  },
-  {
-    "level": "11",
-    "title": "Counterevidence",
-    "artist": "q/stol",
-    "comment": "【GENOSIDE 2018】",
-    "md5": "87dd508acd2ba1d035d8a64e4d3b7838",
-    "url_diff": "",
-    "comment_2": ""
-  },
-  {
-    "level": "11",
-    "title": "Conviction",
-    "artist": "SHALE vs A4paper",
-    "comment": "【GENOSIDE 2018】",
-    "md5": "cc410b930556c18a6c9ce63bc084be1b",
     "url_diff": "",
     "comment_2": ""
   },
@@ -437,15 +455,6 @@
     "artist": "Festa 鑓田(alpha complex)",
     "comment": "【GENOSIDE 2018】",
     "md5": "841b00f07ce810854fa24b7cc016b9d7",
-    "url_diff": "",
-    "comment_2": ""
-  },
-  {
-    "level": "11",
-    "title": "先手必勝戦闘機 鳳 -ANOTHER-",
-    "artist": "Dr.A (BGA:八嶋)",
-    "comment": "【GENOSIDE 2018】",
-    "md5": "67ca10f17f2bd4a4cde89edff2946070",
     "url_diff": "",
     "comment_2": ""
   },
@@ -496,15 +505,6 @@
   },
   {
     "level": "11",
-    "title": "Jack o' Lantern [ANOTHER]",
-    "artist": "anubasu-anubasu BGA by 出前",
-    "comment": "【GENOSIDE 2018】",
-    "md5": "0db1e83d28eda1d37f0ffafaff725dae",
-    "url_diff": "",
-    "comment_2": ""
-  },
-  {
-    "level": "11",
     "title": "VALLISTA",
     "artist": "削除 / Mentalstock",
     "comment": "【GENOSIDE 1st】",
@@ -541,15 +541,6 @@
   },
   {
     "level": "12",
-    "title": "B.B.K.K.B.K.K (Another)",
-    "artist": "nora2r / 出前",
-    "comment": "【GENOSIDE 2018】",
-    "md5": "6ba57c0187a93635a8caa93f7e2061fd",
-    "url_diff": "",
-    "comment_2": "2023_01 追加"
-  },
-  {
-    "level": "12",
     "title": "Childie Sharp [HighSpeed]",
     "artist": "nmk/かなえゆめ",
     "comment": "【GENOSIDE 1st】",
@@ -572,6 +563,15 @@
     "artist": "s-don / 篠乃ちよ",
     "comment": "【GENOSIDE 2018】",
     "md5": "7f31675fdb02c22e392e5b98de1baec4",
+    "url_diff": "",
+    "comment_2": ""
+  },
+  {
+    "level": "12",
+    "title": "Jack o' Lantern [ANOTHER]",
+    "artist": "anubasu-anubasu BGA by 出前",
+    "comment": "【GENOSIDE 2018】",
+    "md5": "0db1e83d28eda1d37f0ffafaff725dae",
     "url_diff": "",
     "comment_2": ""
   },
