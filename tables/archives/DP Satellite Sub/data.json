@@ -3850,19 +3850,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "528d322a4c30c39036d8ecb9304f173b",
-    "sha256": "f0c18ec19a88e0ee2fe5404ef6d038cf2343a2ffdd8930ea848ab88d152a635c",
-    "title": "For No Reason",
-    "artist": "ProjectG as 'ProjectG'",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=140",
-    "level": "4",
-    "comment": "BPM166で階段、ランディング",
-    "proposer": "Telperion",
-    "submission": 788,
-    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
-  },
-  {
     "md5": "f08008100ce91d1a162f1ccbe5ff59af",
     "sha256": "94dc75fd7baec581b0eb8a1ddd665566ca20c2e027f8509d1d0b7fec8bcd0ed7",
     "title": "Happico Happico -Dream and sweets remix- (14Another)",
@@ -4709,6 +4696,19 @@
     "proposer": "coco",
     "submission": 243,
     "proposerLr2id": 147123
+  },
+  {
+    "md5": "528d322a4c30c39036d8ecb9304f173b",
+    "sha256": "f0c18ec19a88e0ee2fe5404ef6d038cf2343a2ffdd8930ea848ab88d152a635c",
+    "title": "For No Reason",
+    "artist": "ProjectG as 'ProjectG'",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=140",
+    "level": "5",
+    "comment": "BPM166で階段、ランディング",
+    "proposer": "Telperion",
+    "submission": 788,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
   },
   {
     "md5": "74fc30833d11f7a10a8f1b7334542711",
@@ -9710,6 +9710,18 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "e7c0ff5e14b93344eb93f5b3b584d827",
+    "sha256": "3d9694806623f97090998e108f8a8d06cbe95f54fb5e570fc53c377515c8499f",
+    "title": "Stars Keep on Illuminating [DP Insane]",
+    "artist": "anco / Illust: かいネコ",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=140",
+    "level": "11",
+    "proposer": "GRAECA",
+    "submission": 801,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
+  },
+  {
     "md5": "0ba6de050ce06847b737564948b61654",
     "sha256": "699b09bd03dafbd2e87af89d6584b994d07efed0b97f96d4ee57da6873bb498a",
     "title": "Sweet Little Chocolate [DP-soijoy]",
@@ -9854,6 +9866,19 @@
     "proposer": "Telperion",
     "submission": 651,
     "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
+  },
+  {
+    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
+    "sha256": "147d5c2f18cb8dc327c186b3a998ec3a47e85dce159db9a6c8efe805fe2c307a",
+    "title": "Across the Sky [DP Stratosphere]",
+    "artist": "Kohta Imafuku obj:nBel",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=140",
+    "level": "12",
+    "comment": "神曲神譜面 後半ずっと片手二重乱打",
+    "proposer": "にぇ",
+    "submission": 802,
+    "proposerLr2id": 53819
   },
   {
     "md5": "b1ca95e12d38a70429a166db3e93dc9b",
@@ -10069,6 +10094,18 @@
     "proposer": "にぇ",
     "submission": 725,
     "proposerLr2id": 53819
+  },
+  {
+    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
+    "sha256": "07e810f556c7ed0e9fbbc1a2e2c6a1fa6b4127309a3ce3bc310c4216b7dd03b3",
+    "title": "SHINKA [14KEYS ANOTHER]",
+    "artist": "atmbzk (movie : Landscaper obj : iremiha)",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=140",
+    "level": "12",
+    "proposer": "GRAECA",
+    "submission": 800,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
   },
   {
     "md5": "01bd9b363a1d5c87998b077d60f96875",

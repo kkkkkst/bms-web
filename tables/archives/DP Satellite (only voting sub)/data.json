@@ -27,19 +27,6 @@
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
-    "md5": "7ee88545fbb5f5b1cfe495afaa3553e8",
-    "sha256": "37b7599ec65cdc826444213927ac22818879cf20262198f4b13ae950afb8ee93",
-    "title": "Freefall [Trip14]",
-    "artist": "yusi. (w/ Renko) / yusi. & KyleHeren obj. RaiN",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/1167",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=334",
-    "level": "6",
-    "zureCount": 0,
-    "proposer": "Topio",
-    "submission": 782,
-    "proposerMinirid": "381c5078-4634-43ae-a3b9-e042de243d8c"
-  },
-  {
     "md5": "81a37cd7b75c866e93848908869db5d6",
     "sha256": "e284394eff9fe89f01c4470640f5d4323ef5cb2303d9e6f720036cbfcc79a8e6",
     "title": "Lunaris [Ritus]",
@@ -66,18 +53,29 @@
     "proposerLr2id": 147123
   },
   {
-    "md5": "d7465340412fe8387a649812f6ca4cee",
-    "sha256": "8ae59727c44043378b2952f3982814e407850441b1a654815a3a338b063ed590",
-    "title": "Agilion [DP ANOTHER]",
-    "artist": "LeaF //obj:MIST",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/1399",
-    "url": "https://venue.bmssearch.net/bmstukuru2022/3",
-    "level": "9",
-    "comment": "地力の種類がたくさん入れた",
-    "zureCount": 0,
-    "proposer": "Telperion",
-    "submission": 789,
-    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
+    "md5": "e7c0ff5e14b93344eb93f5b3b584d827",
+    "sha256": "3d9694806623f97090998e108f8a8d06cbe95f54fb5e570fc53c377515c8499f",
+    "title": "Stars Keep on Illuminating [DP Insane]",
+    "artist": "anco / Illust: かいネコ",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=140",
+    "level": "11",
+    "proposer": "GRAECA",
+    "submission": 801,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
+  },
+  {
+    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
+    "sha256": "147d5c2f18cb8dc327c186b3a998ec3a47e85dce159db9a6c8efe805fe2c307a",
+    "title": "Across the Sky [DP Stratosphere]",
+    "artist": "Kohta Imafuku obj:nBel",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=140",
+    "level": "12",
+    "comment": "神曲神譜面 後半ずっと片手二重乱打",
+    "proposer": "にぇ",
+    "submission": 802,
+    "proposerLr2id": 53819
   },
   {
     "md5": "698d9fbed50790069cef8063097f8201",
@@ -93,16 +91,15 @@
     "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
   },
   {
-    "md5": "704dcc734eb152884b4c0e2a576766a0",
-    "sha256": "1a3d4977519a6d702c584ec405f464b83cc123afd346486e912eeadfde23edd5",
-    "title": "NS18 [delta]",
-    "artist": "3034/obj:hamburger Anomie / IllusionRain",
-    "url_diff": "https://drive.google.com/file/d/0B4Lag8JPHqO3LU1BMnZVMmNhR0k/view?resourcekey=0-VGjjKifYB5tnpIR5iiodKg",
-    "url": "https://drive.google.com/drive/folders/1M23oIXbE9SQk3aw-_K9olFK0zbnVuovW",
+    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
+    "sha256": "07e810f556c7ed0e9fbbc1a2e2c6a1fa6b4127309a3ce3bc310c4216b7dd03b3",
+    "title": "SHINKA [14KEYS ANOTHER]",
+    "artist": "atmbzk (movie : Landscaper obj : iremiha)",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=140",
     "level": "12",
-    "comment": "ズレは差分製作者による楽曲アレンジ　★★5~6",
     "proposer": "GRAECA",
-    "submission": 799,
+    "submission": 800,
     "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
   }
 ]

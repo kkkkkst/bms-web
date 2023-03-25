@@ -2743,18 +2743,6 @@
     "submission": 432
   },
   {
-    "title": "For No Reason",
-    "artist": "ProjectG as 'ProjectG'",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=140",
-    "url_diff": "",
-    "md5": "528d322a4c30c39036d8ecb9304f173b",
-    "sha256": "f0c18ec19a88e0ee2fe5404ef6d038cf2343a2ffdd8930ea848ab88d152a635c",
-    "level": "4",
-    "proposer": "Telperion",
-    "comment": "BPM166で階段、ランディング",
-    "submission": 788
-  },
-  {
     "title": "Heartstrings [DPA]",
     "artist": "庭師 / obj. Sobrem BGA:noixy",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=140",
@@ -3296,6 +3284,18 @@
     "proposer": "coco",
     "comment": "",
     "submission": 243
+  },
+  {
+    "title": "For No Reason",
+    "artist": "ProjectG as 'ProjectG'",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=140",
+    "url_diff": "",
+    "md5": "528d322a4c30c39036d8ecb9304f173b",
+    "sha256": "f0c18ec19a88e0ee2fe5404ef6d038cf2343a2ffdd8930ea848ab88d152a635c",
+    "level": "5",
+    "proposer": "Telperion",
+    "comment": "BPM166で階段、ランディング",
+    "submission": 788
   },
   {
     "title": "Granblaze [DP ANOTHER]",
