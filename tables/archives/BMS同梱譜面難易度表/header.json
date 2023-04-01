@@ -37,6 +37,336 @@
   ],
   "course": [
     {
+      "name": "第4期同梱表 Level Measure LEVEL 00",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "562308fb53613a8baf25784394409709",
+        "1d5dd57ce57ac118953a5b5a4994e309",
+        "f6bd7122f57c3c8fa2051e5a01c64c5b",
+        "8823d82bf381b0db078705a1d22b16db"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 01",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "ba5036b4ef4bcab9d60c5a9e4f64e367",
+        "3acbb241486cddf4bbad8ff272160074",
+        "70fcf86cbe6b27595d6ac4df07d7dc07",
+        "087c506814ea8970695f146ff42970f6"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 02",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "12db0ef2d4e2f3228818623ce4f0f5a3",
+        "d47aba69079d01e0606ab67d4d184cb7",
+        "f0606160c6a230b9a111667159a53ecf",
+        "3f78b01f5d27617cd8fa123c3087c7d6"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 03",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "724140812e6cc25f0b5e21030b4e2390",
+        "4418290e51a5082434a14fe26d5ebd0c",
+        "f10ab29c34627b7f6e2b4ce12b6eeb62",
+        "6f00896a24953aee0a0962eb712be9ac"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 04",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "5f23cd7fa67d42b99eb6a2a9a78f61d6",
+        "e63c9c9e6b0b539c141493792a4015b7",
+        "dac15a1f208dcd9f9c67cfadec2c7d61",
+        "b24dc33a35d782d2ebbc60cb2b0296b6"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 05",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "d4cae082a6c32c6b66a3cdff5024a322",
+        "413f57dd6c1b14b7e938f140a443eebc",
+        "912713582fa123a40e61edde3b68679d",
+        "723159503b40bba9385405f1e7eef927"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 06",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f3c17208b6442c85bda6ad773a0f6df1",
+        "437bda6fdc180e2fcf225a4ddf2df7bd",
+        "ed0a08bb6c87d4002d758602d3f2aac8",
+        "523835bc67ef5bc9bb6f19a61fbea7ab"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 07",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f5e641a68f44e52e7c4d3857db84d07f",
+        "515c0688ecfcf448fd1d2accff2d8ff7",
+        "525a6dc9c7d160e86bda084f0e5f68cd",
+        "72113d115fcfeadb856f510e76611609"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 08",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f8c9dff750341063a3df9b84535d74db",
+        "64a5a263568198f1e635320d593fb1ca",
+        "d6d1dee40aacc77254701cecea68b094",
+        "9a8e87868c57cedbf54167f3a826b141"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 09",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "00adf77a8cd71e1a3259993c621c2937",
+        "32d99b4e1d1e22ed21976c01a48cd33f",
+        "7ec4bc0106ae99700858664391bdc340",
+        "fc393032e77d387d9aa5ef5ff8b52452"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 10",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "b1e9b246b47fb4eb4410afaf22a8e2c3",
+        "64e271a27a6699d68b374e1a180a1192",
+        "7d5223768e75a9852eb076a0370feb8f",
+        "9fb65ad7efa410dc76510269674ce06c"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 11",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "be7ba1a50d460f4c1465953712c2f18f",
+        "4fb6feeb09401408d5f75f4333061163",
+        "066578e1183d04c4e32907bfd00f352c",
+        "8c3a3ddbb5493cebd1d3315bce2e98ec"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 12",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "619515c2766c42131f5a390c259a243a",
+        "fcf9492aec9196fe7802aba45f38d8a0",
+        "f9ae2efa42f0cda953814eb70ab80894",
+        "5c0fe02a13f0055e357072b430a38f5b"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 13",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "d1e59a5c66b818e8b53ae45ca58bcc2e",
+        "d9d07d57467a46047e2c2db104151b3a",
+        "2712413c1f000386648f8a7b2f092116",
+        "fd7d45a946b10628f2473b2dd9ac1430"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 14",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "00eb28ff2ca8920b7695f86e3c5ac649",
+        "c62b3391a5b9b712dd89a18d695685e3",
+        "7fa832dbe9a1b471dcf00dc793fa74ec",
+        "dffb00869b1133caa1e64473ad771936"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 15",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "97663762c452b499955336a246cc79eb",
+        "fbd038dac2047b6f277a64c605f0ca57",
+        "e0a8036da77a71475d5c13d0c72ec39d",
+        "56036e42ce9b47a0cf5c1db0d5711ed5"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 16",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "ec52fc7af042a9fb92166a8aa7efc92a",
+        "7c3ab31d4dfd923edb27b1ce60747001",
+        "dea6f164f4f16486b4dc1ed84f1012c0",
+        "9beb81be2655599d34cb0ee9b4f9fc55"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 17",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1d677bee683f0ec7c509f7afb31e2260",
+        "4c8df66485efbfa0dedefbef77d69ee4",
+        "701c262f1f29dfc197c2f578321a8c39",
+        "792b8daa37dea9193a0e3d92ecc6da75"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 18",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "ed5fb48f239030d24f7136935080732e",
+        "18468d877e3d64249774e6104e22413b",
+        "dc43edb65611257c1a4eb25ec74b7d9a",
+        "51cfcc119aa3b4b517299c69e2c1d943"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 19",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f6366e5d36a9e5403cba3da7e87cc5aa",
+        "f623e4961e28494063a118a0feda567a",
+        "a4ec37bd57910cbb6649f6f376322db0",
+        "8623d7f7c4558a4ae134052454117c1f"
+      ]
+    },
+    {
+      "name": "第4期同梱表 Level Measure LEVEL 20",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "3a503fb4e6605b82ed3ceafe760b5c85",
+        "178ab90fea564a7a142ed600460860c5",
+        "a5bdc08e4db30b41956521de1d20b0a5",
+        "c8b413b74ff5e933d413f568c23449ec"
+      ]
+    },
+    {
+      "name": "同梱表 Level Measure LEVEL 21",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "a564f224dd5a67c00f1678be305ecf65",
+        "ebf8171694ad9c784603c56639bef822",
+        "f045fc80eec111998ed6675e4549f42b",
+        "0d5cadc5ffb8ad7143885f034b05dbf5"
+      ]
+    },
+    {
       "name": "第3期同梱表 Level Measure LEVEL 00",
       "constraint": [
         "grade_mirror",
@@ -349,6 +679,636 @@
         "c81fdc8cfc6e066e0162bc763ecf8c0c",
         "920bbb8651f9e20c382d43ea99911afb",
         "c8b413b74ff5e933d413f568c23449ec"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 00",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "eee901472fe47cc6654538446591387e",
+        "3e6bde3e860332b30d8dcf9ed67c5df1",
+        "b1f97fef0a170db264a7c5f52908ed54",
+        "b8226fd6cc367f2cdfd6f6831c57c89c"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 01",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+        "a1cc6dc75432f0c2d9439f2486462249",
+        "87dd508acd2ba1d035d8a64e4d3b7838",
+        "360a56370c9f3cb63a73613ca6cc6017"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 02",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "cf1a1ec0a9f4ee43a9a36b66c7935e58",
+        "615c2b88452a497b435bec54982b34b8",
+        "3f78b01f5d27617cd8fa123c3087c7d6",
+        "3a82138a8989ca0b313f44805074bb40"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 03",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "6a7898879946a712b0fd0bcc861645bd",
+        "e7d920f341045a717b572bfe68c8eb7f",
+        "35f9697e17de0d312054c732f29cba18",
+        "20b5f54f74fd298272679493183f8d5f"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 04",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "6a553647cc798708db899fd4048504db",
+        "5c2fb8da8db467799c9239a3740c4f88",
+        "2dfe8ce71b87ccf054b0620db6d44d78",
+        "0cecd610a3ec8dd993edfc9907de5120"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 05",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "7eaa15c177b305e7c0f1b0e78de210e9",
+        "741055d4142f1051c442ca4b94394231",
+        "283fd5f4a3cf8ff49fe2cc9707f6a347",
+        "a27f106c6c3e32193334f14ac46e3735"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 06",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "5f14d4224ce01fa844034705aac72a64",
+        "a271bc1cdeb8ad938f24082c9a130272",
+        "3ec24e09258e99eabdf3f2b2db2465d9",
+        "ce48fdb800dab17b396de1995d44264f"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 07",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "4bf3741ceaf20457a90178255e776115",
+        "515c0688ecfcf448fd1d2accff2d8ff7",
+        "3a25069309407c945c5112be5d540aa3",
+        "9ce00182078600ac9cc8b2460e4f7761"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 08",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "34f0eaec4bdcefa0562afff8fd20f8e0",
+        "32d32a0508f717b8594beb378c97cbad",
+        "cb7b3d08326adaf0e9bee65de5353dda",
+        "9a8e87868c57cedbf54167f3a826b141"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 09",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "29b0684e44c96d385748fca44f5533b9",
+        "ad4cf4271c27b44c238a61f1431e120f",
+        "ec5c3ead989b5c4566dde13d913eb076",
+        "fc393032e77d387d9aa5ef5ff8b52452"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 10",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f44fa434f70f38e26a7aa75141c78d25",
+        "32d99b4e1d1e22ed21976c01a48cd33f",
+        "40893750eb94a1a1b0d8cb8f45a73b6b",
+        "1f221c8725ad8404c3c2c6b866b7d001"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 11",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "475b96677f305eefe18922ac287c4729",
+        "4fb6feeb09401408d5f75f4333061163",
+        "3f055cc6d0e7b394b3952b5927235860",
+        "34d22ec27e337601a0350428ddf065d0"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 12",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "161e0cba521fc289f097bbcabcc1f763",
+        "8d7555c23a8f4e0023d3a787c02202d1",
+        "4413a1e497ef3e14fdb266990323a8a6",
+        "454b8b67f40165d4b051756f4e997ae6"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 13",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "d8a4497d8c93850ca408f943c87b1574",
+        "08d1ddfe56f94dc4e8dd34e3806b4c5e",
+        "5dd1e9e9e4fed21c43831cb49caf594c",
+        "bf296157872d81d25a170a3d0bdd7c09"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 14",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "f10b03d02d31adf29fbfc1a24ea2e16f",
+        "0bbc7f57891314351c503a4b829d80ab",
+        "12465f3ced547f6a6735f94c9f6751b1",
+        "dffb00869b1133caa1e64473ad771936"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 15",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "2a45cbc3033ad88509070c8fb036b7ec",
+        "4da9cb02032277b8bb05bbdbe1b440fc",
+        "0b34df840c81bb6e1a70be633d23b4e3",
+        "56036e42ce9b47a0cf5c1db0d5711ed5"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 16",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "302cabb6ce07dac3681c6ccfed97666f",
+        "248077b9eefd7065faaf41267e5ad691",
+        "4ad3d6fd738190796262510dd3619b1f",
+        "f649c932d7df6ba14f3c7c4ef69cce4e"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 17",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1146b18b7623c60e8e7dda4fbac1568d",
+        "b7806afd42bfcd2a91dcfeb3b2b80361",
+        "5eef556a7674d33bfca425904a76fd71",
+        "792b8daa37dea9193a0e3d92ecc6da75"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 18",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "18468d877e3d64249774e6104e22413b",
+        "ed5fb48f239030d24f7136935080732e",
+        "166114285ac2f45bacfd885950ac7636",
+        "2cdcce80b851f319c17e96a65c05a3bd"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 19",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "25424c3d4c970f8d975a91bcb513960d",
+        "c097516d6eb94e6f113fff500458cdb4",
+        "69e76ecdfd8064c934bc8a5aaad6a17a",
+        "8623d7f7c4558a4ae134052454117c1f"
+      ]
+    },
+    {
+      "name": "第2期同梱表 Level Measure LEVEL 20",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "9f3bab1cdb0493486005dee5190372a2",
+        "c81fdc8cfc6e066e0162bc763ecf8c0c",
+        "945186e72918774b15cff9a38fe7d8ec",
+        "c8b413b74ff5e933d413f568c23449ec"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 00",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "d32c01790382892611920b223fa8a6bd",
+        "cc410b930556c18a6c9ce63bc084be1b",
+        "9a2297b0d7d8c0027672a55be88f3b9b",
+        "b8226fd6cc367f2cdfd6f6831c57c89c"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 01",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "8e518a4823681bb9132256d233093369",
+        "ba295775ec71f986c1710ffe9e93b0bf",
+        "87dd508acd2ba1d035d8a64e4d3b7838",
+        "1c88ab0a4e4d0cf529498b31dcf75c27"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 02",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "013a75ce304ca03cacf9e2abbb83f311",
+        "da1486af113d90df22ad7ab265792753",
+        "3f78b01f5d27617cd8fa123c3087c7d6",
+        "1438c3fe90d300f537ef470fa21c54a0"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 03",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "674adf9f8558ee0301932086290dc87c",
+        "f87d2e65398c60f7eab4b58b36c80b3f",
+        "6fac83c3c74236991cf12953a92d2a57",
+        "20b5f54f74fd298272679493183f8d5f"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 04",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "cbf63c4f6ea525a4548839cdf40dbfc8",
+        "c391a5b15f0f6998b460eba064217f8b",
+        "97a569396ff351c00deafaa5256c5985",
+        "9166ec5855c6ccf78d12e773f9018483"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 05",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "ebd7e34b6056e0cc37516fcb9200cd3b",
+        "1faa613b7b98b71b00becbe2e73338f8",
+        "9c077604c2e39aa1c68a50cbcd34de10",
+        "a27f106c6c3e32193334f14ac46e3735"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 06",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "523835bc67ef5bc9bb6f19a61fbea7ab",
+        "18f23cd1ad1b0505aec5f9ae10c07600",
+        "1be1ca476fe22df2d14ff87ea6ae29a5",
+        "ce48fdb800dab17b396de1995d44264f"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 07",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "9523873f4caff7cd4df12bccce160604",
+        "515c0688ecfcf448fd1d2accff2d8ff7",
+        "474315ceae9b59e952b6a604b9c190aa",
+        "4cc3a2ae8ae0bfff7b1bbe65c0093e2b"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 08",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1b3a69ba41f4755f0b566a348c2eb4b0",
+        "32d32a0508f717b8594beb378c97cbad",
+        "2292bf4395518199dccf1e07b9add552",
+        "9a8e87868c57cedbf54167f3a826b141"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 09",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "a1fc8f39becc3b3ee381a800b624b809",
+        "a4b8db15be5477614cfa6f0cfbb43388",
+        "5a9db579baf2e9cf23a1d7d773ca7487",
+        "fc393032e77d387d9aa5ef5ff8b52452"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 10",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "35ff48e2b59302f2313413ac47fa3e99",
+        "32d99b4e1d1e22ed21976c01a48cd33f",
+        "f1e16d623fd1122da9682c31e313dd25",
+        "8c3a3ddbb5493cebd1d3315bce2e98ec"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 11",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "00dfcbf49e0ac7f5ba32f6e4a7927c3a",
+        "65c00e49780a34273d9b3dda62eb7111",
+        "f53e88b822c684bcc51cab8eeb629a5f",
+        "34d22ec27e337601a0350428ddf065d0"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 12",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "fb1e473a19648c9c893d10764a67e50e",
+        "8b8001dd7eb1b0e80e14601c4a6fa21e",
+        "6f8ccd384a071901dde382818fe784d9",
+        "454b8b67f40165d4b051756f4e997ae6"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 13",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1f53927b49a8181f103861ddbe206f65",
+        "8d7555c23a8f4e0023d3a787c02202d1",
+        "5dd1e9e9e4fed21c43831cb49caf594c",
+        "19d279fbbf6eef674c1256f402e18cc9"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 14",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "a9e52da28747098fcc9f9a72a14b8a32",
+        "fb4fbe14175ee65981ae339d709340cd",
+        "b3d6a32e0b0a817c6b77bdde37fb60eb",
+        "66679538ebb24d4b998a77a084677068"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 15",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "1fd194405a3adfa378f7f079a656a79b",
+        "4da9cb02032277b8bb05bbdbe1b440fc",
+        "0613c5e457a4ce1f7b6fa2a4f1a7f554",
+        "56036e42ce9b47a0cf5c1db0d5711ed5"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 16",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "ee97e4eab3e718c3603f7641de1bf961",
+        "8f1bfa14a5bb435b315d364ee2c785c8",
+        "de6b8516132614b665aa8cdd46c654dc",
+        "f649c932d7df6ba14f3c7c4ef69cce4e"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 17",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "81e64663f569b063438a7309753fcfc5",
+        "6acb4a40a55f77a319e46cb799aade60",
+        "eaca9719045f4d557674b98c84cf4038",
+        "651af5c9134287cf48fd9e22547244bf"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 18",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "6e2291bffcb84d1eef743ac10aef5e49",
+        "ce1e9fa564c403eef626433a1c836f88",
+        "7b0fcf7da5d772ac6c4cdceb0ea386a8",
+        "2cdcce80b851f319c17e96a65c05a3bd"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 19",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "c346c9a4a4c017d8d99e3d9529810837",
+        "fb83ea90d2691cd975c4948ff4abbb07",
+        "160a0b291be2e4aad4a4b670220da462",
+        "8623d7f7c4558a4ae134052454117c1f"
+      ]
+    },
+    {
+      "name": "私的 Level Measure (第1期同梱表LM) LEVEL 20",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        "ln",
+        ""
+      ],
+      "md5": [
+        "9f3bab1cdb0493486005dee5190372a2",
+        "c81fdc8cfc6e066e0162bc763ecf8c0c",
+        "c8b413b74ff5e933d413f568c23449ec",
+        "b5e8277457a00eacde2aec0a42ea366b"
       ]
     }
   ],
