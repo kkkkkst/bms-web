@@ -315,6 +315,346 @@
           "45b1bff2a54e2cb1bab20449c5a7c7f3",
           "17feecd94600b5eb6e6c30e90cc48353"
         ]
+      },
+      {
+        "name": "STELLA技能訓練 st Boys",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "0e1e496945f9f1b7b55f46cff48686aa",
+          "1810130fde5b434f4008a215b57f82cc",
+          "363f5744e85c161d49986b3e7197fbca",
+          "98235538f28e0be71bcd18a221a4c5a3"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st ???",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "9f8df86d3df3af71c44a07edd431527f",
+          "7d47261760705e1665e367e0893c59fc",
+          "3450980c996be99f58926660fb0f4c0b",
+          "06bce609c001cfd7ecf1b28a513b9a6c"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st Girls",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "b8ef7cfc2121dc7e62c94a09b6459a93",
+          "481f353fa2626391130030ee623f3a7b",
+          "8fcf3beff566bf6256f4a7212432c68c",
+          "4d13935cc73841a8755dd1c44a6a0e4e"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 stMuscle",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "b2ab33f6e10c206d329c35b05ef822ed",
+          "baf435b1b3ceab8cba39e58bf86b30de",
+          "4146467a6c5bd4c27b5022f10c14efb8",
+          "ff52797ef9b4e23b460228e374524a6f",
+          "0d51be5bb5e7ce5470f5bb21559f6f64"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st Hexagon",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "94dd053331872ee0fcb858d86cefee74",
+          "02a2aee824b3d0bb1c1d55022f8e8d5c",
+          "19882f14ec385af0804e7bfa0833d5bd",
+          "8ea6711c0891e00dc0e724977ce36c06"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st裏皆伝",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "45294a6908dc4a0beb46702f142f864b",
+          "403e9511dd9b029a22cdf45e55f36384",
+          "2b1ae8441aeee72aaa68362edccd2601",
+          "1f64f614080a4e070bc365d4a6310f19"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 stMarathon",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "1159a3e0e77fbe497333a4ab97d40f7d",
+          "0c743a2d771c22f1d7a45e40a299c454",
+          "46a2c6c0f73f1520feac4228982eb17d",
+          "4734dfe0cc9a169269dda03c6f8f11e5",
+          "e905bb335664836f77e40825d3db2353"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st「B」",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "2ef13e2092c83543862c03babeaccc4b",
+          "945186e72918774b15cff9a38fe7d8ec",
+          "65907e463ec91721937ceb396980e6ae",
+          "54d4facf3ab605c7b5c61177a75ae223"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st overjoy-",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "8cb55c1645e272a0d2bcfa4bb2a788a2",
+          "5cabdb40c68323c6b567ec0507f4804e",
+          "0397367543e53c1aa02daa037d886b99",
+          "c46a81cb184f5a804c119930d6eba748"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st Other",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "f5ab931263d62a063b1bce32bfae492d",
+          "02580b5c353eac65db38470fee32bd4f",
+          "795a49f0f1af941dba965d946ca31c6f",
+          "f6f6de31a6a7501e329374fc17b878dc"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 stProfessional",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "bf36d5c76ef6449f805888b7bdc334f4",
+          "25f637af6dd3a5138d347fcabebd7857",
+          "9db892b1b621caa4f35c9c0f5b508261",
+          "275df7237fb43091ee19ecc20f6ed606"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 stMaster",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "7b120f62df2da69ec06f2321d1969f67",
+          "5a1666a1d517826b476f9a7ad732dfcc",
+          "9babdbf73ea3bee55904b664e8a236e4",
+          "22f71b0463955fcedb84eca9d09e60ca"
+        ]
+      },
+      {
+        "name": "STELLA技能訓練 st JADONG",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
+        ],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "md5": [
+          "748589350d9a7f663cec78c2a61bce78",
+          "e01344b7d64159e7aa28b29d32ea6351",
+          "421f225262c1e32732d904ecdd62478d",
+          "daa1e88b592a4fa6dae4365cd9dc034d"
+        ]
       }
     ]
   ],
