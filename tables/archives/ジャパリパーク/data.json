@@ -34637,5 +34637,60 @@
     "max_bpm": "340",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=140",
     "url_diff": ""
+  },
+  {
+    "id": "",
+    "level": "-2",
+    "title": "grode [穴]",
+    "artist": "dandeless",
+    "comment": "",
+    "md5": "552af7c94cda93c1ddc7287cdadcb56f",
+    "max_bpm": "140",
+    "url": "https://drive.google.com/u/0/uc?id=11Q7lWxxz6DXpF_y4LVIR4mgILVqb3Rs8&export=download",
+    "url_diff": "同梱譜面"
+  },
+  {
+    "id": "",
+    "level": "-1",
+    "title": "Halation [W]",
+    "artist": "Nyolfen BGA:空読無 白眼 / obj. w",
+    "comment": "",
+    "md5": "12b22d1c53b263eb5bf5137c7f16a081",
+    "max_bpm": "10000100",
+    "url": "https://venue.bmssearch.net/artisticbms/9",
+    "url_diff": ""
+  },
+  {
+    "id": "",
+    "level": "3",
+    "title": "遠声 (__)",
+    "artist": "道済　儚　及び　秋山　としのり",
+    "comment": "",
+    "md5": "21fa982404235b5c4d6f7f9e2f46b99e",
+    "max_bpm": "185",
+    "url": "https://venue.bmssearch.net/bmskanji2/32",
+    "url_diff": "同梱譜面"
+  },
+  {
+    "id": "",
+    "level": "3",
+    "title": "ZENYTHILIZE",
+    "artist": "姉ヶ崎 寧々 BGA : photonskyto",
+    "comment": "",
+    "md5": "7ea51d3bfe371f19d49e288f59162316",
+    "max_bpm": "150",
+    "url": "https://electro-planet.net/loveplus/zenithalize.rar",
+    "url_diff": "http://yaritaihoudie.free.fr/sabun/zenithalize.zip"
+  },
+  {
+    "id": "",
+    "level": "2",
+    "title": "シャトヤンシーにくちづけを",
+    "artist": "Rner Pattern: M-SPIN",
+    "comment": "",
+    "md5": "5a0de010eadb870bcf112c00ee0f2e0b",
+    "max_bpm": "163",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=140",
+    "url_diff": "https://darksabun.github.io/event/bofet/"
   }
 ]

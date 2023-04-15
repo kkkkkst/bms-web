@@ -4061,16 +4061,6 @@
   },
   {
     "level": "6",
-    "title": "風の塔 [...]",
-    "artist": "しも fw. hapi⇒ obj: qtp13",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
-    "url_diff": "https://stellabms.xyz/upload/486",
-    "md5": "149dd9e5a754d0414c4afbbb82978642",
-    "comment": "404",
-    "打鍵速度": "404"
-  },
-  {
-    "level": "6",
     "title": "硬核機動 [Finale]",
     "artist": "しらいし / obj morio",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
@@ -4178,16 +4168,6 @@
     "md5": "1bcf005067e17e5da4c23a08eb19cbdd",
     "comment": "st7/360?",
     "打鍵速度": "360?"
-  },
-  {
-    "level": "7",
-    "title": "BABYLON [SPADE｢ｼA]",
-    "artist": "SHIKI / KWY*",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=60",
-    "url_diff": "http://jikde.egloos.com/32461644",
-    "md5": "2c321c02771cc342914b0b936432f86a",
-    "comment": "sub st7/380",
-    "打鍵速度": "380"
   },
   {
     "level": "7",
@@ -4528,16 +4508,6 @@
     "md5": "e3d630b2cbdb691023a92a7c5b3cf1d5",
     "comment": "520",
     "打鍵速度": "520"
-  },
-  {
-    "level": "7",
-    "title": "Tuk Tuk Boshi [7keys DELAY]",
-    "artist": "Shaman Cure-All",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/IMtWiAob",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01241",
-    "md5": "458e4098512630b14c6096d4d0c68842",
-    "comment": "dy2/296",
-    "打鍵速度": "296"
   },
   {
     "level": "7",
@@ -7178,6 +7148,36 @@
     "md5": "fb393a2814927adc80fba6fcb75b4718",
     "comment": "★★4,dy1/370",
     "打鍵速度": ""
+  },
+  {
+    "level": "-sub 7",
+    "title": "Tuk Tuk Boshi [7keys DELAY]",
+    "artist": "Shaman Cure-All",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/IMtWiAob",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01241",
+    "md5": "458e4098512630b14c6096d4d0c68842",
+    "comment": "dy(sub)2/296",
+    "打鍵速度": "296"
+  },
+  {
+    "level": "-sub 7",
+    "title": "風の塔 [...]",
+    "artist": "しも fw. hapi⇒ obj: qtp13",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
+    "url_diff": "https://stellabms.xyz/upload/486",
+    "md5": "149dd9e5a754d0414c4afbbb82978642",
+    "comment": "dy(sub)2/404",
+    "打鍵速度": "404"
+  },
+  {
+    "level": "-sub 8",
+    "title": "BABYLON [SPADE｢ｼA]",
+    "artist": "SHIKI / KWY*",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=60",
+    "url_diff": "http://jikde.egloos.com/32461644",
+    "md5": "2c321c02771cc342914b0b936432f86a",
+    "comment": "sub st7,dy(sub)3/380",
+    "打鍵速度": "380"
   },
   {
     "level": "-sub 9",
