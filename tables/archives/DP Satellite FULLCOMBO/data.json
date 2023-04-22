@@ -12,12 +12,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "d7e305a2f3685592730aae1baea5735e",
-    "title": "Out of Sense [DPA]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "80aa05db73ca35739b93df3f46afc440",
     "title": "Regain [DP HYPER]",
     "level": "4.00...4.50",
@@ -158,6 +152,12 @@
   {
     "md5": "3e2b303f183b77fe7938104a8c7a8869",
     "title": "Nu Flame [14K ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "d7e305a2f3685592730aae1baea5735e",
+    "title": "Out of Sense [DPA]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -396,12 +396,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
-    "title": "ラケシスと永遠の祈祷者 [sub another]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
     "title": "未来のコピヌ [DP ANOTHER]",
     "level": "5.50...6.00",
@@ -612,6 +606,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
+    "title": "ラケシスと永遠の祈祷者 [sub another]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "388426e945942e01ac07b0ff81503690",
     "title": "多重極展開 [DP Molecules]",
     "level": "6.00...6.50",
@@ -746,12 +746,6 @@
   {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -938,6 +932,12 @@
   {
     "md5": "65475e8733cf1d03de23f994e7842796",
     "title": "アナログ横丁 [14巻]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -1770,6 +1770,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
+    "title": "Across the Sky [DP Stratosphere]",
+    "level": "-",
+    "comment": "sl12"
+  },
+  {
     "md5": "a6f82198424691c199e5163f49506554",
     "title": "After Burner [Adventure]",
     "level": "-",
@@ -2400,6 +2406,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "698d9fbed50790069cef8063097f8201",
+    "title": "Illusion of Mind [DP NIGHTMARE]",
+    "level": "-",
+    "comment": "sl12"
+  },
+  {
     "md5": "d73cdd6d5d1897e2d3052b74263b5283",
     "title": "IN [HAORSE MUSIC / DP譜面]",
     "level": "-",
@@ -2872,6 +2884,12 @@
     "title": "Shape [14Ex]",
     "level": "-",
     "comment": "sl5"
+  },
+  {
+    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
+    "title": "SHINKA [14KEYS ANOTHER]",
+    "level": "-",
+    "comment": "sl11"
   },
   {
     "md5": "8e171847ff4fd27ff8501e1ec2ced6cb",

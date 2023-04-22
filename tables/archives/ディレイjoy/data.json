@@ -291,16 +291,6 @@
   },
   {
     "level": " DELAY BEGINNER",
-    "title": "スナレ",
-    "artist": "Zris feat. Green",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
-    "url_diff": "同梱譜面",
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "comment": "sl8/298",
-    "打鍵速度": "298"
-  },
-  {
-    "level": " DELAY BEGINNER",
     "title": "スナレ [Huge]",
     "artist": "Zris feat. Green / obj:83929",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
@@ -6940,6 +6930,16 @@
     "打鍵速度": "464、928、1020、1856"
   },
   {
+    "level": "-sub DELAY BEGINNER",
+    "title": "スナレ",
+    "artist": "Zris feat. Green",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "url_diff": "同梱譜面",
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "comment": "sub sl7/298",
+    "打鍵速度": "298"
+  },
+  {
     "level": "-sub -2",
     "title": "Angelic Snow [DELAY]",
     "artist": "Est /D",
@@ -6947,6 +6947,16 @@
     "url_diff": "https://drive.google.com/file/d/1LelOLmcFn5hFaY9_fjInPYvI1aOeMSem/view?usp=sharing",
     "md5": "d3a21254a1ec60616425e86e8713c669",
     "comment": "sub dl9/296",
+    "打鍵速度": ""
+  },
+  {
+    "level": "-sub 0",
+    "title": "Fickle Mind [End]",
+    "artist": "MALVA. / Reiaki. BGA : paraneumann",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=140",
+    "url_diff": "https://stellabms.xyz/upload/2225",
+    "md5": "48b18638610539e74588db700a73d532",
+    "comment": "st1",
     "打鍵速度": ""
   },
   {

@@ -180,18 +180,8 @@
     "level": "5.4"
   },
   {
-    "md5": "66ad18dc4b94085c87324b757286755b",
-    "title": "anti [anticipated]",
-    "level": "5.4"
-  },
-  {
     "md5": "2eb20a32d1eb2609ba8743e8db75a8e5",
     "title": "holy night celebration -Despair & Hope-",
-    "level": "5.4"
-  },
-  {
-    "md5": "20bb096cb6605a0432ba570fce988da6",
-    "title": "macaron [わさび味]",
     "level": "5.4"
   },
   {
@@ -360,8 +350,18 @@
     "level": "5.5"
   },
   {
+    "md5": "66ad18dc4b94085c87324b757286755b",
+    "title": "anti [anticipated]",
+    "level": "5.5"
+  },
+  {
     "md5": "81fa58cf3499771c4f9f73da4e5f386a",
     "title": "happy century -Despair & Hope-",
+    "level": "5.5"
+  },
+  {
+    "md5": "20bb096cb6605a0432ba570fce988da6",
+    "title": "macaron [わさび味]",
     "level": "5.5"
   },
   {
@@ -485,11 +485,6 @@
     "level": "6.4"
   },
   {
-    "md5": "5227a17ac5adf4f1785a181079446b66",
-    "title": "After The Rain [Drops]",
-    "level": "6.5"
-  },
-  {
     "md5": "1abcc42c80d81038a242ecd688a2b048",
     "title": "Creamy Sky [はっぴぃ↑↑]",
     "level": "6.5"
@@ -513,6 +508,11 @@
     "md5": "38e8eec9831456f09e51ef1f89a4035e",
     "title": "Subjection Method [人を怒らせる方法]",
     "level": "6.5"
+  },
+  {
+    "md5": "5227a17ac5adf4f1785a181079446b66",
+    "title": "After The Rain [Drops]",
+    "level": "6.6"
   },
   {
     "md5": "2af37ac8096e58659f14d6af115591fa",
@@ -752,6 +752,11 @@
   {
     "md5": "3edbc8940ca812c2c784cfd8f3af227c",
     "title": "Metatron [DX]",
+    "level": "6.7"
+  },
+  {
+    "md5": "e603d5a395da06aff896c0a47e8db6c4",
+    "title": "On And On!! [Initiator]",
     "level": "6.7"
   },
   {
@@ -1415,6 +1420,11 @@
     "level": "9.1"
   },
   {
+    "md5": "4e8f460102a15b8b885955cf3e094a4d",
+    "title": "Cong＊Chu＊Jelly [mint flavor]",
+    "level": "9.1"
+  },
+  {
     "md5": "3216e0be0404e5311672194432d8b82a",
     "title": "Destroyer［Oxygen］",
     "level": "9.1"
@@ -1612,6 +1622,11 @@
   {
     "md5": "f4c7bf02b54e8dfb4c19ee85218a50c9",
     "title": "あにまらいおっと [Raker]",
+    "level": "10.2"
+  },
+  {
+    "md5": "900c3268303dcbf01a58fdab4c06142e",
+    "title": "シミュラ・ラクラ -閾ｪ谿ｺ-",
     "level": "10.2"
   },
   {
@@ -2025,6 +2040,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "e7cfa8b0c28317642de91322d1dcfebe",
+    "title": "あい☆こんぷりーと [平凡な女の子の優しい譜面]",
+    "level": "Infinity"
+  },
+  {
     "md5": "e05e18d4ed72a4202353667e4bf4c1ce",
     "title": "ふたりの-><-シグナル [SHINING LIFE]",
     "level": "Infinity"
@@ -2077,6 +2097,11 @@
   {
     "md5": "60421a543b4bc1b08fb77f433c5c8408",
     "title": "桜シロガネ妖狐伝説 -LiALIZE-",
+    "level": "Infinity"
+  },
+  {
+    "md5": "41d7e89f8864e57295f5f00b4104bb8f",
+    "title": "霞桜と花の雨 (Another Edit)",
     "level": "Infinity"
   },
   {
@@ -2295,11 +2320,6 @@
     "level": "Infinity"
   },
   {
-    "md5": "e603d5a395da06aff896c0a47e8db6c4",
-    "title": "On And On!! [Initiator]",
-    "level": "Infinity"
-  },
-  {
     "md5": "44d20d9a0970f27dcff847b58cc83ae4",
     "title": "Parousia [ANOTHER＋]",
     "level": "Infinity"
@@ -2340,8 +2360,18 @@
     "level": "Infinity"
   },
   {
+    "md5": "ccacba9cc726f0502b25b0dbbbbbc403",
+    "title": "Retronika [Ekstrem]",
+    "level": "Infinity"
+  },
+  {
     "md5": "4b27ac124e5d92c71e9754099ca6dd5d",
     "title": "SCARY BANQUET -Extrication-",
+    "level": "Infinity"
+  },
+  {
+    "md5": "e7c2000f5125283dacc8878eb00114d2",
+    "title": "SLAUGHTERTUNE -SPREE-",
     "level": "Infinity"
   },
   {
@@ -3157,11 +3187,6 @@
   {
     "md5": "695f6004928bd6573f1c7366014677a7",
     "title": "Comet (BMS Edit) [CHOCOMINT=CRIME]",
-    "level": "Infinity"
-  },
-  {
-    "md5": "4e8f460102a15b8b885955cf3e094a4d",
-    "title": "Cong＊Chu＊Jelly [mint flavor]",
     "level": "Infinity"
   },
   {
@@ -4392,11 +4417,6 @@
   {
     "md5": "77bf244abecda64517ad9bce06757fbe",
     "title": "シグナルほっぴんぐ -(^-^)/-",
-    "level": "Infinity"
-  },
-  {
-    "md5": "900c3268303dcbf01a58fdab4c06142e",
-    "title": "シミュラ・ラクラ -閾ｪ谿ｺ-",
     "level": "Infinity"
   },
   {
@@ -6032,6 +6052,11 @@
   {
     "md5": "6ef32f385b60a56e1a2583de6e619ee1",
     "title": "oceanbird -LAST BOSS-",
+    "level": "Infinity"
+  },
+  {
+    "md5": "dd9bd1bdc410917259006acc72b634af",
+    "title": "∞ bit [LT's INFINITY]",
     "level": "Infinity"
   },
   {

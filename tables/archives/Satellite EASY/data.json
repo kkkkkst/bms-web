@@ -630,6 +630,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "2326ca3864a2f511d7582194e332641f",
+    "title": "Prayer [SP AZOTHER]",
+    "level": "-0.50...0.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "07baa34abf34131ee20ab40b70354037",
     "title": "Precious!!! [7key,Another]",
     "level": "-0.50...0.00",
@@ -1716,20 +1722,8 @@
     "comment": "sl1"
   },
   {
-    "md5": "07584f43a50e661ac3f8c1319d68e3d7",
-    "title": "twinkle white* [snow memory]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "a69797e5735be285a032d519788f2424",
     "title": "Valedict",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
-    "title": "WAYLAID (Additional)",
     "level": "0.00...0.50",
     "comment": "sl1"
   },
@@ -1754,6 +1748,12 @@
   {
     "md5": "9dd56ca71a0561a368ee819e719fac9b",
     "title": "あのね、涙は。 [月と星]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "bdd4a277a0296bde5807c6980681af21",
+    "title": "アイム・マイヒーロー [ENT]",
     "level": "0.00...0.50",
     "comment": "sl1"
   },
@@ -1974,12 +1974,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "95cc933f61be66e8f63fa0bdc464b49e",
-    "title": "char fleuri [Flower　Park]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "d22b1e2a3e758c4d4627d230eb90e8f5",
     "title": "Diachronic Reflection (SP Insane)",
     "level": "0.50...1.00",
@@ -2002,12 +1996,6 @@
     "title": "EMOJISM",
     "level": "0.50...1.00",
     "comment": "sl1"
-  },
-  {
-    "md5": "9a50c8e205ac779944a6855b9c003b6f",
-    "title": "F [F]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
   },
   {
     "md5": "e247ba36d83176a89304c39a8be5b876",
@@ -2064,12 +2052,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "4f60d60fb3195fbc0e198bdc08e64aac",
-    "title": "Orbital Drive",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "73b72d0d1c4f3851656d1bfa1f02514e",
     "title": "Reality [LASTATION]",
     "level": "0.50...1.00",
@@ -2118,10 +2100,22 @@
     "comment": "sl2"
   },
   {
+    "md5": "07584f43a50e661ac3f8c1319d68e3d7",
+    "title": "twinkle white* [snow memory]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "dffc4992285e5d5022952dd62e4236c0",
     "title": "Unidentified New Emotion -7Keys Another-",
     "level": "0.50...1.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
+    "title": "WAYLAID (Additional)",
+    "level": "0.50...1.00",
+    "comment": "sl1"
   },
   {
     "md5": "6382797789a4791da0e5750fb34d1fb2",
@@ -2292,6 +2286,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "95cc933f61be66e8f63fa0bdc464b49e",
+    "title": "char fleuri [Flower　Park]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "431bce1dce0c5c293dacc09c79e86b9b",
     "title": "Chronomia [ANOTHER7]",
     "level": "1.00...1.50",
@@ -2342,6 +2342,12 @@
   {
     "md5": "bde981560115cc2f7fa6e5a93b1c13dc",
     "title": "Existence [Another+]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "9a50c8e205ac779944a6855b9c003b6f",
+    "title": "F [F]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -2580,6 +2586,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "4f60d60fb3195fbc0e198bdc08e64aac",
+    "title": "Orbital Drive",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "69ca3f64e59c20a04e28579aa810ef64",
     "title": "Paracelestia [EX]",
     "level": "1.00...1.50",
@@ -2696,6 +2708,12 @@
   {
     "md5": "7952b139d621739116d8b16605df591a",
     "title": "Third World [World's End]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "a7cbd0db105b023b38bef0f379c37bce",
+    "title": "This is an Attack コンギョ ~攻撃戦だ~",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -3120,12 +3138,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "edf3b5d7f64ea23cf04f70443632b782",
-    "title": "Luca [ABNORMAL]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "de4b2ccfd35befc3aa9fd746343115c1",
     "title": "MAGENTA POTION [INSANE]",
     "level": "1.50...2.00",
@@ -3308,6 +3320,12 @@
   {
     "md5": "c6eb34cad636b0ff143004f77e39f9ed",
     "title": "◆ B a r o q u e ◆ －Reincarnation－",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "7cb92a0c0bcc322064f038cb9722b818",
+    "title": "★LittlE HearTs★ [ZOI]",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -3504,6 +3522,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "42b8aae291c69e28bdebfcfbc31a0797",
+    "title": "Amnehilesie [AbNormal]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "5f8458521d749bd7bf3c3df6a64e0ae7",
     "title": "Apollo [Monsther]",
     "level": "2.00...2.50",
@@ -3618,12 +3642,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "f3e519e5fb9d1109727a9a0393609f29",
-    "title": "GOODRUSH [I]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "5d5e7c9bda03f1975dbb9a67e5328c74",
     "title": "Grievous Fate [ANOTHER]",
     "level": "2.00...2.50",
@@ -3680,6 +3698,12 @@
   {
     "md5": "bb51e06228e7279b47120b9a5c527421",
     "title": "Love☆Spellcard [ZOI]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "edf3b5d7f64ea23cf04f70443632b782",
+    "title": "Luca [ABNORMAL]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -3822,12 +3846,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "7cb92a0c0bcc322064f038cb9722b818",
-    "title": "★LittlE HearTs★ [ZOI]",
-    "level": "2.00...2.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "ae5d009857fd0c46bb64e2affb603970",
     "title": "あい☆こんぷりーと -Hope-",
     "level": "2.00...2.50",
@@ -3920,12 +3938,6 @@
   {
     "md5": "1950f0e6809f704ac5ec63969ae24f9f",
     "title": "Amethyst Moon -Pure White Crystal-",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "42b8aae291c69e28bdebfcfbc31a0797",
-    "title": "Amnehilesie [AbNormal]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4080,6 +4092,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "f3e519e5fb9d1109727a9a0393609f29",
+    "title": "GOODRUSH [I]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "8a07fa5f322f8628b14ca4db50c465e0",
     "title": "Hecatoncheir",
     "level": "2.50...3.00",
@@ -4218,12 +4236,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "d5414294b120d5f2dbfec4eb6cd59f38",
-    "title": "squartatrice [HARD]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "bfc85e0964ffca13a5162543df1563f3",
     "title": "suffruti [ZOI]",
     "level": "2.50...3.00",
@@ -4250,6 +4262,12 @@
   {
     "md5": "afadaff138a89eaccefe71b4c94a6dc2",
     "title": "Turndup [Refrain]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "30ff3a5cf9b6602ce0e388084e86022f",
+    "title": "Unleash The Shouts [Uncouth]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4340,6 +4358,12 @@
   {
     "md5": "e44166113b52b63f9330d435761ce52f",
     "title": "温泉大作戦 [ZOI]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "0030e052e7271ff136d9d6ccaebd3659",
+    "title": "爽昧夢想ラバーズ [SP INSANE]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4548,6 +4572,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "ff9466e1b9fe2f8f703ab33f80c4803d",
+    "title": "LivedaM (imagination)",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "b11c5327a7a8300a9058e557b6da1039",
     "title": "Marmot [INSANE]",
     "level": "3.00...3.50",
@@ -4700,6 +4730,12 @@
   {
     "md5": "deeab620fa445e115fb4039155dad665",
     "title": "でじたるふぁじー！ -Radio Edit- [EX]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "e2b18a7ee3def34b287660af32527da3",
+    "title": "なついろ アーチ [夏]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -4992,12 +5028,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "ff9466e1b9fe2f8f703ab33f80c4803d",
-    "title": "LivedaM (imagination)",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "3faad7577fe7c3a750b0683693708c7a",
     "title": "Luna Express 2032 [Farewell]",
     "level": "3.50...4.00",
@@ -5064,6 +5094,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "d5414294b120d5f2dbfec4eb6cd59f38",
+    "title": "squartatrice [HARD]",
+    "level": "3.50...4.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "70120d2889c1e30252289b4e95e1f0c6",
     "title": "take me to the moon [yumether]",
     "level": "3.50...4.00",
@@ -5124,12 +5160,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "e2b18a7ee3def34b287660af32527da3",
-    "title": "なついろ アーチ [夏]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "6be2b837d15a10983c6b26248a6b75a9",
     "title": "もぺもぺ [ZOI-SC]",
     "level": "3.50...4.00",
@@ -5158,12 +5188,6 @@
     "title": "ベストフレンド [B80]",
     "level": "3.50...4.00",
     "comment": "sl6"
-  },
-  {
-    "md5": "5c5fdbb4051fc0b2b7831f54466b2fa7",
-    "title": "今日一日も全力疾走！ -Hope-",
-    "level": "3.50...4.00",
-    "comment": "sl5"
   },
   {
     "md5": "6e3a179e98fcaddc08bf998c7462cf88",
@@ -5536,12 +5560,6 @@
     "title": "ピアノ連弾的「You」～ひぐらしのなく頃に～ [ LEVEL 4 ]",
     "level": "4.00...4.50",
     "comment": "sl6"
-  },
-  {
-    "md5": "57f34b07c061a98a7d922bfe4e064bf0",
-    "title": "フロンティア↑↑エクスプローラー [Heliopause]",
-    "level": "4.00...4.50",
-    "comment": "sl7"
   },
   {
     "md5": "f735b2d7e027cc20f10453b1abed1cfe",
@@ -5988,12 +6006,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "title": "スナレ",
-    "level": "4.50...5.00",
-    "comment": "sl7"
-  },
-  {
     "md5": "502f2e31b37878df952c8bcd54b4e1b3",
     "title": "スーパーイザナギオブジェクト [yumether]",
     "level": "4.50...5.00",
@@ -6002,6 +6014,12 @@
   {
     "md5": "f1040af1f00fa49ea68ed6e9ab3aa2e9",
     "title": "ハッピーフェイクショー [ホントノシアワセ]",
+    "level": "4.50...5.00",
+    "comment": "sl7"
+  },
+  {
+    "md5": "57f34b07c061a98a7d922bfe4e064bf0",
+    "title": "フロンティア↑↑エクスプローラー [Heliopause]",
     "level": "4.50...5.00",
     "comment": "sl7"
   },
@@ -6216,8 +6234,20 @@
     "comment": "sl8"
   },
   {
+    "md5": "1922023d01ef953493c15342a4c418ca",
+    "title": "Stokesia [NEXT]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "88fc9ae4d2413564a6f9b1ab46c753bc",
     "title": "The Grinder [Lunatic]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "86c1799a5b2bcf6eeda15c1b0854d814",
+    "title": "Trane [SP ELIXIR]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6546,12 +6576,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "1922023d01ef953493c15342a4c418ca",
-    "title": "Stokesia [NEXT]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "73a8496cd9907b35ea00b0a17561b3ca",
     "title": "Strawberry Mint Chocolate [Mu]",
     "level": "5.50...6.00",
@@ -6588,12 +6612,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "86c1799a5b2bcf6eeda15c1b0854d814",
-    "title": "Trane [SP ELIXIR]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "695fb1cbc6d11fd35d019c9112355349",
     "title": "Upshift [Futabather]",
     "level": "5.50...6.00",
@@ -6602,6 +6620,12 @@
   {
     "md5": "6365227660e0056c8809e4a3e31c2459",
     "title": "WE ARE HARDCORE [Gang]",
+    "level": "5.50...6.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "8be565db62cb59739c827c5ee0884801",
+    "title": "Zero Feet [INSANE]",
     "level": "5.50...6.00",
     "comment": "sl9"
   },
@@ -6966,12 +6990,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "8be565db62cb59739c827c5ee0884801",
-    "title": "Zero Feet [INSANE]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "f162a877bcaffed5146a5a1a46a1d2d5",
     "title": "わーにんぴーぽー [Warning!]",
     "level": "6.00...6.50",
@@ -7056,12 +7074,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "08cd57615b032334aea711bff8392254",
-    "title": "All is fair in Rage [Toasty Fatality]",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "5ec95c7604c01c96b51f8c1ddeeed166",
     "title": "Angel dust [Phencyclidine]",
     "level": "6.50...7.00",
@@ -7088,6 +7100,12 @@
   {
     "md5": "d9411e1ea20048bb585c3a3c2282ebf9",
     "title": "Cross Galaxy [microcosmos]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "c7c5bc4ea5f507bb96aa2d2518efb385",
+    "title": "Defeat awaken battle ship (SP AWAKEN)",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -7146,8 +7164,20 @@
     "comment": "sl10"
   },
   {
+    "md5": "304c57c49333fc53fc4685e6db142dce",
+    "title": "Hypertext Transfer Protocol (C++)",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "5a83440834244c025689dc463a08437f",
     "title": "island dream [lunatic]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "0333321c1f9be693f214e6a5f46b9c99",
+    "title": "Jack-the-Ripper◆ [yumether]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -7332,6 +7362,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "08cd57615b032334aea711bff8392254",
+    "title": "All is fair in Rage [Toasty Fatality]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "8b3c66f945d041b5df53ba3e292e5c54",
     "title": "Andromeda [yumether]",
     "level": "7.00...7.50",
@@ -7404,12 +7440,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "c7c5bc4ea5f507bb96aa2d2518efb385",
-    "title": "Defeat awaken battle ship (SP AWAKEN)",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "c8b995f79cbfded6a80d830148fa0626",
     "title": "disperagioia [†]",
     "level": "7.00...7.50",
@@ -7452,28 +7482,10 @@
     "comment": "sl10"
   },
   {
-    "md5": "304c57c49333fc53fc4685e6db142dce",
-    "title": "Hypertext Transfer Protocol (C++)",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "0333321c1f9be693f214e6a5f46b9c99",
-    "title": "Jack-the-Ripper◆ [yumether]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "6f04bd2fab1e11d05ad7c69d829e6729",
     "title": "KISS CANDY FLAVOR (EX)",
     "level": "7.00...7.50",
     "comment": "sl10"
-  },
-  {
-    "md5": "67f4387cb513c9242b919df282e89fbe",
-    "title": "LiVEMeTAL [HEROIC]",
-    "level": "7.00...7.50",
-    "comment": "sl11"
   },
   {
     "md5": "b1abccc7683703378fe49ebb00358399",
@@ -7674,20 +7686,8 @@
     "comment": "sl11"
   },
   {
-    "md5": "96af0b0fd5f9e61ed5078494776a951e",
-    "title": "Blooderay Malie [D-Heavy]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "6f0f43196764fedcbbdd8d480b26ab15",
     "title": "Blue-White Crazystars [HARDEST]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
-    "title": "Calamity Fortune [HARDEST]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -7844,6 +7844,12 @@
   {
     "md5": "c9d0d8001a2ad32ddbc086b793c5af78",
     "title": "LIGHTNING STAIRWAY [SPIRAL++]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "67f4387cb513c9242b919df282e89fbe",
+    "title": "LiVEMeTAL [HEROIC]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -8178,6 +8184,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "96af0b0fd5f9e61ed5078494776a951e",
+    "title": "Blooderay Malie [D-Heavy]",
+    "level": "8.00...8.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "ad6d4631747d7aa03530a5db4b9120c7",
     "title": "Bloody Scarlet Nightmare [Li]",
     "level": "8.00...8.50",
@@ -8188,6 +8200,12 @@
     "title": "c.s.q.n. -Modus ponens-",
     "level": "8.00...8.50",
     "comment": "sl12"
+  },
+  {
+    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
+    "title": "Calamity Fortune [HARDEST]",
+    "level": "8.00...8.50",
+    "comment": "sl11"
   },
   {
     "md5": "c1a869dbb132dbfc87b87c220240276a",
@@ -8860,5 +8878,11 @@
     "title": "Wizdomiot [Kerother]",
     "level": "9.00...9.50",
     "comment": "sl12"
+  },
+  {
+    "md5": "81c1e7c3359fa4e4735360f2ead8f0ac",
+    "title": "現世発、希望行。",
+    "level": "-",
+    "comment": "sl1"
   }
 ]
