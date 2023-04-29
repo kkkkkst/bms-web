@@ -73,6 +73,34 @@
         "f20e53dcd35562b04c504928d73caf6e",
         "6d76d3cb7759b70cc616bfc504a5c39f"
       ]
+    },
+    {
+      "name": "widest",
+      "constraint": [
+        "grade_random",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "f20e53dcd35562b04c504928d73caf6e",
+        "7690972aad49eeb701d2d18a745a98b6",
+        "43ed5893736ed26e0c532df35838b8d0",
+        "ff746be0f2b692ffe6adc1bdd23c130c"
+      ]
+    },
+    {
+      "name": "stream",
+      "constraint": [
+        "grade_random",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "aa18cd83e9bd14cade78cad49d14d4f1",
+        "ff52797ef9b4e23b460228e374524a6f",
+        "fa8ef27697bd34adccb3862ac0a99d69",
+        "2e2c4168d3c350de3136a0c2ad23dce3"
+      ]
     }
   ],
   "original_url": "https://fukobms.github.io/fukojoy/"

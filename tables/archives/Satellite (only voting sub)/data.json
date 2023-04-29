@@ -1,5 +1,18 @@
 [
   {
+    "md5": "23f7d3581dc18f37e21b83f47f9bdbc6",
+    "sha256": "572746f79032a164bc5bbff7a9e0690e8a7c397013128ac14ae12360716cc277",
+    "title": "undefined [ANOTHER]",
+    "artist": "MONO BGA / BGI : 乙青商会",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1JPt3mLwFVxjkG1kLPQECS9DoEI7SAdXQ/view?usp=sharing",
+    "level": "1",
+    "comment": "BOF2015/同梱譜面/乱打/高速",
+    "proposer": "H∀H",
+    "submission": 2729,
+    "proposerLr2id": 152181
+  },
+  {
     "md5": "8c2978514e05e83f3d3e1f111ebed0a0",
     "sha256": "799aec0ef91bd5ab013a51d87c9e5546bf2788cd7b4aee980ad3a4b81872b05f",
     "title": "東 [IHATOV]",
@@ -11,6 +24,36 @@
     "proposer": "sangonana",
     "submission": 2722,
     "proposerLr2id": 148764
+  },
+  {
+    "title": "corneal -Hope-",
+    "artist": "SP-# obj:七海",
+    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ",
+    "url_diff": "https://www.dropbox.com/s/t3u2g9hcsiudcoa/corneal_hope.zip?dl=1",
+    "md5": "88cf855ed9bb65ae434b60f6839962c4",
+    "sha256": "7021a46da2a8ec9be98c3b5d4e0800705c1ab20a2346c1ceb77e949797e93269",
+    "proposer": "ИиИ",
+    "level": "2",
+    "submission": 1354,
+    "voteYes": 12,
+    "voteNeutral": 5,
+    "voteNo": 1,
+    "votePercent": 80.55555555555556,
+    "voteVersion": 2,
+    "proposerLr2id": 147895
+  },
+  {
+    "md5": "66d2d9789b2b24159962f164ffc9ed2f",
+    "sha256": "558592f35d5a8b6cab33ae8d43ff8cfd135e6fc00a134d3d61410b798c57fbf5",
+    "title": "Gleam of Aigis [ANOTHER7]",
+    "artist": "Lime / Roaring Flame",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1iNoj9-CcfVhMkpt0l8rOUIouO6aFLU9A/view?usp=sharing",
+    "level": "2",
+    "comment": "ノンジャンル3/同梱譜面/LN/乱打/高速",
+    "proposer": "H∀H",
+    "submission": 2728,
+    "proposerLr2id": 152181
   },
   {
     "md5": "26f46c7d7df5511b97e399ddeccf0768",
@@ -25,6 +68,20 @@
     "proposer": "ii5",
     "submission": 2725,
     "proposerLr2id": 141043
+  },
+  {
+    "md5": "c90b1e32a59887a26bb8b022f26adf8a",
+    "sha256": "e139b66a1aa095cb0c40af8ff0cdca3b6ea3d85c2a1599b9265f49ae2932e479",
+    "title": "unrequited love (初夏)",
+    "artist": "keep another dreams / nbunnyuwu",
+    "url_diff": "https://stellabms.xyz/upload/2707",
+    "url": "https://web.archive.org/web/20040428100016/http://www10.plala.or.jp/kad/unrequited.zip",
+    "level": "2",
+    "comment": "100BPM ガチ押し入門 (total415, 0.27%/note)",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 2730,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
   },
   {
     "md5": "40b25680a23d5f2aab8edc17d39446d6",
@@ -108,5 +165,22 @@
     "proposer": "SHAX.",
     "submission": 2716,
     "proposerLr2id": 65624
+  },
+  {
+    "title": "glacier's poetry [stare at the milky way]",
+    "artist": "VeetaCrush & ProjectG bga: linglvz obj: tyrcs",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "md5": "16a7c7bad1dacb7fed698639c3574ec6",
+    "sha256": "7a7009837519be3f8ed79ff033b1d6753940b938ac6ef338a4ff4aa80238d8b6",
+    "proposer": "歳納京子",
+    "level": "11",
+    "submission": 2352,
+    "voteYes": 6,
+    "voteNeutral": 6,
+    "voteNo": 1,
+    "votePercent": 69.23076923076923,
+    "voteVersion": 2,
+    "proposerLr2id": 75332
   }
 ]

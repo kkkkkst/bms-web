@@ -94,5 +94,96 @@
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
   "output_date": "2021/04/09",
+  "grade": [
+    {
+      "name": "最後の集い段位認定　入門",
+      "constraint": [],
+      "md5": [
+        "28e9d4b314678428e2e525ad9d582c9c",
+        "b3b249b3227a3b310349b02cdfb34aeb",
+        "b00667e8b12819211e67fe755fa41f48"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　初段",
+      "constraint": [],
+      "md5": [
+        "03d1640efa3a1a922bd2a986138f50a6",
+        "dfcaa6f41863374224cb788c94d60ec4",
+        "c10a28fd741dd52d04d8915a2ead2b76",
+        "ddb794a8eb88cbece250d6bd5e6a2c7c"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　二段",
+      "constraint": [],
+      "md5": [
+        "2c0d139bb400382935ae45259141a17b",
+        "b59d31e04c7505dd0cf1b188e89513eb",
+        "1db02103ed8d6cb2a0b85f650b0f124e",
+        "0400ddd5d3782029b04354e78ef01983"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　三段",
+      "constraint": [],
+      "md5": [
+        "d33245553887fc7cab7220731fe157ed",
+        "f9624d268dacdb5eb84d0fae4b841781",
+        "f86b99324ad269588b06d3a1a36c32eb",
+        "45a8665974fb6d3ed4086d9fd3124611"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　四段",
+      "constraint": [],
+      "md5": [
+        "e49a3316494e599ead1d96fc00dd2e73",
+        "ec3a70c976b2eccacf70d2716ec35f1b",
+        "09e4acb0e0d7438f829834097c34a1bd",
+        "11e9905e655706c4a78de21fbda5977f"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　五段",
+      "constraint": [],
+      "md5": [
+        "b1a7f5991b3224984300e27cc714c76e",
+        "f16868d85dea54d94e226cc6c5223bbb",
+        "d2be55541cf081f1f3b815bae506001b",
+        "2d2d43572ef0e26a634622aaec365b44"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　六段",
+      "constraint": [],
+      "md5": [
+        "df86a7fc761a23589f4ce8160fcd578e",
+        "e12cf459a8df3ed420dba33022178a6f",
+        "7d7643439eb59d5c83b3f14f445c0c82",
+        "ece8b1071481624e8dd8cc0a2f0b995b"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　七段",
+      "constraint": [],
+      "md5": [
+        "c8ac494570866c16411bb4f585bbdc81",
+        "8da8d9c1f9cf4e929d4d92fc3ea7b7a4",
+        "4348dc425d2472fa5a46d984a6ada800",
+        "969a72905df3cd047e108e645ef4df36"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　八段",
+      "constraint": [],
+      "md5": [
+        "cb815792ce6d12413b5eaaaf5d052b1d",
+        "4ff51358145f7ec12e1ce947e1b0efed",
+        "0db1e83d28eda1d37f0ffafaff725dae",
+        "24df483ad8a6a3b26d055f285ae8663c"
+      ]
+    }
+  ],
   "original_url": "http://suikaikoubou.soragoto.net/table.html"
 }
