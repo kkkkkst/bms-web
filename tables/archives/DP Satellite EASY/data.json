@@ -2310,6 +2310,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "1a6b6567fe1fa051f532e161a491ac88",
+    "title": "Fine Logic [DP INSANE]",
+    "level": "4.50...5.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "d33783021b1df12952eecdf2c1eadde7",
     "title": "frozen over",
     "level": "4.50...5.00",
@@ -2482,12 +2488,6 @@
     "title": "electric butterfly [A14]",
     "level": "5.00...5.50",
     "comment": "sl7"
-  },
-  {
-    "md5": "1a6b6567fe1fa051f532e161a491ac88",
-    "title": "Fine Logic [DP INSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl6"
   },
   {
     "md5": "642b677a1deaa16bceb5e64a785f780b",
@@ -2916,6 +2916,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "b5f3ca219d409b04f23322eb81c21db9",
+    "title": "Wizardragon Fascination [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
     "title": "Wizdomiot [DP INSANE]",
     "level": "6.00...6.50",
@@ -2930,12 +2936,6 @@
   {
     "md5": "43a1e8beaf36ce9d9ddbf6b5862a3926",
     "title": "ミライトコネクト [DP-sagINSANE]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "609c7cedebd3a895dc46ab9dfc97a345",
-    "title": "硬核機動 [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -3042,12 +3042,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "b5f3ca219d409b04f23322eb81c21db9",
-    "title": "Wizardragon Fascination [DP ANOTHER]",
-    "level": "6.50...7.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "3d03c5f1f609206bd51d852ebe5b4b74",
     "title": "Yorixiro [OyaxiroSama]",
     "level": "6.50...7.00",
@@ -3076,6 +3070,12 @@
     "title": "硬核機動 [14KEYS-ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "609c7cedebd3a895dc46ab9dfc97a345",
+    "title": "硬核機動 [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl9"
   },
   {
     "md5": "ad27797ac54d934ad13ee1dcafdd329d",
@@ -3156,14 +3156,14 @@
     "comment": "sl10"
   },
   {
-    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
-    "title": "Rechronize [Real14]",
+    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
+    "title": "SHINKA [14KEYS ANOTHER]",
     "level": "7.00...7.50",
     "comment": "sl11"
   },
   {
-    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
-    "title": "SHINKA [14KEYS ANOTHER]",
+    "md5": "e7c0ff5e14b93344eb93f5b3b584d827",
+    "title": "Stars Keep on Illuminating [DP Insane]",
     "level": "7.00...7.50",
     "comment": "sl11"
   },
@@ -3176,6 +3176,12 @@
   {
     "md5": "48e3f3a439115c200f796b06e352f00f",
     "title": "Ultimate Weapon [XIV 新生エオルゼア]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "b0f4e90d2b48d2f57b035a5a5ae5afde",
+    "title": "Unleashed World [Fairytale]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -3216,6 +3222,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "eefd509b03b043f14e4fe9dc72a04d8b",
+    "title": "夏色海風 [DP-soijoy]",
+    "level": "7.00...7.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "564c3e9978f9863253bb8c4f00a796c2",
     "title": "月時計　Last・Dial (DPA+)",
     "level": "7.00...7.50",
@@ -3230,18 +3242,6 @@
   {
     "md5": "51fe7ee56efa0c29890749f058679669",
     "title": "* Crow Solace * [DPA]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
-    "title": "Across the Sky [DP Stratosphere]",
-    "level": "7.50...8.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "c11998a30371142374cd158c995d9de3",
-    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -3294,10 +3294,16 @@
     "comment": "sl11"
   },
   {
-    "md5": "b0f4e90d2b48d2f57b035a5a5ae5afde",
-    "title": "Unleashed World [Fairytale]",
+    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
+    "title": "Rechronize [Real14]",
     "level": "7.50...8.00",
-    "comment": "sl10"
+    "comment": "sl11"
+  },
+  {
+    "md5": "e230ebb94562589ca5e4aa9d16d9d814",
+    "title": "Song [DP INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
   },
   {
     "md5": "59bee181c697177bc186fdde396c0cc9",
@@ -3336,16 +3342,22 @@
     "comment": "sl11"
   },
   {
-    "md5": "27a6ac517eb18cd3105be73818bc656b",
-    "title": "玉響サーチライト [DP INSANE]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "de397d520c998e66bbab4017791c9668",
     "title": "禁忌と緋色幻想 -The Primary Plasm- [Red Storm]",
     "level": "7.50...8.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "c11998a30371142374cd158c995d9de3",
+    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
+    "level": "8.00...8.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "aeff92e41cb89728bee5c840fd1d1541",
+    "title": "Angel's Salad [CataStr0phE / DP譜面]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
   },
   {
     "md5": "2344584fd7bc2c430ffd3a12afdfad9d",
@@ -3384,12 +3396,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "e230ebb94562589ca5e4aa9d16d9d814",
-    "title": "Song [DP INSANE]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "40f0c8314e93ea572f5ab6e0e2a81eda",
     "title": "STAGER [ONE MORE EXTRA]",
     "level": "8.00...8.50",
@@ -3402,14 +3408,20 @@
     "comment": "sl11"
   },
   {
-    "md5": "aeff92e41cb89728bee5c840fd1d1541",
-    "title": "Angel's Salad [CataStr0phE / DP譜面]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
+    "md5": "27a6ac517eb18cd3105be73818bc656b",
+    "title": "玉響サーチライト [DP INSANE]",
+    "level": "8.00...8.50",
+    "comment": "sl11"
   },
   {
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
+    "level": "8.50...9.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "63fe5d77296433f850a19065a598ea96",
+    "title": "MESMERA [DP HYPER]",
     "level": "8.50...9.00",
     "comment": "sl11"
   },
@@ -3450,16 +3462,16 @@
     "comment": "sl11"
   },
   {
-    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
-    "title": "GIRIMECHALA Reflects! (Chefei)",
+    "md5": "a9988216fa374c97a807e1148c87a4bc",
+    "title": "eth剣 (DP激)",
     "level": "9.00...9.50",
-    "comment": "sl11"
+    "comment": "sl12"
   },
   {
-    "md5": "63fe5d77296433f850a19065a598ea96",
-    "title": "MESMERA [DP HYPER]",
+    "md5": "f70b61bbd663fe6056856bb83a84fd27",
+    "title": "Lacrimosa [DP Insane]",
     "level": "9.00...9.50",
-    "comment": "sl11"
+    "comment": "sl12"
   },
   {
     "md5": "d6278d20463d6399290ef692c85f1f21",
@@ -3486,20 +3498,14 @@
     "comment": "sl11"
   },
   {
+    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
+    "title": "Across the Sky [DP Stratosphere]",
+    "level": "9.50...10.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "6f9b11e0ff8d347672bbd8e715f04ccd",
     "title": "Apollo [1970.04.11]",
-    "level": "9.50...10.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "767177285abbedf42d833793842cc70d",
-    "title": "CYCLONE [Gravity Distorting Module]",
-    "level": "9.50...10.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "a9988216fa374c97a807e1148c87a4bc",
-    "title": "eth剣 (DP激)",
     "level": "9.50...10.00",
     "comment": "sl12"
   },
@@ -3510,10 +3516,10 @@
     "comment": "sl12"
   },
   {
-    "md5": "f70b61bbd663fe6056856bb83a84fd27",
-    "title": "Lacrimosa [DP Insane]",
+    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
+    "title": "GIRIMECHALA Reflects! (Chefei)",
     "level": "9.50...10.00",
-    "comment": "sl12"
+    "comment": "sl11"
   },
   {
     "md5": "a3ed09fedd0af81df96743f8671fccd4",
@@ -3540,6 +3546,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "767177285abbedf42d833793842cc70d",
+    "title": "CYCLONE [Gravity Distorting Module]",
+    "level": "10.00...10.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "7a26d0eda820c694576926482b5ef5a6",
     "title": "FIONA [Enjoy]",
     "level": "10.00...10.50",
@@ -3548,7 +3560,13 @@
   {
     "md5": "9525b9f36f604d3fb4ee93af8e3f9187",
     "title": "Psalms [ユートピアとディストピアの境界]",
-    "level": "10.50...11.00",
+    "level": "11.00...11.50",
     "comment": "sl12"
+  },
+  {
+    "md5": "aa165074a4954503f4a014d2a313903d",
+    "title": "HOPE [あなたの健康を損なうおそれがあります]",
+    "level": "-",
+    "comment": "sl11"
   }
 ]

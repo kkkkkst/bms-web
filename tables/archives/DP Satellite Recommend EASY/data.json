@@ -1,10 +1,5 @@
 [
   {
-    "md5": "2f73d7199984227a5565ac5da184b3ab",
-    "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
-    "level": "-0.5"
-  },
-  {
     "md5": "5734e3760fa0f8e5925829d07b639af9",
     "title": "Acacia [DP ANOTHER]",
     "level": "-0.5"
@@ -42,11 +37,6 @@
   {
     "md5": "0dd86631a775185e6c5a51d1a4d85fb8",
     "title": "LOVE [DP Another LOVE]",
-    "level": "-0.5"
-  },
-  {
-    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
-    "title": "Luv 5 Dancer [Double]",
     "level": "-0.5"
   },
   {
@@ -155,6 +145,11 @@
     "level": "-0.4"
   },
   {
+    "md5": "2f73d7199984227a5565ac5da184b3ab",
+    "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
+    "level": "-0.4"
+  },
+  {
     "md5": "37f8adb59640710ad6ff0aadb3367ea2",
     "title": "Celeste [DP ANOTHER]",
     "level": "-0.4"
@@ -182,6 +177,11 @@
   {
     "md5": "ff3d89cff34c9b1cfb75a50f7b38ea7d",
     "title": "Jasmine Tea Girl [DP ANOTHER]",
+    "level": "-0.4"
+  },
+  {
+    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
+    "title": "Luv 5 Dancer [Double]",
     "level": "-0.4"
   },
   {
@@ -307,7 +307,7 @@
   {
     "md5": "e0778c29c02c8b155b95b03b300182b5",
     "title": "Nuts to You! [14KEYS ANOTHER]",
-    "level": "0.0"
+    "level": "0.1"
   },
   {
     "md5": "190ef89f7c890d5ac3bf327acc4f6800",
@@ -470,6 +470,11 @@
     "level": "0.4"
   },
   {
+    "md5": "3d91b783248f05141bcaaf6410ac860c",
+    "title": "Stargazer [EXTRA]",
+    "level": "0.4"
+  },
+  {
     "md5": "ce8c05ca35de4b2816e34e34757eac44",
     "title": "soda ocean",
     "level": "0.4"
@@ -495,11 +500,6 @@
     "level": "0.5"
   },
   {
-    "md5": "d02c8e12c4678a01566f42937444eb79",
-    "title": "Prismrose [DP ANOTHER]",
-    "level": "0.5"
-  },
-  {
     "md5": "b23ba65f405ebfea72637abfe90e981e",
     "title": "Resolution Trigger [DP INSANE]",
     "level": "0.5"
@@ -507,11 +507,6 @@
   {
     "md5": "5b6413abb8ab8b5dc428e9716f531331",
     "title": "Sleet in the city [DP ANOTHER]",
-    "level": "0.5"
-  },
-  {
-    "md5": "3d91b783248f05141bcaaf6410ac860c",
-    "title": "Stargazer [EXTRA]",
     "level": "0.5"
   },
   {
@@ -530,9 +525,9 @@
     "level": "0.5"
   },
   {
-    "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
-    "title": "白と臙脂のオモチャバコ [ムズカシイ 14]",
-    "level": "0.5"
+    "md5": "d02c8e12c4678a01566f42937444eb79",
+    "title": "Prismrose [DP ANOTHER]",
+    "level": "0.6"
   },
   {
     "md5": "c2af423792c9067475fce7d4fa9c4436",
@@ -547,6 +542,11 @@
   {
     "md5": "304a55cf280f9875efb248773dc42a0f",
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
+    "level": "0.6"
+  },
+  {
+    "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
+    "title": "白と臙脂のオモチャバコ [ムズカシイ 14]",
     "level": "0.6"
   },
   {
@@ -725,11 +725,6 @@
     "level": "1.2"
   },
   {
-    "md5": "7cdf1284c9df6e5f031bd8ad4a37dbe2",
-    "title": "BOUNCE THE TECH [DP ANOTHER]",
-    "level": "1.2"
-  },
-  {
     "md5": "2a5fd0ec256acc51bafaadae24b0351a",
     "title": "DOLL [DP ANOTHER]",
     "level": "1.2"
@@ -770,6 +765,11 @@
     "level": "1.2"
   },
   {
+    "md5": "7cdf1284c9df6e5f031bd8ad4a37dbe2",
+    "title": "BOUNCE THE TECH [DP ANOTHER]",
+    "level": "1.3"
+  },
+  {
     "md5": "7d3a0c6cbd5f377bda50b0be87b86f2d",
     "title": "Blue Screen of Death [14KEYS INSANE]",
     "level": "1.3"
@@ -782,6 +782,11 @@
   {
     "md5": "dff6930e3435fe6552d4670c689d2270",
     "title": "Is This Your Memory? [Another]",
+    "level": "1.3"
+  },
+  {
+    "md5": "4517d25589a16bf79795b09b95592324",
+    "title": "Love's Rebirth '06 LEGEND MIX -DP-",
     "level": "1.3"
   },
   {
@@ -812,11 +817,6 @@
   {
     "md5": "79d513270d899b4ee308aca0a0a0422b",
     "title": "Implexrough [SRBOFU2017DP]",
-    "level": "1.4"
-  },
-  {
-    "md5": "4517d25589a16bf79795b09b95592324",
-    "title": "Love's Rebirth '06 LEGEND MIX -DP-",
     "level": "1.4"
   },
   {
@@ -915,6 +915,11 @@
     "level": "1.9"
   },
   {
+    "md5": "c92c96e406e2f19ab4f5164a3ad895d2",
+    "title": "Luna Express 2032 [DP Another]",
+    "level": "1.9"
+  },
+  {
     "md5": "7870ad2dee9a20f592192c08e815efbf",
     "title": "Smiling",
     "level": "1.9"
@@ -937,11 +942,6 @@
   {
     "md5": "81c8fad166661b8609873553f32d09bb",
     "title": "Conviction [DP HYPER]",
-    "level": "2.0"
-  },
-  {
-    "md5": "c92c96e406e2f19ab4f5164a3ad895d2",
-    "title": "Luna Express 2032 [DP Another]",
     "level": "2.0"
   },
   {
@@ -972,6 +972,11 @@
   {
     "md5": "b5836227dfd1f1b866fbc5c847c4ed51",
     "title": "my fancy, your fancy (bms edit) [A14]",
+    "level": "2.0"
+  },
+  {
+    "md5": "16883227fcf0cae5023c641d0fdfca58",
+    "title": "サカサマの空に在ったのは [DP ANOTHER]",
     "level": "2.0"
   },
   {
@@ -1015,11 +1020,6 @@
     "level": "2.1"
   },
   {
-    "md5": "16883227fcf0cae5023c641d0fdfca58",
-    "title": "サカサマの空に在ったのは [DP ANOTHER]",
-    "level": "2.1"
-  },
-  {
     "md5": "926ebcc5fd53d715a4494641a266202d",
     "title": "ポケットモンスター BW2 アイリス戦",
     "level": "2.1"
@@ -1045,11 +1045,6 @@
     "level": "2.2"
   },
   {
-    "md5": "f59aedc595217b62eed54f5ecf663fba",
-    "title": "gradation (DP ANOTHER)",
-    "level": "2.2"
-  },
-  {
     "md5": "d8b22d858b28c39fed2f496da2b53584",
     "title": "今日一日も全力疾走！ [DP ANOTHER]",
     "level": "2.2"
@@ -1062,6 +1057,11 @@
   {
     "md5": "dac9501eb6e44e30a8ef7c08ab857e1d",
     "title": "This Club is not 4 U [DP ANOTHER]",
+    "level": "2.3"
+  },
+  {
+    "md5": "f59aedc595217b62eed54f5ecf663fba",
+    "title": "gradation (DP ANOTHER)",
     "level": "2.3"
   },
   {
@@ -1400,9 +1400,9 @@
     "level": "3.0"
   },
   {
-    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
-    "title": "Angelic Snow (kumanother)",
-    "level": "3.2"
+    "md5": "d887b961b629ba57d04147324e1291b8",
+    "title": "未来へ続く道 feat. 紙木はさみ [DP ANOTHER]",
+    "level": "3.1"
   },
   {
     "md5": "0a093471012b7ace35d8ebb1ff6ed1cb",
@@ -1455,9 +1455,9 @@
     "level": "3.2"
   },
   {
-    "md5": "d887b961b629ba57d04147324e1291b8",
-    "title": "未来へ続く道 feat. 紙木はさみ [DP ANOTHER]",
-    "level": "3.2"
+    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
+    "title": "Angelic Snow (kumanother)",
+    "level": "3.3"
   },
   {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
@@ -1610,13 +1610,13 @@
     "level": "3.6"
   },
   {
-    "md5": "bbfda0f6a39370401e99a89ab0747034",
-    "title": "スピカ [DP ANOTHER]",
-    "level": "3.7"
-  },
-  {
     "md5": "c1bd86080023e6e353cf65a9871e737a",
     "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
+    "level": "3.6"
+  },
+  {
+    "md5": "bbfda0f6a39370401e99a89ab0747034",
+    "title": "スピカ [DP ANOTHER]",
     "level": "3.7"
   },
   {
@@ -1630,6 +1630,11 @@
     "level": "3.7"
   },
   {
+    "md5": "b8a1552944a45a43e14125a85cb9803f",
+    "title": "ametsuchi",
+    "level": "3.8"
+  },
+  {
     "md5": "f97eb1e2a6015ccf91ec6cdce0f48c81",
     "title": "fragile crystal -14keys-",
     "level": "3.8"
@@ -1637,11 +1642,6 @@
   {
     "md5": "a78261c3f9d531540e3f06a86f2d935d",
     "title": "Lily [DP-sagANOTHER]",
-    "level": "3.9"
-  },
-  {
-    "md5": "b8a1552944a45a43e14125a85cb9803f",
-    "title": "ametsuchi",
     "level": "3.9"
   },
   {
@@ -1657,6 +1657,11 @@
   {
     "md5": "0bafbf864710b9c6fbc3c77349383f41",
     "title": "Hi-Fi-Story [DP ANOTHER]",
+    "level": "3.9"
+  },
+  {
+    "md5": "24479651932a5b101b055744d32ba529",
+    "title": "田中 -KATAKATA-",
     "level": "3.9"
   },
   {
@@ -1702,11 +1707,6 @@
   {
     "md5": "6398996a4cd2d449811cbedcc439115d",
     "title": "starlights [DP]",
-    "level": "4.0"
-  },
-  {
-    "md5": "24479651932a5b101b055744d32ba529",
-    "title": "田中 -KATAKATA-",
     "level": "4.0"
   },
   {
@@ -1760,6 +1760,11 @@
     "level": "4.2"
   },
   {
+    "md5": "15eaa69233d16b75adbaad6601eaddac",
+    "title": "The Last Page [DP INSANE]",
+    "level": "4.2"
+  },
+  {
     "md5": "ba42bf286f04905a967a4007c39eecd8",
     "title": "cold world [DP ANOTHER]",
     "level": "4.2"
@@ -1782,11 +1787,6 @@
   {
     "md5": "0927a8e429d04fb821bd166947c8bcd1",
     "title": "PPBQ",
-    "level": "4.3"
-  },
-  {
-    "md5": "15eaa69233d16b75adbaad6601eaddac",
-    "title": "The Last Page [DP INSANE]",
     "level": "4.3"
   },
   {
@@ -1860,11 +1860,6 @@
     "level": "4.5"
   },
   {
-    "md5": "328535c09400f1d31460f9314013d34b",
-    "title": "平衡世界 Parallel World [Spring Ephemeral]",
-    "level": "4.5"
-  },
-  {
     "md5": "714082d72dafdfd12bf4810980ae179d",
     "title": "Dance revolution [DP ANOTHER]",
     "level": "4.6"
@@ -1895,6 +1890,11 @@
     "level": "4.6"
   },
   {
+    "md5": "328535c09400f1d31460f9314013d34b",
+    "title": "平衡世界 Parallel World [Spring Ephemeral]",
+    "level": "4.6"
+  },
+  {
     "md5": "b09b5e86185319b7e80ec54a37bd61b5",
     "title": "スナレ",
     "level": "4.7"
@@ -1902,6 +1902,11 @@
   {
     "md5": "f388214f5dd4f7064cd1180a4d40678c",
     "title": "AngelPainter [DP-sagINSANE]",
+    "level": "4.7"
+  },
+  {
+    "md5": "21538d163ad1a5852a5d55bf5f66e016",
+    "title": "Enneaquest [MEGALOPOLIS]",
     "level": "4.7"
   },
   {
@@ -1940,6 +1945,11 @@
     "level": "4.7"
   },
   {
+    "md5": "1a6b6567fe1fa051f532e161a491ac88",
+    "title": "Fine Logic [DP INSANE]",
+    "level": "4.8"
+  },
+  {
     "md5": "d0b020d20dab01f544fe7cb74fd94fe4",
     "title": "C.E. Days -14EX-",
     "level": "4.8"
@@ -1952,11 +1962,6 @@
   {
     "md5": "e650df1b1c4c3ad522c52ec3e411f3f1",
     "title": "ENERGY SYNERGY MATRIX [VerA]",
-    "level": "4.8"
-  },
-  {
-    "md5": "21538d163ad1a5852a5d55bf5f66e016",
-    "title": "Enneaquest [MEGALOPOLIS]",
     "level": "4.8"
   },
   {
@@ -1985,6 +1990,11 @@
     "level": "4.8"
   },
   {
+    "md5": "87dcc21c72f4e0c25e23915184b848a2",
+    "title": "all u gotta do is... [DP INSANE]",
+    "level": "4.8"
+  },
+  {
     "md5": "94f62784fa0e6c3b3819bbd677219546",
     "title": "プナイプナイたいそう [DP HYP☆R]",
     "level": "4.8"
@@ -1992,11 +2002,6 @@
   {
     "md5": "64bbf6a68a454762754d7d7f03611780",
     "title": "010 [1110]",
-    "level": "4.9"
-  },
-  {
-    "md5": "8043767df2a4141719991d649b74d23c",
-    "title": "AirTrip-SF#2- [DP ANOTHER]",
     "level": "4.9"
   },
   {
@@ -2010,14 +2015,14 @@
     "level": "4.9"
   },
   {
-    "md5": "87dcc21c72f4e0c25e23915184b848a2",
-    "title": "all u gotta do is... [DP INSANE]",
-    "level": "4.9"
-  },
-  {
     "md5": "de8c6827b28bc4b92471e7065d0eb698",
     "title": "jus†ice [ANOTHER]",
     "level": "4.9"
+  },
+  {
+    "md5": "8043767df2a4141719991d649b74d23c",
+    "title": "AirTrip-SF#2- [DP ANOTHER]",
+    "level": "5.0"
   },
   {
     "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
@@ -2090,6 +2095,11 @@
     "level": "5.1"
   },
   {
+    "md5": "8b64dfa0cfcc8bf659f8f863e9dea811",
+    "title": "Ladymade corestar [14kumanother]",
+    "level": "5.2"
+  },
+  {
     "md5": "707b92679398b7de2505a2d308da8364",
     "title": "Ultimate Weapon [DP ANOTHER]",
     "level": "5.2"
@@ -2105,18 +2115,8 @@
     "level": "5.2"
   },
   {
-    "md5": "1a6b6567fe1fa051f532e161a491ac88",
-    "title": "Fine Logic [DP INSANE]",
-    "level": "5.3"
-  },
-  {
     "md5": "c00887580bcdb3dd9dd594f2eef5c63d",
     "title": "Divided Montage [14KEYS ANOTHER]",
-    "level": "5.3"
-  },
-  {
-    "md5": "8b64dfa0cfcc8bf659f8f863e9dea811",
-    "title": "Ladymade corestar [14kumanother]",
     "level": "5.3"
   },
   {
@@ -2155,6 +2155,11 @@
     "level": "5.4"
   },
   {
+    "md5": "b8f6072086e4821003637684f28cd765",
+    "title": "焔-HOMURA- [ほむ×14]",
+    "level": "5.4"
+  },
+  {
     "md5": "d820be8513cd93b29f14d1ee0182d553",
     "title": "BOUNCE THE TECH †LEGGENDARIA",
     "level": "5.4"
@@ -2185,8 +2190,8 @@
     "level": "5.4"
   },
   {
-    "md5": "b8f6072086e4821003637684f28cd765",
-    "title": "焔-HOMURA- [ほむ×14]",
+    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
+    "title": "Bad Apple!! -YH mix-",
     "level": "5.5"
   },
   {
@@ -2220,18 +2225,8 @@
     "level": "5.6"
   },
   {
-    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
-    "title": "Bad Apple!! -YH mix-",
-    "level": "5.6"
-  },
-  {
     "md5": "a703e4bf5a0fe2f7904596fd118f29d0",
     "title": "Dystopia High [DPA]",
-    "level": "5.6"
-  },
-  {
-    "md5": "09ddc29dfc8ac70ceba82c7755efd84f",
-    "title": "Evanescent [DP ANOTHER]",
     "level": "5.6"
   },
   {
@@ -2240,8 +2235,13 @@
     "level": "5.7"
   },
   {
-    "md5": "50e2f39b3d1904bbb16d308549901a19",
-    "title": "Grayed Out -Antifront- [DPA]",
+    "md5": "53c2074d26127be0f7586e8def386cac",
+    "title": "Blue Shock [DPA.NOTHER+]",
+    "level": "5.7"
+  },
+  {
+    "md5": "09ddc29dfc8ac70ceba82c7755efd84f",
+    "title": "Evanescent [DP ANOTHER]",
     "level": "5.7"
   },
   {
@@ -2255,14 +2255,14 @@
     "level": "5.7"
   },
   {
-    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
-    "title": "Singing of Night birds [DP INSANE]",
-    "level": "5.7"
-  },
-  {
     "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
     "title": "あさひのなかで(Art Glint mix) [DPI]",
     "level": "5.7"
+  },
+  {
+    "md5": "50e2f39b3d1904bbb16d308549901a19",
+    "title": "Grayed Out -Antifront- [DPA]",
+    "level": "5.8"
   },
   {
     "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
@@ -2290,24 +2290,24 @@
     "level": "5.9"
   },
   {
-    "md5": "53c2074d26127be0f7586e8def386cac",
-    "title": "Blue Shock [DPA.NOTHER+]",
-    "level": "5.9"
-  },
-  {
     "md5": "d73cdd6d5d1897e2d3052b74263b5283",
     "title": "IN [HAORSE MUSIC / DP譜面]",
     "level": "5.9"
   },
   {
-    "md5": "f36b829438ba718c7e7679b430848c99",
-    "title": "Luminance (DP ANOTHER)",
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
     "level": "5.9"
   },
   {
     "md5": "5ad08be587d9d42971084fc701df0693",
     "title": "witchcraft [14A]",
     "level": "5.9"
+  },
+  {
+    "md5": "f36b829438ba718c7e7679b430848c99",
+    "title": "Luminance (DP ANOTHER)",
+    "level": "6.0"
   },
   {
     "md5": "fab011bc0c8eb78acecb02fe1d5ff2d1",
@@ -2330,11 +2330,6 @@
     "level": "6.0"
   },
   {
-    "md5": "ffa8beca32b6552e6fd003183a074faf",
-    "title": "Bogus of True (DPA)",
-    "level": "6.1"
-  },
-  {
     "md5": "401c87a84d6d6396a970d2d73416af98",
     "title": "Kronos [Choronos]",
     "level": "6.1"
@@ -2355,8 +2350,18 @@
     "level": "6.1"
   },
   {
+    "md5": "43a1e8beaf36ce9d9ddbf6b5862a3926",
+    "title": "ミライトコネクト [DP-sagINSANE]",
+    "level": "6.1"
+  },
+  {
     "md5": "7008ff0237c4c9c65809950654b8c01c",
     "title": "Bicolor Spirit [DP INSANE]",
+    "level": "6.2"
+  },
+  {
+    "md5": "ffa8beca32b6552e6fd003183a074faf",
+    "title": "Bogus of True (DPA)",
     "level": "6.2"
   },
   {
@@ -2367,6 +2372,11 @@
   {
     "md5": "08e62a99f61826c978b45ec93c490dbf",
     "title": "Tartaros　 -12m-",
+    "level": "6.2"
+  },
+  {
+    "md5": "b5f3ca219d409b04f23322eb81c21db9",
+    "title": "Wizardragon Fascination [DP ANOTHER]",
     "level": "6.2"
   },
   {
@@ -2385,18 +2395,13 @@
     "level": "6.2"
   },
   {
-    "md5": "43a1e8beaf36ce9d9ddbf6b5862a3926",
-    "title": "ミライトコネクト [DP-sagINSANE]",
-    "level": "6.2"
-  },
-  {
-    "md5": "a32ec19da96aa8391db09874ea30544f",
-    "title": "Blooming [DP ANOTHER]",
+    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
+    "title": "Acid Drizzle -レイクサイド-",
     "level": "6.3"
   },
   {
-    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
-    "title": "Acid Drizzle -レイクサイド-",
+    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
+    "title": "STELLA FOMA [DP ANOTHER]",
     "level": "6.3"
   },
   {
@@ -2412,6 +2417,11 @@
   {
     "md5": "350003c6ab10ac0b7551e8a2ea02b5d3",
     "title": "Amusing Reflection Rag. (DP CHALLENGE)",
+    "level": "6.4"
+  },
+  {
+    "md5": "a32ec19da96aa8391db09874ea30544f",
+    "title": "Blooming [DP ANOTHER]",
     "level": "6.4"
   },
   {
@@ -2447,11 +2457,6 @@
   {
     "md5": "57182e1504854ce3d6de10b813ce6abf",
     "title": "Echoes from Pangaea",
-    "level": "6.5"
-  },
-  {
-    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
-    "title": "STELLA FOMA [DP ANOTHER]",
     "level": "6.5"
   },
   {
@@ -2500,11 +2505,6 @@
     "level": "6.5"
   },
   {
-    "md5": "b5f3ca219d409b04f23322eb81c21db9",
-    "title": "Wizardragon Fascination [DP ANOTHER]",
-    "level": "6.7"
-  },
-  {
     "md5": "88c3f3fb8a5d2587fc78735155e33509",
     "title": "Parasitize Your Head [DP INSANE]",
     "level": "6.7"
@@ -2535,11 +2535,6 @@
     "level": "6.8"
   },
   {
-    "md5": "80688a79f251ece911a4a1c3b782f835",
-    "title": "Absurd Gaff [DP ANOTHER]",
-    "level": "6.9"
-  },
-  {
     "md5": "3d03c5f1f609206bd51d852ebe5b4b74",
     "title": "Yorixiro [OyaxiroSama]",
     "level": "6.9"
@@ -2553,6 +2548,11 @@
     "md5": "99cbb8f15bae66bb36f942d7c6389de6",
     "title": "Realize [starry 14]",
     "level": "6.9"
+  },
+  {
+    "md5": "80688a79f251ece911a4a1c3b782f835",
+    "title": "Absurd Gaff [DP ANOTHER]",
+    "level": "7.0"
   },
   {
     "md5": "a9069d6f170641ede5204a5a7ea42920",
@@ -2600,13 +2600,13 @@
     "level": "7.2"
   },
   {
-    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
-    "title": "Rechronize [Real14]",
+    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
+    "title": "SHINKA [14KEYS ANOTHER]",
     "level": "7.2"
   },
   {
-    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
-    "title": "SHINKA [14KEYS ANOTHER]",
+    "md5": "e7c0ff5e14b93344eb93f5b3b584d827",
+    "title": "Stars Keep on Illuminating [DP Insane]",
     "level": "7.2"
   },
   {
@@ -2617,6 +2617,11 @@
   {
     "md5": "1f34b9ffc132ade5865c86c6c8297a0b",
     "title": "fushigichan [DP LEGGENDARIA]",
+    "level": "7.2"
+  },
+  {
+    "md5": "eefd509b03b043f14e4fe9dc72a04d8b",
+    "title": "夏色海風 [DP-soijoy]",
     "level": "7.2"
   },
   {
@@ -2645,6 +2650,16 @@
     "level": "7.3"
   },
   {
+    "md5": "101c37c44d865b61b391fae7614eaaea",
+    "title": "Life is PIANO [DP INS☆NE]",
+    "level": "7.3"
+  },
+  {
+    "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
+    "title": "Non Return to Zero [DP ANOTHER]",
+    "level": "7.3"
+  },
+  {
     "md5": "bf07d0084dd2e6d84eaa7affe0d47a0c",
     "title": "プナイプナイせんそう [DP ☆NOTHER]",
     "level": "7.3"
@@ -2660,16 +2675,6 @@
     "level": "7.3"
   },
   {
-    "md5": "101c37c44d865b61b391fae7614eaaea",
-    "title": "Life is PIANO [DP INS☆NE]",
-    "level": "7.4"
-  },
-  {
-    "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
-    "title": "Non Return to Zero [DP ANOTHER]",
-    "level": "7.4"
-  },
-  {
     "md5": "ad27797ac54d934ad13ee1dcafdd329d",
     "title": "#be_fortunate [DPYoitherEASY]",
     "level": "7.4"
@@ -2677,6 +2682,11 @@
   {
     "md5": "8dfba7248b732cf93d0bb5cf0e91878b",
     "title": "ELIMINATOR [DP INSANE]",
+    "level": "7.5"
+  },
+  {
+    "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
+    "title": "H.S : Hadron Strike [DP ANOTHER]",
     "level": "7.5"
   },
   {
@@ -2705,18 +2715,13 @@
     "level": "7.5"
   },
   {
-    "md5": "584450308e2b02b3a71a3979c16cdb4f",
-    "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
-    "level": "7.5"
-  },
-  {
     "md5": "aa389df1f9b142c58e1fd9204df74278",
     "title": "摩訶幻想マジトリク [DP INSANE]",
     "level": "7.5"
   },
   {
-    "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
-    "title": "H.S : Hadron Strike [DP ANOTHER]",
+    "md5": "61296a55d89ae86f957873df1cd011f1",
+    "title": "IKAROS [DP Nymph]",
     "level": "7.6"
   },
   {
@@ -2730,9 +2735,9 @@
     "level": "7.6"
   },
   {
-    "md5": "61296a55d89ae86f957873df1cd011f1",
-    "title": "IKAROS [DP Nymph]",
-    "level": "7.7"
+    "md5": "584450308e2b02b3a71a3979c16cdb4f",
+    "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
+    "level": "7.6"
   },
   {
     "md5": "51fe7ee56efa0c29890749f058679669",
@@ -2750,9 +2755,14 @@
     "level": "7.7"
   },
   {
-    "md5": "c11998a30371142374cd158c995d9de3",
-    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
-    "level": "7.8"
+    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
+    "title": "Rechronize [Real14]",
+    "level": "7.9"
+  },
+  {
+    "md5": "e230ebb94562589ca5e4aa9d16d9d814",
+    "title": "Song [DP INSANE]",
+    "level": "7.9"
   },
   {
     "md5": "17e065f48caca8af9374dc953c9b06d4",
@@ -2762,16 +2772,6 @@
   {
     "md5": "23a2dc41098afccba3f4e207fa4f8bb1",
     "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
-    "level": "7.9"
-  },
-  {
-    "md5": "27a6ac517eb18cd3105be73818bc656b",
-    "title": "玉響サーチライト [DP INSANE]",
-    "level": "7.9"
-  },
-  {
-    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
-    "title": "Across the Sky [DP Stratosphere]",
     "level": "7.9"
   },
   {
@@ -2790,13 +2790,18 @@
     "level": "8.0"
   },
   {
-    "md5": "e230ebb94562589ca5e4aa9d16d9d814",
-    "title": "Song [DP INSANE]",
+    "md5": "c11998a30371142374cd158c995d9de3",
+    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
     "level": "8.0"
   },
   {
     "md5": "889439f50329c7d90a071e6dba4a3d17",
     "title": "EXTRAPHANTASM [DP INSANE]",
+    "level": "8.1"
+  },
+  {
+    "md5": "27a6ac517eb18cd3105be73818bc656b",
+    "title": "玉響サーチライト [DP INSANE]",
     "level": "8.1"
   },
   {
@@ -2835,6 +2840,11 @@
     "level": "8.4"
   },
   {
+    "md5": "aeff92e41cb89728bee5c840fd1d1541",
+    "title": "Angel's Salad [CataStr0phE / DP譜面]",
+    "level": "8.4"
+  },
+  {
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
     "level": "8.5"
@@ -2850,11 +2860,6 @@
     "level": "8.6"
   },
   {
-    "md5": "aeff92e41cb89728bee5c840fd1d1541",
-    "title": "Angel's Salad [CataStr0phE / DP譜面]",
-    "level": "8.6"
-  },
-  {
     "md5": "f2659eb48724603adf9e548ec9be5c04",
     "title": "whence [DP FingerDance]",
     "level": "8.8"
@@ -2865,6 +2870,11 @@
     "level": "8.8"
   },
   {
+    "md5": "63fe5d77296433f850a19065a598ea96",
+    "title": "MESMERA [DP HYPER]",
+    "level": "8.9"
+  },
+  {
     "md5": "01bd9b363a1d5c87998b077d60f96875",
     "title": "suffruti",
     "level": "8.9"
@@ -2872,6 +2882,11 @@
   {
     "md5": "baa218833211f71a4a589528adbe184b",
     "title": "The sinking world [DP EXTREME 2]",
+    "level": "9.0"
+  },
+  {
+    "md5": "a9988216fa374c97a807e1148c87a4bc",
+    "title": "eth剣 (DP激)",
     "level": "9.0"
   },
   {
@@ -2890,29 +2905,14 @@
     "level": "9.1"
   },
   {
-    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
-    "title": "GIRIMECHALA Reflects! (Chefei)",
-    "level": "9.2"
-  },
-  {
-    "md5": "63fe5d77296433f850a19065a598ea96",
-    "title": "MESMERA [DP HYPER]",
+    "md5": "f70b61bbd663fe6056856bb83a84fd27",
+    "title": "Lacrimosa [DP Insane]",
     "level": "9.2"
   },
   {
     "md5": "cfb9622768f5b5415e6a82169266eacf",
     "title": "ハードルネッサンバ -DP MID BOSS-",
     "level": "9.2"
-  },
-  {
-    "md5": "f70b61bbd663fe6056856bb83a84fd27",
-    "title": "Lacrimosa [DP Insane]",
-    "level": "9.5"
-  },
-  {
-    "md5": "a9988216fa374c97a807e1148c87a4bc",
-    "title": "eth剣 (DP激)",
-    "level": "9.5"
   },
   {
     "md5": "6f9b11e0ff8d347672bbd8e715f04ccd",
@@ -2930,8 +2930,13 @@
     "level": "9.7"
   },
   {
-    "md5": "767177285abbedf42d833793842cc70d",
-    "title": "CYCLONE [Gravity Distorting Module]",
+    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
+    "title": "GIRIMECHALA Reflects! (Chefei)",
+    "level": "9.9"
+  },
+  {
+    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
+    "title": "Across the Sky [DP Stratosphere]",
     "level": "9.9"
   },
   {
@@ -2955,8 +2960,18 @@
     "level": "10.3"
   },
   {
+    "md5": "767177285abbedf42d833793842cc70d",
+    "title": "CYCLONE [Gravity Distorting Module]",
+    "level": "10.3"
+  },
+  {
     "md5": "9525b9f36f604d3fb4ee93af8e3f9187",
     "title": "Psalms [ユートピアとディストピアの境界]",
-    "level": "10.9"
+    "level": "11.1"
+  },
+  {
+    "md5": "aa165074a4954503f4a014d2a313903d",
+    "title": "HOPE [あなたの健康を損なうおそれがあります]",
+    "level": "Infinity"
   }
 ]
