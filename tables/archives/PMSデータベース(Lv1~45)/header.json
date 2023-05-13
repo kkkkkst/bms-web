@@ -53,6 +53,48 @@
   ],
   "course": [
     {
+      "name": "第5期 PMS段位認定 3級",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "dbe48c3617f79c98ca45ba65fd7ab0ea",
+        "0b18bfaf473f5213318e4ed80af5cad5",
+        "56c60f22136a44877e57598b2382c89b",
+        "daa9b82aec369c0fbf72343f14004d35"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 2級",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "d81c13cda4757412c17216b69586d7fd",
+        "496199ab091d7d1f941ee1e4b7a97333",
+        "b734d90df2f1d39aea64d37010260d3e",
+        "06d222a2d0466222dbf3e65da5bac141"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 1級",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "82c7e1a8bb492f8bac99e69da17b1cc6",
+        "3bc652c43af9610ea8c65e416a8692a9",
+        "afd9acbc0b3f02d4b79689527ff7a77a",
+        "d2a6f16b16f6b65b3bfea9045641e484"
+      ]
+    },
+    {
       "name": "P○I (1-12) [PDBG ver.2022.08]",
       "constraint": [
         "grade_mirror",
