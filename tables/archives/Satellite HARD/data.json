@@ -1062,8 +1062,8 @@
     "comment": "sl0"
   },
   {
-    "md5": "f492aee6154abb984b9cdcc63cfd36ab",
-    "title": "ナツイノ [BITTER7]",
+    "md5": "8c2978514e05e83f3d3e1f111ebed0a0",
+    "title": "東 [IHATOV]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -1446,12 +1446,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
-    "title": "Life Style [INSANE]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "65a926686bbee479123628e78018893a",
     "title": "Linkager [EX]",
     "level": "1.50...2.00",
@@ -1610,12 +1604,6 @@
   {
     "md5": "0cbc7b980f664e7e0eb2214c965c2180",
     "title": "Regain [EGO DEATH]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "37826032dd7655793d7c1b5054c33c94",
-    "title": "Reimei [Futabather]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1866,6 +1854,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "f492aee6154abb984b9cdcc63cfd36ab",
+    "title": "ナツイノ [BITTER7]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "b05196e19567cd6bbed47a10057b203c",
     "title": "ハッピーフェイクショー [SP Another]",
     "level": "1.50...2.00",
@@ -1940,6 +1934,12 @@
   {
     "md5": "16b6a51ba878f60dd3a4eb8cdf4e179e",
     "title": "彼女なのか [ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "4477569e9d0bee33ad929ec1cf0de878",
+    "title": "杪冬の願い [ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -2058,8 +2058,32 @@
     "comment": "sl1"
   },
   {
+    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
+    "title": "Life Style [INSANE]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "4f60d60fb3195fbc0e198bdc08e64aac",
     "title": "Orbital Drive",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "889f9a6b4361412b29b5604a7922a78a",
+    "title": "Philadelphia Xperiment [Experiments]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "37826032dd7655793d7c1b5054c33c94",
+    "title": "Reimei [Futabather]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "a38fcd8a5d6779fea4de309e8d613bd3",
+    "title": "Saudade -nostalgia-",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -2096,18 +2120,6 @@
   {
     "md5": "ecea3b8c103b84be7771cfb8afc06682",
     "title": "サラダ [Touch Grass]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "63c4789599805bd446e3fdeb397658fc",
-    "title": "スナレ [Medium Size]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "eaaef1ecb6f00074ca25e451b223134d",
-    "title": "リジットXXパラダイス -Hope-",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -2556,12 +2568,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "889f9a6b4361412b29b5604a7922a78a",
-    "title": "Philadelphia Xperiment [Experiments]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "4de642df5814292d66db1f011f63a676",
     "title": "Prismrose [Blossom]",
     "level": "2.50...3.00",
@@ -2594,12 +2600,6 @@
   {
     "md5": "877f4a37193f789cf1dee377c3774282",
     "title": "rough [7key,Another]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "a38fcd8a5d6779fea4de309e8d613bd3",
-    "title": "Saudade -nostalgia-",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -2796,6 +2796,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "63c4789599805bd446e3fdeb397658fc",
+    "title": "スナレ [Medium Size]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "d5c649a9d124b6b4b6e78822834aa318",
     "title": "スーパーイザナギオブジェクト [SAMITHER]",
     "level": "2.50...3.00",
@@ -2826,6 +2832,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "eaaef1ecb6f00074ca25e451b223134d",
+    "title": "リジットXXパラダイス -Hope-",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "4dae609e5f8eca718e30110d582fe268",
     "title": "リリカと魔法の言葉 [ZOI]",
     "level": "2.50...3.00",
@@ -2852,12 +2864,6 @@
   {
     "md5": "ef54e973b67578f913f93d32b3d5efcb",
     "title": "村 [正]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "4477569e9d0bee33ad929ec1cf0de878",
-    "title": "杪冬の願い [ANOTHER]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -2936,6 +2942,12 @@
   {
     "md5": "8afdf8703ce4597e7ac71f3bf37756f1",
     "title": "Digital Signage [W]",
+    "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "40b25680a23d5f2aab8edc17d39446d6",
+    "title": "Electric Spark 2017 [Sparkle]",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
@@ -3636,12 +3648,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "f2b941d23b71d6fa37781b74b0028af5",
-    "title": "5.1.1(ReMix) [73Another]",
-    "level": "4.00...4.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "42b8aae291c69e28bdebfcfbc31a0797",
     "title": "Amnehilesie [AbNormal]",
     "level": "4.00...4.50",
@@ -3768,6 +3774,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "9c5f82051198679dba5dde98b9cd90b4",
+    "title": "sweet pop [7key EX]",
+    "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "2c245b43e351a5bce7a114d920c6970b",
     "title": "The Fate of The Fairies",
     "level": "4.00...4.50",
@@ -3794,6 +3806,12 @@
   {
     "md5": "0433ff25c2ec3a87ef3049a26338a7d5",
     "title": "わるいコ -希望-",
+    "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "0d19baa3a0f4bc5c5dca3e5fb7e2a182",
+    "title": "アイーシャの剣-Forcing breakthrough- [KINOTHER]",
     "level": "4.00...4.50",
     "comment": "sl4"
   },
@@ -3825,6 +3843,12 @@
     "md5": "0030e052e7271ff136d9d6ccaebd3659",
     "title": "爽昧夢想ラバーズ [SP INSANE]",
     "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "f2b941d23b71d6fa37781b74b0028af5",
+    "title": "5.1.1(ReMix) [73Another]",
+    "level": "4.50...5.00",
     "comment": "sl4"
   },
   {
@@ -4020,6 +4044,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "b0581c515b0e0e6d8cd51a17b251b67a",
+    "title": "FULL COMBO Pt.2 [FULL COMBO]",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "f3e519e5fb9d1109727a9a0393609f29",
     "title": "GOODRUSH [I]",
     "level": "4.50...5.00",
@@ -4206,12 +4236,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "9c5f82051198679dba5dde98b9cd90b4",
-    "title": "sweet pop [7key EX]",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "a1e87a31918c2285a7258d09b4b8aceb",
     "title": "TEN [Ryether]",
     "level": "4.50...5.00",
@@ -4272,16 +4296,16 @@
     "comment": "sl4"
   },
   {
-    "md5": "0d19baa3a0f4bc5c5dca3e5fb7e2a182",
-    "title": "アイーシャの剣-Forcing breakthrough- [KINOTHER]",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "b7c510d564e6abdc8fb3a0495663ce4a",
     "title": "ハニエルのうた [ZOI]",
     "level": "4.50...5.00",
     "comment": "sl4"
+  },
+  {
+    "md5": "df125a0ac8d8f1759d7e72e82dc6d454",
+    "title": "バステット [EX]",
+    "level": "4.50...5.00",
+    "comment": "sl5"
   },
   {
     "md5": "7959bf2189b1c16849d1cb4f0c819bfb",
@@ -4434,12 +4458,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "b0581c515b0e0e6d8cd51a17b251b67a",
-    "title": "FULL COMBO Pt.2 [FULL COMBO]",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "5e02110c1f58d795fc5875cf4c96d507",
     "title": "Grace Glaciaire [ANOTHER]",
     "level": "5.00...5.50",
@@ -4506,12 +4524,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "c39ac8cf82d1bc55fe36863f09569838",
-    "title": "Rainy [雨]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "3c1afbf443ce5d57f6b2b3db9e7af82a",
     "title": "Reawaken (Millennium)",
     "level": "5.00...5.50",
@@ -4554,18 +4566,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "a34cc2170bd381182f1344d215426675",
-    "title": "xeusonic [ZOI]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "8be97a7c2ab870a950c3192680c75fdb",
-    "title": "はじまりの詩 [INSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "5cd695e773e6760949cb4588a2e6b408",
     "title": "わたしはうたう -Hope-",
     "level": "5.00...5.50",
@@ -4592,12 +4592,6 @@
   {
     "md5": "93dd848bebc1197dfa055784f244e81a",
     "title": "ソラハナ [INSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "df125a0ac8d8f1759d7e72e82dc6d454",
-    "title": "バステット [EX]",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -4640,6 +4634,12 @@
   {
     "md5": "4f49e165b2222bab7afd1015c62f7940",
     "title": "炎花 - flameflower - [ClimaX]",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "9e21fcf83b2123020373ccf1b0faf702",
+    "title": "生ハムメロンのうた -ハモン・セラーノ-",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -4788,12 +4788,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "7e1419a9ce6ce67c76154e7b3ee805ca",
-    "title": "HOPE -Hopeful-",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "02cc25e2711ba839c5db93d3579b2816",
     "title": "L9",
     "level": "5.50...6.00",
@@ -4856,6 +4850,12 @@
   {
     "md5": "7991c56502a1d21d776a1c14e247a6e9",
     "title": "QSHELL －拒色のシェルル－ [ZOI]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "c39ac8cf82d1bc55fe36863f09569838",
+    "title": "Rainy [雨]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -4926,6 +4926,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "a34cc2170bd381182f1344d215426675",
+    "title": "xeusonic [ZOI]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "29b0684e44c96d385748fca44f5533b9",
     "title": "XIII Charlotte -BLACK ANOTHER-",
     "level": "5.50...6.00",
@@ -4952,6 +4958,12 @@
   {
     "md5": "e2b18a7ee3def34b287660af32527da3",
     "title": "なついろ アーチ [夏]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "8be97a7c2ab870a950c3192680c75fdb",
+    "title": "はじまりの詩 [INSANE]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -5000,12 +5012,6 @@
   {
     "md5": "6e3a179e98fcaddc08bf998c7462cf88",
     "title": "太陽と月の宴",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
-    "md5": "9e21fcf83b2123020373ccf1b0faf702",
-    "title": "生ハムメロンのうた -ハモン・セラーノ-",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -5070,6 +5076,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "9dec1b7a3dfadda7b3c6bb5e013af494",
+    "title": "dreamin' -happycore version - [Sweet Dream]",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "99d193847df4af6a01987b7357c6af68",
     "title": "ETERNiZE [INSANE]",
     "level": "6.00...6.50",
@@ -5080,6 +5092,12 @@
     "title": "Fireball -Hopeless-",
     "level": "6.00...6.50",
     "comment": "sl6"
+  },
+  {
+    "md5": "7e1419a9ce6ce67c76154e7b3ee805ca",
+    "title": "HOPE -Hopeful-",
+    "level": "6.00...6.50",
+    "comment": "sl5"
   },
   {
     "md5": "caa803a5156405d0ede822d165bd91a6",
@@ -5300,12 +5318,6 @@
   {
     "md5": "06b00171574f13d3d7a314f4fcd0c00d",
     "title": "Dizzolve [Insane]",
-    "level": "6.50...7.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "9dec1b7a3dfadda7b3c6bb5e013af494",
-    "title": "dreamin' -happycore version - [Sweet Dream]",
     "level": "6.50...7.00",
     "comment": "sl6"
   },
@@ -5754,6 +5766,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "04138e9e8b9a54b55cb7f22abb47f975",
+    "title": "夢、幻。 [HARDEST]",
+    "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
     "md5": "0bfa7f16d645bd2fb14212ac55e47274",
     "title": "Akasagarbha  [Sabother]",
     "level": "7.50...8.00",
@@ -6054,6 +6072,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "84643dac5ce8b76013fdde7ac31f8d2f",
+    "title": "スナレ [Huge]",
+    "level": "7.50...8.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "502f2e31b37878df952c8bcd54b4e1b3",
     "title": "スーパーイザナギオブジェクト [yumether]",
     "level": "7.50...8.00",
@@ -6080,12 +6104,6 @@
   {
     "md5": "ea83d8cfa55713c1d5f677535e73c79f",
     "title": "多重極展開 [MANIAQ]",
-    "level": "7.50...8.00",
-    "comment": "sl7"
-  },
-  {
-    "md5": "04138e9e8b9a54b55cb7f22abb47f975",
-    "title": "夢、幻。 [HARDEST]",
     "level": "7.50...8.00",
     "comment": "sl7"
   },
@@ -6158,12 +6176,6 @@
   {
     "md5": "43ae0b9401b3b2214322b520b662f62a",
     "title": "Fuzzy-Navel [Nemesis]",
-    "level": "8.00...8.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "3f3dae69ab52fe1abb511367192e5f5b",
-    "title": "gazer [MANIAQ]",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
@@ -6276,12 +6288,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "bd575bc97e261118191d2f09721a34cf",
-    "title": "僕が見た世界 [Believe My Shine!!]",
-    "level": "8.00...8.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "7e751589bee7ce5987f0d44cf251459e",
     "title": "劇場版 うぉーる☆くらっしゃー！ [恋人なんていらない]",
     "level": "8.00...8.50",
@@ -6362,6 +6368,12 @@
   {
     "md5": "97bc4321bc1bc37177e40ee592637cb1",
     "title": "Flashdance [#]",
+    "level": "8.50...9.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "3f3dae69ab52fe1abb511367192e5f5b",
+    "title": "gazer [MANIAQ]",
     "level": "8.50...9.00",
     "comment": "sl8"
   },
@@ -6632,6 +6644,12 @@
   {
     "md5": "3e40449140978a7124ba7ef29c3d4a18",
     "title": "レトロモダンの玩具工場 [INSANE]",
+    "level": "8.50...9.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "bd575bc97e261118191d2f09721a34cf",
+    "title": "僕が見た世界 [Believe My Shine!!]",
     "level": "8.50...9.00",
     "comment": "sl8"
   },
@@ -7104,6 +7122,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "988010f041bbd81cda28bacd9e151350",
+    "title": "EOS -Last Hope-",
+    "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "465d418e371077e71c08ebcfc1200e1d",
     "title": "Evanescent [Realitat]",
     "level": "10.00...10.50",
@@ -7166,12 +7190,6 @@
   {
     "md5": "d1de0153f52ea4a6dd3a37e898b05eb5",
     "title": "玉響サーチライト [SP INSANE]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
-    "title": "風時夏 [晴海歌]",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -7298,12 +7316,6 @@
   {
     "md5": "07d0643bd73d5aba7415b513003b38cf",
     "title": "ENERGY SYNERGY MATRIX [Nemesis]",
-    "level": "10.50...11.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "988010f041bbd81cda28bacd9e151350",
-    "title": "EOS -Last Hope-",
     "level": "10.50...11.00",
     "comment": "sl10"
   },
@@ -7626,6 +7638,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "title": "風時夏 [晴海歌]",
+    "level": "10.50...11.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "1fcd59e7268114a78183d2ae04addf25",
     "title": "7 colors* -To The Future-",
     "level": "11.00...11.50",
@@ -7634,6 +7652,12 @@
   {
     "md5": "bd51437a802fd2570011d96178f06c9b",
     "title": "CHAINSAW PARTY <MARYTHER>",
+    "level": "11.00...11.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "62291afe8c3b2d1729a085a3e720b800",
+    "title": "D.I.F -Despair-",
     "level": "11.00...11.50",
     "comment": "sl11"
   },
@@ -8250,12 +8274,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "c25af3598e0adbc5e4aade55ddb2019f",
-    "title": "eth剣 [Fusion Etude]",
-    "level": "12.00...12.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "e97bd593d21d83c74e84d7cd4c950930",
     "title": "format0 [0x82D]",
     "level": "12.00...12.50",
@@ -8272,12 +8290,6 @@
     "title": "G-SHOCK [C4A]",
     "level": "12.00...12.50",
     "comment": "sl11"
-  },
-  {
-    "md5": "596f59aac969be214282a8500dbc1c1e",
-    "title": "Garefowl -Xe-",
-    "level": "12.00...12.50",
-    "comment": "sl12"
   },
   {
     "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
@@ -8508,12 +8520,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "62291afe8c3b2d1729a085a3e720b800",
-    "title": "D.I.F -Despair-",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
     "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
     "level": "12.50...13.00",
@@ -8544,6 +8550,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "c25af3598e0adbc5e4aade55ddb2019f",
+    "title": "eth剣 [Fusion Etude]",
+    "level": "12.50...13.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "d4012f958b723b5cbcbb605e51287df6",
     "title": "Ever Forever [EX]",
     "level": "12.50...13.00",
@@ -8552,6 +8564,12 @@
   {
     "md5": "70e3cfdbdcc317103ad3a00f30e5046d",
     "title": "Faurie [unmeasured]",
+    "level": "12.50...13.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "596f59aac969be214282a8500dbc1c1e",
+    "title": "Garefowl -Xe-",
     "level": "12.50...13.00",
     "comment": "sl12"
   },

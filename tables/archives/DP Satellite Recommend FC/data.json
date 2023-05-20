@@ -65,11 +65,6 @@
     "level": "4.6"
   },
   {
-    "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
-    "title": "Stray Squall (BMS Edit)",
-    "level": "4.6"
-  },
-  {
     "md5": "3a9338257e96637378c6f7f4dac076f7",
     "title": "ハッピーフェイクショー [DP Another]",
     "level": "4.6"
@@ -105,8 +100,18 @@
     "level": "4.7"
   },
   {
+    "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
+    "title": "Stray Squall (BMS Edit)",
+    "level": "4.7"
+  },
+  {
     "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
     "title": "endemize [E-ANOTHER]",
+    "level": "4.7"
+  },
+  {
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "4.7"
   },
   {
@@ -142,11 +147,6 @@
   {
     "md5": "1ab2a0140e177fc8681b93cb6768093d",
     "title": "Reality [14keys Hyper]",
-    "level": "4.8"
-  },
-  {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
     "level": "4.8"
   },
   {
@@ -315,11 +315,6 @@
     "level": "5.6"
   },
   {
-    "md5": "5dc1cb5b9233d609d755fe314851d0fb",
-    "title": "バーチャルセラピー [DP ANOTHER]",
-    "level": "5.8"
-  },
-  {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
     "title": "未来のコピヌ [DP ANOTHER]",
     "level": "5.8"
@@ -332,6 +327,11 @@
   {
     "md5": "2dc6e8268b5efcca25c9f72f9c1186f0",
     "title": "evangelize (blurry images) [DP HARD]",
+    "level": "5.9"
+  },
+  {
+    "md5": "5dc1cb5b9233d609d755fe314851d0fb",
+    "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "5.9"
   },
   {
@@ -395,11 +395,6 @@
     "level": "6.2"
   },
   {
-    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
-    "title": "Replace [DP ANOTHER]",
-    "level": "6.2"
-  },
-  {
     "md5": "1c8c39a9a94d6f5cf13616fbefaed119",
     "title": "私のヒトミ",
     "level": "6.2"
@@ -408,11 +403,6 @@
     "md5": "bc9f6970a45fa7fdefd7c2265b132651",
     "title": "黄昏のメロディア [DP ANOTHER]",
     "level": "6.2"
-  },
-  {
-    "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
-    "title": "A.O. [DP]",
-    "level": "6.3"
   },
   {
     "md5": "d571d3802ebdeb013d88b1265b1a2552",
@@ -455,6 +445,11 @@
     "level": "6.3"
   },
   {
+    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
+    "title": "Replace [DP ANOTHER]",
+    "level": "6.3"
+  },
+  {
     "md5": "0f02f3d09fa7218c97d49358b50539e7",
     "title": "Twilight Galaxy [DP ANOTHER]",
     "level": "6.3"
@@ -488,6 +483,11 @@
     "md5": "5ecedbe580a0056acc597f1019171528",
     "title": "４２２ [DP HYPER]",
     "level": "6.3"
+  },
+  {
+    "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
+    "title": "A.O. [DP]",
+    "level": "6.4"
   },
   {
     "md5": "7f27fe2186cfbc66556fcef06f985727",
@@ -655,11 +655,6 @@
     "level": "7.5"
   },
   {
-    "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
-    "title": "The Microbe [DP ANOTHER]",
-    "level": "7.5"
-  },
-  {
     "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
     "title": "すばらきしこのせかい [for Beginner]",
     "level": "7.5"
@@ -697,6 +692,11 @@
   {
     "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
     "title": "Teleportation [Another14]",
+    "level": "7.6"
+  },
+  {
+    "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
+    "title": "The Microbe [DP ANOTHER]",
     "level": "7.6"
   },
   {
@@ -1592,6 +1592,11 @@
   {
     "md5": "59909bc8c4d6f0788e04cc632e63e6d1",
     "title": "SCARY BANQUET [DP ANOTHER]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "b96ba398a774ecaeb210c4da956fe9a7",
+    "title": "Summertime(2013 mix) [DP Another]",
     "level": "Infinity"
   },
   {
@@ -2880,6 +2885,11 @@
     "level": "Infinity"
   },
   {
+    "md5": "93d080e4b70da264f18d371169e7e20f",
+    "title": "Bouquet colore [Fatalism]",
+    "level": "Infinity"
+  },
+  {
     "md5": "767177285abbedf42d833793842cc70d",
     "title": "CYCLONE [Gravity Distorting Module]",
     "level": "Infinity"
@@ -2920,8 +2930,18 @@
     "level": "Infinity"
   },
   {
+    "md5": "e65e6c957a6c76eec0903f88483965a0",
+    "title": "Tears of the Sunrise [DP-soijoy]",
+    "level": "Infinity"
+  },
+  {
     "md5": "baa218833211f71a4a589528adbe184b",
     "title": "The sinking world [DP EXTREME 2]",
+    "level": "Infinity"
+  },
+  {
+    "md5": "31affd1c26756b6a288fd69b9fa55566",
+    "title": "Time to beat the odds [DP ULTIMATE]",
     "level": "Infinity"
   },
   {

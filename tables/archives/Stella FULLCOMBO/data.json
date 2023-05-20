@@ -1014,12 +1014,6 @@
     "comment": "st1"
   },
   {
-    "md5": "415ca7868e3d064f208e033f1aa5193e",
-    "title": "ようこそジャパリパークへ -KCG Mix- [ゴリラのフレンズ]",
-    "level": "6.50...7.00",
-    "comment": "st1"
-  },
-  {
     "md5": "91c4fcca7fd8f1373524c4f64944a31e",
     "title": "サクライロフワリ (puncture)",
     "level": "6.50...7.00",
@@ -1436,6 +1430,12 @@
   {
     "md5": "724ba29ceece4e8966c3767c84d95f7c",
     "title": "さよならコスモノート [3544.11.01]",
+    "level": "7.50...8.00",
+    "comment": "st2"
+  },
+  {
+    "md5": "415ca7868e3d064f208e033f1aa5193e",
+    "title": "ようこそジャパリパークへ -KCG Mix- [ゴリラのフレンズ]",
     "level": "7.50...8.00",
     "comment": "st2"
   },
@@ -2686,6 +2686,12 @@
     "title": "Back 2 Oldskool [yumether]",
     "level": "-",
     "comment": "st3"
+  },
+  {
+    "md5": "6dc2f268ac49487ec8c40065dcbfa3d7",
+    "title": "Bad Beat! [GOD BEAT]",
+    "level": "-",
+    "comment": "st2"
   },
   {
     "md5": "33394c8183eb40426403566d03ef0e5a",
@@ -3954,6 +3960,12 @@
     "comment": "st6"
   },
   {
+    "md5": "9969a07a9bb6808dc25a8f1a7bf4c9ea",
+    "title": "flat by second [laner+]",
+    "level": "-",
+    "comment": "st0"
+  },
+  {
     "md5": "02a2aee824b3d0bb1c1d55022f8e8d5c",
     "title": "Flavor [Hexagon]",
     "level": "-",
@@ -4938,6 +4950,12 @@
     "comment": "st5"
   },
   {
+    "md5": "be504b052ec280eb7c14d1f12f4216e6",
+    "title": "Melotte 333 [Termination]",
+    "level": "-",
+    "comment": "st3"
+  },
+  {
     "md5": "218592671612e80104e6893bb7868cff",
     "title": "melty blood into the holy grail",
     "level": "-",
@@ -4959,7 +4977,7 @@
     "md5": "6225f647175f0f7b638376b0587d04fa",
     "title": "Mercury [Radiation Poisoning]",
     "level": "-",
-    "comment": "st3"
+    "comment": "st2"
   },
   {
     "md5": "bb843baa1332cdacd049f1e142c79045",
@@ -6066,6 +6084,12 @@
     "comment": "st7"
   },
   {
+    "md5": "26fdb50f6232cdfae99504c892e87f55",
+    "title": "Stars Keep on Illuminating [SP Insane]",
+    "level": "-",
+    "comment": "st0"
+  },
+  {
     "md5": "0ebe1afbe14c578a694184390d318dfe",
     "title": "START-RESTART -O2therEX-",
     "level": "-",
@@ -6586,6 +6610,12 @@
     "title": "Vorota Collapse [Fatality]",
     "level": "-",
     "comment": "st7"
+  },
+  {
+    "md5": "50699b93a0c64edfb453906eecb16dd4",
+    "title": "Vorota Collapse [Immortality]",
+    "level": "-",
+    "comment": "st12"
   },
   {
     "md5": "55d5fd21b94ed9d5e9039120b570b699",

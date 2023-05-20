@@ -130,7 +130,7 @@
       "md5": [
         "d33245553887fc7cab7220731fe157ed",
         "f9624d268dacdb5eb84d0fae4b841781",
-        "f86b99324ad269588b06d3a1a36c32eb",
+        "88a2e7102eadb350339cd6c4e3c31604",
         "45a8665974fb6d3ed4086d9fd3124611"
       ]
     },
@@ -138,7 +138,7 @@
       "name": "最後の集い段位認定　四段",
       "constraint": [],
       "md5": [
-        "e49a3316494e599ead1d96fc00dd2e73",
+        "79e4539d1d52299c4d960a0a482a6d22",
         "ec3a70c976b2eccacf70d2716ec35f1b",
         "09e4acb0e0d7438f829834097c34a1bd",
         "11e9905e655706c4a78de21fbda5977f"
@@ -159,8 +159,8 @@
       "constraint": [],
       "md5": [
         "df86a7fc761a23589f4ce8160fcd578e",
-        "e12cf459a8df3ed420dba33022178a6f",
         "7d7643439eb59d5c83b3f14f445c0c82",
+        "2c71f7b2e295f0ccd6f2e53eb602e201",
         "ece8b1071481624e8dd8cc0a2f0b995b"
       ]
     },
@@ -170,7 +170,7 @@
       "md5": [
         "c8ac494570866c16411bb4f585bbdc81",
         "8da8d9c1f9cf4e929d4d92fc3ea7b7a4",
-        "4348dc425d2472fa5a46d984a6ada800",
+        "f94eb4d00b40eb167387c788bc5d04de",
         "969a72905df3cd047e108e645ef4df36"
       ]
     },
@@ -180,8 +180,18 @@
       "md5": [
         "cb815792ce6d12413b5eaaaf5d052b1d",
         "4ff51358145f7ec12e1ce947e1b0efed",
-        "0db1e83d28eda1d37f0ffafaff725dae",
+        "2fe430505ce12d5230b7c9452a081616",
         "24df483ad8a6a3b26d055f285ae8663c"
+      ]
+    },
+    {
+      "name": "最後の集い段位認定　九段",
+      "constraint": [],
+      "md5": [
+        "277d64958b0face736dcfe94087a03d5",
+        "73d53632d51f7dba303c44dfe588c2b3",
+        "68ee9e8f46bb446ef598dcd1009febe9",
+        "2781f598ff2c472b12338b29a5d8276d"
       ]
     }
   ],

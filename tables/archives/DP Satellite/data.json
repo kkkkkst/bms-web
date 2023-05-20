@@ -3145,6 +3145,17 @@
     "submission": 368
   },
   {
+    "title": "衛星ミカボシ [DP]",
+    "artist": "er/obj:epics-",
+    "url": "https://drive.google.com/file/d/1ZDbFg0GAkR_LCLqaXgI7-gkHiforlZNa/view?usp=share_link",
+    "url_diff": "http://web.archive.org/web/20201129095830/http://epics.client.jp/bof2012/er_Satellite-Mikaboshi_EP.zip",
+    "md5": "6408314fb66561cce094b8f6695762d6",
+    "sha256": "113b495f901872c8c3f8d5206f21bfe12c1e472fb6241dbddc569928c3f497f4",
+    "level": "4",
+    "proposer": "Zris",
+    "submission": 806
+  },
+  {
     "title": "踊る水飛沫 [DP-sagANOTHER]",
     "artist": "あきやまうに (bms/er) / obj:sagoo",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=102",
@@ -6414,6 +6425,18 @@
     "submission": 574
   },
   {
+    "title": "Conclusio Catastropha -BMS edit- [DP Lost]",
+    "artist": "Ice (BGA: Yan-K)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=450&event=140",
+    "url_diff": "",
+    "md5": "a1b94ca36a0c07d29033317b3186779b",
+    "sha256": "b741cf2d290ad4354a9226db1a8cd5203bf57e465c0e121b9240444ba0479509",
+    "level": "11",
+    "proposer": "にぇ",
+    "comment": "★★2くらいだと思うのでsl11で",
+    "submission": 815
+  },
+  {
     "title": "Danse de Romani",
     "artist": "MUE / mov : Lyrebird Ferdinant obj: shiba",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=104",
@@ -6767,6 +6790,18 @@
     "submission": 651
   },
   {
+    "title": "::AbnormalityPurificator:: [DP INSANE]",
+    "artist": "Shiroha BGI : Exa / obj:plum",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/33",
+    "url_diff": "",
+    "md5": "03ee34febbb179b1ebc15cf0de53b803",
+    "sha256": "9e65a532bf7b29339c60b49d305b9b9212aca6786ca1ac14e80911c60622e24a",
+    "level": "12",
+    "proposer": "camsohits",
+    "comment": "sl11~12 中盤超発狂　sl12入門から卒業までの地力上げに",
+    "submission": 817
+  },
+  {
     "title": "Across the Sky [DP Stratosphere]",
     "artist": "Kohta Imafuku obj:nBel",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=140",
@@ -6875,6 +6910,18 @@
     "submission": 281
   },
   {
+    "title": "Fragments [DP ULTIMATE fixed]",
+    "artist": "影虎。 BMS:Qayo / BGA:FEIflick / obj.にぇ",
+    "url": "https://bms-mirror.com/pkg/2021/bofxvii/Kagetora_Fragments.zip",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1418",
+    "md5": "c18c15892b9e9224f712fd41a4127545",
+    "sha256": "f90d71eb43621e714e25e644aa07e9032e3d811bc2d74c5f67526aace9d45431",
+    "level": "12",
+    "proposer": "camsohits",
+    "comment": "総合力　安定と信頼のにぇ差分　",
+    "submission": 816
+  },
+  {
     "title": "Freja -Royal Flare-",
     "artist": "rider obj : 71066",
     "url": "http://flowermaster.web.fc2.com/riderbms/index.html",
@@ -6909,6 +6956,18 @@
     "proposer": "Telperion",
     "comment": "高速譜面練習向け",
     "submission": 776
+  },
+  {
+    "title": "N - flat waves -",
+    "artist": "er / obj:sagoo",
+    "url": "https://dropbox.bms.ms/u/28765267/er_N.zip",
+    "url_diff": "https://stellabms.xyz/upload/2405",
+    "md5": "df64bec170f75a0766971df7fb052326",
+    "sha256": "0e660e43a9b909ff6154d5e4a96e231df660184446800e3788297a9e31321a77",
+    "level": "12",
+    "proposer": "にぇ",
+    "comment": "同梱の無配置ファイル(_n_none.xxx)と比較してズレ抜け無し",
+    "submission": 814
   },
   {
     "title": "new earth -dp stella-",

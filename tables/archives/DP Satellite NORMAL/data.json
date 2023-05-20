@@ -600,6 +600,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "2dbc512d9122bc7e85f6edc3d2fc8411",
+    "title": "intersection？！ [DP-sagANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "51480d58ea703c56178cbf4aa1818ab2",
     "title": "introspect [DP Another]",
     "level": "1.50...2.00",
@@ -780,12 +786,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "2dbc512d9122bc7e85f6edc3d2fc8411",
-    "title": "intersection？！ [DP-sagANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "24990b5348187bfd53c897ed4b1ff120",
     "title": "Late Summer [nostalgia]",
     "level": "2.00...2.50",
@@ -812,6 +812,12 @@
   {
     "md5": "3662c764b23ca91edf7df310537d5b03",
     "title": "インフェルノシティ [DP Another]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -996,12 +1002,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
-    "title": "舞姫 ～buki～　 [ANOTHER]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "3.00...3.50",
@@ -1060,6 +1060,12 @@
     "title": "Smiling",
     "level": "3.00...3.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "b96ba398a774ecaeb210c4da956fe9a7",
+    "title": "Summertime(2013 mix) [DP Another]",
+    "level": "3.00...3.50",
+    "comment": "sl4"
   },
   {
     "md5": "73e1a67c683004e499d6a40e91fcc0d6",
@@ -1962,6 +1968,18 @@
     "comment": "sl5"
   },
   {
+    "md5": "b7ff48a82dc10c9622934bbf39de2202",
+    "title": "Nervous As the Damsel [DP ANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
+    "title": "Noblesse Gloria [DP-sagANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "f933308f0963b29ad48b6fe249689560",
     "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "5.50...6.00",
@@ -2082,32 +2100,14 @@
     "comment": "sl6"
   },
   {
-    "md5": "b7ff48a82dc10c9622934bbf39de2202",
-    "title": "Nervous As the Damsel [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
     "title": "NightTheater [DP ANOTHER+]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
   {
-    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
-    "title": "Noblesse Gloria [DP-sagANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "696db350374daf33a376b5a1e56863e4",
     "title": "Ocean Memory [DP Hyper]",
-    "level": "6.00...6.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "bea9dcaf2cf21b7bfbce7da243b1a68b",
-    "title": "Old Pal",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2142,12 +2142,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "66590d9d44d410d0c22868eed08bc3a4",
-    "title": "take me to the moon [DP Insane]",
-    "level": "6.00...6.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "e95c45d5c8a175310c67d5b4640a990f",
     "title": "Telescope [DP-sagANOTHER]",
     "level": "6.00...6.50",
@@ -2168,12 +2162,6 @@
   {
     "md5": "c3cce8a0c9843c032d23b9a51f33a800",
     "title": "Απομνημονευμαι [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "b09b5e86185319b7e80ec54a37bd61b5",
-    "title": "スナレ",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2232,6 +2220,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "bea9dcaf2cf21b7bfbce7da243b1a68b",
+    "title": "Old Pal",
+    "level": "6.50...7.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "0927a8e429d04fb821bd166947c8bcd1",
     "title": "PPBQ",
     "level": "6.50...7.00",
@@ -2256,10 +2250,22 @@
     "comment": "sl7"
   },
   {
+    "md5": "66590d9d44d410d0c22868eed08bc3a4",
+    "title": "take me to the moon [DP Insane]",
+    "level": "6.50...7.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "905126444a0d449d2b089502fcc1ac27",
     "title": "Thaumaturgy",
     "level": "6.50...7.00",
     "comment": "sl7"
+  },
+  {
+    "md5": "b09b5e86185319b7e80ec54a37bd61b5",
+    "title": "スナレ",
+    "level": "6.50...7.00",
+    "comment": "sl6"
   },
   {
     "md5": "144901283ee18aed261051dd0cd72713",
@@ -2940,10 +2946,10 @@
     "comment": "sl9"
   },
   {
-    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
-    "title": "Kaleidoscope [DP_Li]",
+    "md5": "aa165074a4954503f4a014d2a313903d",
+    "title": "HOPE [あなたの健康を損なうおそれがあります]",
     "level": "8.50...9.00",
-    "comment": "sl10"
+    "comment": "sl11"
   },
   {
     "md5": "091001b3a2865a7c463f882de5377679",
@@ -2960,12 +2966,6 @@
   {
     "md5": "5716fa9af418d60d552390de80cb0b3e",
     "title": "Nice Magicgirls VS scary Walpurgis [Insane14]",
-    "level": "8.50...9.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "388e05189bdc0f964c474cb01dd1d27e",
-    "title": "Orillia [DP-sagINSANE]",
     "level": "8.50...9.00",
     "comment": "sl10"
   },
@@ -3004,12 +3004,6 @@
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
     "level": "8.50...9.00",
     "comment": "sl9"
-  },
-  {
-    "md5": "48e3f3a439115c200f796b06e352f00f",
-    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
-    "level": "8.50...9.00",
-    "comment": "sl10"
   },
   {
     "md5": "3af95ce4ad9e59bcdd001bd151225200",
@@ -3054,6 +3048,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
+    "title": "Kaleidoscope [DP_Li]",
+    "level": "9.00...9.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "19dd7514996c1d83396cf79d33dd0b03",
     "title": "Love☆Spellcard",
     "level": "9.00...9.50",
@@ -3068,6 +3068,12 @@
   {
     "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
     "title": "Non Return to Zero [DP ANOTHER]",
+    "level": "9.00...9.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
     "level": "9.00...9.50",
     "comment": "sl10"
   },
@@ -3090,6 +3096,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
+    "level": "9.00...9.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
     "title": "Wizdomiot [DP INSANE]",
     "level": "9.00...9.50",
@@ -3108,6 +3120,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "93d080e4b70da264f18d371169e7e20f",
+    "title": "Bouquet colore [Fatalism]",
+    "level": "9.50...10.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "52fdcccccfe731534f011e4c3e500a6a",
     "title": "Complex Colors -改 MIX- [DP ANOTHER]",
     "level": "9.50...10.00",
@@ -3116,12 +3134,6 @@
   {
     "md5": "ead4d5ef2f682641679929a7f532c3d7",
     "title": "Disillusion code [DP ANOTHER]",
-    "level": "9.50...10.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "8dfba7248b732cf93d0bb5cf0e91878b",
-    "title": "ELIMINATOR [DP INSANE]",
     "level": "9.50...10.00",
     "comment": "sl10"
   },
@@ -3148,6 +3160,18 @@
     "title": "Psalms [さよなら、ユートピア]",
     "level": "9.50...10.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "e65e6c957a6c76eec0903f88483965a0",
+    "title": "Tears of the Sunrise [DP-soijoy]",
+    "level": "9.50...10.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "31affd1c26756b6a288fd69b9fa55566",
+    "title": "Time to beat the odds [DP ULTIMATE]",
+    "level": "9.50...10.00",
+    "comment": "sl12"
   },
   {
     "md5": "7cdf0e379373303886ae2240879699a2",
@@ -3204,6 +3228,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "8dfba7248b732cf93d0bb5cf0e91878b",
+    "title": "ELIMINATOR [DP INSANE]",
+    "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
     "title": "H.S : Hadron Strike [DP ANOTHER]",
     "level": "10.00...10.50",
@@ -3242,6 +3272,12 @@
   {
     "md5": "31c877e8022d80b63cc78eb42a4be921",
     "title": "QUESTING",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
+    "title": "Rechronize [Real14]",
     "level": "10.00...10.50",
     "comment": "sl11"
   },
@@ -3360,12 +3396,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
-    "title": "Rechronize [Real14]",
-    "level": "10.50...11.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "584450308e2b02b3a71a3979c16cdb4f",
     "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
     "level": "10.50...11.00",
@@ -3404,6 +3434,12 @@
   {
     "md5": "1f34b9ffc132ade5865c86c6c8297a0b",
     "title": "fushigichan [DP LEGGENDARIA]",
+    "level": "11.00...11.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
+    "title": "GIRIMECHALA Reflects! (Chefei)",
     "level": "11.00...11.50",
     "comment": "sl11"
   },
@@ -3550,18 +3586,6 @@
     "title": "私のヒトミ",
     "level": "12.50...13.00",
     "comment": "sl12"
-  },
-  {
-    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
-    "title": "GIRIMECHALA Reflects! (Chefei)",
-    "level": "-",
-    "comment": "sl11"
-  },
-  {
-    "md5": "aa165074a4954503f4a014d2a313903d",
-    "title": "HOPE [あなたの健康を損なうおそれがあります]",
-    "level": "-",
-    "comment": "sl11"
   },
   {
     "md5": "9525b9f36f604d3fb4ee93af8e3f9187",

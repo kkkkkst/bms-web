@@ -1871,6 +1871,16 @@
   },
   {
     "level": "2",
+    "title": "Mercury [Radiation Poisoning]",
+    "artist": "scamp obj. Kamikaze",
+    "url": "https://venue.bmssearch.net/bmsshuin2/10",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/26",
+    "md5": "6225f647175f0f7b638376b0587d04fa",
+    "comment": "st2/480",
+    "打鍵速度": "480"
+  },
+  {
+    "level": "2",
     "title": "oceanbirdelay [ANOTHER]",
     "artist": "Xacla / obj:sarada BGA:TOHRU MiTSUHASHi",
     "url": "https://www.axfc.net/u/3689643",
@@ -2288,16 +2298,6 @@
     "md5": "baffb208283c72d92adf2b2b7899ca11",
     "comment": "st3/465\n<p>低トータル気味<p/>",
     "打鍵速度": "465"
-  },
-  {
-    "level": "3",
-    "title": "Mercury [Radiation Poisoning]",
-    "artist": "scamp obj. Kamikaze",
-    "url": "https://venue.bmssearch.net/bmsshuin2/10",
-    "url_diff": "https://venue.bmssearch.net/bcel_pre/26",
-    "md5": "6225f647175f0f7b638376b0587d04fa",
-    "comment": "st3/480",
-    "打鍵速度": "480"
   },
   {
     "level": "3",
@@ -3078,16 +3078,6 @@
     "md5": "6f391074a77105d5092d99764489cb5e",
     "comment": "st5/280",
     "打鍵速度": "280"
-  },
-  {
-    "level": "5",
-    "title": "klimt_(:3」∠)_-",
-    "artist": "judithz",
-    "url": "http://web.archive.org/web/20040808174533/http://big.freett.com/bitplane/klimt.lzh",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6753.zip",
-    "md5": "ffed191432f6d6607dfebc53940d7ee4",
-    "comment": "520?",
-    "打鍵速度": "520?"
   },
   {
     "level": "5",
@@ -6916,7 +6906,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=140",
     "url_diff": "https://stellabms.xyz/upload/2225",
     "md5": "48b18638610539e74588db700a73d532",
-    "comment": "st1",
+    "comment": "st0",
     "打鍵速度": ""
   },
   {
@@ -6927,6 +6917,16 @@
     "url_diff": "http://cieu.web.fc2.com/",
     "md5": "5b5b2a56526393ae893e4092068aa1cd",
     "comment": "★★1/284",
+    "打鍵速度": ""
+  },
+  {
+    "level": "-sub 1",
+    "title": "antilife",
+    "artist": "甘党マニア obj:LAPIS+XYZ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=60",
+    "url_diff": "https://tejawha.github.io/objxyz/",
+    "md5": "d2c0b42c018bd6bd851681099fcbfd5d",
+    "comment": "st1/332",
     "打鍵速度": ""
   },
   {
@@ -7088,6 +7088,16 @@
     "md5": "ca191e1cf78804f471f7ab3c944f472e",
     "comment": "dy(sub)0/306",
     "打鍵速度": "306"
+  },
+  {
+    "level": "-sub 5",
+    "title": "klimt_(:3」∠)_-",
+    "artist": "judithz",
+    "url": "http://web.archive.org/web/20040808174533/http://big.freett.com/bitplane/klimt.lzh",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6753.zip",
+    "md5": "ffed191432f6d6607dfebc53940d7ee4",
+    "comment": "520?",
+    "打鍵速度": "520?"
   },
   {
     "level": "-sub 5",

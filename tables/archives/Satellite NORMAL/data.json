@@ -228,6 +228,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "ad2d6de6db78dc18ec412445340df39d",
+    "title": "COSMIC DIMENSION [ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "5aef0726a99e16fa73cdd45f60e77c4b",
     "title": "Crystalline White [SP INSANE]",
     "level": "0.00...0.50",
@@ -1038,12 +1044,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "ad2d6de6db78dc18ec412445340df39d",
-    "title": "COSMIC DIMENSION [ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "8104bc6b3580ec33e2f8a425488f0d5f",
     "title": "Crossover (Chain mix)",
     "level": "0.50...1.00",
@@ -1082,6 +1082,12 @@
   {
     "md5": "f492aee6154abb984b9cdcc63cfd36ab",
     "title": "ナツイノ [BITTER7]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "8c2978514e05e83f3d3e1f111ebed0a0",
+    "title": "東 [IHATOV]",
     "level": "0.50...1.00",
     "comment": "sl1"
   },
@@ -1962,6 +1968,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "4477569e9d0bee33ad929ec1cf0de878",
+    "title": "杪冬の願い [ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "4f24b7ffca9baf218b6daf3f5e363938",
     "title": "東風谷早苗が悲しい顔をする理由。",
     "level": "1.00...1.50",
@@ -2118,14 +2130,14 @@
     "comment": "sl2"
   },
   {
-    "md5": "e247ba36d83176a89304c39a8be5b876",
-    "title": "Hypertext Transfer Protocol -418-",
+    "md5": "e22484ff579204847425de6a0cb93158",
+    "title": "Good Life [ZOI]",
     "level": "1.50...2.00",
     "comment": "sl2"
   },
   {
-    "md5": "22a8fdf9c1dc7353c1ec62363244ac73",
-    "title": "kyrka [Mild(fix)]",
+    "md5": "e247ba36d83176a89304c39a8be5b876",
+    "title": "Hypertext Transfer Protocol -418-",
     "level": "1.50...2.00",
     "comment": "sl2"
   },
@@ -2216,6 +2228,12 @@
   {
     "md5": "30c1993623dcda955b497b356077c34b",
     "title": "Sweet Pie",
+    "level": "1.50...2.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "a7cbd0db105b023b38bef0f379c37bce",
+    "title": "This is an Attack コンギョ ~攻撃戦だ~",
     "level": "1.50...2.00",
     "comment": "sl2"
   },
@@ -2330,12 +2348,6 @@
   {
     "md5": "ef54e973b67578f913f93d32b3d5efcb",
     "title": "村 [正]",
-    "level": "1.50...2.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "4477569e9d0bee33ad929ec1cf0de878",
-    "title": "杪冬の願い [ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl2"
   },
@@ -2532,12 +2544,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "e22484ff579204847425de6a0cb93158",
-    "title": "Good Life [ZOI]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "05f42d8167d387d7393638809bad0dae",
     "title": "Grimheart [Heartbeat]",
     "level": "2.00...2.50",
@@ -2582,6 +2588,12 @@
   {
     "md5": "65a31f2f2fb40dd9fba2ee983aaca4d4",
     "title": "Kreuz [時間と機械の物語]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "22a8fdf9c1dc7353c1ec62363244ac73",
+    "title": "kyrka [Mild(fix)]",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -2792,12 +2804,6 @@
   {
     "md5": "7952b139d621739116d8b16605df591a",
     "title": "Third World [World's End]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "a7cbd0db105b023b38bef0f379c37bce",
-    "title": "This is an Attack コンギョ ~攻撃戦だ~",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -3024,6 +3030,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "40b25680a23d5f2aab8edc17d39446d6",
+    "title": "Electric Spark 2017 [Sparkle]",
+    "level": "2.50...3.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "673e40ee0ee4af8130dcbf885d3a9648",
     "title": "Excelsia -00-",
     "level": "2.50...3.00",
@@ -3224,6 +3236,12 @@
   {
     "md5": "3a8f89bd139dd9514550ab7d0da809cb",
     "title": "The Third Castle [ANOTHER]",
+    "level": "2.50...3.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "31b61a054882b4ae0490b5f9ec690e57",
+    "title": "The Warden of Ruins [INSANE]",
     "level": "2.50...3.00",
     "comment": "sl3"
   },
@@ -3510,12 +3528,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "7ad9ee05094d6bd4e64ed4f65ad2476c",
-    "title": "DistortedIntelligence [AntiArea]",
-    "level": "3.00...3.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "5a7f422b05a7867ccdd47f10ebe31907",
     "title": "ENERGY SYNERGY MATRIX",
     "level": "3.00...3.50",
@@ -3524,12 +3536,6 @@
   {
     "md5": "f57c93ffabedb60b76a9f51f26aa84c7",
     "title": "FIRST PROMIZE [INSANE]",
-    "level": "3.00...3.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "5bbc3af4d70b38aa06dcab3497fd1ec1",
-    "title": "First Super-Skullcat [cat's walk]",
     "level": "3.00...3.50",
     "comment": "sl4"
   },
@@ -3568,12 +3574,6 @@
     "title": "Ice Festival",
     "level": "3.00...3.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "92151c1e4c0a1136358f63f0defea447",
-    "title": "Impulse of destruction [AbNormal]",
-    "level": "3.00...3.50",
-    "comment": "sl4"
   },
   {
     "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
@@ -3666,12 +3666,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "31b61a054882b4ae0490b5f9ec690e57",
-    "title": "The Warden of Ruins [INSANE]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "8d6cb28cd80ab924c41f5141ed852326",
     "title": "To the restored sunflower garden [White Another]",
     "level": "3.00...3.50",
@@ -3730,12 +3724,6 @@
     "title": "ネコにまつわるエキストラ [ZOI]",
     "level": "3.00...3.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "354377ae29357e0151283946c831cdb5",
-    "title": "未来のコピヌ -Hope-",
-    "level": "3.00...3.50",
-    "comment": "sl4"
   },
   {
     "md5": "4a11ad87a53029ad93eeaa7936cdcdb8",
@@ -3912,6 +3900,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "7ad9ee05094d6bd4e64ed4f65ad2476c",
+    "title": "DistortedIntelligence [AntiArea]",
+    "level": "3.50...4.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "3213380b921dd1275fb392c0080f07ae",
     "title": "Drop Down [SP Insane]",
     "level": "3.50...4.00",
@@ -3942,14 +3936,8 @@
     "comment": "sl4"
   },
   {
-    "md5": "d72477a3cbf5f2c096039a4685b4929f",
-    "title": "EVERLASTING HAPPiNESS↑ [ZOI]",
-    "level": "3.50...4.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "b22717c38a3b9c0cadf4ee7be6bc4875",
-    "title": "Floating Garden [Hortulani]",
+    "md5": "5bbc3af4d70b38aa06dcab3497fd1ec1",
+    "title": "First Super-Skullcat [cat's walk]",
     "level": "3.50...4.00",
     "comment": "sl4"
   },
@@ -3992,6 +3980,12 @@
   {
     "md5": "a8d0d8c6b908bcee1de0da23c21dd75d",
     "title": "Implexrough [ZOI]",
+    "level": "3.50...4.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "92151c1e4c0a1136358f63f0defea447",
+    "title": "Impulse of destruction [AbNormal]",
     "level": "3.50...4.00",
     "comment": "sl4"
   },
@@ -4302,6 +4296,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "354377ae29357e0151283946c831cdb5",
+    "title": "未来のコピヌ -Hope-",
+    "level": "3.50...4.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "e44166113b52b63f9330d435761ce52f",
     "title": "温泉大作戦 [ZOI]",
     "level": "3.50...4.00",
@@ -4386,10 +4386,22 @@
     "comment": "sl4"
   },
   {
+    "md5": "d72477a3cbf5f2c096039a4685b4929f",
+    "title": "EVERLASTING HAPPiNESS↑ [ZOI]",
+    "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "012acdf138ea86da12cb86f95d8735f5",
     "title": "fancy bus [W]",
     "level": "4.00...4.50",
     "comment": "sl5"
+  },
+  {
+    "md5": "b22717c38a3b9c0cadf4ee7be6bc4875",
+    "title": "Floating Garden [Hortulani]",
+    "level": "4.00...4.50",
+    "comment": "sl4"
   },
   {
     "md5": "3530f52f62545d8405f062966270e0ca",
@@ -4530,12 +4542,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "9d50bbfc4adff7faef7f86b8e731b185",
-    "title": "カラフル・サウンズ・カッター [Colorful]",
-    "level": "4.00...4.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "6c857d6b6c87782e698f0b6610d3d2b6",
     "title": "ゼイタクするまで抱きしめて [サエザー]",
     "level": "4.00...4.50",
@@ -4560,12 +4566,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "f4f06e45e09b5aa2e7907619d3be6311",
-    "title": "天 -Apocalypse-",
-    "level": "4.00...4.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "0169686bd3883f1196f4dd7a4af48f36",
     "title": "愛と煩悩と輪廻と常識の極彩世界 [SP ANOTHER]",
     "level": "4.00...4.50",
@@ -4584,6 +4584,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "9e21fcf83b2123020373ccf1b0faf702",
+    "title": "生ハムメロンのうた -ハモン・セラーノ-",
+    "level": "4.00...4.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "0a21aba031f7821db3644820c6f67a4d",
     "title": "緋音月 [SP INSANE]",
     "level": "4.00...4.50",
@@ -4598,12 +4604,6 @@
   {
     "md5": "ff481b9a016e9c2e3a72787ab14d5c1c",
     "title": "雨上がりセンセーション [Circumhorizon]",
-    "level": "4.00...4.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "3f053ac90522f242b5e503a8bea8ac16",
-    "title": "魂姫～たまひめ～ -狂-",
     "level": "4.00...4.50",
     "comment": "sl5"
   },
@@ -4836,6 +4836,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "0cbbb890dd63a20938f97edd2db42e4c",
+    "title": "Sesame Kingdom [Cumin Flavor]",
+    "level": "4.50...5.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "b6f2c8d798b81f67a14ce05c50cb3b07",
     "title": "Signager -HONGKONG EXPRESS_FIX-",
     "level": "4.50...5.00",
@@ -4956,6 +4962,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "9d50bbfc4adff7faef7f86b8e731b185",
+    "title": "カラフル・サウンズ・カッター [Colorful]",
+    "level": "4.50...5.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "235a67455f943d4d5f6adbd40dba8568",
     "title": "カリオストロの穿孔 [Key]",
     "level": "4.50...5.00",
@@ -4998,14 +5010,14 @@
     "comment": "sl5"
   },
   {
-    "md5": "6e3a179e98fcaddc08bf998c7462cf88",
-    "title": "太陽と月の宴",
+    "md5": "f4f06e45e09b5aa2e7907619d3be6311",
+    "title": "天 -Apocalypse-",
     "level": "4.50...5.00",
     "comment": "sl5"
   },
   {
-    "md5": "9e21fcf83b2123020373ccf1b0faf702",
-    "title": "生ハムメロンのうた -ハモン・セラーノ-",
+    "md5": "6e3a179e98fcaddc08bf998c7462cf88",
+    "title": "太陽と月の宴",
     "level": "4.50...5.00",
     "comment": "sl5"
   },
@@ -5052,10 +5064,10 @@
     "comment": "sl5"
   },
   {
-    "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
-    "title": "Awaking Beat-From the next generation- [W]",
-    "level": "5.00...5.50",
-    "comment": "sl6"
+    "md5": "3f053ac90522f242b5e503a8bea8ac16",
+    "title": "魂姫～たまひめ～ -狂-",
+    "level": "4.50...5.00",
+    "comment": "sl5"
   },
   {
     "md5": "f94e4a5f13263fdb5ee4aa74e0856b47",
@@ -5072,12 +5084,6 @@
   {
     "md5": "452b4299468ea1d59aa259cc29fffc4d",
     "title": "c.s.q.n. [83929Another]",
-    "level": "5.00...5.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "ef0c69d4eb9a01e56b2f12f52b978f95",
-    "title": "Dilapidated city [グミ]",
     "level": "5.00...5.50",
     "comment": "sl6"
   },
@@ -5142,12 +5148,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "0cbbb890dd63a20938f97edd2db42e4c",
-    "title": "Sesame Kingdom [Cumin Flavor]",
-    "level": "5.00...5.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "70120d2889c1e30252289b4e95e1f0c6",
     "title": "take me to the moon [yumether]",
     "level": "5.00...5.50",
@@ -5192,12 +5192,6 @@
   {
     "md5": "87fb235042996e564dbddbd3f84a69f0",
     "title": "インフェルノシティ [SOUL METRO 地獄鉄 死号線 冥洞駅 UNPACIFIC HOTEL]",
-    "level": "5.00...5.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "0a17d3157cec38aa5e02a00fea432e6c",
-    "title": "エピトゥリカの祀 [cprac-easy]",
     "level": "5.00...5.50",
     "comment": "sl6"
   },
@@ -5298,6 +5292,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
+    "title": "Awaking Beat-From the next generation- [W]",
+    "level": "5.50...6.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "60d05af40aa26dfed7424d2f2809d158",
     "title": "Bad Cycle [ZOI]",
     "level": "5.50...6.00",
@@ -5324,6 +5324,12 @@
   {
     "md5": "319f4b239a0ae5bb283b186480010685",
     "title": "Catalyst [GOODNESS Again.]",
+    "level": "5.50...6.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "ef0c69d4eb9a01e56b2f12f52b978f95",
+    "title": "Dilapidated city [グミ]",
     "level": "5.50...6.00",
     "comment": "sl6"
   },
@@ -5568,10 +5574,10 @@
     "comment": "sl6"
   },
   {
-    "md5": "acad13643f01121177a0eaf1a32c395d",
-    "title": "☆をかけるアドベンチャー [Earendel]",
+    "md5": "0a17d3157cec38aa5e02a00fea432e6c",
+    "title": "エピトゥリカの祀 [cprac-easy]",
     "level": "5.50...6.00",
-    "comment": "sl7"
+    "comment": "sl6"
   },
   {
     "md5": "cab2ba456434dfa111b4acb76a391496",
@@ -5820,6 +5826,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "acad13643f01121177a0eaf1a32c395d",
+    "title": "☆をかけるアドベンチャー [Earendel]",
+    "level": "6.00...6.50",
+    "comment": "sl7"
+  },
+  {
     "md5": "eeff3a9a7cd557a05308ba1296752db2",
     "title": "あなた [Delay24]",
     "level": "6.00...6.50",
@@ -5916,12 +5928,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "35aa9799ed7150c61c2ffa3c84f4a8d7",
-    "title": "BEYOND [KITSUNE]",
-    "level": "6.50...7.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "57d5f0db1acb5f612d2ae91f0db60325",
     "title": "Citrus Sunset *･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*",
     "level": "6.50...7.00",
@@ -5998,12 +6004,6 @@
     "title": "Funny Funky Freaky [HARD+]",
     "level": "6.50...7.00",
     "comment": "sl7"
-  },
-  {
-    "md5": "43ae0b9401b3b2214322b520b662f62a",
-    "title": "Fuzzy-Navel [Nemesis]",
-    "level": "6.50...7.00",
-    "comment": "sl8"
   },
   {
     "md5": "8229d7a8e7a1712d55b7ee0a6966a6ae",
@@ -6102,12 +6102,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "88fc9ae4d2413564a6f9b1ab46c753bc",
-    "title": "The Grinder [Lunatic]",
-    "level": "6.50...7.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "336e9a2e6d55e6a1ab452507361c368a",
     "title": "VECTOR",
     "level": "6.50...7.00",
@@ -6168,14 +6162,14 @@
     "comment": "sl7"
   },
   {
-    "md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
-    "title": "サンシュート・シーサイド [HVY-NRG]",
-    "level": "6.50...7.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "e318552be7647f44014dea14989af536",
     "title": "シオカラ節 (Club & FM Remix) [S+30]",
+    "level": "6.50...7.00",
+    "comment": "sl7"
+  },
+  {
+    "md5": "84643dac5ce8b76013fdde7ac31f8d2f",
+    "title": "スナレ [Huge]",
     "level": "6.50...7.00",
     "comment": "sl7"
   },
@@ -6204,12 +6198,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "3552818cd88efdc32f60c2ae3b5862c3",
-    "title": "夢と現 [real]",
-    "level": "6.50...7.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "649703c98ea45f64609db6adb263413a",
     "title": "現実をカットアップしてみた [Append+]",
     "level": "6.50...7.00",
@@ -6230,6 +6218,12 @@
   {
     "md5": "4c75b2e852718a5bdb7235b51a8dc878",
     "title": "Artificial Rose [Replica]",
+    "level": "7.00...7.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "35aa9799ed7150c61c2ffa3c84f4a8d7",
+    "title": "BEYOND [KITSUNE]",
     "level": "7.00...7.50",
     "comment": "sl8"
   },
@@ -6258,12 +6252,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "42b597e0fc9d2ad51909f774275464ae",
-    "title": "EXILE -NEMESIS-",
-    "level": "7.00...7.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "e3acf79ad7c7f4f95f2fafd3049257fe",
     "title": "faRE:well [See you later]",
     "level": "7.00...7.50",
@@ -6272,6 +6260,12 @@
   {
     "md5": "97bc4321bc1bc37177e40ee592637cb1",
     "title": "Flashdance [#]",
+    "level": "7.00...7.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "43ae0b9401b3b2214322b520b662f62a",
+    "title": "Fuzzy-Navel [Nemesis]",
     "level": "7.00...7.50",
     "comment": "sl8"
   },
@@ -6332,12 +6326,6 @@
   {
     "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
     "title": "Impulse of destruction [Insane]",
-    "level": "7.00...7.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "e0a0385dd8f4a0d4960d0e8c12c4324e",
-    "title": "JK★REVOLUTION!!!!!! -Hope-",
     "level": "7.00...7.50",
     "comment": "sl8"
   },
@@ -6408,12 +6396,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "4ad963fdd1be8cdb511e5dbe476b61e2",
-    "title": "recollect [失われた思い出]",
-    "level": "7.00...7.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "af4f6e14957bfe52449ac9ce07a4c300",
     "title": "SAVE The World -starlight,more Colors- [Did you catch that?]",
     "level": "7.00...7.50",
@@ -6456,6 +6438,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "88fc9ae4d2413564a6f9b1ab46c753bc",
+    "title": "The Grinder [Lunatic]",
+    "level": "7.00...7.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "eaf24464a5adb518463c83f953cd5300",
     "title": "Time shrinker [INSANE]",
     "level": "7.00...7.50",
@@ -6476,6 +6464,12 @@
   {
     "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
     "title": "じゃぱりぱー [sagINSANE]",
+    "level": "7.00...7.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
+    "title": "サンシュート・シーサイド [HVY-NRG]",
     "level": "7.00...7.50",
     "comment": "sl8"
   },
@@ -6504,12 +6498,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "4ca647a61e781803b2d7bf54f0d582c2",
-    "title": "ラケシスと永遠の祈祷者 [Sanctuary]",
-    "level": "7.00...7.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "660c24d289f987ac3bd8de66e480594d",
     "title": "ラストワード [INSANE]",
     "level": "7.00...7.50",
@@ -6530,6 +6518,12 @@
   {
     "md5": "d1b6dc2b846b5f08a0a457f29f81bb09",
     "title": "図書室のエルザ [Fairytale]",
+    "level": "7.00...7.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "3552818cd88efdc32f60c2ae3b5862c3",
+    "title": "夢と現 [real]",
     "level": "7.00...7.50",
     "comment": "sl8"
   },
@@ -6558,12 +6552,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "46a5f63f83827ca256f9caec48d57844",
-    "title": "Aloft -Montgolfier-",
-    "level": "7.50...8.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "aad5ec4218a33048c3cd18eb9e182ac5",
     "title": "Artemis　 -SABOTHER-",
     "level": "7.50...8.00",
@@ -6588,16 +6576,22 @@
     "comment": "sl9"
   },
   {
+    "md5": "42b597e0fc9d2ad51909f774275464ae",
+    "title": "EXILE -NEMESIS-",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "0dc4116132fc33c90b2cd0ecead09831",
     "title": "GOODBOUNCE [Hurry up!]",
     "level": "7.50...8.00",
     "comment": "sl8"
   },
   {
-    "md5": "41b13fce004dd4c10a2359e9443676df",
-    "title": "Heathenism dogma [Insane]",
+    "md5": "e0a0385dd8f4a0d4960d0e8c12c4324e",
+    "title": "JK★REVOLUTION!!!!!! -Hope-",
     "level": "7.50...8.00",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "c6db5f8d4d492abcafb59c7ed1653dec",
@@ -6654,6 +6648,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "4ad963fdd1be8cdb511e5dbe476b61e2",
+    "title": "recollect [失われた思い出]",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "637acc81a4774e365973d0badca5fa4e",
     "title": "ReviXy [SP AMETHER-A]",
     "level": "7.50...8.00",
@@ -6704,6 +6704,12 @@
   {
     "md5": "d9d07d57467a46047e2c2db104151b3a",
     "title": "パブロペトリの泡影",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "4ca647a61e781803b2d7bf54f0d582c2",
+    "title": "ラケシスと永遠の祈祷者 [Sanctuary]",
     "level": "7.50...8.00",
     "comment": "sl8"
   },
@@ -6786,6 +6792,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "46a5f63f83827ca256f9caec48d57844",
+    "title": "Aloft -Montgolfier-",
+    "level": "8.00...8.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "d7f000e155172ab880f7be09769124cb",
     "title": "Andro [F]",
     "level": "8.00...8.50",
@@ -6824,12 +6836,6 @@
   {
     "md5": "e05b195c3f1898cc7432c1f3969d82ab",
     "title": "Childie Sharp [MANIAC(remake)]",
-    "level": "8.00...8.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "0e44e4ac3b9955124859563def40c3a4",
-    "title": "Damnation 565 [F]",
     "level": "8.00...8.50",
     "comment": "sl9"
   },
@@ -6902,6 +6908,12 @@
   {
     "md5": "2b165f91c34c170e1cfea80a044b392a",
     "title": "Happycore☆Tightcore [ょぅι゛ょっょぃ]",
+    "level": "8.00...8.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "41b13fce004dd4c10a2359e9443676df",
+    "title": "Heathenism dogma [Insane]",
     "level": "8.00...8.50",
     "comment": "sl9"
   },
@@ -7098,8 +7110,20 @@
     "comment": "sl10"
   },
   {
+    "md5": "0e44e4ac3b9955124859563def40c3a4",
+    "title": "Damnation 565 [F]",
+    "level": "8.50...9.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "07d0643bd73d5aba7415b513003b38cf",
     "title": "ENERGY SYNERGY MATRIX [Nemesis]",
+    "level": "8.50...9.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "988010f041bbd81cda28bacd9e151350",
+    "title": "EOS -Last Hope-",
     "level": "8.50...9.00",
     "comment": "sl10"
   },
@@ -7160,12 +7184,6 @@
   {
     "md5": "d1de0153f52ea4a6dd3a37e898b05eb5",
     "title": "玉響サーチライト [SP INSANE]",
-    "level": "8.50...9.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
-    "title": "風時夏 [晴海歌]",
     "level": "8.50...9.00",
     "comment": "sl10"
   },
@@ -7274,12 +7292,6 @@
   {
     "md5": "02219fc200b7bbf9d068ac978f85188b",
     "title": "Emptiness 【Klarheit】",
-    "level": "9.00...9.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "988010f041bbd81cda28bacd9e151350",
-    "title": "EOS -Last Hope-",
     "level": "9.00...9.50",
     "comment": "sl10"
   },
@@ -7614,6 +7626,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "title": "風時夏 [晴海歌]",
+    "level": "9.00...9.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "442d55185f1b14532c81ebb21793c5cc",
     "title": "1516 [SAETHER]",
     "level": "9.50...10.00",
@@ -7626,12 +7644,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "1020e628e09805b7256ca394e299b45b",
-    "title": "AIWS [Oblivion]",
-    "level": "9.50...10.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "0767b28a8b20a792a185761bee33940d",
     "title": "Boxel Adventure [7-1]",
     "level": "9.50...10.00",
@@ -7640,6 +7652,12 @@
   {
     "md5": "bd51437a802fd2570011d96178f06c9b",
     "title": "CHAINSAW PARTY <MARYTHER>",
+    "level": "9.50...10.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "62291afe8c3b2d1729a085a3e720b800",
+    "title": "D.I.F -Despair-",
     "level": "9.50...10.00",
     "comment": "sl11"
   },
@@ -7692,26 +7710,8 @@
     "comment": "sl11"
   },
   {
-    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
-    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
-    "level": "9.50...10.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "ee1fdf2d26ac45732edb8ed7c7db065d",
-    "title": "Rhadamanthys [7A]",
-    "level": "9.50...10.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "2cb2d624cc63dd66e3534c1e5dde5c29",
     "title": "Singing of Night birds [yumether]",
-    "level": "9.50...10.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "c7bbb20702438642af7a04677f68da54",
-    "title": "Trinity [DELAYMASTER]",
     "level": "9.50...10.00",
     "comment": "sl11"
   },
@@ -7746,12 +7746,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "c22797ce6e4476f0cdd06407cb4f7d94",
-    "title": "ラストワード [Deflation world]",
-    "level": "9.50...10.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "c2a1e4e5727f42a0222f3553f6839502",
     "title": "神様の恋心 [KANITHER]",
     "level": "9.50...10.00",
@@ -7772,6 +7766,12 @@
   {
     "md5": "c6e40998c81fbf3ae79484adc8975280",
     "title": "After Burner [SKY HIGH]",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "1020e628e09805b7256ca394e299b45b",
+    "title": "AIWS [Oblivion]",
     "level": "10.00...10.50",
     "comment": "sl11"
   },
@@ -8022,6 +8022,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "b142278d297ff2a5988b4e33687a24ab",
     "title": "Pure White † Crimson Coffin -Luna-",
     "level": "10.00...10.50",
@@ -8048,6 +8054,12 @@
   {
     "md5": "419580b963e408ab3eb4bf225ea78af5",
     "title": "Regain [True End Stories]",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "ee1fdf2d26ac45732edb8ed7c7db065d",
+    "title": "Rhadamanthys [7A]",
     "level": "10.00...10.50",
     "comment": "sl11"
   },
@@ -8124,6 +8136,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "c7bbb20702438642af7a04677f68da54",
+    "title": "Trinity [DELAYMASTER]",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "dffb00869b1133caa1e64473ad771936",
     "title": "Twin☆kle Galaxies [Fortunate Groove]",
     "level": "10.00...10.50",
@@ -8156,6 +8174,12 @@
   {
     "md5": "97f65f3a8bd34961ddc95983e4494661",
     "title": "コモリヌ [リンネ]",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "c22797ce6e4476f0cdd06407cb4f7d94",
+    "title": "ラストワード [Deflation world]",
     "level": "10.00...10.50",
     "comment": "sl11"
   },
@@ -8286,12 +8310,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "62291afe8c3b2d1729a085a3e720b800",
-    "title": "D.I.F -Despair-",
-    "level": "10.50...11.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "1bc3c15a4c40d87dbffa8be429140478",
     "title": "DANCING KIWI [WARK]",
     "level": "10.50...11.00",
@@ -8360,12 +8378,6 @@
   {
     "md5": "e167ad43d9c1cfc7f322590f8af1955c",
     "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
-    "level": "10.50...11.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "b775902c83b0a0d9c84ada43f94f160b",
-    "title": "kkotipari Hangaduk [HARDEST]",
     "level": "10.50...11.00",
     "comment": "sl12"
   },
@@ -8504,12 +8516,6 @@
   {
     "md5": "de47ec858496f28f2f07e97ca211c0d5",
     "title": "わるいコ -絶望-",
-    "level": "10.50...11.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
-    "title": "アジサイ -Xe-",
     "level": "10.50...11.00",
     "comment": "sl12"
   },
@@ -8706,6 +8712,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "b775902c83b0a0d9c84ada43f94f160b",
+    "title": "kkotipari Hangaduk [HARDEST]",
+    "level": "11.00...11.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "582c2715ca7ce2f0513fecdc3edeb5c4",
     "title": "Lucifuge Rofocale [EX+]",
     "level": "11.00...11.50",
@@ -8804,6 +8816,12 @@
   {
     "md5": "51f9ce87e4a377f8009315568af297a2",
     "title": "どうか私を殺して下さい [INFERNO]",
+    "level": "11.00...11.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
+    "title": "アジサイ -Xe-",
     "level": "11.00...11.50",
     "comment": "sl12"
   },
