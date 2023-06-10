@@ -6,8 +6,10 @@
     "md5": "c3410e5b59b9d8162aa05904f2be83dc",
     "bpm": "165",
     "notes": "3523",
-    "comment": "長尺化（雑） 中速乱打+デニム",
+    "type": "乱打 デニム",
+    "comment": "雑に尺2倍",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05710",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=c3410e5b59b9d8162aa05904f2be83dc",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=c3410e5b59b9d8162aa05904f2be83dc"
   },
   {
@@ -17,8 +19,10 @@
     "md5": "6cce08149083054dbf5ee7fb0db92b58",
     "bpm": "195",
     "notes": "2525",
-    "comment": "乱打 同時押し",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1282",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=6cce08149083054dbf5ee7fb0db92b58",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6cce08149083054dbf5ee7fb0db92b58"
   },
   {
@@ -28,9 +32,24 @@
     "md5": "3bf513422b2b40d378edae51fb053d1a",
     "bpm": "195",
     "notes": "2910",
-    "comment": "乱打",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1107",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3bf513422b2b40d378edae51fb053d1a",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3bf513422b2b40d378edae51fb053d1a"
+  },
+  {
+    "level": "-1",
+    "title": "LiVEMeTAL [HEROIC]",
+    "artist": "あとぅす / obj.fuko Illust:Micelle/Movie:TM",
+    "md5": "67f4387cb513c9242b919df282e89fbe",
+    "bpm": "164",
+    "notes": "2800",
+    "type": "乱打 ズレ 連打",
+    "comment": "sl11",
+    "chart": "https://stellabms.xyz/upload/994",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=67f4387cb513c9242b919df282e89fbe",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=67f4387cb513c9242b919df282e89fbe"
   },
   {
     "level": "-1",
@@ -39,8 +58,10 @@
     "md5": "dedadc230194b3a6070f7720a97683a5",
     "bpm": "135",
     "notes": "2849",
-    "comment": "低速乱打 ディレイ 連打",
+    "type": "低速乱打 ディレイ ガチ押し",
+    "comment": "ガチ押し地帯だけムズい",
     "chart": "https://stellabms.xyz/upload/1098",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=dedadc230194b3a6070f7720a97683a5",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=dedadc230194b3a6070f7720a97683a5"
   },
   {
@@ -50,8 +71,10 @@
     "md5": "3306e0ad9a72073aaf2cdfbc054d8b9d",
     "bpm": "207",
     "notes": "2500",
-    "comment": "sl11 乱打 同時押し ディレイ",
+    "type": "高速",
+    "comment": "sl11",
     "chart": "https://stellabms.xyz/upload/997",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3306e0ad9a72073aaf2cdfbc054d8b9d",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3306e0ad9a72073aaf2cdfbc054d8b9d"
   },
   {
@@ -61,8 +84,10 @@
     "md5": "a231609af018c6acf7b0ca39a2fc85bd",
     "bpm": "186",
     "notes": "2222",
-    "comment": "乱打",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1510",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=a231609af018c6acf7b0ca39a2fc85bd",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a231609af018c6acf7b0ca39a2fc85bd"
   },
   {
@@ -72,8 +97,10 @@
     "md5": "c22797ce6e4476f0cdd06407cb4f7d94",
     "bpm": "180",
     "notes": "3288",
-    "comment": "sl11 乱打",
+    "type": "乱打",
+    "comment": "sl11 ゆっくりボイス削除版",
     "chart": "https://stellabms.xyz/upload/1011",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=c22797ce6e4476f0cdd06407cb4f7d94",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=c22797ce6e4476f0cdd06407cb4f7d94"
   },
   {
@@ -83,8 +110,10 @@
     "md5": "c23ff88b223a803a443b3d9aa63bf06c",
     "bpm": "140",
     "notes": "2113",
-    "comment": "ハネ ディレイ 連打",
+    "type": "ズレ ハネ ディレイ",
+    "comment": "性癖",
     "chart": "https://stellabms.xyz/upload/946",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=c23ff88b223a803a443b3d9aa63bf06c",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=c23ff88b223a803a443b3d9aa63bf06c"
   },
   {
@@ -94,8 +123,10 @@
     "md5": "dccf74d4b8a99a00e11681d2cef83594",
     "bpm": "145",
     "notes": "2233",
-    "comment": "乱打",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1119",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=dccf74d4b8a99a00e11681d2cef83594",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=dccf74d4b8a99a00e11681d2cef83594"
   },
   {
@@ -105,20 +136,11 @@
     "md5": "7ef02e81e854726347059558cdaabb63",
     "bpm": "140",
     "notes": "2521",
-    "comment": "st0 乱打 ガチ押し",
+    "type": "乱打 ガチ押し",
+    "comment": "st0 壁",
     "chart": "https://stellabms.xyz/upload/1760",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=7ef02e81e854726347059558cdaabb63",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7ef02e81e854726347059558cdaabb63"
-  },
-  {
-    "level": "0",
-    "title": "LiVEMeTAL [HEROIC]",
-    "artist": "あとぅす / obj.fuko Illust:Micelle/Movie:TM",
-    "md5": "67f4387cb513c9242b919df282e89fbe",
-    "bpm": "164",
-    "notes": "2800",
-    "comment": "sl11 乱打 ズレ 連打",
-    "chart": "https://stellabms.xyz/upload/994",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=67f4387cb513c9242b919df282e89fbe"
   },
   {
     "level": "0",
@@ -127,8 +149,10 @@
     "md5": "4278068a526e835ddd0c39cf0b0582a9",
     "bpm": "150",
     "notes": "3017",
-    "comment": "同時押し ズレ",
+    "type": "同時押し ズレ",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/953",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=4278068a526e835ddd0c39cf0b0582a9",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=4278068a526e835ddd0c39cf0b0582a9"
   },
   {
@@ -138,8 +162,10 @@
     "md5": "b10384a6973f3572c8219f3ac2011aba",
     "bpm": "120",
     "notes": "2010",
-    "comment": "ガチ押し",
+    "type": "ガチ押し",
+    "comment": "終盤難",
     "chart": "https://stellabms.xyz/upload/1071",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=b10384a6973f3572c8219f3ac2011aba",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=b10384a6973f3572c8219f3ac2011aba"
   },
   {
@@ -149,8 +175,10 @@
     "md5": "76aef8ea6c834b72d4a2883d868aac12",
     "bpm": "185",
     "notes": "2729",
-    "comment": "乱打",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1649",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=76aef8ea6c834b72d4a2883d868aac12",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=76aef8ea6c834b72d4a2883d868aac12"
   },
   {
@@ -160,8 +188,10 @@
     "md5": "6f9f7d7ef227aeda4f12076160fc673e",
     "bpm": "200",
     "notes": "3000",
-    "comment": "裏拍軸付きの高速乱打",
+    "type": "高速 軸",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/922",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=6f9f7d7ef227aeda4f12076160fc673e",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6f9f7d7ef227aeda4f12076160fc673e"
   },
   {
@@ -171,8 +201,10 @@
     "md5": "52c484605453b87b8d22240a9a086a7b",
     "bpm": "192",
     "notes": "3131",
-    "comment": "同時押し ズレ 皿複合",
+    "type": "同時押し ズレ",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1301",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=52c484605453b87b8d22240a9a086a7b",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=52c484605453b87b8d22240a9a086a7b"
   },
   {
@@ -182,8 +214,10 @@
     "md5": "34a0bb8b6182a81044d22c5795726d08",
     "bpm": "184",
     "notes": "3000",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1007",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=34a0bb8b6182a81044d22c5795726d08",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=34a0bb8b6182a81044d22c5795726d08"
   },
   {
@@ -193,8 +227,10 @@
     "md5": "2af37ac8096e58659f14d6af115591fa",
     "bpm": "200",
     "notes": "2617",
-    "comment": "st2 乱打",
+    "type": "高速",
+    "comment": "st1 珍ビ",
     "chart": "https://stellabms.xyz/upload/1687",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=2af37ac8096e58659f14d6af115591fa",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=2af37ac8096e58659f14d6af115591fa"
   },
   {
@@ -204,8 +240,10 @@
     "md5": "a10c76d4ddb2519dfd16e6bd9edf9ef6",
     "bpm": "170",
     "notes": "2828",
-    "comment": "横に広い乱打",
+    "type": "横に広い乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1063",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=a10c76d4ddb2519dfd16e6bd9edf9ef6",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a10c76d4ddb2519dfd16e6bd9edf9ef6"
   },
   {
@@ -215,20 +253,11 @@
     "md5": "a0a5114db12063d5cba7ee17de9332c7",
     "bpm": "180",
     "notes": "2920",
-    "comment": "乱打 同時押し",
+    "type": "乱打 同時押し",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/974",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=a0a5114db12063d5cba7ee17de9332c7",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a0a5114db12063d5cba7ee17de9332c7"
-  },
-  {
-    "level": "1",
-    "title": "DEATH†TENGOQ ～怒りの天地合体野郎～ [Apocalypse]",
-    "artist": "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" / obj.fuko",
-    "md5": "4c8d5ac439bbed8cfcd527a504253de2",
-    "bpm": "200",
-    "notes": "2600",
-    "comment": "乱打 同時押し 連打",
-    "chart": "https://stellabms.xyz/upload/1050",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=4c8d5ac439bbed8cfcd527a504253de2"
   },
   {
     "level": "1",
@@ -237,8 +266,10 @@
     "md5": "87fdc849fb93ade41cdbb8956cee46a0",
     "bpm": "182",
     "notes": "3123",
-    "comment": "乱打 連打複合",
+    "type": "乱打 微連打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1177",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=87fdc849fb93ade41cdbb8956cee46a0",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=87fdc849fb93ade41cdbb8956cee46a0"
   },
   {
@@ -248,8 +279,10 @@
     "md5": "7d77d0d78016cc99088a39f5506ce416",
     "bpm": "242",
     "notes": "2871",
-    "comment": "超高速",
+    "type": "超高速",
+    "comment": "発狂と休憩が交互に降ってくる系の",
     "chart": "https://stellabms.xyz/upload/1338",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=7d77d0d78016cc99088a39f5506ce416",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7d77d0d78016cc99088a39f5506ce416"
   },
   {
@@ -259,8 +292,10 @@
     "md5": "04c47b029202a2651aeaeb44f0be0ab7",
     "bpm": "186",
     "notes": "3123",
-    "comment": "横に広い乱打",
+    "type": "横に広い乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1510",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=04c47b029202a2651aeaeb44f0be0ab7",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=04c47b029202a2651aeaeb44f0be0ab7"
   },
   {
@@ -270,8 +305,10 @@
     "md5": "e5877413b78d1cc462a635dec7bd568b",
     "bpm": "150",
     "notes": "3600",
-    "comment": "st1 中速物量 ラス殺し気味",
+    "type": "乱打 ディレイ ラス殺し",
+    "comment": "st1",
     "chart": "https://stellabms.xyz/upload/1042",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=e5877413b78d1cc462a635dec7bd568b",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e5877413b78d1cc462a635dec7bd568b"
   },
   {
@@ -281,8 +318,10 @@
     "md5": "4962e91fca9ad9573811c584f8cac008",
     "bpm": "205",
     "notes": "3047",
-    "comment": "乱打 同時押し ディレイ",
+    "type": "乱打 同時押し ディレイ",
+    "comment": "ディレイだけ難しい",
     "chart": "https://stellabms.xyz/upload/1163",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=4962e91fca9ad9573811c584f8cac008",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=4962e91fca9ad9573811c584f8cac008"
   },
   {
@@ -292,8 +331,10 @@
     "md5": "90cf5512e8d764882e97a4fd3f067cb4",
     "bpm": "200",
     "notes": "3366",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "世紀末",
     "chart": "https://stellabms.xyz/upload/918",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=90cf5512e8d764882e97a4fd3f067cb4",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=90cf5512e8d764882e97a4fd3f067cb4"
   },
   {
@@ -303,8 +344,10 @@
     "md5": "6df0074046c02e02934eb1ef61a1f73b",
     "bpm": "180",
     "notes": "3917",
-    "comment": "同時押し 微連打",
+    "type": "同時押し 微連打",
+    "comment": "2~3連打混じりの同時押し",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05906",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=6df0074046c02e02934eb1ef61a1f73b",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6df0074046c02e02934eb1ef61a1f73b"
   },
   {
@@ -314,8 +357,10 @@
     "md5": "6a02d80b5261f3b73a0df2263d674912",
     "bpm": "154",
     "notes": "3000",
-    "comment": "st2 連打複合",
+    "type": "連打複合",
+    "comment": "st2",
     "chart": "https://stellabms.xyz/upload/1142",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=6a02d80b5261f3b73a0df2263d674912",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6a02d80b5261f3b73a0df2263d674912"
   },
   {
@@ -325,8 +370,10 @@
     "md5": "c9a4b72cce81246a04965869bd3548ce",
     "bpm": "222",
     "notes": "3344",
-    "comment": "乱打",
+    "type": "高速",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1152",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=c9a4b72cce81246a04965869bd3548ce",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=c9a4b72cce81246a04965869bd3548ce"
   },
   {
@@ -336,8 +383,10 @@
     "md5": "9a0207231db33e28853776c9f86eb5dd",
     "bpm": "195",
     "notes": "3348",
-    "comment": "乱打 同時押し",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1282",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=9a0207231db33e28853776c9f86eb5dd",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=9a0207231db33e28853776c9f86eb5dd"
   },
   {
@@ -347,8 +396,10 @@
     "md5": "34830e1501d13911bec3c74bab69c7a1",
     "bpm": "159",
     "notes": "3257",
-    "comment": "乱打 同時押し 連打",
+    "type": "乱打 同時押し 連打",
+    "comment": "おふざけが足りてる",
     "chart": "https://stellabms.xyz/upload/1207",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=34830e1501d13911bec3c74bab69c7a1",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=34830e1501d13911bec3c74bab69c7a1"
   },
   {
@@ -358,8 +409,10 @@
     "md5": "e6cc5a43e97b5e32b47fe014c577bfc3",
     "bpm": "195",
     "notes": "4200",
-    "comment": "同時押し 皿複合",
+    "type": "同時押し 皿複合",
+    "comment": "8レーン同時押し",
     "chart": "https://stellabms.xyz/upload/1015",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=e6cc5a43e97b5e32b47fe014c577bfc3",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e6cc5a43e97b5e32b47fe014c577bfc3"
   },
   {
@@ -369,8 +422,10 @@
     "md5": "ff52797ef9b4e23b460228e374524a6f",
     "bpm": "208",
     "notes": "4848",
-    "comment": "st3 乱打 同時押し",
+    "type": "乱打 同時押し",
+    "comment": "st3",
     "chart": "https://stellabms.xyz/upload/1214",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=ff52797ef9b4e23b460228e374524a6f",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ff52797ef9b4e23b460228e374524a6f"
   },
   {
@@ -380,8 +435,10 @@
     "md5": "9ea030629abc3c56177f9b1cd97146ff",
     "bpm": "182",
     "notes": "2630",
-    "comment": "乱打",
+    "type": "乱打",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1076",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=9ea030629abc3c56177f9b1cd97146ff",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=9ea030629abc3c56177f9b1cd97146ff"
   },
   {
@@ -391,8 +448,10 @@
     "md5": "7db4d5c05589e7b090482a76edffb05f",
     "bpm": "172",
     "notes": "3677",
-    "comment": "ディレイ ズレ",
+    "type": "ディレイ ズレ",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1134",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=7db4d5c05589e7b090482a76edffb05f",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7db4d5c05589e7b090482a76edffb05f"
   },
   {
@@ -402,8 +461,10 @@
     "md5": "eeba1abcc4e2a0c928ff2ffe507a13cd",
     "bpm": "96",
     "notes": "2626",
-    "comment": "同時押し ズレハネ",
+    "type": "同時押し ズレハネ",
+    "comment": "ズレでぐちゃぐちゃ",
     "chart": "https://stellabms.xyz/upload/1190",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=eeba1abcc4e2a0c928ff2ffe507a13cd",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=eeba1abcc4e2a0c928ff2ffe507a13cd"
   },
   {
@@ -413,8 +474,10 @@
     "md5": "a7f0d6a2a82e4bb88a516458af8651e0",
     "bpm": "176",
     "notes": "3800",
-    "comment": "横に広い乱打 デニム",
+    "type": "横に広い乱打 デニム",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1093",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=a7f0d6a2a82e4bb88a516458af8651e0",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a7f0d6a2a82e4bb88a516458af8651e0"
   },
   {
@@ -424,8 +487,10 @@
     "md5": "846346b51e39713b22247f03c2ffdea8",
     "bpm": "148",
     "notes": "2449",
-    "comment": "もにもに様との合作差分 連打複合+ディレイ",
+    "type": "連打複合 ディレイ",
+    "comment": "もにもに様との合作差分",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05701",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=846346b51e39713b22247f03c2ffdea8",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=846346b51e39713b22247f03c2ffdea8"
   },
   {
@@ -435,8 +500,10 @@
     "md5": "7bd98bf6bfecc16e440ba4fe4302829c",
     "bpm": "250",
     "notes": "3056",
-    "comment": "ガチ押し ズレ",
+    "type": "ガチ押し ズレ",
+    "comment": "もにもに様との合作差分",
     "chart": "https://stellabms.xyz/upload/1886",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=7bd98bf6bfecc16e440ba4fe4302829c",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=7bd98bf6bfecc16e440ba4fe4302829c"
   },
   {
@@ -446,8 +513,10 @@
     "md5": "1e4292d8a20382d7940aa68ead676e34",
     "bpm": "111",
     "notes": "2908",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05679",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=1e4292d8a20382d7940aa68ead676e34",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=1e4292d8a20382d7940aa68ead676e34"
   },
   {
@@ -457,8 +526,10 @@
     "md5": "9a26d2df4184905110819efcbea59e35",
     "bpm": "195",
     "notes": "3756",
-    "comment": "横に広い乱打",
+    "type": "横に広い乱打",
+    "comment": "꽃이파리 한가득",
     "chart": "https://stellabms.xyz/upload/1084",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=9a26d2df4184905110819efcbea59e35",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=9a26d2df4184905110819efcbea59e35"
   },
   {
@@ -468,8 +539,10 @@
     "md5": "8fd6aa79eb5aded7ef781c4c774d98fd",
     "bpm": "188",
     "notes": "3070",
-    "comment": "st3 乱打 同時 32分複合",
+    "type": "乱打 同時 32分",
+    "comment": "st3",
     "chart": "https://stellabms.xyz/upload/1984",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=8fd6aa79eb5aded7ef781c4c774d98fd",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=8fd6aa79eb5aded7ef781c4c774d98fd"
   },
   {
@@ -479,8 +552,10 @@
     "md5": "d3d3d08067a47805d093c6fc48762e1c",
     "bpm": "163",
     "notes": "2577",
-    "comment": "st4 連打複合",
+    "type": "連打複合",
+    "comment": "st4",
     "chart": "https://stellabms.xyz/upload/2227",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=d3d3d08067a47805d093c6fc48762e1c",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=d3d3d08067a47805d093c6fc48762e1c"
   },
   {
@@ -490,8 +565,10 @@
     "md5": "fe9990b7a0752e70f50c2e49cbe6559b",
     "bpm": "232",
     "notes": "3045",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "",
     "chart": "https://stellabms.xyz/upload/1122",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=fe9990b7a0752e70f50c2e49cbe6559b",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=fe9990b7a0752e70f50c2e49cbe6559b"
   },
   {
@@ -501,8 +578,10 @@
     "md5": "b9f4b8e9a9ed752dd82d55783a787315",
     "bpm": "280",
     "notes": "2768",
+    "type": "超高速 ガチ押し",
     "comment": "同梱譜面",
     "chart": "",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=b9f4b8e9a9ed752dd82d55783a787315",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=b9f4b8e9a9ed752dd82d55783a787315"
   },
   {
@@ -512,8 +591,10 @@
     "md5": "3d460b72527d59879b9c7a78f8504289",
     "bpm": "220",
     "notes": "3258",
-    "comment": "st3 高速",
+    "type": "高速",
+    "comment": "st3",
     "chart": "https://stellabms.xyz/upload/1472",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3d460b72527d59879b9c7a78f8504289",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3d460b72527d59879b9c7a78f8504289"
   },
   {
@@ -523,8 +604,10 @@
     "md5": "f20e53dcd35562b04c504928d73caf6e",
     "bpm": "100",
     "notes": "4900",
-    "comment": "同時押し 皿複合 ズレ",
+    "type": "同時押し 皿複合 ズレ",
+    "comment": "widest",
     "chart": "https://stellabms.xyz/upload/1217",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=f20e53dcd35562b04c504928d73caf6e",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=f20e53dcd35562b04c504928d73caf6e"
   },
   {
@@ -534,8 +617,10 @@
     "md5": "3b2c57ea210b0758c459b343eb39707a",
     "bpm": "200",
     "notes": "4000",
-    "comment": "乱打",
+    "type": "乱打",
+    "comment": "st4",
     "chart": "https://stellabms.xyz/upload/2681",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3b2c57ea210b0758c459b343eb39707a",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3b2c57ea210b0758c459b343eb39707a"
   },
   {
@@ -545,8 +630,10 @@
     "md5": "3c377ec541f5154546575af1777c99a4",
     "bpm": "242",
     "notes": "3333",
-    "comment": "超高速",
+    "type": "超高速",
+    "comment": "発狂と休憩が交互に降ってくる系の",
     "chart": "https://stellabms.xyz/upload/1338",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3c377ec541f5154546575af1777c99a4",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3c377ec541f5154546575af1777c99a4"
   },
   {
@@ -556,9 +643,24 @@
     "md5": "e79f933ddae3293aaa621a6aa4ebaa0d",
     "bpm": "116",
     "notes": "2200",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "全押し地帯がやりたかった",
     "chart": "https://stellabms.xyz/upload/1369",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=e79f933ddae3293aaa621a6aa4ebaa0d",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e79f933ddae3293aaa621a6aa4ebaa0d"
+  },
+  {
+    "level": "4",
+    "title": "Marion [EXTRA]",
+    "artist": "kozato / obj.fuko",
+    "md5": "53cec0618d5af6e37973b95de97a1821",
+    "bpm": "165",
+    "notes": "2657",
+    "type": "連打 ディレイ",
+    "comment": "",
+    "chart": "https://stellabms.xyz/upload/2794",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=53cec0618d5af6e37973b95de97a1821",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=53cec0618d5af6e37973b95de97a1821"
   },
   {
     "level": "4",
@@ -567,8 +669,10 @@
     "md5": "23cd5397dfc775dbecc756214b6c73e4",
     "bpm": "160",
     "notes": "2642",
-    "comment": "st4 連打複合 ディレイ",
+    "type": "連打複合 ディレイ",
+    "comment": "st4",
     "chart": "https://stellabms.xyz/upload/1619",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=23cd5397dfc775dbecc756214b6c73e4",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=23cd5397dfc775dbecc756214b6c73e4"
   },
   {
@@ -578,8 +682,10 @@
     "md5": "f4c7bf02b54e8dfb4c19ee85218a50c9",
     "bpm": "255",
     "notes": "2800",
-    "comment": "st4 ガチ押し",
+    "type": "ガチ押し",
+    "comment": "st4 ラスゲー",
     "chart": "https://stellabms.xyz/upload/1662",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=f4c7bf02b54e8dfb4c19ee85218a50c9",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=f4c7bf02b54e8dfb4c19ee85218a50c9"
   },
   {
@@ -589,8 +695,10 @@
     "md5": "fedfee553760c7fe77e4f7830ae65f69",
     "bpm": "140",
     "notes": "2064",
-    "comment": "四重乱打 5-3乱打",
+    "type": "ガチ押し",
+    "comment": "四重乱打",
     "chart": "https://stellabms.xyz/upload/1432",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=fedfee553760c7fe77e4f7830ae65f69",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=fedfee553760c7fe77e4f7830ae65f69"
   },
   {
@@ -600,8 +708,10 @@
     "md5": "a6990a2b6c3a65e86b1939a077c42683",
     "bpm": "224",
     "notes": "3477",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "休憩多め",
     "chart": "https://stellabms.xyz/upload/1848",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=a6990a2b6c3a65e86b1939a077c42683",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=a6990a2b6c3a65e86b1939a077c42683"
   },
   {
@@ -611,8 +721,10 @@
     "md5": "73bf3c93823cd99d6ec44fd77cb90c7d",
     "bpm": "112",
     "notes": "5018",
-    "comment": "同時押し",
+    "type": "同時押し",
+    "comment": "休憩なし 触るな危険",
     "chart": "",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=73bf3c93823cd99d6ec44fd77cb90c7d",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=73bf3c93823cd99d6ec44fd77cb90c7d"
   },
   {
@@ -622,8 +734,10 @@
     "md5": "b7e4335df57045be750a9b7bcc68007f",
     "bpm": "197 - 227",
     "notes": "3917",
-    "comment": "st6 高速 同時 ズレ",
+    "type": "高速 ズレ",
+    "comment": "st6",
     "chart": "https://stellabms.xyz/upload/1778",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=b7e4335df57045be750a9b7bcc68007f",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=b7e4335df57045be750a9b7bcc68007f"
   },
   {
@@ -633,8 +747,10 @@
     "md5": "6247be173fdcb2c366c60e64574c64cc",
     "bpm": "248",
     "notes": "3152",
+    "type": "超高速 ディレイ",
     "comment": "同梱譜面",
     "chart": "",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=6247be173fdcb2c366c60e64574c64cc",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6247be173fdcb2c366c60e64574c64cc"
   },
   {
@@ -644,8 +760,10 @@
     "md5": "ad633b9e0273f807320f381b3dc1c46c",
     "bpm": "232",
     "notes": "2929",
+    "type": "同時押し",
     "comment": "壁連打",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05932",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=ad633b9e0273f807320f381b3dc1c46c",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ad633b9e0273f807320f381b3dc1c46c"
   },
   {
@@ -655,8 +773,10 @@
     "md5": "6d76d3cb7759b70cc616bfc504a5c39f",
     "bpm": "160",
     "notes": "3000",
-    "comment": "同時押し VERYHARD判定",
+    "type": "同時押し",
+    "comment": "VERYHARD判定",
     "chart": "https://stellabms.xyz/upload/1993",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=6d76d3cb7759b70cc616bfc504a5c39f",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=6d76d3cb7759b70cc616bfc504a5c39f"
   },
   {
@@ -666,8 +786,10 @@
     "md5": "577f61c9ec5765dada2599679c0f0d6b",
     "bpm": "252",
     "notes": "1649",
-    "comment": "◆17?",
+    "type": "穴抜き Zindy ガチ押し",
+    "comment": "◆18",
     "chart": "https://stellabms.xyz/upload/2097",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=577f61c9ec5765dada2599679c0f0d6b",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=577f61c9ec5765dada2599679c0f0d6b"
   },
   {
@@ -677,8 +799,10 @@
     "md5": "33d57c1b71f3e9e28da25a18e2609aa4",
     "bpm": "145",
     "notes": "940",
-    "comment": "◆14?",
+    "type": "穴抜き",
+    "comment": "◆14",
     "chart": "https://stellabms.xyz/upload/1899",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=33d57c1b71f3e9e28da25a18e2609aa4",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=33d57c1b71f3e9e28da25a18e2609aa4"
   },
   {
@@ -688,8 +812,10 @@
     "md5": "0597dc869c8c507b7077966fb2d310fd",
     "bpm": "93 - 186",
     "notes": "1697",
-    "comment": "◆20?",
+    "type": "LN乱打 穴抜き 連打複合",
+    "comment": "◆20 終盤発狂がむずかしい",
     "chart": "https://stellabms.xyz/upload/2474",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=0597dc869c8c507b7077966fb2d310fd",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=0597dc869c8c507b7077966fb2d310fd"
   },
   {
@@ -699,8 +825,10 @@
     "md5": "88176e5dc3fa7aa490e79f30c7bbdb83",
     "bpm": "175",
     "notes": "2360",
-    "comment": "◆22?",
+    "type": "穴抜き乱打 ディレイ",
+    "comment": "◆21",
     "chart": "https://stellabms.xyz/upload/2732",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=88176e5dc3fa7aa490e79f30c7bbdb83",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=88176e5dc3fa7aa490e79f30c7bbdb83"
   },
   {
@@ -710,8 +838,10 @@
     "md5": "80b924a54a71d5e2b5c7a4f0ba103eac",
     "bpm": "144",
     "notes": "409",
-    "comment": "◆12?",
+    "type": "穴抜き",
+    "comment": "◆12",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=06219",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=80b924a54a71d5e2b5c7a4f0ba103eac",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=80b924a54a71d5e2b5c7a4f0ba103eac"
   },
   {
@@ -721,8 +851,10 @@
     "md5": "f3851259f8411af5c15fcfe9e3d021a2",
     "bpm": "154",
     "notes": "947",
-    "comment": "◆6?",
+    "type": "穴抜き",
+    "comment": "◆6 穴抜き入門譜面を目指した",
     "chart": "https://stellabms.xyz/upload/1928",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=f3851259f8411af5c15fcfe9e3d021a2",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=f3851259f8411af5c15fcfe9e3d021a2"
   },
   {
@@ -732,8 +864,10 @@
     "md5": "ab49a26247e31abdc0427498c79bac97",
     "bpm": "192",
     "notes": "2568",
-    "comment": "LN1本+乱打",
+    "type": "LN1本+乱打",
+    "comment": "地力寄り",
     "chart": "http://gnqg.rosx.net/upload/upload.cgi?get=05576",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=ab49a26247e31abdc0427498c79bac97",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ab49a26247e31abdc0427498c79bac97"
   },
   {
@@ -743,8 +877,10 @@
     "md5": "d9c12b9779440278df99484b4345b4e0",
     "bpm": "83",
     "notes": "868",
-    "comment": "◆17?",
+    "type": "穴抜き",
+    "comment": "◆17 遅いけど横に広い",
     "chart": "",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=d9c12b9779440278df99484b4345b4e0",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=d9c12b9779440278df99484b4345b4e0"
   }
 ]

@@ -34914,13 +34914,24 @@
     "url_diff": "同梱譜面"
   },
   {
-    "id": "",
+    "id": "2047",
     "level": "-2",
     "title": "Parade",
     "artist": "Nakaiankow",
     "comment": "",
     "md5": "f2afe6ac25792a3b0f0f40c4f11eb0fb",
     "max_bpm": "127",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "2048",
+    "level": "-2",
+    "title": "March 27 [Another]",
+    "artist": "nkmm妖精s",
+    "comment": "",
+    "md5": "ee2605922a9d3eef0a92be8853b25f96",
+    "max_bpm": "300",
     "url": "",
     "url_diff": ""
   }

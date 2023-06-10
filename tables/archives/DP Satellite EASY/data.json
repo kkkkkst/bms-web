@@ -1032,6 +1032,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "81c8fad166661b8609873553f32d09bb",
+    "title": "Conviction [DP HYPER]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "1.50...2.00",
@@ -1182,16 +1188,16 @@
     "comment": "sl3"
   },
   {
-    "md5": "3a202c8d9ca00a685f8067895e55897b",
-    "title": "Chasing Stars [DP Very Hard]",
+    "md5": "74275b409e2bc00f51366a14c7e5d173",
+    "title": "CG901B -7- [Short Ver.] [DPEX]",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
   {
-    "md5": "81c8fad166661b8609873553f32d09bb",
-    "title": "Conviction [DP HYPER]",
+    "md5": "3a202c8d9ca00a685f8067895e55897b",
+    "title": "Chasing Stars [DP Very Hard]",
     "level": "2.00...2.50",
-    "comment": "sl3"
+    "comment": "sl4"
   },
   {
     "md5": "41b509b55591eb5b9a538986234ba7f7",
@@ -1234,12 +1240,6 @@
     "title": "gradation (DP ANOTHER)",
     "level": "2.00...2.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "2e20d9726feb8fba2563a3af6b4ce17c",
-    "title": "Heartstrings [DPA]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
   },
   {
     "md5": "f06ba37659138a62c69f5c76ed3902af",
@@ -1410,6 +1410,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "6408314fb66561cce094b8f6695762d6",
+    "title": "衛星ミカボシ [DP]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "82fc0c8a10aa9820232865dc0f996706",
     "title": "踊る水飛沫 [DP-sagANOTHER]",
     "level": "2.00...2.50",
@@ -1452,12 +1458,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "74275b409e2bc00f51366a14c7e5d173",
-    "title": "CG901B -7- [Short Ver.] [DPEX]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "5f13acf318cab698ddf635ff0714b0ad",
     "title": "Close the Lights (DP EX)",
     "level": "2.50...3.00",
@@ -1478,6 +1478,12 @@
   {
     "md5": "7f20ad48088c7932002b15bb9a6189de",
     "title": "Electric Emotion [DPYoitherEASY]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "2e20d9726feb8fba2563a3af6b4ce17c",
+    "title": "Heartstrings [DPA]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -1628,6 +1634,12 @@
   {
     "md5": "d650ba8622f1f079681efb67dd7ee04e",
     "title": "Cutter [DP INSANE]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "4d4a132f107ac41bb901e43f8c809f9d",
+    "title": "EXILE [AFOTHER14]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -1926,16 +1938,16 @@
     "comment": "sl6"
   },
   {
-    "md5": "4d4a132f107ac41bb901e43f8c809f9d",
-    "title": "EXILE [AFOTHER14]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "99662346a80bd6fdb7c777aba68e9bd8",
     "title": "F4C4D3 [DPA]",
     "level": "3.50...4.00",
     "comment": "sl5"
+  },
+  {
+    "md5": "1a6b6567fe1fa051f532e161a491ac88",
+    "title": "Fine Logic [DP INSANE]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
   },
   {
     "md5": "f97eb1e2a6015ccf91ec6cdce0f48c81",
@@ -2032,12 +2044,6 @@
     "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl5"
-  },
-  {
-    "md5": "24479651932a5b101b055744d32ba529",
-    "title": "田中 -KATAKATA-",
-    "level": "3.50...4.00",
-    "comment": "sl6"
   },
   {
     "md5": "cfbb406d9db451fa9b72a6965dbed67b",
@@ -2214,8 +2220,20 @@
     "comment": "sl5"
   },
   {
+    "md5": "24479651932a5b101b055744d32ba529",
+    "title": "田中 -KATAKATA-",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "9efd3a958f5f34ddbbe9068262673652",
     "title": "薄雲 [14KEYS ANOTHER]",
+    "level": "4.00...4.50",
+    "comment": "sl7"
+  },
+  {
+    "md5": "83e2eb6882794750f364981150ff82fb",
+    "title": "虚空グラデーション",
     "level": "4.00...4.50",
     "comment": "sl7"
   },
@@ -2320,12 +2338,6 @@
     "title": "Fascinating Laser -14keys-",
     "level": "4.50...5.00",
     "comment": "sl7"
-  },
-  {
-    "md5": "1a6b6567fe1fa051f532e161a491ac88",
-    "title": "Fine Logic [DP INSANE]",
-    "level": "4.50...5.00",
-    "comment": "sl6"
   },
   {
     "md5": "d33783021b1df12952eecdf2c1eadde7",
@@ -2454,10 +2466,16 @@
     "comment": "sl7"
   },
   {
-    "md5": "83e2eb6882794750f364981150ff82fb",
-    "title": "虚空グラデーション",
+    "md5": "bb12fa09ab5443911ba51b1a7dd526db",
+    "title": "温泉大作戦 [DP_Li]",
     "level": "4.50...5.00",
     "comment": "sl7"
+  },
+  {
+    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
+    "title": "Bad Apple!! -YH mix-",
+    "level": "5.00...5.50",
+    "comment": "sl8"
   },
   {
     "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
@@ -2562,6 +2580,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "59ab1c484a6bbbdf3b13d0a34036e639",
+    "title": "Postliminium [DP INSANE]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "c0df391328b3f4984fc53307236efdda",
     "title": "Skull & Witch [DP]",
     "level": "5.00...5.50",
@@ -2576,6 +2600,12 @@
   {
     "md5": "3b308fec3ad20cae5eb13eb0e3895c7a",
     "title": "The Last Page [BEGIN]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "a1a97ad73b976ebfc6f110026b60b1a4",
+    "title": "TRI-TECH [△]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -2622,12 +2652,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "bb12fa09ab5443911ba51b1a7dd526db",
-    "title": "温泉大作戦 [DP_Li]",
-    "level": "5.00...5.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "b8f6072086e4821003637684f28cd765",
     "title": "焔-HOMURA- [ほむ×14]",
     "level": "5.00...5.50",
@@ -2660,12 +2684,6 @@
   {
     "md5": "56fb12dbf24ac83b4a02364c88734567",
     "title": "A-chasing-Y [DPINSA.NE]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
-    "title": "Bad Apple!! -YH mix-",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -2706,6 +2724,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "b4687a3dd15e47e3ae14c60d3c3e6b25",
+    "title": "IKAROS [Runway]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "d73cdd6d5d1897e2d3052b74263b5283",
     "title": "IN [HAORSE MUSIC / DP譜面]",
     "level": "5.50...6.00",
@@ -2714,12 +2738,6 @@
   {
     "md5": "f36b829438ba718c7e7679b430848c99",
     "title": "Luminance (DP ANOTHER)",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "59ab1c484a6bbbdf3b13d0a34036e639",
-    "title": "Postliminium [DP INSANE]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -2736,38 +2754,14 @@
     "comment": "sl8"
   },
   {
-    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
-    "title": "S.L.I. [W.I.S.H.]",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "8e171847ff4fd27ff8501e1ec2ced6cb",
-    "title": "Sicilian Kiss -14EX-",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
-    "title": "Singing of Night birds [DP INSANE]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "d456037131dc98541200c34c3fe146ae",
-    "title": "Summerland [14key_Extreme]",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "a1a97ad73b976ebfc6f110026b60b1a4",
-    "title": "TRI-TECH [△]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "5ad08be587d9d42971084fc701df0693",
     "title": "witchcraft [14A]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "b5f3ca219d409b04f23322eb81c21db9",
+    "title": "Wizardragon Fascination [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -2794,12 +2788,6 @@
     "title": "Akasagarbha -dp insane-",
     "level": "6.00...6.50",
     "comment": "sl9"
-  },
-  {
-    "md5": "350003c6ab10ac0b7551e8a2ea02b5d3",
-    "title": "Amusing Reflection Rag. (DP CHALLENGE)",
-    "level": "6.00...6.50",
-    "comment": "sl8"
   },
   {
     "md5": "7008ff0237c4c9c65809950654b8c01c",
@@ -2838,12 +2826,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "3313af61d72229ebf2910b7d82108083",
-    "title": "Destr0yer [DP ☆NOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "97120ea69565c29f8acae5551caa6d0b",
     "title": "Dreamy Fall [DP INSANE]",
     "level": "6.00...6.50",
@@ -2858,12 +2840,6 @@
   {
     "md5": "fab011bc0c8eb78acecb02fe1d5ff2d1",
     "title": "furioso melodia -forbidden fruta-",
-    "level": "6.00...6.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "b4687a3dd15e47e3ae14c60d3c3e6b25",
-    "title": "IKAROS [Runway]",
     "level": "6.00...6.50",
     "comment": "sl8"
   },
@@ -2892,10 +2868,22 @@
     "comment": "sl9"
   },
   {
-    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
-    "title": "rise to R -overdrive 14-",
+    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
+    "title": "S.L.I. [W.I.S.H.]",
     "level": "6.00...6.50",
     "comment": "sl9"
+  },
+  {
+    "md5": "8e171847ff4fd27ff8501e1ec2ced6cb",
+    "title": "Sicilian Kiss -14EX-",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
+    "level": "6.00...6.50",
+    "comment": "sl8"
   },
   {
     "md5": "a964333aca00bfd678e0daff013d7dac",
@@ -2904,8 +2892,8 @@
     "comment": "sl9"
   },
   {
-    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
-    "title": "STELLA FOMA [DP ANOTHER]",
+    "md5": "d456037131dc98541200c34c3fe146ae",
+    "title": "Summerland [14key_Extreme]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -2920,12 +2908,6 @@
     "title": "TEN -Q-",
     "level": "6.00...6.50",
     "comment": "sl9"
-  },
-  {
-    "md5": "b5f3ca219d409b04f23322eb81c21db9",
-    "title": "Wizardragon Fascination [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl8"
   },
   {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
@@ -2952,10 +2934,10 @@
     "comment": "sl10"
   },
   {
-    "md5": "80688a79f251ece911a4a1c3b782f835",
-    "title": "Absurd Gaff [DP ANOTHER]",
+    "md5": "350003c6ab10ac0b7551e8a2ea02b5d3",
+    "title": "Amusing Reflection Rag. (DP CHALLENGE)",
     "level": "6.50...7.00",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "7e3def092791e260b1a3b2f0ae4638b3",
@@ -2966,6 +2948,12 @@
   {
     "md5": "0c38eafa5cf3a4440832242fd1bd2ef7",
     "title": "CYCLONE",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "3313af61d72229ebf2910b7d82108083",
+    "title": "Destr0yer [DP ☆NOTHER]",
     "level": "6.50...7.00",
     "comment": "sl9"
   },
@@ -2992,12 +2980,6 @@
     "title": "Mind Disorder [DP LEGGENDARIA]",
     "level": "6.50...7.00",
     "comment": "sl10"
-  },
-  {
-    "md5": "a9d1c94124f0b6956fe2abb4a1c44c90",
-    "title": "Moon-gate [Waning]",
-    "level": "6.50...7.00",
-    "comment": "sl9"
   },
   {
     "md5": "5716fa9af418d60d552390de80cb0b3e",
@@ -3030,14 +3012,14 @@
     "comment": "sl10"
   },
   {
-    "md5": "a9069d6f170641ede5204a5a7ea42920",
-    "title": "sola [DP LUNATIC]",
+    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
+    "title": "rise to R -overdrive 14-",
     "level": "6.50...7.00",
     "comment": "sl9"
   },
   {
-    "md5": "bb6a930e363d407b7879b34ad8beccca",
-    "title": "TakeTrans [DP-sagINSANE]",
+    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
+    "title": "STELLA FOMA [DP ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl9"
   },
@@ -3048,20 +3030,8 @@
     "comment": "sl9"
   },
   {
-    "md5": "3d03c5f1f609206bd51d852ebe5b4b74",
-    "title": "Yorixiro [OyaxiroSama]",
-    "level": "6.50...7.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "ff344cb441cdfd5a343b05f7f5d930ab",
     "title": "キユビック [(d+p)^3]",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "24946be731a25ce1470bb7a8d4e403e7",
-    "title": "プナイプナイたいそう [DP ☆NOTHER]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -3084,10 +3054,10 @@
     "comment": "sl9"
   },
   {
-    "md5": "ad27797ac54d934ad13ee1dcafdd329d",
-    "title": "#be_fortunate [DPYoitherEASY]",
+    "md5": "80688a79f251ece911a4a1c3b782f835",
+    "title": "Absurd Gaff [DP ANOTHER]",
     "level": "7.00...7.50",
-    "comment": "sl11"
+    "comment": "sl9"
   },
   {
     "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",
@@ -3106,6 +3076,12 @@
     "title": "Complex Colors -改 MIX- [DP ANOTHER]",
     "level": "7.00...7.50",
     "comment": "sl10"
+  },
+  {
+    "md5": "a1b94ca36a0c07d29033317b3186779b",
+    "title": "Conclusio Catastropha -BMS edit- [DP Lost]",
+    "level": "7.00...7.50",
+    "comment": "sl11"
   },
   {
     "md5": "ead4d5ef2f682641679929a7f532c3d7",
@@ -3150,6 +3126,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "a9d1c94124f0b6956fe2abb4a1c44c90",
+    "title": "Moon-gate [Waning]",
+    "level": "7.00...7.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
     "title": "Non Return to Zero [DP ANOTHER]",
     "level": "7.00...7.50",
@@ -3174,6 +3156,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "a9069d6f170641ede5204a5a7ea42920",
+    "title": "sola [DP LUNATIC]",
+    "level": "7.00...7.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "e7c0ff5e14b93344eb93f5b3b584d827",
     "title": "Stars Keep on Illuminating [DP Insane]",
     "level": "7.00...7.50",
@@ -3184,6 +3172,12 @@
     "title": "Sweet Little Chocolate [DP-soijoy]",
     "level": "7.00...7.50",
     "comment": "sl11"
+  },
+  {
+    "md5": "bb6a930e363d407b7879b34ad8beccca",
+    "title": "TakeTrans [DP-sagINSANE]",
+    "level": "7.00...7.50",
+    "comment": "sl9"
   },
   {
     "md5": "48e3f3a439115c200f796b06e352f00f",
@@ -3198,8 +3192,20 @@
     "comment": "sl10"
   },
   {
+    "md5": "3d03c5f1f609206bd51d852ebe5b4b74",
+    "title": "Yorixiro [OyaxiroSama]",
+    "level": "7.00...7.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "7cdf0e379373303886ae2240879699a2",
     "title": "ふしぎなおくりもの [DPA]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
+    "title": "トココ21 ⊂㌍㌢⊃",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -3218,6 +3224,12 @@
   {
     "md5": "bf07d0084dd2e6d84eaa7affe0d47a0c",
     "title": "プナイプナイせんそう [DP ☆NOTHER]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "24946be731a25ce1470bb7a8d4e403e7",
+    "title": "プナイプナイたいそう [DP ☆NOTHER]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -3252,10 +3264,22 @@
     "comment": "sl10"
   },
   {
+    "md5": "ad27797ac54d934ad13ee1dcafdd329d",
+    "title": "#be_fortunate [DPYoitherEASY]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "51fe7ee56efa0c29890749f058679669",
     "title": "* Crow Solace * [DPA]",
     "level": "7.50...8.00",
     "comment": "sl11"
+  },
+  {
+    "md5": "03ee34febbb179b1ebc15cf0de53b803",
+    "title": "::AbnormalityPurificator:: [DP INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl12"
   },
   {
     "md5": "93d080e4b70da264f18d371169e7e20f",
@@ -3276,6 +3300,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "c18c15892b9e9224f712fd41a4127545",
+    "title": "Fragments [DP ULTIMATE fixed]",
+    "level": "7.50...8.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
     "title": "H.S : Hadron Strike [DP ANOTHER]",
     "level": "7.50...8.00",
@@ -3288,12 +3318,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "698d9fbed50790069cef8063097f8201",
-    "title": "Illusion of Mind [DP NIGHTMARE]",
-    "level": "7.50...8.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "581dfb81c885d9b7b6ea868bf3524a47",
     "title": "Jack o' Lantern ≧w≦",
     "level": "7.50...8.00",
@@ -3304,6 +3328,12 @@
     "title": "myste`re　 [18keys]",
     "level": "7.50...8.00",
     "comment": "sl11"
+  },
+  {
+    "md5": "df64bec170f75a0766971df7fb052326",
+    "title": "N - flat waves -",
+    "level": "7.50...8.00",
+    "comment": "sl12"
   },
   {
     "md5": "2c8ca67a2198fbb13199b970210d1b20",
@@ -3342,12 +3372,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
-    "title": "トココ21 ⊂㌍㌢⊃",
-    "level": "7.50...8.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "584450308e2b02b3a71a3979c16cdb4f",
     "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
     "level": "7.50...8.00",
@@ -3356,12 +3380,6 @@
   {
     "md5": "17e065f48caca8af9374dc953c9b06d4",
     "title": "マッドメチャクチャニズム [DP ANOTHER]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "23a2dc41098afccba3f4e207fa4f8bb1",
-    "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -3432,6 +3450,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "23a2dc41098afccba3f4e207fa4f8bb1",
+    "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
+    "level": "8.00...8.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "db61816ce6a0d8e08446af4d95c0c0a0",
     "title": "星屑アポトーシス",
     "level": "8.00...8.50",
@@ -3450,10 +3474,22 @@
     "comment": "sl11"
   },
   {
+    "md5": "a9988216fa374c97a807e1148c87a4bc",
+    "title": "eth剣 (DP激)",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
     "title": "GIRIMECHALA Reflects! (Chefei)",
     "level": "8.50...9.00",
     "comment": "sl11"
+  },
+  {
+    "md5": "698d9fbed50790069cef8063097f8201",
+    "title": "Illusion of Mind [DP NIGHTMARE]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
   },
   {
     "md5": "63fe5d77296433f850a19065a598ea96",
@@ -3496,12 +3532,6 @@
     "title": "夜間飛行トラベラー [DP MANIAC]",
     "level": "8.50...9.00",
     "comment": "sl11"
-  },
-  {
-    "md5": "a9988216fa374c97a807e1148c87a4bc",
-    "title": "eth剣 (DP激)",
-    "level": "9.00...9.50",
-    "comment": "sl12"
   },
   {
     "md5": "f70b61bbd663fe6056856bb83a84fd27",
@@ -3564,20 +3594,8 @@
     "comment": "sl12"
   },
   {
-    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
-    "title": "私のヒトミ",
-    "level": "9.50...10.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "b1ca95e12d38a70429a166db3e93dc9b",
     "title": "Angel dust",
-    "level": "10.00...10.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "767177285abbedf42d833793842cc70d",
-    "title": "CYCLONE [Gravity Distorting Module]",
     "level": "10.00...10.50",
     "comment": "sl12"
   },
@@ -3585,6 +3603,18 @@
     "md5": "7a26d0eda820c694576926482b5ef5a6",
     "title": "FIONA [Enjoy]",
     "level": "10.00...10.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
+    "title": "私のヒトミ",
+    "level": "10.00...10.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "767177285abbedf42d833793842cc70d",
+    "title": "CYCLONE [Gravity Distorting Module]",
+    "level": "10.50...11.00",
     "comment": "sl12"
   },
   {

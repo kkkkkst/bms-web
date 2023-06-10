@@ -18,12 +18,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "bd55eb2af8360550dde4a07d703fbe39",
-    "title": "Rechronize [DP 202THER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "852775fe56624678df49f191f27cbbc8",
     "title": "人魚電台 [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -36,18 +30,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "5734e3760fa0f8e5925829d07b639af9",
-    "title": "Acacia [DP ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "2f73d7199984227a5565ac5da184b3ab",
-    "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
-    "level": "0.50...1.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "032f2470cdd02273a64a0aaa24d9a07f",
     "title": "Cutter [DP ANOTHER]",
     "level": "0.50...1.00",
@@ -56,12 +38,6 @@
   {
     "md5": "c02de0206f910240a0b9ed86858969cd",
     "title": "Dream in the girl -DP ANOTHER-",
-    "level": "0.50...1.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
-    "title": "endemize [E-ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -174,6 +150,18 @@
     "comment": "sl0"
   },
   {
+    "md5": "5734e3760fa0f8e5925829d07b639af9",
+    "title": "Acacia [DP ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "2f73d7199984227a5565ac5da184b3ab",
+    "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
+    "level": "1.00...1.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "1cf006b02e60d21cef593be4a142d96e",
     "title": "Beyond The Alice (14N)",
     "level": "1.00...1.50",
@@ -194,6 +182,12 @@
   {
     "md5": "a84130abc2b92806ae28a679cbc77dfd",
     "title": "Edge of bravery [DP ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
+    "title": "endemize [E-ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl0"
   },
@@ -258,14 +252,14 @@
     "comment": "sl0"
   },
   {
-    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
-    "title": "Prayer [ANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "1ab2a0140e177fc8681b93cb6768093d",
     "title": "Reality [14keys Hyper]",
+    "level": "1.00...1.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "bd55eb2af8360550dde4a07d703fbe39",
+    "title": "Rechronize [DP 202THER]",
     "level": "1.00...1.50",
     "comment": "sl0"
   },
@@ -414,6 +408,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
+    "title": "Prayer [ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
     "title": "Replace [DP ANOTHER]",
     "level": "1.50...2.00",
@@ -480,14 +480,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "6212177038c572314f64f1761ebd7d1c",
-    "title": "Elixir",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "2dc6e8268b5efcca25c9f72f9c1186f0",
-    "title": "evangelize (blurry images) [DP HARD]",
+    "md5": "30ee162381930f52ade58071c5210298",
+    "title": "Existence [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
@@ -576,6 +570,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
+    "title": "白と臙脂のオモチャバコ [ムズカシイ 14]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "bc9f6970a45fa7fdefd7c2265b132651",
     "title": "黄昏のメロディア [DP ANOTHER]",
     "level": "2.00...2.50",
@@ -612,6 +612,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "6212177038c572314f64f1761ebd7d1c",
+    "title": "Elixir",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "5dedb908c2d0fc61a09a2499ace14ee7",
     "title": "especies exoticas",
     "level": "2.50...3.00",
@@ -624,8 +630,8 @@
     "comment": "sl1"
   },
   {
-    "md5": "30ee162381930f52ade58071c5210298",
-    "title": "Existence [DP ANOTHER]",
+    "md5": "2dc6e8268b5efcca25c9f72f9c1186f0",
+    "title": "evangelize (blurry images) [DP HARD]",
     "level": "2.50...3.00",
     "comment": "sl1"
   },
@@ -652,12 +658,6 @@
     "title": "introspect [DP Another]",
     "level": "2.50...3.00",
     "comment": "sl1"
-  },
-  {
-    "md5": "24990b5348187bfd53c897ed4b1ff120",
-    "title": "Late Summer [nostalgia]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
   },
   {
     "md5": "af3c85b4d9ec0c7ef028affc2f1ba7bb",
@@ -690,22 +690,10 @@
     "comment": "sl1"
   },
   {
-    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
-    "title": "Teleportation [Another14]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "27481e8ce96440b60455430ad57315cb",
     "title": "z/e [DP-sagANOTHER]",
     "level": "2.50...3.00",
     "comment": "sl1"
-  },
-  {
-    "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
-    "title": "お兄火 [DP Another]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
   },
   {
     "md5": "65475e8733cf1d03de23f994e7842796",
@@ -716,18 +704,6 @@
   {
     "md5": "304a55cf280f9875efb248773dc42a0f",
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
-    "level": "2.50...3.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "9c709acbc81e788da0b5ecc033746635",
-    "title": "ミライトコネクト [DP ANOTHER]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
-    "title": "白と臙脂のオモチャバコ [ムズカシイ 14]",
     "level": "2.50...3.00",
     "comment": "sl1"
   },
@@ -816,8 +792,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "4517d25589a16bf79795b09b95592324",
-    "title": "Love's Rebirth '06 LEGEND MIX -DP-",
+    "md5": "24990b5348187bfd53c897ed4b1ff120",
+    "title": "Late Summer [nostalgia]",
     "level": "3.00...3.50",
     "comment": "sl2"
   },
@@ -840,6 +816,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
+    "title": "Teleportation [Another14]",
+    "level": "3.00...3.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
     "title": "The Microbe [DP ANOTHER]",
     "level": "3.00...3.50",
@@ -858,6 +840,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
+    "title": "お兄火 [DP Another]",
+    "level": "3.00...3.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
     "level": "3.00...3.50",
@@ -866,6 +854,12 @@
   {
     "md5": "3662c764b23ca91edf7df310537d5b03",
     "title": "インフェルノシティ [DP Another]",
+    "level": "3.00...3.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "9c709acbc81e788da0b5ecc033746635",
+    "title": "ミライトコネクト [DP ANOTHER]",
     "level": "3.00...3.50",
     "comment": "sl2"
   },
@@ -924,12 +918,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "b947ca70a8e97353b9f79a37752e8605",
-    "title": "HAPPY CIRCULATION [DP ANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "2a4637a353bcd5d35b1ecfbbccefb383",
     "title": "High-Priestess [SLAUGHER]",
     "level": "3.50...4.00",
@@ -938,6 +926,12 @@
   {
     "md5": "dff6930e3435fe6552d4670c689d2270",
     "title": "Is This Your Memory? [Another]",
+    "level": "3.50...4.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "4517d25589a16bf79795b09b95592324",
+    "title": "Love's Rebirth '06 LEGEND MIX -DP-",
     "level": "3.50...4.00",
     "comment": "sl2"
   },
@@ -1050,6 +1044,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "b947ca70a8e97353b9f79a37752e8605",
+    "title": "HAPPY CIRCULATION [DP ANOTHER]",
+    "level": "4.00...4.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "e255f2454ad464f042b2ea6f83d143ab",
     "title": "Loki [Trickster]",
     "level": "4.00...4.50",
@@ -1086,8 +1086,8 @@
     "comment": "sl3"
   },
   {
-    "md5": "16883227fcf0cae5023c641d0fdfca58",
-    "title": "サカサマの空に在ったのは [DP ANOTHER]",
+    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
+    "title": "あなた [DP HYPER]",
     "level": "4.00...4.50",
     "comment": "sl3"
   },
@@ -1164,12 +1164,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
-    "title": "Central Nucleus [DP ANOTHER]",
-    "level": "4.50...5.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "81c8fad166661b8609873553f32d09bb",
     "title": "Conviction [DP HYPER]",
     "level": "4.50...5.00",
@@ -1200,12 +1194,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "b5403179a9f3a205433bbd45673a8fff",
-    "title": "Fakeover [DP ANOTHER]",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "cdab5423f483634a2af53ed295a1cbd1",
     "title": "Fractal [DP]",
     "level": "4.50...5.00",
@@ -1216,12 +1204,6 @@
     "title": "gradation (DP ANOTHER)",
     "level": "4.50...5.00",
     "comment": "sl3"
-  },
-  {
-    "md5": "2e20d9726feb8fba2563a3af6b4ce17c",
-    "title": "Heartstrings [DPA]",
-    "level": "4.50...5.00",
-    "comment": "sl4"
   },
   {
     "md5": "fae668556e7a69b1c7268513bedf2a9d",
@@ -1326,8 +1308,8 @@
     "comment": "sl3"
   },
   {
-    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
-    "title": "あなた [DP HYPER]",
+    "md5": "16883227fcf0cae5023c641d0fdfca58",
+    "title": "サカサマの空に在ったのは [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl3"
   },
@@ -1368,6 +1350,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "347e728cf787c9eddcb2986abe6c028e",
+    "title": "月時計　Last・Dial (DPA)",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "137821b71aee5d8444e7fcc38cd5690c",
     "title": "織姫 [dpinsane]",
     "level": "4.50...5.00",
@@ -1386,12 +1374,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
-    "title": "Angelic Snow (kumanother)",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
     "title": "Banhotta -黄昏-",
     "level": "5.00...5.50",
@@ -1404,20 +1386,26 @@
     "comment": "sl4"
   },
   {
+    "md5": "adaba76dca4f2d8eb5518f79d6a0dbd3",
+    "title": "Black or White",
+    "level": "5.00...5.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "d9b8ae9d7705e02cf2fe977e990c9438",
     "title": "Bouquet colore [Xochipilli]",
     "level": "5.00...5.50",
     "comment": "sl4"
   },
   {
-    "md5": "74275b409e2bc00f51366a14c7e5d173",
-    "title": "CG901B -7- [Short Ver.] [DPEX]",
+    "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
+    "title": "Central Nucleus [DP ANOTHER]",
     "level": "5.00...5.50",
-    "comment": "sl4"
+    "comment": "sl3"
   },
   {
-    "md5": "3a202c8d9ca00a685f8067895e55897b",
-    "title": "Chasing Stars [DP Very Hard]",
+    "md5": "74275b409e2bc00f51366a14c7e5d173",
+    "title": "CG901B -7- [Short Ver.] [DPEX]",
     "level": "5.00...5.50",
     "comment": "sl4"
   },
@@ -1442,6 +1430,18 @@
   {
     "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
     "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
+    "level": "5.00...5.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "b5403179a9f3a205433bbd45673a8fff",
+    "title": "Fakeover [DP ANOTHER]",
+    "level": "5.00...5.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "2e20d9726feb8fba2563a3af6b4ce17c",
+    "title": "Heartstrings [DPA]",
     "level": "5.00...5.50",
     "comment": "sl4"
   },
@@ -1542,12 +1542,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "347e728cf787c9eddcb2986abe6c028e",
-    "title": "月時計　Last・Dial (DPA)",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
     "title": "永夜の報い -full moon- <14A>",
     "level": "5.00...5.50",
@@ -1566,10 +1560,22 @@
     "comment": "sl4"
   },
   {
+    "md5": "6408314fb66561cce094b8f6695762d6",
+    "title": "衛星ミカボシ [DP]",
+    "level": "5.00...5.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "1cf2e4e0cd40442ecbb7d633617c4714",
     "title": "ALife Contradiction [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl5"
+  },
+  {
+    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
+    "title": "Angelic Snow (kumanother)",
+    "level": "5.50...6.00",
+    "comment": "sl4"
   },
   {
     "md5": "f373a2c55f04298fc77b7f397458a753",
@@ -1578,16 +1584,16 @@
     "comment": "sl4"
   },
   {
-    "md5": "adaba76dca4f2d8eb5518f79d6a0dbd3",
-    "title": "Black or White",
-    "level": "5.50...6.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "6d92fdb95771a475fc44e741791833dc",
     "title": "Catricious [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl5"
+  },
+  {
+    "md5": "3a202c8d9ca00a685f8067895e55897b",
+    "title": "Chasing Stars [DP Very Hard]",
+    "level": "5.50...6.00",
+    "comment": "sl4"
   },
   {
     "md5": "7f20ad48088c7932002b15bb9a6189de",
@@ -2034,6 +2040,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "3d6408517abfa86af1f9c311adc3db3c",
+    "title": "Our Dream, Our Justice [DP Sub Black Another+]",
+    "level": "7.00...7.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "1a8bf502c603ff2f2b9fca64a47de401",
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "7.00...7.50",
@@ -2148,6 +2160,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "5b142a206aefddceffb43f71e45ec6f0",
+    "title": "GOODBOUNCE [DP]",
+    "level": "7.50...8.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "6a9a075aa7e63c399102a03b62522e67",
     "title": "HAELEQUIN [DP ANOTHER]",
     "level": "7.50...8.00",
@@ -2162,12 +2180,6 @@
   {
     "md5": "bea9dcaf2cf21b7bfbce7da243b1a68b",
     "title": "Old Pal",
-    "level": "7.50...8.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "3d6408517abfa86af1f9c311adc3db3c",
-    "title": "Our Dream, Our Justice [DP Sub Black Another+]",
     "level": "7.50...8.00",
     "comment": "sl6"
   },
@@ -2218,12 +2230,6 @@
     "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
     "level": "7.50...8.00",
     "comment": "sl6"
-  },
-  {
-    "md5": "7e4ba12362bced1950dd4ba13c9d66f8",
-    "title": "ヒメタイプ [MG]",
-    "level": "7.50...8.00",
-    "comment": "sl7"
   },
   {
     "md5": "94f62784fa0e6c3b3819bbd677219546",
@@ -2316,12 +2322,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "5b142a206aefddceffb43f71e45ec6f0",
-    "title": "GOODBOUNCE [DP]",
-    "level": "8.00...8.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "0bafbf864710b9c6fbc3c77349383f41",
     "title": "Hi-Fi-Story [DP ANOTHER]",
     "level": "8.00...8.50",
@@ -2408,6 +2408,12 @@
   {
     "md5": "36f365a7583019151d208221e32708c0",
     "title": "アルスノヴァに喝采を [レゾナンスもえこは希望を歌う。]",
+    "level": "8.00...8.50",
+    "comment": "sl7"
+  },
+  {
+    "md5": "7e4ba12362bced1950dd4ba13c9d66f8",
+    "title": "ヒメタイプ [MG]",
     "level": "8.00...8.50",
     "comment": "sl7"
   },
@@ -2640,12 +2646,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
-    "title": "Singing of Night birds [DP INSANE]",
-    "level": "9.00...9.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "08e62a99f61826c978b45ec93c490dbf",
     "title": "Tartaros　 -12m-",
     "level": "9.00...9.50",
@@ -2790,28 +2790,10 @@
     "comment": "sl8"
   },
   {
-    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
-    "title": "rise to R -overdrive 14-",
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
     "level": "9.50...10.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
-    "title": "S.L.I. [W.I.S.H.]",
-    "level": "9.50...10.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "8e171847ff4fd27ff8501e1ec2ced6cb",
-    "title": "Sicilian Kiss -14EX-",
-    "level": "9.50...10.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
-    "title": "STELLA FOMA [DP ANOTHER]",
-    "level": "9.50...10.00",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "3b308fec3ad20cae5eb13eb0e3895c7a",
@@ -2862,6 +2844,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "a1b94ca36a0c07d29033317b3186779b",
+    "title": "Conclusio Catastropha -BMS edit- [DP Lost]",
+    "level": "10.00...10.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "97120ea69565c29f8acae5551caa6d0b",
     "title": "Dreamy Fall [DP INSANE]",
     "level": "10.00...10.50",
@@ -2904,10 +2892,28 @@
     "comment": "sl9"
   },
   {
+    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
+    "title": "rise to R -overdrive 14-",
+    "level": "10.00...10.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
+    "title": "S.L.I. [W.I.S.H.]",
+    "level": "10.00...10.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
     "title": "SHINKA [14KEYS ANOTHER]",
     "level": "10.00...10.50",
     "comment": "sl11"
+  },
+  {
+    "md5": "8e171847ff4fd27ff8501e1ec2ced6cb",
+    "title": "Sicilian Kiss -14EX-",
+    "level": "10.00...10.50",
+    "comment": "sl9"
   },
   {
     "md5": "a964333aca00bfd678e0daff013d7dac",
@@ -2922,26 +2928,20 @@
     "comment": "sl11"
   },
   {
+    "md5": "c0c74268c40ed02d2e8469c509bee5b4",
+    "title": "STELLA FOMA [DP ANOTHER]",
+    "level": "10.00...10.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "d456037131dc98541200c34c3fe146ae",
     "title": "Summerland [14key_Extreme]",
     "level": "10.00...10.50",
     "comment": "sl9"
   },
   {
-    "md5": "bb6a930e363d407b7879b34ad8beccca",
-    "title": "TakeTrans [DP-sagINSANE]",
-    "level": "10.00...10.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "053a9df4c39af51f5437b7377101a0e6",
     "title": "TEN -Q-",
-    "level": "10.00...10.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "3af95ce4ad9e59bcdd001bd151225200",
-    "title": "XVOTO",
     "level": "10.00...10.50",
     "comment": "sl9"
   },
@@ -3036,6 +3036,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "bb6a930e363d407b7879b34ad8beccca",
+    "title": "TakeTrans [DP-sagINSANE]",
+    "level": "10.50...11.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "8cc4f01e3855e3f0acbe26920762fe32",
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
     "level": "10.50...11.00",
@@ -3044,6 +3050,12 @@
   {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
     "title": "Wizdomiot [DP INSANE]",
+    "level": "10.50...11.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "3af95ce4ad9e59bcdd001bd151225200",
+    "title": "XVOTO",
     "level": "10.50...11.00",
     "comment": "sl9"
   },
@@ -3066,8 +3078,8 @@
     "comment": "sl10"
   },
   {
-    "md5": "93d080e4b70da264f18d371169e7e20f",
-    "title": "Bouquet colore [Fatalism]",
+    "md5": "03ee34febbb179b1ebc15cf0de53b803",
+    "title": "::AbnormalityPurificator:: [DP INSANE]",
     "level": "11.00...11.50",
     "comment": "sl12"
   },
@@ -3076,6 +3088,12 @@
     "title": "Ceebu Yapp",
     "level": "11.00...11.50",
     "comment": "sl10"
+  },
+  {
+    "md5": "c18c15892b9e9224f712fd41a4127545",
+    "title": "Fragments [DP ULTIMATE fixed]",
+    "level": "11.00...11.50",
+    "comment": "sl12"
   },
   {
     "md5": "b117e4747a220ff1216c152f075ad409",
@@ -3088,6 +3106,12 @@
     "title": "Mind Disorder [DP LEGGENDARIA]",
     "level": "11.00...11.50",
     "comment": "sl10"
+  },
+  {
+    "md5": "df64bec170f75a0766971df7fb052326",
+    "title": "N - flat waves -",
+    "level": "11.00...11.50",
+    "comment": "sl12"
   },
   {
     "md5": "388e05189bdc0f964c474cb01dd1d27e",
@@ -3134,12 +3158,6 @@
   {
     "md5": "0c828e4a9805195c688972d2d58b89ad",
     "title": "異説彼岸花 第二 -終世のリコリス- [DP INSANE]",
-    "level": "11.00...11.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "b9600a2936cab0232a4781d32eb99235",
-    "title": "硬核機動 [14KEYS-ANOTHER]",
     "level": "11.00...11.50",
     "comment": "sl10"
   },
@@ -3210,22 +3228,22 @@
     "comment": "sl10"
   },
   {
-    "md5": "e7857ae7f38cec394840be0bc2ae3753",
-    "title": "兎は舞い降りた [DPHARD]",
-    "level": "11.50...12.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "564c3e9978f9863253bb8c4f00a796c2",
-    "title": "月時計　Last・Dial (DPA+)",
-    "level": "11.50...12.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "27a6ac517eb18cd3105be73818bc656b",
     "title": "玉響サーチライト [DP INSANE]",
     "level": "11.50...12.00",
     "comment": "sl11"
+  },
+  {
+    "md5": "b9600a2936cab0232a4781d32eb99235",
+    "title": "硬核機動 [14KEYS-ANOTHER]",
+    "level": "11.50...12.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "93d080e4b70da264f18d371169e7e20f",
+    "title": "Bouquet colore [Fatalism]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
   },
   {
     "md5": "5f5be91b44b0108d91c48e01b0e27c41",
@@ -3334,6 +3352,18 @@
     "title": "ポケットモンスター BW2 アイリス戦 -One More Extra Stage-",
     "level": "12.00...12.50",
     "comment": "sl10"
+  },
+  {
+    "md5": "e7857ae7f38cec394840be0bc2ae3753",
+    "title": "兎は舞い降りた [DPHARD]",
+    "level": "12.00...12.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "564c3e9978f9863253bb8c4f00a796c2",
+    "title": "月時計　Last・Dial (DPA+)",
+    "level": "12.00...12.50",
+    "comment": "sl11"
   },
   {
     "md5": "de397d520c998e66bbab4017791c9668",
@@ -3474,12 +3504,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "698d9fbed50790069cef8063097f8201",
-    "title": "Illusion of Mind [DP NIGHTMARE]",
-    "level": "13.50...14.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "f70b61bbd663fe6056856bb83a84fd27",
     "title": "Lacrimosa [DP Insane]",
     "level": "13.50...14.00",
@@ -3530,6 +3554,12 @@
   {
     "md5": "90fb4a5b1f492f517d2f650d7129dc23",
     "title": "Freja -Royal Flare-",
+    "level": "14.00...14.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "698d9fbed50790069cef8063097f8201",
+    "title": "Illusion of Mind [DP NIGHTMARE]",
     "level": "14.00...14.50",
     "comment": "sl12"
   },

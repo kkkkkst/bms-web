@@ -182,19 +182,6 @@
     "proposerLr2id": 139958
   },
   {
-    "md5": "b5b1d8cc91a438816b698a71c4302c7e",
-    "sha256": "513ff978e58cbfedf7d17782ad148ecd8ca2c379b21354635348258546fca490",
-    "title": "denebora -for beginner-",
-    "artist": "chan + Est/obj:epics-",
-    "url_diff": "http://epics.client.jp",
-    "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
-    "level": "0",
-    "zureCount": 0,
-    "proposer": "Zris",
-    "submission": 818,
-    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
-  },
-  {
     "md5": "c02de0206f910240a0b9ed86858969cd",
     "sha256": "f88500848ab848033b7dbf5a1eb0d81825ff98453ba25b3dd87f525bb278bda1",
     "title": "Dream in the girl -DP ANOTHER-",
@@ -1046,6 +1033,19 @@
     "proposerLr2id": 84521
   },
   {
+    "md5": "b5b1d8cc91a438816b698a71c4302c7e",
+    "sha256": "513ff978e58cbfedf7d17782ad148ecd8ca2c379b21354635348258546fca490",
+    "title": "denebora -for beginner-",
+    "artist": "chan + Est/obj:epics-",
+    "url_diff": "http://epics.client.jp",
+    "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
+    "level": "1",
+    "zureCount": 0,
+    "proposer": "Zris",
+    "submission": 818,
+    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
+  },
+  {
     "level": "1",
     "comment": "BOF2016, normal judge",
     "md5": "5dedb908c2d0fc61a09a2499ace14ee7",
@@ -1639,19 +1639,6 @@
     "proposer": "coco",
     "submission": 657,
     "proposerLr2id": 147123
-  },
-  {
-    "md5": "991ffbe9ca23d58a2f7a87978a3f220c",
-    "sha256": "c3c22442dad3d19b571d7ba35c4a75101aa888cae8ea771fe32770b2c7acab2d",
-    "title": "東北新幹線 [黄野菜]",
-    "artist": "ナス",
-    "url_diff": "",
-    "url": "https://venue.bmssearch.net/bmstukuru2023/1",
-    "level": "1",
-    "comment": "低速、同時押し、縦連打",
-    "proposer": "Telperion",
-    "submission": 824,
-    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
   },
   {
     "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
@@ -2527,6 +2514,18 @@
     "proposerLr2id": 128228
   },
   {
+    "md5": "90733da4d37041e950750cf1e6ee73c1",
+    "sha256": "a188e06c5a8b97cb2dfdeca3dd149ef52f9d7c2da780bcdbe8d2238243c5535e",
+    "title": "アイのハネいろ！",
+    "artist": "RAY arranged by sumomo",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=126",
+    "level": "2",
+    "proposer": "Zris",
+    "submission": 827,
+    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
+  },
+  {
     "md5": "65475e8733cf1d03de23f994e7842796",
     "sha256": "c9c6e057a8be5b50b2ac2828f8075a0061dd8cdc12f3eb6b4e151478eaa82e04",
     "title": "アナログ横丁 [14巻]",
@@ -2616,6 +2615,19 @@
     "proposer": "Tyro",
     "submission": 159,
     "proposerMinirid": "771c245a-497e-4bc2-9bd1-c1531fa29e86"
+  },
+  {
+    "md5": "991ffbe9ca23d58a2f7a87978a3f220c",
+    "sha256": "c3c22442dad3d19b571d7ba35c4a75101aa888cae8ea771fe32770b2c7acab2d",
+    "title": "東北新幹線 [黄野菜]",
+    "artist": "ナス",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/1",
+    "level": "2",
+    "comment": "低速、同時押し、縦連打",
+    "proposer": "Telperion",
+    "submission": 824,
+    "proposerMinirid": "049d2676-c5b2-4b6c-9ade-85d38e095e69"
   },
   {
     "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
@@ -10264,6 +10276,20 @@
     "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
   },
   {
+    "md5": "7334b850f318328887f9eb932a4f7eae",
+    "sha256": "05f31b6eed1a50cfea2bc2de1e9d122754e50b9f403a046adb798888b8aedcad",
+    "title": "Kaleidoscope [Eden]",
+    "artist": "Lycoris vs. Pied d'Alouette obj:nBel",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/939",
+    "url": "https://venue.bmssearch.net/mutualfaith3/4",
+    "level": "12",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "camsohits",
+    "submission": 826,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
+  },
+  {
     "md5": "f70b61bbd663fe6056856bb83a84fd27",
     "sha256": "4aa8d998b95965609a628ebc1bdd8c85ebb93565643efb570dd175f7e6e63b25",
     "title": "Lacrimosa [DP Insane]",
@@ -10548,6 +10574,19 @@
     "proposer": "coco",
     "submission": 679,
     "proposerLr2id": 147123
+  },
+  {
+    "md5": "9f72491771dd98d926a6a117376895df",
+    "sha256": "61075a24279d2864327e0893157b2a3f7eae9507c5a6b6e5a770dba610ab7173",
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [DP BroGamer]",
+    "artist": "潮音きつね feat. Ei (bunny rhyTHm) / obj:QB",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=140",
+    "level": "12",
+    "comment": "★★4~5　認識力　アップに適した良譜面　",
+    "proposer": "camsohits",
+    "submission": 825,
+    "proposerMinirid": "94c28492-b04a-43ca-a199-11922823f8d7"
   },
   {
     "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",

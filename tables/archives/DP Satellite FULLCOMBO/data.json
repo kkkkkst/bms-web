@@ -132,12 +132,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
-    "title": "Luv 5 Dancer [Double]",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
     "title": "MANHATTAN [DP ANOTHER]",
     "level": "4.50...5.00",
@@ -330,6 +324,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
+    "title": "Luv 5 Dancer [Double]",
+    "level": "5.00...5.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "25a592e0875645037f24e420957c2bdc",
     "title": "melody_express [express14]",
     "level": "5.00...5.50",
@@ -352,6 +352,12 @@
     "title": "Plunge into cloud [DP another]",
     "level": "5.00...5.50",
     "comment": "sl0"
+  },
+  {
+    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
+    "title": "Prayer [ANOTHER]",
+    "level": "5.00...5.50",
+    "comment": "sl1"
   },
   {
     "md5": "eda91b02fece36750c6a18afd2284527",
@@ -380,12 +386,6 @@
   {
     "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
     "title": "Highleg Mermaid [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
-    "title": "Prayer [ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -690,18 +690,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
-    "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "2a5fd0ec256acc51bafaadae24b0351a",
-    "title": "DOLL [DP ANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "d95223a411d9aece9a16eaf733d6797c",
     "title": "Empress of Raizze (14H)",
     "level": "7.00...7.50",
@@ -714,20 +702,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "65fca2949626b80fb8f21359cf0799aa",
-    "title": "GIN TONIC FLAVOR",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "1846c9f8536ece051e4471ce365aa5fb",
     "title": "HEXPERUS [DP ANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "352daa323679928542d7609219dfcc99",
-    "title": "IMPULSE [DP INSANE]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -764,12 +740,6 @@
   {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "9c709acbc81e788da0b5ecc033746635",
-    "title": "ミライトコネクト [DP ANOTHER]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -822,8 +792,20 @@
     "comment": "sl2"
   },
   {
+    "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
+    "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "2332bbd8876a500af7e868f71192f9a9",
     "title": "Deus ex Machina [DPH]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "2a5fd0ec256acc51bafaadae24b0351a",
+    "title": "DOLL [DP ANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -846,6 +828,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "65fca2949626b80fb8f21359cf0799aa",
+    "title": "GIN TONIC FLAVOR",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "197f79072827b1c0c329edbe85fee7cd",
     "title": "H.S : Hadron Strike [DP1104H]",
     "level": "7.50...8.00",
@@ -860,6 +848,12 @@
   {
     "md5": "79d513270d899b4ee308aca0a0a0422b",
     "title": "Implexrough [SRBOFU2017DP]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "352daa323679928542d7609219dfcc99",
+    "title": "IMPULSE [DP INSANE]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -966,6 +960,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "9c709acbc81e788da0b5ecc033746635",
+    "title": "ミライトコネクト [DP ANOTHER]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "298f183c1ae264b77f2a17861cbffbc2",
     "title": "六花 [EX14]",
     "level": "7.50...8.00",
@@ -984,20 +984,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "3c4dbc85d18236ca08a8e95549415e9c",
-    "title": "QTロジック [DPロジック]",
-    "level": "8.00...8.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "daa91f5884399436c2c29c6b3f830f87",
     "title": "村 [そんそん]",
-    "level": "8.00...8.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "137821b71aee5d8444e7fcc38cd5690c",
-    "title": "織姫 [dpinsane]",
     "level": "8.00...8.50",
     "comment": "sl3"
   },
@@ -1028,12 +1016,6 @@
   {
     "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
     "title": "Central Nucleus [DP ANOTHER]",
-    "level": "8.50...9.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "81c8fad166661b8609873553f32d09bb",
-    "title": "Conviction [DP HYPER]",
     "level": "8.50...9.00",
     "comment": "sl3"
   },
@@ -1110,6 +1092,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "3c4dbc85d18236ca08a8e95549415e9c",
+    "title": "QTロジック [DPロジック]",
+    "level": "8.50...9.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "7d9100fba417fa838b31f86728ba2659",
     "title": "RAVE NIGHTINGALE [Daybreak14]",
     "level": "8.50...9.00",
@@ -1136,12 +1124,6 @@
   {
     "md5": "dac9501eb6e44e30a8ef7c08ab857e1d",
     "title": "This Club is not 4 U [DP ANOTHER]",
-    "level": "8.50...9.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "fdc6f8e3e78e78f45e763ef20ef848a6",
-    "title": "☆ウィンドサンバランド☆ -DP ANOTHER-",
     "level": "8.50...9.00",
     "comment": "sl3"
   },
@@ -1176,8 +1158,20 @@
     "comment": "sl3"
   },
   {
+    "md5": "137821b71aee5d8444e7fcc38cd5690c",
+    "title": "織姫 [dpinsane]",
+    "level": "8.50...9.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "7350b957c0c4a5100ca6fca9b24b144e",
     "title": "2anyFirst [14-A]",
+    "level": "9.00...9.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "81c8fad166661b8609873553f32d09bb",
+    "title": "Conviction [DP HYPER]",
     "level": "9.00...9.50",
     "comment": "sl3"
   },
@@ -1196,6 +1190,12 @@
   {
     "md5": "4988380f70fe9c0d1a0197e8e5ef9643",
     "title": "The Green Light [14KEYS INSANE]",
+    "level": "9.00...9.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "fdc6f8e3e78e78f45e763ef20ef848a6",
+    "title": "☆ウィンドサンバランド☆ -DP ANOTHER-",
     "level": "9.00...9.50",
     "comment": "sl3"
   },
@@ -1782,6 +1782,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "03ee34febbb179b1ebc15cf0de53b803",
+    "title": "::AbnormalityPurificator:: [DP INSANE]",
+    "level": "-",
+    "comment": "sl12"
+  },
+  {
     "md5": "80688a79f251ece911a4a1c3b782f835",
     "title": "Absurd Gaff [DP ANOTHER]",
     "level": "-",
@@ -2052,6 +2058,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "a1b94ca36a0c07d29033317b3186779b",
+    "title": "Conclusio Catastropha -BMS edit- [DP Lost]",
+    "level": "-",
+    "comment": "sl11"
+  },
+  {
     "md5": "143c4aeb8ecf90fea57b54afef73f66b",
     "title": "Cong＊Chu＊Jelly [DP-soijoy]",
     "level": "-",
@@ -2284,6 +2296,12 @@
     "title": "Fractal [DP]",
     "level": "-",
     "comment": "sl3"
+  },
+  {
+    "md5": "c18c15892b9e9224f712fd41a4127545",
+    "title": "Fragments [DP ULTIMATE fixed]",
+    "level": "-",
+    "comment": "sl12"
   },
   {
     "md5": "ea5235baeae69655cb8d81fabe2c599e",
@@ -2644,6 +2662,12 @@
     "title": "myste`re　 [18keys]",
     "level": "-",
     "comment": "sl11"
+  },
+  {
+    "md5": "df64bec170f75a0766971df7fb052326",
+    "title": "N - flat waves -",
+    "level": "-",
+    "comment": "sl12"
   },
   {
     "md5": "b7ff48a82dc10c9622934bbf39de2202",
@@ -3580,6 +3604,12 @@
     "title": "虚空グラデーション",
     "level": "-",
     "comment": "sl7"
+  },
+  {
+    "md5": "6408314fb66561cce094b8f6695762d6",
+    "title": "衛星ミカボシ [DP]",
+    "level": "-",
+    "comment": "sl4"
   },
   {
     "md5": "5c1c97a00af7b108e2a53afecba82cc3",
