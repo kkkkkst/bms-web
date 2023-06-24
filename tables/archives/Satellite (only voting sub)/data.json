@@ -1,5 +1,17 @@
 [
   {
+    "md5": "f588e5d34ce7aa97a25e7a848801b27a",
+    "sha256": "a0579b695c6fb951a98f725e20ae583f9867f9bffd630d9d822d89143c1daca5",
+    "title": "\"Flanker-E\" [ANOTHER]",
+    "artist": "Lemi. BGA:raii/obj:yozakura4241",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=277&event=133",
+    "level": "0",
+    "proposer": "qtp13",
+    "submission": 2780,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "407a01242c22457bb9a4aeaa4c11fddf",
     "sha256": "21b179398535fff01d87935ec8c8139588da0a34c2213924ee8a6eb31bf83e88",
     "title": "Experience of Ecstasy [SP ANOTHER]",
@@ -217,6 +229,20 @@
     "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
   },
   {
+    "md5": "3b9b9b585bced5c787024223d1d91a83",
+    "sha256": "b0ae500ff782ef98196f6fe49200b184c80d37cb8c61c5acfdc6ad087da4cd73",
+    "title": "八方美人は、八方塞がり。 [八角]",
+    "artist": "Ryu0316 a.k.a. 竜。 feat.結月ゆかり obj.Reiaki0704 a.k.a 玲秋。",
+    "url_diff": "https://stellabms.xyz/upload/2862",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/66",
+    "level": "4",
+    "comment": "BPM172 ガチ押し 練習になると思います",
+    "zureCount": 0,
+    "proposer": "しの",
+    "submission": 2778,
+    "proposerMinirid": "18aaa008-31fa-4cb5-9bf0-dd4af0f7e114"
+  },
+  {
     "md5": "7738e5b170e8a40b36c66a04b24866c8",
     "sha256": "48c26e650a97a49b639c05d367263081f508dc1fdc50b9fe253be32d7ff6d82c",
     "title": "Epatoivo LdsRmx [DEPRESSION]",
@@ -296,5 +322,19 @@
     "proposer": "mukyu--",
     "submission": 2765,
     "proposerLr2id": 71314
+  },
+  {
+    "md5": "4706769b5a4c6105bcd8b43260382d88",
+    "sha256": "000b0f1d4c954ac2f07d92b73178c931348ce0b20eb217f468c9b021303139f4",
+    "title": "Infinity Heaven ((7K EX))",
+    "artist": "HyuN / extra",
+    "url_diff": "https://drive.google.com/file/d/1V9IhWL4HN4pHMlPeNRffQK2G2A40Nw-t/view?usp=drive_link",
+    "url": "https://drive.google.com/file/d/1S8LPC5-TdEQvc5dzDvrrOqIARRSbcco3/view",
+    "level": "12",
+    "comment": "BOFU2016",
+    "zureCount": 0,
+    "proposer": "OkangbaO",
+    "submission": 2779,
+    "proposerMinirid": "6d5a916d-8574-4935-84be-85a93337953c"
   }
 ]

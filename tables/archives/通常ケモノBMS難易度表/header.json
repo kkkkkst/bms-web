@@ -17,6 +17,101 @@
     12,
     "( ´_ゝ`)"
   ],
+  "course": [
+    {
+      "name": "3RD ANNIV. [NORMAL]",
+      "constraint": [
+        "grade_random",
+        "gauge_lr2",
+        "ln"
+      ],
+      "trophy": [
+        {
+          "name": "bronzemedal",
+          "missrate": 10,
+          "scorerate": 60
+        },
+        {
+          "name": "silvermedal",
+          "missrate": 5,
+          "scorerate": 70
+        },
+        {
+          "name": "goldmedal",
+          "missrate": 2.5,
+          "scorerate": 85
+        }
+      ],
+      "md5": [
+        "69d1bc67ee63c4e8fc6b0e7ad86f2044",
+        "115aa6a0ff1564d17ce68d526eda5a0b",
+        "0279495eacb4b1b9b05ef6724f0b695a",
+        "f7c5169d48c79528824e590c7c74e9f7"
+      ]
+    },
+    {
+      "name": "3RD ANNIV. [HYPER]",
+      "constraint": [
+        "grade_random",
+        "gauge_lr2",
+        "ln"
+      ],
+      "trophy": [
+        {
+          "name": "bronzemedal",
+          "missrate": 10,
+          "scorerate": 60
+        },
+        {
+          "name": "silvermedal",
+          "missrate": 5,
+          "scorerate": 70
+        },
+        {
+          "name": "goldmedal",
+          "missrate": 2.5,
+          "scorerate": 85
+        }
+      ],
+      "md5": [
+        "ae39c08a9ecd9467d1a06330fa272209",
+        "ed708ce67ee7ea2cfe729a55b27094a7",
+        "35c5ed32f5fe17c610c6d0e00c87216f",
+        "8deec05587f5323a2a41ed6c8f523ecb"
+      ]
+    },
+    {
+      "name": "3RD ANNIV. [ANOTHER]",
+      "constraint": [
+        "grade_random",
+        "gauge_lr2",
+        "ln"
+      ],
+      "trophy": [
+        {
+          "name": "bronzemedal",
+          "missrate": 10,
+          "scorerate": 60
+        },
+        {
+          "name": "silvermedal",
+          "missrate": 5,
+          "scorerate": 70
+        },
+        {
+          "name": "goldmedal",
+          "missrate": 2.5,
+          "scorerate": 85
+        }
+      ],
+      "md5": [
+        "ebbe167813f89ba9fcebee36d225310e",
+        "9e4a526fcbb11c0228923afd60a880a3",
+        "d53295a51f8772944cfaba9a3a16fe3b",
+        "9a6c72f242a5d0f7d144251ad8389943"
+      ]
+    }
+  ],
   "tag1": "難易度表 SP",
   "tag2": "個人",
   "original_url": "https://kemotable.kage-tora.com/normalbms/table.html"
