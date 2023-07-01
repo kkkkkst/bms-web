@@ -174,12 +174,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "bd55eb2af8360550dde4a07d703fbe39",
-    "title": "Rechronize [DP 202THER]",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "f41a990d8137150f510e74468d9f2244",
     "title": "resonance [DP Another]",
     "level": "4.50...5.00",
@@ -354,10 +348,10 @@
     "comment": "sl0"
   },
   {
-    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
-    "title": "Prayer [ANOTHER]",
+    "md5": "bd55eb2af8360550dde4a07d703fbe39",
+    "title": "Rechronize [DP 202THER]",
     "level": "5.00...5.50",
-    "comment": "sl1"
+    "comment": "sl0"
   },
   {
     "md5": "eda91b02fece36750c6a18afd2284527",
@@ -386,6 +380,12 @@
   {
     "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
     "title": "Highleg Mermaid [DP ANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
+    "title": "Prayer [ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -1218,12 +1218,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "1b53f2de1438d96554c62502aa3825bd",
-    "title": "アリスの空虚で愉快な人形劇 [DP ANOTHER]",
-    "level": "9.50...10.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "3106c92d0952f2aaa165e041d70a391c",
     "title": "バーチャルセラピー [DP INSANE]",
     "level": "9.50...10.00",
@@ -1352,6 +1346,12 @@
   {
     "md5": "aee587970d848afb5259956b8f184d2c",
     "title": "YASAKANI [DP INSANE+]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "1b53f2de1438d96554c62502aa3825bd",
+    "title": "アリスの空虚で愉快な人形劇 [DP ANOTHER]",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -2538,6 +2538,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "7334b850f318328887f9eb932a4f7eae",
+    "title": "Kaleidoscope [Eden]",
+    "level": "-",
+    "comment": "sl12"
+  },
+  {
     "md5": "59084302deb34b9bd015a1abe02d6b23",
     "title": "L9",
     "level": "-",
@@ -3552,6 +3558,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "dd78b0eee7d1651f383bef8978f17653",
+    "title": "現実をカットアップしてみた [DPINSA.NE+]",
+    "level": "-",
+    "comment": "sl11"
+  },
+  {
     "md5": "24479651932a5b101b055744d32ba529",
     "title": "田中 -KATAKATA-",
     "level": "-",
@@ -3568,6 +3580,12 @@
     "title": "白き星姫-Принцесса белая звезда- [BLACKAnother]",
     "level": "-",
     "comment": "sl8"
+  },
+  {
+    "md5": "9f72491771dd98d926a6a117376895df",
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [DP BroGamer]",
+    "level": "-",
+    "comment": "sl12"
   },
   {
     "md5": "b9600a2936cab0232a4781d32eb99235",
