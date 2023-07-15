@@ -340,6 +340,18 @@
     "proposerLr2id": 73160
   },
   {
+    "md5": "b726de58fb66db5722c9eb13d7848333",
+    "sha256": "1adbce038977d1c7297d9d3859bd85ab90126baedf34c436e28f008eed3447a3",
+    "title": "Hungry Inquiry [DP ANOTHER]",
+    "artist": "DJ Excuses",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/letsbmsedit/3",
+    "level": "0",
+    "proposer": "Zris",
+    "submission": 833,
+    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
+  },
+  {
     "md5": "1ce0d95e27aab50479e3a726ef27b157",
     "sha256": "1f1737c9754b373b402fc65203e313cc06dc81455aad39a0a83f526e2c6d1fe6",
     "title": "IMPULSE [DP ANOTHER]",
@@ -4060,19 +4072,6 @@
     "proposerMinirid": "381c5078-4634-43ae-a3b9-e042de243d8c"
   },
   {
-    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
-    "sha256": "936b0e39c44384f5c027ef5b368a45f137cdf963b09c2e704762349ea27aad71",
-    "title": "Prayer [LEGGENDARIA]",
-    "artist": "Kankitsu(obj:ka2o)",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/1102",
-    "url": "https://venue.bmssearch.net/bmsshuin3/108",
-    "level": "4",
-    "comment": "多分3か4くらい 同梱Anotherと比較してズレ抜け無しでした",
-    "proposer": "もち",
-    "submission": 496,
-    "proposerLr2id": 53819
-  },
-  {
     "md5": "2f40c551e8ef2c06d4276d4f4c48bc43",
     "sha256": "290bc42a791aea89bc24d1cd19b8769274dcb584c9a7ccceef7e947a72f219ed",
     "title": "Prominence [DPAnother]",
@@ -5077,6 +5076,19 @@
     "proposer": "にゃむ",
     "submission": 108,
     "proposerLr2id": 139958
+  },
+  {
+    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
+    "sha256": "936b0e39c44384f5c027ef5b368a45f137cdf963b09c2e704762349ea27aad71",
+    "title": "Prayer [LEGGENDARIA]",
+    "artist": "Kankitsu(obj:ka2o)",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1102",
+    "url": "https://venue.bmssearch.net/bmsshuin3/108",
+    "level": "5",
+    "comment": "多分3か4くらい 同梱Anotherと比較してズレ抜け無しでした",
+    "proposer": "もち",
+    "submission": 496,
+    "proposerLr2id": 53819
   },
   {
     "level": "5",
@@ -6861,6 +6873,19 @@
   },
   {
     "level": "7",
+    "comment": "高速階段、同時押し",
+    "md5": "7c0cabc127e5c83bede18c7efbf0e75e",
+    "sha256": "41561dee55dfb8e52611df4c49985c14e2124a191a17a0a47b9ea2a65ffdd5df",
+    "title": "Og Dermed Var Det Ingen [DP ANOTHER]",
+    "artist": "Echo obj:HI BGA: Cirkass",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=110",
+    "proposer": "にゃむ",
+    "submission": 139,
+    "proposerLr2id": 139958
+  },
+  {
+    "level": "7",
     "comment": "",
     "md5": "76f4fd4cb0af7ded110fd26103cc83f8",
     "sha256": "e6605aec5ca4f63ea35b074f0a15e68a3cc2e22faeaecd1a80eb7afc90b0223e",
@@ -7756,6 +7781,19 @@
     "proposerLr2id": 139958
   },
   {
+    "md5": "b88024edc3263a6cd074e7afcf1956b5",
+    "sha256": "2ae8d424d53736018f79398dd14f9e1dab58ed038f1715d9573ef7056ec3c8f9",
+    "title": "Lost Petal's Wander [DP ANOTHER]",
+    "artist": "RB.H × lixound × 薛南 mov:Keizou / obj:lixound",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=443&event=140",
+    "level": "8",
+    "comment": "同時押し、階段など 開幕に演出程度の急加速あり",
+    "proposer": "にぇ",
+    "submission": 832,
+    "proposerLr2id": 53819
+  },
+  {
     "md5": "78355515c631040219aad04c8ac0a132",
     "sha256": "ab8484e98c802faf8a5201386d326d2758da3524b968fe667c57147aa06e944d",
     "title": "Lovely_Force_Reflection [ANOTHER]",
@@ -7805,19 +7843,6 @@
     "proposer": "coco",
     "submission": 301,
     "proposerLr2id": 147123
-  },
-  {
-    "level": "8",
-    "comment": "高速階段、同時押し",
-    "md5": "7c0cabc127e5c83bede18c7efbf0e75e",
-    "sha256": "41561dee55dfb8e52611df4c49985c14e2124a191a17a0a47b9ea2a65ffdd5df",
-    "title": "Og Dermed Var Det Ingen [DP ANOTHER]",
-    "artist": "Echo obj:HI BGA: Cirkass",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=110",
-    "proposer": "にゃむ",
-    "submission": 139,
-    "proposerLr2id": 139958
   },
   {
     "md5": "e5f9d247e647e0dbd6ad35ceb5df9224",
@@ -8890,6 +8915,19 @@
     "proposer": "KENIN*",
     "submission": 288,
     "proposerLr2id": 67700
+  },
+  {
+    "md5": "29b2ebcc7d486e312a92bcc45291320b",
+    "sha256": "e2079d7cae6f9b39b8fe12cc1a62973b9d355c9a1804ae037ea1d5957e2ebd6d",
+    "title": "ヒュブリスの頂に聳えるのは [DP INSANE]",
+    "artist": "qfeileadh feat.のあ Movie:Maeus / Illust:linglvz",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=140",
+    "level": "9",
+    "comment": "階段、同時押しを含む乱打",
+    "proposer": "にぇ",
+    "submission": 831,
+    "proposerLr2id": 53819
   },
   {
     "md5": "43a1e8beaf36ce9d9ddbf6b5862a3926",
