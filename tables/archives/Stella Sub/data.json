@@ -2402,19 +2402,6 @@
     "proposerLr2id": 120385
   },
   {
-    "md5": "e7cfa8b0c28317642de91322d1dcfebe",
-    "sha256": "9a6248f1515beda5eade956d6be5bce3eba013b28245bfabd88649f909744446",
-    "title": "あい☆こんぷりーと [平凡な女の子の優しい譜面]",
-    "artist": "ねこみりん feat.小宮真央 Movie: 石王マサト / Obj: Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=84",
-    "level": "0",
-    "comment": "ディレイなどのズレあり",
-    "proposer": "七海",
-    "submission": 2046,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "635c5caa8da5bdbb712e35b5f564a11c",
     "sha256": "8bd9ef6b9e00b096f14649fe299aeb6bf8c9dbd5513f0759185710839d05e249",
     "title": "あにまら (・ω・)",
@@ -8478,6 +8465,19 @@
     "votePercent": 0
   },
   {
+    "md5": "07731f244734236f90893c71d9652873",
+    "sha256": "08beb9a91a8b77781be92c4a346da2c0e4dea93c725ca48c1f0e691ee9883cc3",
+    "title": "Falling in LOVE -非実在ラヴ-",
+    "artist": "SOMON obj: LuvTek in AG",
+    "url_diff": "https://darksabun.github.io/event/bofxvi/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=133",
+    "level": "2",
+    "comment": "ガチ押し、同梱NORMAL基準意図的なズレが一つあります（作者コメントによる）",
+    "proposer": "Mary_Sue",
+    "submission": 2105,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "d27f4262b2532c2ad4310d8de9d42ffa",
     "sha256": "0ecc2cb410be40cdb872a8648806977f9c98af23f89d84f0f2c914ec333a8eea",
     "title": "Fastraffic [Moral Hazard'K12']",
@@ -10831,6 +10831,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "8e576ffd54b1c4a3f0d13c2840a6e0b47d8d72f6ba0b3c4a27c50cb8a08b8d9d"
+  },
+  {
+    "md5": "a5ae7053fea9ab1fb46dff81a1d11d7e",
+    "sha256": "d07a2e4216a99e1ce95aafaab15ceda0ff838fc5dcd83b61821512f610a724a2",
+    "title": "スナレ -Despair & Hope-",
+    "artist": "Zris feat. Green / obj:七海",
+    "url_diff": "https://egosa0424.github.io/sabun/snare_nanami.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "level": "2",
+    "comment": "젼",
+    "zureCount": 0,
+    "proposer": "EGRET.",
+    "submission": 2106,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "md5": "b30814bb85218726148de4ab78affef3",
@@ -18240,20 +18254,6 @@
     "sha256": "b2f4b67b851a1cd703a99816dcdada2af73f468dfdf725de9aef424ded73daa8"
   },
   {
-    "md5": "83d81a0ce10a4136bed82e12d932e46e",
-    "sha256": "af8ff7a88528861228a6e8eb4d846e6a313cac0b2b475d1cbedfd53caf8b4fb8",
-    "title": "あさつゆ [朝露]",
-    "artist": "nmk feat.かなえゆめ mov:わっふゑ obj: qtp13",
-    "url_diff": "https://stellabms.xyz/upload/242",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=104",
-    "level": "4",
-    "comment": "中速連打複合、ガチ押し st3～st4",
-    "zureCount": 0,
-    "proposer": "M48N",
-    "submission": 1575,
-    "proposerLr2id": 149709
-  },
-  {
     "md5": "f4c7bf02b54e8dfb4c19ee85218a50c9",
     "sha256": "db07cffa8ffd9b4dcd81998a793ab6854fdd75d82e28f9341b773bccfb43b1c0",
     "title": "あにまらいおっと [Raker]",
@@ -21146,6 +21146,20 @@
     "sha256": "b7e7715694ba613bf12ddf7dbff3c82782c5b37c6c9e4b188595420ba93918a5"
   },
   {
+    "md5": "83d81a0ce10a4136bed82e12d932e46e",
+    "sha256": "af8ff7a88528861228a6e8eb4d846e6a313cac0b2b475d1cbedfd53caf8b4fb8",
+    "title": "あさつゆ [朝露]",
+    "artist": "nmk feat.かなえゆめ mov:わっふゑ obj: qtp13",
+    "url_diff": "https://stellabms.xyz/upload/242",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=104",
+    "level": "5",
+    "comment": "中速連打複合、ガチ押し st3～st4",
+    "zureCount": 0,
+    "proposer": "M48N",
+    "submission": 1575,
+    "proposerLr2id": 149709
+  },
+  {
     "md5": "ee4e21af8e9702365b76fd6e47e9a421",
     "sha256": "5e7a6e307b7ac34fdb24b171eed3aa90be6437dfe57758aacaf24458e625cff9",
     "title": "さよならダイヤモンド -長距離走-",
@@ -22355,6 +22369,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "a36a8a05c95f9fa951455899d543f7d8093984ea0ec3f3baa97621a2fec5da0e"
+  },
+  {
+    "md5": "312521681da9a629c1d2777dd8c3c9e0",
+    "sha256": "d566aa4fd7f81576cafbc8dd3c189a44917b54c419f1b4c32a4ba4b3dc07a5d1",
+    "title": "Kouma Rave Party Night [Keychip's Renda Party Nite]",
+    "artist": "dj MASTER feat. 高谷紗那 obj: qtp13 as Keychip",
+    "url_diff": "https://stellabms.xyz/upload/1530",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=102",
+    "level": "6",
+    "comment": "BPM162 微縦連",
+    "zureCount": 0,
+    "proposer": "kai",
+    "submission": 2103,
+    "proposerLr2id": 9235
   },
   {
     "md5": "62b4567f18ae06c7115357516ff75340",
@@ -24701,6 +24729,19 @@
     "sha256": "81b2ebc96f3fa7e2a7a6cdbca6b3b45277bb9278e600b319b391f0a6c8c5e62e"
   },
   {
+    "md5": "8f7614310f2c334fc1550ea8dce3f650",
+    "sha256": "c293da25e76347c0e4bb6001eec4377b0ca8a035365deff25180d1aa70ccffaa",
+    "title": "ぱぴぽ？ -ぺぴぱ？-",
+    "artist": "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか / obj:七海",
+    "url_diff": "https://egosa0424.github.io/sabun/papipo_nanami_fix.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=137",
+    "level": "7",
+    "comment": "ソフラン、不可視ノーツ削除によってズレ抜けがいくつかあり",
+    "proposer": "Mary_Sue",
+    "submission": 2104,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "d67b56f453043aaf9c90edd5a456ee86",
     "title": "キミとボクへの葬送歌 [Forbidden]",
     "artist": "ROKINA BGA:REI-K",
@@ -25750,6 +25791,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "26f0da7a18270fb129040234fb981ea36116d1453563066cbd87191dee0639b8"
+  },
+  {
+    "md5": "fda10c88ac530978028753578463703e",
+    "sha256": "3018414dcd6a52134241b87c7735c4ab0acc3bba145e95defa3d438e2f96ddce",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP X-BUNNY]",
+    "artist": "ptar124 BGA: Yumemochi, OBJ:七海",
+    "url_diff": "https://www.dropbox.com/s/jsctoq0i1b7g12x/pba_nanami.zip?dl=1",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=402&event=133",
+    "level": "8",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2107,
+    "proposerLr2id": 75332
   },
   {
     "md5": "6e4ecc69bdef0ed46450b4f1d0773b96",

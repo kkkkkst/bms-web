@@ -276,7 +276,7 @@
     "md5": "ebdbef122bf2ec921add9c74375c338a",
     "title": "Genesis of Gloria [Dead]",
     "artist": "tcheb / mov : Roaring Flame / Illust : ささき咲 obj:Mary_Sue",
-    "level": "22",
+    "level": "X",
     "url": "https://dl.dropboxusercontent.com/s/u66bafv1hypmet2/GoG_ogg.zip",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/genesisofgloria.zip",
     "name_diff": "",
@@ -2113,10 +2113,10 @@
     "url": "https://drive.google.com/file/d/11vIvexNjrm-IWrjUhoBSnHedUNEirnjg/view?usp=share_link",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/SLAUGHTERTUNE_SPREE.zip",
     "name_diff": "",
-    "comment": "BPM210 高速乱打、同時押し、微連打など。",
+    "comment": "st1 BPM210 高速乱打、同時押し、微連打など。",
     "movie_link": "https://youtu.be/yDEcuvn6gyU",
     "date": "Wed Dec 28 2022 00:00:00 GMT+0900 (日本標準時)",
-    "state": "2"
+    "state": "1"
   },
   {
     "md5": "e3dc23a7bb0dbbba834c0bd6c02fdcff",
@@ -2247,5 +2247,44 @@
     "movie_link": "https://youtu.be/T---G0dwJqQ",
     "date": "Sat Apr 01 2023 00:00:00 GMT+0900 (日本標準時)",
     "state": ""
+  },
+  {
+    "md5": "0d3aea49ee8b587b763281182046bd46",
+    "title": "Rosali [MARYTHER]",
+    "artist": "Pinktoe feat.薛南 (BGA:Solifugae) OBJ:Mary_Sue",
+    "level": "23",
+    "url": "https://venue.bmssearch.net/fantasybms/8",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/rosali_MARYTHER.zip",
+    "name_diff": "",
+    "comment": "st3 微連打、同時押し",
+    "movie_link": "https://youtu.be/I_qrukZlVHo",
+    "date": "Mon May 08 2023 00:00:00 GMT+0900 (日本標準時)",
+    "state": "1"
+  },
+  {
+    "md5": "bf9ec4af8dd948561c7c7a28354e32bd",
+    "title": "be-music \"<3\" [no girlfriend since birth]",
+    "artist": "dandeless / obj: Mary_Sue",
+    "level": "25",
+    "url": "https://venue.bmssearch.net/romanticbms/8",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/BEMULOVE_bms_NGSB.zip",
+    "name_diff": "",
+    "comment": "32分発狂、微連打、同時押し",
+    "movie_link": "https://youtu.be/9sRqFddHxCI",
+    "date": "Mon May 08 2023 00:00:00 GMT+0900 (日本標準時)",
+    "state": ""
+  },
+  {
+    "md5": "a5f0f9a93f67aef855119d0458ec71b2",
+    "title": "SAKURA [MARYTHER]",
+    "artist": "ANKAKE / obj: Mary_Sue",
+    "level": "21",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/54",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/ankake_btatuku23_sakura_MARYTHER.zip",
+    "name_diff": "",
+    "comment": "(NEW!) 微連打、連打など。",
+    "movie_link": "https://youtu.be/wCfD20-QgKw",
+    "date": "Fri Jul 28 2023 00:00:00 GMT+0900 (日本標準時)",
+    "state": "3"
   }
 ]

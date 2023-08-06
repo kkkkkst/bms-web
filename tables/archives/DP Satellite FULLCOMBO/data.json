@@ -240,12 +240,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "852775fe56624678df49f191f27cbbc8",
-    "title": "人魚電台 [DP ANOTHER]",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "ac667cd75481e28426bfc0af5f430e77",
     "title": "星蝕セクエンス [DP HYPER]",
     "level": "4.50...5.00",
@@ -368,6 +362,12 @@
   {
     "md5": "6b73f5c141b87ec84a473919b1ceb28e",
     "title": "サンバランド [LN ANOTHER14]",
+    "level": "5.00...5.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "852775fe56624678df49f191f27cbbc8",
+    "title": "人魚電台 [DP ANOTHER]",
     "level": "5.00...5.50",
     "comment": "sl0"
   },
@@ -702,12 +702,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "aee6452b4b7478a03f738482f38ccdb9",
-    "title": "Flashdance [DP-sagANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "1846c9f8536ece051e4471ce365aa5fb",
     "title": "HEXPERUS [DP ANOTHER]",
     "level": "7.00...7.50",
@@ -818,6 +812,12 @@
   {
     "md5": "f47dd3cd5f16c3e5f0372d6a35f4e5fc",
     "title": "fall down",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "aee6452b4b7478a03f738482f38ccdb9",
+    "title": "Flashdance [DP-sagANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -2148,6 +2148,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "b6e6f1153a70e5d0aa3097f38f940687",
+    "title": "Everblue [14key Another]",
+    "level": "-",
+    "comment": "sl1"
+  },
+  {
     "md5": "0a7873bc384c10c0c88f5059efb04ec6",
     "title": "Fading Star [Sparkling]",
     "level": "-",
@@ -2422,6 +2428,12 @@
     "title": "Light drivv -DP ANOTHER-",
     "level": "-",
     "comment": "sl5"
+  },
+  {
+    "md5": "b88024edc3263a6cd074e7afcf1956b5",
+    "title": "Lost Petal's Wander [DP ANOTHER]",
+    "level": "-",
+    "comment": "sl8"
   },
   {
     "md5": "19dd7514996c1d83396cf79d33dd0b03",
@@ -2950,6 +2962,12 @@
     "title": "ふしぎなおくりもの [DPA]",
     "level": "-",
     "comment": "sl10"
+  },
+  {
+    "md5": "90733da4d37041e950750cf1e6ee73c1",
+    "title": "アイのハネいろ！",
+    "level": "-",
+    "comment": "sl2"
   },
   {
     "md5": "0335197a43d3a8aa66d06079c5112f96",
