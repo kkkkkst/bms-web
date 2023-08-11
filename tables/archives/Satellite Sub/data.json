@@ -6208,6 +6208,18 @@
     "sha256": "8dce3d9025fd54b97e63c52eb80361aa142a8b0244af06a8208378f6f88bb439"
   },
   {
+    "md5": "ef6924657a88c6f5f3d65835a22b39d9",
+    "sha256": "48bda027ce31dcbfedba9fd63defa6deac89745fb0858f12da37ad6d430d2896",
+    "title": "Gynandromorph [7key_main]",
+    "artist": "tarolabo",
+    "url_diff": "",
+    "url": "https://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip/file",
+    "level": "1",
+    "proposer": "Mary_Sue",
+    "submission": 2816,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "c1a1bd1382d8b45d96f03e3913ab5ef0",
     "sha256": "a7ca58c75ef39fe9ebf6da8ef147059174c574638eeca0ea1dcb963bf982fdcb",
     "title": "Hades (Radio Edit) SP Black Another",
@@ -6424,22 +6436,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 116710
-  },
-  {
-    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
-    "title": "JUGGLE -SPINNER-",
-    "artist": "Ras / obj:K-SPIN",
-    "url_diff": "http://kspinbms.web.fc2.com/insane.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
-    "level": "1",
-    "comment": "微縦連系譜面",
-    "proposer": "C4",
-    "submission": 92,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "b48758192c0fcdb7303c7b17368da1cfea3e9842c9c48e9fccfeb0d8614f2d20",
-    "proposerLr2id": 120385
   },
   {
     "md5": "9f03d0a2965b56338d6fa975777662be",
@@ -10633,6 +10629,22 @@
     "votePercent": 0
   },
   {
+    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
+    "title": "JUGGLE -SPINNER-",
+    "artist": "Ras / obj:K-SPIN",
+    "url_diff": "http://kspinbms.web.fc2.com/insane.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
+    "level": "2",
+    "comment": "微縦連系譜面",
+    "proposer": "C4",
+    "submission": 92,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "b48758192c0fcdb7303c7b17368da1cfea3e9842c9c48e9fccfeb0d8614f2d20",
+    "proposerLr2id": 120385
+  },
+  {
     "md5": "3c35944d1415841978e3e8197b62e1a4",
     "sha256": "c3f4f490541414b8daf5bf670cc8ab63a54231baba5840d57d6902177e62afaa",
     "title": "Jumbo",
@@ -11424,6 +11436,19 @@
     "proposer": "T_lancer",
     "submission": 2435,
     "proposerLr2id": 172027
+  },
+  {
+    "md5": "1ce4647af15a4a40410f9309b0d37378",
+    "sha256": "ef99f69de333b78c8147123eba203b88f417f8bdb43309f946df0d5a753e7d5d",
+    "title": "Postliminium [SP INSANE]",
+    "artist": "ARForest / ブー / Limite",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=137",
+    "level": "2",
+    "comment": "高速乱打など。",
+    "proposer": "Mary_Sue",
+    "submission": 2298,
+    "proposerLr2id": 147889
   },
   {
     "md5": "4de642df5814292d66db1f011f63a676",
@@ -15085,19 +15110,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "1ce4647af15a4a40410f9309b0d37378",
-    "sha256": "ef99f69de333b78c8147123eba203b88f417f8bdb43309f946df0d5a753e7d5d",
-    "title": "Postliminium [SP INSANE]",
-    "artist": "ARForest / ブー / Limite",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=137",
-    "level": "3",
-    "comment": "高速乱打など。",
-    "proposer": "Mary_Sue",
-    "submission": 2298,
-    "proposerLr2id": 147889
   },
   {
     "md5": "6b1d939c32e49543b500f47ac20fda0f",
@@ -21381,6 +21393,20 @@
     "proposerLr2id": 108918
   },
   {
+    "md5": "8cc90c51dd6ca11b19cce58d73706ff6",
+    "sha256": "a4962df20b4c35695e470f8423cc43a616633320fa745c95d7e176447b4a0b36",
+    "title": "Medjed [F]",
+    "artist": "クロエ・ルメール obj:Fender",
+    "url_diff": "http://fenderbms.web.fc2.com/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=96",
+    "level": "5",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "Reiaki",
+    "submission": 2815,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
+  },
+  {
     "md5": "d0e59acd20fe09a08e9af6d9efe8383a",
     "sha256": "ee93a2acae715e042e20af49c8aeba7a2233e1379e02ee8c49d203c701ba3089",
     "title": "Midnight Flux [Nosterdam]",
@@ -22603,6 +22629,19 @@
     "proposerLr2id": 80338
   },
   {
+    "md5": "4566892d4fed326c39e6e7672ba5cd49",
+    "sha256": "294975d85e6aa17e30a736a60fbdb154bcad20f7af7ee784df042f399114e52e",
+    "title": "宮子 [Maniac7]",
+    "artist": "MONOLITH feat.FG75 MOVIE / Rabbit Machine / obj:魔女 / Reobj.うに",
+    "url_diff": "https://stellabms.xyz/upload/3007",
+    "url": "https://www.mediafire.com/file/ar4aa9p35amxfer/%5BULTIMATE-lopears%5D-miyako.7z",
+    "level": "5",
+    "comment": "曲アレンジ",
+    "proposer": "七海",
+    "submission": 2812,
+    "proposerLr2id": 84597
+  },
+  {
     "level": "5",
     "comment": "皿複合、縦連複合、sl4~5",
     "md5": "3850432a86d0c7dcf529f47a26cdb801",
@@ -23548,6 +23587,20 @@
     "proposer": "quinto",
     "submission": 1733,
     "proposerLr2id": 141043
+  },
+  {
+    "md5": "0083f9de62f737c85c99e962074fb07a",
+    "sha256": "ebf4e332aeaabfaed2862ba8dcceaca46009c3678d0114f4d98f2a31bc2acbc8",
+    "title": "IDOLL [DOLLISH]",
+    "artist": "七草くりむ mov.都森れん obj.Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=133       ",
+    "level": "6",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "Restia",
+    "submission": 1790,
+    "proposerLr2id": 115265
   },
   {
     "md5": "b6d071c80ab9bb84f3280264e4c616c3",
@@ -26094,20 +26147,6 @@
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
-    "md5": "0083f9de62f737c85c99e962074fb07a",
-    "sha256": "ebf4e332aeaabfaed2862ba8dcceaca46009c3678d0114f4d98f2a31bc2acbc8",
-    "title": "IDOLL [DOLLISH]",
-    "artist": "七草くりむ mov.都森れん obj.Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=133       ",
-    "level": "7",
-    "comment": "",
-    "zureCount": 0,
-    "proposer": "Restia",
-    "submission": 1790,
-    "proposerLr2id": 115265
-  },
-  {
     "md5": "b91ed7f26020b9397d47851d6f50300f",
     "title": "In The Wind -うままう-",
     "artist": "Syatten / obj:BAECON",
@@ -27930,6 +27969,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e4f89eb4572349f2c8856de7ceb667c8",
+    "sha256": "fdd97cd379970d6f1d2f5e037dda739b9d9b8c77dd1be1d47d4235e7183687fe",
+    "title": "Fluctuate [Trigon]",
+    "artist": "ALFOU obj:1008",
+    "url_diff": "https://drive.google.com/file/d/1YLPy9C3evokOr4KtkAKuI9x5S21w-br0/view?usp=sharing",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=123",
+    "level": "8",
+    "comment": "高速乱打、物量",
+    "proposer": "ABKAOD",
+    "submission": 2814,
+    "proposerLr2id": 175744
   },
   {
     "md5": "e05791ba3fd7eec224897da3faa1352c",
@@ -30493,6 +30545,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "b274d8fce2a3fc3d255250044b6ea03c",
+    "sha256": "9b24b9f5e5a0c703d6c0dfefe667d34d3cddc0ed79184c38b3ae44a1a62456f3",
+    "title": "Motif [SP Another]",
+    "artist": "世界のよーすく劇場",
+    "url_diff": "",
+    "url": "https://9domu46i.com/yuruyuru/package/YURUYURU_Phase_19.zip",
+    "level": "9",
+    "comment": "???",
+    "proposer": "七海",
+    "submission": 2813,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "7e392ca9c44870a68c8d219b57345be9",
     "sha256": "b0c0127ab5e7121cf4bce17b17ef670cf2ff2de4610a03ea3868b5f9a0613ecf",
     "title": "Neurotoxin",
@@ -30676,19 +30741,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "1ba632e6f8f44905a2b0f6912ffc4b80",
-    "sha256": "192cef62fc03ea2e4126e082ca6abd595aa4d755de949de8d39d2244ee1b1d92",
-    "title": "Temple Block????? [SP INSANE?????]",
-    "artist": "oratoruk (BGI : チキンピカタ)",
-    "url_diff": "",
-    "url": "http://drive.google.com/file/d/1rdrpcVu1BdTAjQF7tW_eaG9tnmYNLJXF/view?usp=share_link",
-    "level": "9",
-    "comment": "ハネ",
-    "proposer": "fuko",
-    "submission": 2805,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "18d8db2a640be5be0ead7d8e01ec27da",
@@ -32774,6 +32826,19 @@
     "proposer": "polynya",
     "submission": 2107,
     "proposerLr2id": 165397
+  },
+  {
+    "md5": "1ba632e6f8f44905a2b0f6912ffc4b80",
+    "sha256": "192cef62fc03ea2e4126e082ca6abd595aa4d755de949de8d39d2244ee1b1d92",
+    "title": "Temple Block????? [SP INSANE?????]",
+    "artist": "oratoruk (BGI : チキンピカタ)",
+    "url_diff": "",
+    "url": "http://drive.google.com/file/d/1rdrpcVu1BdTAjQF7tW_eaG9tnmYNLJXF/view?usp=share_link",
+    "level": "10",
+    "comment": "ハネ",
+    "proposer": "fuko",
+    "submission": 2805,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "26747a6f48df4775474efe85950c1ce0",

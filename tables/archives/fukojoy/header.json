@@ -58,35 +58,6 @@
         "e79f933ddae3293aaa621a6aa4ebaa0d",
         "3b2c57ea210b0758c459b343eb39707a"
       ]
-    },
-    {
-      "name": "CHORD MASTER",
-      "constraint": [
-        "grade_random",
-        "no_great",
-        "gauge_lr2",
-        ""
-      ],
-      "md5": [
-        "52c484605453b87b8d22240a9a086a7b",
-        "e6cc5a43e97b5e32b47fe014c577bfc3",
-        "f20e53dcd35562b04c504928d73caf6e",
-        "6d76d3cb7759b70cc616bfc504a5c39f"
-      ]
-    },
-    {
-      "name": "widest",
-      "constraint": [
-        "grade_random",
-        "gauge_lr2",
-        ""
-      ],
-      "md5": [
-        "f20e53dcd35562b04c504928d73caf6e",
-        "7690972aad49eeb701d2d18a745a98b6",
-        "43ed5893736ed26e0c532df35838b8d0",
-        "ff746be0f2b692ffe6adc1bdd23c130c"
-      ]
     }
   ],
   "original_url": "https://fukobms.github.io/fukojoy/"

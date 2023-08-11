@@ -3065,6 +3065,19 @@
     "proposerLr2id": 80964
   },
   {
+    "md5": "81e568078b3951d43c5a87c56cb464fc",
+    "sha256": "489cc31f28545b9cf063ec56d7bc7dcbdfa349f8323226874f77a571784c7bbe",
+    "title": "scualee [ANOTHER]",
+    "artist": "Aoi mov:出前",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=462&event=140",
+    "level": "0",
+    "comment": "BOF:ET 同梱譜面",
+    "proposer": "ИиИ",
+    "submission": 2809,
+    "proposerLr2id": 147895
+  },
+  {
     "md5": "bd4b71127c6000cc4ddb2867635d726f",
     "sha256": "d05fd81bf80789f87d56b854d4b7e50ad0e4ddc63621bd92849ed2a7b6ac0e78",
     "title": "Searching For A Guiding Light [7KEYS ANOTHER]",
@@ -6413,22 +6426,6 @@
     "proposerLr2id": 116710
   },
   {
-    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
-    "title": "JUGGLE -SPINNER-",
-    "artist": "Ras / obj:K-SPIN",
-    "url_diff": "http://kspinbms.web.fc2.com/insane.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
-    "level": "1",
-    "comment": "微縦連系譜面",
-    "proposer": "C4",
-    "submission": 92,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "b48758192c0fcdb7303c7b17368da1cfea3e9842c9c48e9fccfeb0d8614f2d20",
-    "proposerLr2id": 120385
-  },
-  {
     "md5": "9f03d0a2965b56338d6fa975777662be",
     "sha256": "b8d5396745eb451be7fa3bea4181260c042564da3853e9aed19f1806a52543ac",
     "title": "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]",
@@ -9246,6 +9243,20 @@
     "sha256": "ab27652d9ea5a5536ba05333af0f96a700c78a15c37089c52bac6be9ef3f7621"
   },
   {
+    "md5": "ac0742b6db091fb76f08841056d0e4b8",
+    "sha256": "15f099565cf305182b4f7061ac33b493396bc07a4d169fd0761add6a3fa0bbf2",
+    "title": "88D [HARD]",
+    "artist": "mommy/ 差分 赤い人",
+    "url_diff": "http://joka193.blog.fc2.com/blog-entry-99.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=93",
+    "level": "2",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2810,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "level": "2",
     "comment": "BOFXV、乱打、微縦連",
     "md5": "4ba593cb8a3550f34e913f9027ba9e5c",
@@ -10606,6 +10617,22 @@
     "votePercent": 0
   },
   {
+    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
+    "title": "JUGGLE -SPINNER-",
+    "artist": "Ras / obj:K-SPIN",
+    "url_diff": "http://kspinbms.web.fc2.com/insane.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
+    "level": "2",
+    "comment": "微縦連系譜面",
+    "proposer": "C4",
+    "submission": 92,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "b48758192c0fcdb7303c7b17368da1cfea3e9842c9c48e9fccfeb0d8614f2d20",
+    "proposerLr2id": 120385
+  },
+  {
     "md5": "3c35944d1415841978e3e8197b62e1a4",
     "sha256": "c3f4f490541414b8daf5bf670cc8ab63a54231baba5840d57d6902177e62afaa",
     "title": "Jumbo",
@@ -10900,6 +10927,18 @@
     "proposer": "sangonana",
     "submission": 2333,
     "proposerLr2id": 148764
+  },
+  {
+    "md5": "3815c9191dbb42a0b92dc67f4093753f",
+    "sha256": "60a7643bae5cd715260d4e190c5743c1002384e576c1f44f1eccf225097fbe39",
+    "title": "Luna Express 2032 [Another]",
+    "artist": "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
+    "level": "2",
+    "proposer": "kitnlzh",
+    "submission": 2811,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "c7eb8d96ffdb1978a44f636061f24fe9",
@@ -11385,6 +11424,19 @@
     "proposer": "T_lancer",
     "submission": 2435,
     "proposerLr2id": 172027
+  },
+  {
+    "md5": "1ce4647af15a4a40410f9309b0d37378",
+    "sha256": "ef99f69de333b78c8147123eba203b88f417f8bdb43309f946df0d5a753e7d5d",
+    "title": "Postliminium [SP INSANE]",
+    "artist": "ARForest / ブー / Limite",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=137",
+    "level": "2",
+    "comment": "高速乱打など。",
+    "proposer": "Mary_Sue",
+    "submission": 2298,
+    "proposerLr2id": 147889
   },
   {
     "md5": "4de642df5814292d66db1f011f63a676",
@@ -15046,19 +15098,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "1ce4647af15a4a40410f9309b0d37378",
-    "sha256": "ef99f69de333b78c8147123eba203b88f417f8bdb43309f946df0d5a753e7d5d",
-    "title": "Postliminium [SP INSANE]",
-    "artist": "ARForest / ブー / Limite",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=137",
-    "level": "3",
-    "comment": "高速乱打など。",
-    "proposer": "Mary_Sue",
-    "submission": 2298,
-    "proposerLr2id": 147889
   },
   {
     "md5": "6b1d939c32e49543b500f47ac20fda0f",
@@ -22564,6 +22603,19 @@
     "proposerLr2id": 80338
   },
   {
+    "md5": "4566892d4fed326c39e6e7672ba5cd49",
+    "sha256": "294975d85e6aa17e30a736a60fbdb154bcad20f7af7ee784df042f399114e52e",
+    "title": "宮子 [Maniac7]",
+    "artist": "MONOLITH feat.FG75 MOVIE / Rabbit Machine / obj:魔女 / Reobj.うに",
+    "url_diff": "https://stellabms.xyz/upload/3007",
+    "url": "https://www.mediafire.com/file/ar4aa9p35amxfer/%5BULTIMATE-lopears%5D-miyako.7z",
+    "level": "5",
+    "comment": "曲アレンジ",
+    "proposer": "七海",
+    "submission": 2812,
+    "proposerLr2id": 84597
+  },
+  {
     "level": "5",
     "comment": "皿複合、縦連複合、sl4~5",
     "md5": "3850432a86d0c7dcf529f47a26cdb801",
@@ -23509,6 +23561,20 @@
     "proposer": "quinto",
     "submission": 1733,
     "proposerLr2id": 141043
+  },
+  {
+    "md5": "0083f9de62f737c85c99e962074fb07a",
+    "sha256": "ebf4e332aeaabfaed2862ba8dcceaca46009c3678d0114f4d98f2a31bc2acbc8",
+    "title": "IDOLL [DOLLISH]",
+    "artist": "七草くりむ mov.都森れん obj.Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=133       ",
+    "level": "6",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "Restia",
+    "submission": 1790,
+    "proposerLr2id": 115265
   },
   {
     "md5": "b6d071c80ab9bb84f3280264e4c616c3",
@@ -26053,20 +26119,6 @@
     "proposer": "なうもとわんたろう",
     "submission": 2422,
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
-  },
-  {
-    "md5": "0083f9de62f737c85c99e962074fb07a",
-    "sha256": "ebf4e332aeaabfaed2862ba8dcceaca46009c3678d0114f4d98f2a31bc2acbc8",
-    "title": "IDOLL [DOLLISH]",
-    "artist": "七草くりむ mov.都森れん obj.Mary_Sue",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=133       ",
-    "level": "7",
-    "comment": "",
-    "zureCount": 0,
-    "proposer": "Restia",
-    "submission": 1790,
-    "proposerLr2id": 115265
   },
   {
     "md5": "b91ed7f26020b9397d47851d6f50300f",
@@ -30454,6 +30506,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "b274d8fce2a3fc3d255250044b6ea03c",
+    "sha256": "9b24b9f5e5a0c703d6c0dfefe667d34d3cddc0ed79184c38b3ae44a1a62456f3",
+    "title": "Motif [SP Another]",
+    "artist": "世界のよーすく劇場",
+    "url_diff": "",
+    "url": "https://9domu46i.com/yuruyuru/package/YURUYURU_Phase_19.zip",
+    "level": "9",
+    "comment": "???",
+    "proposer": "七海",
+    "submission": 2813,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "7e392ca9c44870a68c8d219b57345be9",
     "sha256": "b0c0127ab5e7121cf4bce17b17ef670cf2ff2de4610a03ea3868b5f9a0613ecf",
     "title": "Neurotoxin",
@@ -30637,19 +30702,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "1ba632e6f8f44905a2b0f6912ffc4b80",
-    "sha256": "192cef62fc03ea2e4126e082ca6abd595aa4d755de949de8d39d2244ee1b1d92",
-    "title": "Temple Block????? [SP INSANE?????]",
-    "artist": "oratoruk (BGI : チキンピカタ)",
-    "url_diff": "",
-    "url": "http://drive.google.com/file/d/1rdrpcVu1BdTAjQF7tW_eaG9tnmYNLJXF/view?usp=share_link",
-    "level": "9",
-    "comment": "ハネ",
-    "proposer": "fuko",
-    "submission": 2805,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "18d8db2a640be5be0ead7d8e01ec27da",
@@ -32735,6 +32787,19 @@
     "proposer": "polynya",
     "submission": 2107,
     "proposerLr2id": 165397
+  },
+  {
+    "md5": "1ba632e6f8f44905a2b0f6912ffc4b80",
+    "sha256": "192cef62fc03ea2e4126e082ca6abd595aa4d755de949de8d39d2244ee1b1d92",
+    "title": "Temple Block????? [SP INSANE?????]",
+    "artist": "oratoruk (BGI : チキンピカタ)",
+    "url_diff": "",
+    "url": "http://drive.google.com/file/d/1rdrpcVu1BdTAjQF7tW_eaG9tnmYNLJXF/view?usp=share_link",
+    "level": "10",
+    "comment": "ハネ",
+    "proposer": "fuko",
+    "submission": 2805,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "26747a6f48df4775474efe85950c1ce0",
@@ -40369,20 +40434,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "2e4ebb1e68f945799f1107e669d21fe5",
-    "sha256": "6c8e28dad13ecd563d9ee7e44572c379207b70165b6567e8e2cd31eb0dc189d4",
-    "title": "Ruins Ray -Genocide-",
-    "artist": "kurena / selene.",
-    "url_diff": "https://stellabms.xyz/upload/626",
-    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-    "level": "13",
-    "comment": "BPM172 デニム",
-    "zureCount": 0,
-    "proposer": "Mary_Sue",
-    "submission": 2098,
-    "proposerLr2id": 147889
-  },
-  {
     "md5": "7eedbaf6cd676513de0b0d3575da3fac",
     "sha256": "ac4d3576313f43e9efaf5cd4b2f26625947c5e1d090c07bdc69bec9c132c002e",
     "title": "SERIOUS ERROR [#DIV/0!]",
@@ -44327,6 +44378,20 @@
     "comment": "1? st0のCraZyよりラス殺しが強かったです。",
     "proposer": "MarySue",
     "submission": 1102,
+    "proposerLr2id": 147889
+  },
+  {
+    "md5": "2e4ebb1e68f945799f1107e669d21fe5",
+    "sha256": "6c8e28dad13ecd563d9ee7e44572c379207b70165b6567e8e2cd31eb0dc189d4",
+    "title": "Ruins Ray -Genocide-",
+    "artist": "kurena / selene.",
+    "url_diff": "https://stellabms.xyz/upload/626",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "level": "14",
+    "comment": "BPM172 デニム",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2098,
     "proposerLr2id": 147889
   },
   {
@@ -53467,6 +53532,20 @@
     "proposerLr2id": 86393
   },
   {
+    "md5": "2e0ac5d95de9be6a237e561c460491fc",
+    "sha256": "cd9830f6a857d768e30d474ad85081e9bc942f3ea744ad057ec20c4a65e05032",
+    "title": "ディスコソルジャー (2nd STAGE)",
+    "artist": "tata（ヌタタニクス）/ objeCraft",
+    "url_diff": "https://kenpel.github.io/objeCraft/sabunsp.html",
+    "url": "https://sound.jp/zundoko/bms.html",
+    "level": "16",
+    "comment": "BPM139 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2108,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "acfbf9f671497b20b7226754beba4fc6",
     "sha256": "f0c944870f6e3762ca6c8858cb3402ef81956099139de4a71a81ceee55058d08",
     "title": "トレジャーフェスティバル!!! [wide]",
@@ -56520,6 +56599,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "360b4f5d707c602dd28f97e9f73249e6fc5819f137fd839212c724f34d154045"
+  },
+  {
+    "md5": "69c0dc06c21fab25dece09f02be67df5",
+    "sha256": "ace4203c767a6339dc744e3327f4074a02580bd0a35542a5eda48237f31069ba",
+    "title": "Tragedia [Corruption]",
+    "artist": "Chicala Lpis (mov:Spring Sky) obj:Rian",
+    "url_diff": "https://bmsoflian.web.fc2.com/LLdiff/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=115&num=52",
+    "level": "17",
+    "comment": "BPM169 ズレ",
+    "proposer": "SHAX.",
+    "submission": 2109,
+    "proposerLr2id": 65624
   },
   {
     "md5": "3e003647d52e8c471a1411b35513d7e4",
@@ -64966,6 +65058,19 @@
     "sha256": "bb801812384cb46b9593f3b3523744cb16bd29fa646a6864e2d648bb403e35a7"
   },
   {
+    "md5": "b0500af549ae199a60f531cb086835f0",
+    "sha256": "16d8fe9583a2185721c3c5d59fb83c85c4d7ebd0cb23fe2318a3ee28e9c3a7bc",
+    "title": "Al-raune [濶ｲ蜊ｳ譏ｯ遨ｺ]",
+    "artist": "Micelle / obj:Rian",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04330",
+    "url": "http://9domu46i.com/yuruyuru/phase1.html",
+    "level": "22",
+    "comment": "ディレイなどのズレあり",
+    "proposer": "七海",
+    "submission": 2110,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "01c72012eb08b10a1b232ea48ff79a14",
     "sha256": "ef1a1eb6465fb6bed59901ea0ca63f6d48842f56449b8c903c37f490b5ad7536",
     "title": "Always Feel the Same [TITANIC7]",
@@ -67321,5 +67426,18 @@
     "proposer": "スノート",
     "submission": 1522,
     "proposerLr2id": 86393
+  },
+  {
+    "md5": "5bbb54a97723a828dd2bd80759891d1f",
+    "sha256": "c18c2133f84c134e04995e6ac879359f84bcd26707916549fe0819d4bdd0a0a3",
+    "title": "宮子 [HEARTLESS]",
+    "artist": "MONOLITH feat.FG75 MOVIE / Rabbit Machine / obj:魔女",
+    "url_diff": "https://stellabms.xyz/upload/2962",
+    "url": "https://drive.google.com/file/d/1ACImGjA9QiMguM3WcXWEZisnyFRgRTtT/view?usp=drive_link",
+    "level": "25",
+    "comment": "BPM294乱打 曲の完全改変差分",
+    "proposer": "mukyu--",
+    "submission": 2111,
+    "proposerLr2id": 71314
   }
 ]

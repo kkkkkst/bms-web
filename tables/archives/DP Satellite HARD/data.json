@@ -6,6 +6,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "b726de58fb66db5722c9eb13d7848333",
+    "title": "Hungry Inquiry [DP ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "3e2b303f183b77fe7938104a8c7a8869",
     "title": "Nu Flame [14K ANOTHER]",
     "level": "0.00...0.50",
@@ -200,6 +206,12 @@
   {
     "md5": "b5b1d8cc91a438816b698a71c4302c7e",
     "title": "denebora -for beginner-",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "540445e41aaab8363c69088db579b2de",
+    "title": "Dispire///Hope [DP HYPER]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -858,6 +870,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "c82b8d24b3e64396dcd8c2ccb460d69b",
+    "title": "RE:START [DP-sagANOTHER]",
+    "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "9c5cf59e831eb9fdf7efae0e7613547d",
     "title": "Sky Ride -dpa-",
     "level": "3.00...3.50",
@@ -902,12 +920,6 @@
   {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "90733da4d37041e950750cf1e6ee73c1",
-    "title": "アイのハネいろ！",
     "level": "3.00...3.50",
     "comment": "sl2"
   },
@@ -1102,6 +1114,12 @@
     "title": "Round and Round [DP BLACK ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl4"
+  },
+  {
+    "md5": "90733da4d37041e950750cf1e6ee73c1",
+    "title": "アイのハネいろ！",
+    "level": "4.00...4.50",
+    "comment": "sl2"
   },
   {
     "md5": "1352e568f8b1d3214619f7ca9211c67f",
@@ -1674,6 +1692,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "ed4920db5c733d06b3c0cbaadc990cad",
+    "title": "新 漢江水打令 [DP LEGGENDARIA]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "d06fdb6b500818662f2054e0cbc47533",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]",
     "level": "6.00...6.50",
@@ -1856,12 +1880,6 @@
   {
     "md5": "637302837e71bae8d1e6528eb1464481",
     "title": "リリカと魔法の言葉 [DP Lyrical]",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "ed4920db5c733d06b3c0cbaadc990cad",
-    "title": "新 漢江水打令 [DP LEGGENDARIA]",
     "level": "6.00...6.50",
     "comment": "sl5"
   },
@@ -2232,14 +2250,14 @@
     "comment": "sl6"
   },
   {
-    "md5": "8043767df2a4141719991d649b74d23c",
-    "title": "AirTrip-SF#2- [DP ANOTHER]",
+    "md5": "f388214f5dd4f7064cd1180a4d40678c",
+    "title": "AngelPainter [DP-sagINSANE]",
     "level": "8.00...8.50",
     "comment": "sl7"
   },
   {
-    "md5": "f388214f5dd4f7064cd1180a4d40678c",
-    "title": "AngelPainter [DP-sagINSANE]",
+    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
+    "title": "Bad Apple!! -YH mix-",
     "level": "8.00...8.50",
     "comment": "sl7"
   },
@@ -2258,12 +2276,6 @@
   {
     "md5": "c00887580bcdb3dd9dd594f2eef5c63d",
     "title": "Divided Montage [14KEYS ANOTHER]",
-    "level": "8.00...8.50",
-    "comment": "sl7"
-  },
-  {
-    "md5": "15254743d61a5c1b52e1d2d6471f6902",
-    "title": "Dizzolve [DPA]",
     "level": "8.00...8.50",
     "comment": "sl7"
   },
@@ -2418,6 +2430,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "8043767df2a4141719991d649b74d23c",
+    "title": "AirTrip-SF#2- [DP ANOTHER]",
+    "level": "8.50...9.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "87dcc21c72f4e0c25e23915184b848a2",
     "title": "all u gotta do is... [DP INSANE]",
     "level": "8.50...9.00",
@@ -2432,6 +2450,12 @@
   {
     "md5": "66f2263a8e854298029231c872c3e14b",
     "title": "Deepsea Moonlight [Cuvelia14]",
+    "level": "8.50...9.00",
+    "comment": "sl7"
+  },
+  {
+    "md5": "15254743d61a5c1b52e1d2d6471f6902",
+    "title": "Dizzolve [DPA]",
     "level": "8.50...9.00",
     "comment": "sl7"
   },
@@ -2580,12 +2604,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
-    "title": "Bad Apple!! -YH mix-",
-    "level": "9.00...9.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
     "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
     "level": "9.00...9.50",
@@ -2638,12 +2656,6 @@
     "title": "Sesame Kingdom [Sesame Castle]",
     "level": "9.00...9.50",
     "comment": "sl7"
-  },
-  {
-    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
-    "title": "Snow White [DP CHALLENGER]",
-    "level": "9.00...9.50",
-    "comment": "sl10"
   },
   {
     "md5": "08e62a99f61826c978b45ec93c490dbf",
@@ -3152,6 +3164,12 @@
   {
     "md5": "b69172f4882a5a0e03d84352f812a994",
     "title": "Psalms [さよなら、ユートピア]",
+    "level": "11.50...12.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
+    "title": "Snow White [DP CHALLENGER]",
     "level": "11.50...12.00",
     "comment": "sl10"
   },

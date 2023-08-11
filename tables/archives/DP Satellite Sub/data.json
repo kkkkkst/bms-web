@@ -859,6 +859,18 @@
     "proposerLr2id": 147123
   },
   {
+    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
+    "sha256": "48ac32e268b9a2c8677a1d192f5fa632fd33d0032a44f09e3f0f4391e473513b",
+    "title": "マッドメチャクチャニズム [DP HYPER]",
+    "artist": "69 de 74 BGI:れおん",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+    "level": "0",
+    "proposer": "Zris",
+    "submission": 837,
+    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
+  },
+  {
     "md5": "852775fe56624678df49f191f27cbbc8",
     "sha256": "e24bc3b4408d93ca2412ca597586b38f6b96833fc8e410917fe8c9d11545f0a7",
     "title": "人魚電台 [DP ANOTHER]",
@@ -1419,6 +1431,19 @@
     "proposer": "KENIN*",
     "submission": 307,
     "proposerLr2id": 67700
+  },
+  {
+    "md5": "961f2de5e160520808632f9453bf0954",
+    "sha256": "e2249594872b5da1237184032356e01f4ac0196a175ddb81bd2db59243009048",
+    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
+    "artist": "竜。 feat.結月ゆかり / obj:sagoo",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/705",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=116",
+    "level": "1",
+    "zureCount": 0,
+    "proposer": "Zris",
+    "submission": 838,
+    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
   },
   {
     "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
@@ -6510,6 +6535,19 @@
     "proposerLr2id": 139958
   },
   {
+    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
+    "sha256": "7e416c43b797ede5580bf98eb91cd8f773944cefc4caa67e73efa17389808923",
+    "title": "Bad Apple!! -YH mix-",
+    "artist": "ZUN , Arr:ゆ～兎 / obj@PEN",
+    "url_diff": "",
+    "url": "http://web.archive.org/web/20140921042451/http://timetorain.web.fc2.com/BMS/Bad_Apple_yhmix_ogg.zip",
+    "level": "7",
+    "comment": "7~8?、物量",
+    "proposer": "JHS",
+    "submission": 333,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "d0b020d20dab01f544fe7cb74fd94fe4",
     "sha256": "08e8c52849e0a2ec2af78ef520ff293e0ad92b431f4e61422fd2dcac6d12316c",
     "title": "C.E. Days -14EX-",
@@ -7430,19 +7468,6 @@
     "comment": "7~8?",
     "proposer": "JHS",
     "submission": 525,
-    "proposerLr2id": 128228
-  },
-  {
-    "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
-    "sha256": "7e416c43b797ede5580bf98eb91cd8f773944cefc4caa67e73efa17389808923",
-    "title": "Bad Apple!! -YH mix-",
-    "artist": "ZUN , Arr:ゆ～兎 / obj@PEN",
-    "url_diff": "",
-    "url": "http://web.archive.org/web/20140921042451/http://timetorain.web.fc2.com/BMS/Bad_Apple_yhmix_ogg.zip",
-    "level": "8",
-    "comment": "7~8?、物量",
-    "proposer": "JHS",
-    "submission": 333,
     "proposerLr2id": 128228
   },
   {

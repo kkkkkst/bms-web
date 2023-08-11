@@ -384,20 +384,8 @@
     "comment": "sl1"
   },
   {
-    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
-    "title": "Prayer [ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "3d91b783248f05141bcaaf6410ac860c",
     "title": "Stargazer [EXTRA]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "5dc1cb5b9233d609d755fe314851d0fb",
-    "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -434,12 +422,6 @@
   {
     "md5": "d571d3802ebdeb013d88b1265b1a2552",
     "title": "Bloody Malie [DPH]",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "f62d47cd97f33682e7c8ce032bc38bee",
-    "title": "Castorpollux [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -546,6 +528,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "eae225ae5bf7dc13829f76fab6c257a6",
+    "title": "Prayer [ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
     "title": "Precious!!! [14key,Another]",
     "level": "6.00...6.50",
@@ -572,12 +560,6 @@
   {
     "md5": "c2af423792c9067475fce7d4fa9c4436",
     "title": "Say A Vengeance [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "5b6413abb8ab8b5dc428e9716f531331",
-    "title": "Sleet in the city [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -614,6 +596,12 @@
   {
     "md5": "304a55cf280f9875efb248773dc42a0f",
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "5dc1cb5b9233d609d755fe314851d0fb",
+    "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -660,6 +648,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "f62d47cd97f33682e7c8ce032bc38bee",
+    "title": "Castorpollux [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "48d0c83af7af94c25501d16d7f9bae09",
     "title": "Extinction and reproduction [DP Hyper]",
     "level": "6.50...7.00",
@@ -676,6 +670,12 @@
     "title": "Late Summer [nostalgia]",
     "level": "6.50...7.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "5b6413abb8ab8b5dc428e9716f531331",
+    "title": "Sleet in the city [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl1"
   },
   {
     "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
@@ -1857,7 +1857,7 @@
     "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
     "title": "Bad Apple!! -YH mix-",
     "level": "-",
-    "comment": "sl8"
+    "comment": "sl7"
   },
   {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
@@ -2044,6 +2044,12 @@
     "title": "Disillusion code [DP ANOTHER]",
     "level": "-",
     "comment": "sl10"
+  },
+  {
+    "md5": "540445e41aaab8363c69088db579b2de",
+    "title": "Dispire///Hope [DP HYPER]",
+    "level": "-",
+    "comment": "sl1"
   },
   {
     "md5": "15254743d61a5c1b52e1d2d6471f6902",
@@ -2290,6 +2296,12 @@
     "title": "Hi-Fi-Story [DP ANOTHER]",
     "level": "-",
     "comment": "sl6"
+  },
+  {
+    "md5": "b726de58fb66db5722c9eb13d7848333",
+    "title": "Hungry Inquiry [DP ANOTHER]",
+    "level": "-",
+    "comment": "sl0"
   },
   {
     "md5": "61296a55d89ae86f957873df1cd011f1",
@@ -2644,6 +2656,12 @@
     "title": "Re:Sound Sing Step [DP-sagINSANE]",
     "level": "-",
     "comment": "sl8"
+  },
+  {
+    "md5": "c82b8d24b3e64396dcd8c2ccb460d69b",
+    "title": "RE:START [DP-sagANOTHER]",
+    "level": "-",
+    "comment": "sl3"
   },
   {
     "md5": "0a5912c88b7801f3baece252ff2266af",
