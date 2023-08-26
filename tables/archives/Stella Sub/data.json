@@ -4434,6 +4434,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "40945ac53d71755c819ef3024f08216f",
+    "sha256": "ec7adde95f9a53cb2c67c361090433ddfc0de3089c4019f71a32fa1f5dccb224",
+    "title": "Eldritch Queen",
+    "artist": "BTB",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=137",
+    "level": "1",
+    "comment": "BPM172 乱打",
+    "proposer": "EGRET.",
+    "submission": 2117,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
     "level": "1",
     "md5": "742f560ef78dca0693aaed37c3d2f1c3",
     "sha256": "863ef04188bf83f7c6858608a01e5e826396410ee93e8b4538e9305cc4f56e39",
@@ -13985,6 +13998,32 @@
     "comment": "",
     "submission": 20,
     "sha256": "dccf8d1a3dc18441d6b19bb760f5dd68fbd41282b20f69badd01b2c3ee5bc331"
+  },
+  {
+    "md5": "67b038af314de078e9c58806dc208e37",
+    "sha256": "1e1ddf699237c5f4188a5f32d258ba77c6119456161bb9eac0c9b1c89d8da889",
+    "title": "Reason [ινσανε]",
+    "artist": "Juno BGI : Sierra obj:秘密 vs chack",
+    "url_diff": "https://www.dropbox.com/s/1mcaxkib430eaz0/_reason_insane.bms?dl=1",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=376&event=104",
+    "level": "3",
+    "comment": "jacks, delay",
+    "proposer": "歳納京子",
+    "submission": 2116,
+    "proposerLr2id": 75332
+  },
+  {
+    "md5": "606ea0071e3e0ecad116a2e823ed8b87",
+    "sha256": "dc5c4879e3e3f844d94ec29af4b848467c7f04003db04de6912de635660c2dde",
+    "title": "Rebellion of Mechanical Heart [COLLAPSE]",
+    "artist": "Jin / sarada BGA:Ghastly Conceit",
+    "url_diff": "https://srdbms.otodo.net/sabun/rebellion_srd.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=49",
+    "level": "3",
+    "comment": "アレンジ差分なのでズレ抜けチェック不可",
+    "proposer": "Mary_Sue",
+    "submission": 2115,
+    "proposerLr2id": 147889
   },
   {
     "level": "3",

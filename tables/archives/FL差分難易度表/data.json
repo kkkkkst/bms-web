@@ -277,6 +277,18 @@
   },
   {
     "level": "5",
+    "title": "Despair -\" D \"Mix-(FINAL EDIT) [for some reason]",
+    "md5": "c7b0fe862886e0d1304efc931362f358",
+    "artist": "Civy/ザ・ゲリラ",
+    "url": "https://web.archive.org/web/20230822145751/https://seraphin.xyz/static/sabun/Despair_rbms.zip",
+    "url_diff": "https://fsrs.github.io/sabun/fsrs/despair_fsrs.zip",
+    "name_diff": "fsrs",
+    "date": "Tue Aug 22 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/GgXv-g_GxYg",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "5",
     "title": "Hold You Back [for some reason]",
     "md5": "448ed131c203ed039119dd88772f9aa6",
     "artist": "BilliumMoto (needme)",
@@ -369,7 +381,7 @@
     "name_diff": "LuvTek",
     "date": "Wed Nov 04 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/bebgJJetKus",
-    "comment": "sl11"
+    "comment": "sl10"
   },
   {
     "level": "6",
@@ -646,6 +658,18 @@
     "date": "Fri Jan 10 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
     "comment": "自動生成譜面 α-Gorila #1"
+  },
+  {
+    "level": "9",
+    "title": "Aloof Wolf -Loafer-",
+    "md5": "275e492aa2b3d2e1df75639d2247c838",
+    "artist": "idzuchi",
+    "url": "https://bms-mirror.com/pkg/2020/bofxvi/%5BSingin%27%20Rabbits%5Didzuchi%20-%20Aloof%20Wolf.zip",
+    "url_diff": "https://darksabun.github.io/event/sd/sabun/01_Aloof_Wolf_loafer.zip",
+    "name_diff": "LuvTek",
+    "date": "Sun Jul 09 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/oaQ_w9CpCPU",
+    "comment": ""
   },
   {
     "level": "9",
@@ -1017,7 +1041,7 @@
     "name_diff": "LuvTek",
     "date": "Fri Sep 30 2022 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/oTp7G2BJQtw",
-    "comment": "本体同梱"
+    "comment": "st3 本体同梱"
   },
   {
     "level": "10",
@@ -1042,6 +1066,18 @@
     "date": "Fri Sep 23 2022 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/PNh-21MqHzg",
     "comment": ""
+  },
+  {
+    "level": "10",
+    "title": "Unexpected rewind -loather-",
+    "md5": "ceecc35156b76887713adbc7c72a4883",
+    "artist": "(^v^人)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=145&event=83",
+    "url_diff": "https://darksabun.github.io/event/sd/sabun/02_unexpectedRewind_loaf.zip",
+    "name_diff": "LuvTek",
+    "date": "Sun Jul 30 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/F3LQHD0GLyM",
+    "comment": "追加音源あり"
   },
   {
     "level": "10",
@@ -2053,6 +2089,30 @@
   },
   {
     "level": "90",
+    "title": "flowers of the light 〈BGA ^ ^〉",
+    "md5": "1efefbc13b8e4642de1767b7ce7fa7c1",
+    "artist": "AQUA & REONA",
+    "url": "https://mega.nz/file/GK4WhI6Z#FiuxYQXTFu5cct0rhMdcLjFrVMO38vNKOfgB8UtbhGo",
+    "url_diff": "https://darksabun.github.io/event/irbattle/sabun/C08_FOL_LuvTek.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Jul 31 2021 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/aPEpWErCSFU",
+    "comment": "後半回復系"
+  },
+  {
+    "level": "90",
+    "title": "Kiss in the dark [Sabun in the dark]",
+    "md5": "f19e8a4edcf4c9b51bf0aa413058921c",
+    "artist": "utzbo",
+    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=21&num=1",
+    "url_diff": "https://darksabun.github.io/event/sd/sabun/03_Kitd_bitter.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Aug 12 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/3t_cEuk3c2w",
+    "comment": "HARD判定"
+  },
+  {
+    "level": "90",
     "title": "Lethal weapon [Dynamite]",
     "md5": "a419b4051a561009f1990081a46d1b9d",
     "artist": "Juggernaut.",
@@ -2061,7 +2121,7 @@
     "name_diff": "M-SPIN",
     "date": "Tue Jul 31 2018 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "キー音任意追加あり。 ギミックに注意? ★★2?"
+    "comment": "キー音任意追加あり ギミック ★★2?"
   },
   {
     "level": "90",
@@ -2089,18 +2149,6 @@
   },
   {
     "level": "90",
-    "title": "Max Fooning!! [Hit or Die]",
-    "md5": "3d6155e5220aab4735337d6e849ab32c",
-    "artist": "地獄港IV",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=127",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Max Fooning!!_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Wed Oct 23 2019 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
-    "comment": "TOTAL 85"
-  },
-  {
-    "level": "90",
     "title": "Reso*nyan*ce Fever [SP-M]",
     "md5": "8f3e8dd3e4343c2e55026dd20f5a0cee",
     "artist": "かたぎり",
@@ -2109,7 +2157,7 @@
     "name_diff": "M-SPIN",
     "date": "Fri Mar 30 2018 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "TOTAL 222 ギミックに注意? ★20? "
+    "comment": "TOTAL 222 ギミック ★★1? "
   },
   {
     "level": "90",
@@ -2137,6 +2185,18 @@
   },
   {
     "level": "99",
+    "title": "BEYOND [BEMERA]",
+    "md5": "658830691401f1f780bd7b9d525fd26b",
+    "artist": "Lime",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "url_diff": "https://darksabun.github.io/event/sd/sabun/03_BEYOND_CSCS.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sun Jul 02 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://darksabun.github.io/event/sd/sabun/03_BEYOND_CSCS.zip",
+    "comment": "2連打とトリル"
+  },
+  {
+    "level": "99",
     "title": "Eternal break [WTF]",
     "md5": "a9117edc5514902a025fbb5d1fc40b5e",
     "artist": "urimu",
@@ -2158,18 +2218,6 @@
     "date": "Mon Nov 11 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
     "comment": "アバンギャルドよりはKF。LNとソフラン"
-  },
-  {
-    "level": "99",
-    "title": "The Clock Song [Clockwise]",
-    "md5": "fae4e84f14c254da4efffad34ef10b5c",
-    "artist": "ぶどうとう",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=127",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/The Clock Song_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Sun Nov 24 2019 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "",
-    "comment": "NOT FOR PLAY? HS-FIX OFFで速度200以下推奨"
   },
   {
     "level": "99",

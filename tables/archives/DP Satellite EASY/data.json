@@ -282,6 +282,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "7d9bc317f36b83498f8789e0f6d624c5",
+    "title": "Seto Inland Sea [dp Another]",
+    "level": "-0.50...0.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
     "title": "Stray Squall (BMS Edit)",
     "level": "-0.50...0.00",
@@ -546,6 +552,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
+    "title": "Retronika [DP ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "5b6413abb8ab8b5dc428e9716f531331",
     "title": "Sleet in the city [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -668,6 +680,12 @@
   {
     "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
     "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "2332bbd8876a500af7e868f71192f9a9",
+    "title": "Deus ex Machina [DPH]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -842,12 +860,6 @@
   {
     "md5": "26d6f5d22a28f511516096981ed65553",
     "title": "conflict [DPA]",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "2332bbd8876a500af7e868f71192f9a9",
-    "title": "Deus ex Machina [DPH]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -1434,12 +1446,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "8a626400b635d2012988b072de442862",
-    "title": "冰月冰花 (BMS edit) [DP-sagANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
     "title": "永夜の報い -full moon- <14A>",
     "level": "2.00...2.50",
@@ -1456,12 +1462,6 @@
     "title": "現実をカットアップしてみた [DPA.NOTHER+]",
     "level": "2.00...2.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "a53f26e6c6bed5fbadeb72c2f9278472",
-    "title": "空跳ぶ少女 [14人目]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
   },
   {
     "md5": "137821b71aee5d8444e7fcc38cd5690c",
@@ -1638,8 +1638,20 @@
     "comment": "sl4"
   },
   {
+    "md5": "8a626400b635d2012988b072de442862",
+    "title": "冰月冰花 (BMS edit) [DP-sagANOTHER]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "347e728cf787c9eddcb2986abe6c028e",
     "title": "月時計　Last・Dial (DPA)",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "a53f26e6c6bed5fbadeb72c2f9278472",
+    "title": "空跳ぶ少女 [14人目]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -1758,6 +1770,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "762258885246b239006c8294e08b1165",
+    "title": "Modern Times",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
     "title": "Moon-gate -DP Chalenger-",
     "level": "3.00...3.50",
@@ -1778,12 +1796,6 @@
   {
     "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
     "title": "Prayer [LEGGENDARIA]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "f933308f0963b29ad48b6fe249689560",
-    "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -1886,12 +1898,6 @@
   {
     "md5": "e0e753a494a96fe548593a84e3c77172",
     "title": "Yutu (14_Extreme)",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "910681db5dfded14ac907e0cfe9122e2",
-    "title": "Zero Dimension [ANOTHER14]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -2010,14 +2016,14 @@
     "comment": "sl5"
   },
   {
-    "md5": "a78261c3f9d531540e3f06a86f2d935d",
-    "title": "Lily [DP-sagANOTHER]",
+    "md5": "0bafbf864710b9c6fbc3c77349383f41",
+    "title": "Hi-Fi-Story [DP ANOTHER]",
     "level": "3.50...4.00",
-    "comment": "sl5"
+    "comment": "sl6"
   },
   {
-    "md5": "762258885246b239006c8294e08b1165",
-    "title": "Modern Times",
+    "md5": "a78261c3f9d531540e3f06a86f2d935d",
+    "title": "Lily [DP-sagANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
@@ -2034,28 +2040,22 @@
     "comment": "sl5"
   },
   {
-    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
-    "title": "Noblesse Gloria [DP-sagANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "1a8bf502c603ff2f2b9fca64a47de401",
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "3.50...4.00",
     "comment": "sl6"
   },
   {
-    "md5": "6398996a4cd2d449811cbedcc439115d",
-    "title": "starlights [DP]",
+    "md5": "f933308f0963b29ad48b6fe249689560",
+    "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "3.50...4.00",
-    "comment": "sl6"
+    "comment": "sl5"
   },
   {
-    "md5": "e95c45d5c8a175310c67d5b4640a990f",
-    "title": "Telescope [DP-sagANOTHER]",
+    "md5": "910681db5dfded14ac907e0cfe9122e2",
+    "title": "Zero Dimension [ANOTHER14]",
     "level": "3.50...4.00",
-    "comment": "sl6"
+    "comment": "sl5"
   },
   {
     "md5": "3c810e083b74b323b84593d52a78e1c9",
@@ -2130,6 +2130,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "1a6b6567fe1fa051f532e161a491ac88",
+    "title": "Fine Logic [DP INSANE]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "04a0afae2e165a4676c777d9bb9b55db",
     "title": "GIFT [14key Another]",
     "level": "4.00...4.50",
@@ -2138,12 +2144,6 @@
   {
     "md5": "6a9a075aa7e63c399102a03b62522e67",
     "title": "HAELEQUIN [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "0bafbf864710b9c6fbc3c77349383f41",
-    "title": "Hi-Fi-Story [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2160,8 +2160,8 @@
     "comment": "sl6"
   },
   {
-    "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
-    "title": "NightTheater [DP ANOTHER+]",
+    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
+    "title": "Noblesse Gloria [DP-sagANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2222,6 +2222,18 @@
   {
     "md5": "e2edf260dcc761e258f1d2fda3380b19",
     "title": "rainbow [DP]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "6398996a4cd2d449811cbedcc439115d",
+    "title": "starlights [DP]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "e95c45d5c8a175310c67d5b4640a990f",
+    "title": "Telescope [DP-sagANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2328,12 +2340,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "1a6b6567fe1fa051f532e161a491ac88",
-    "title": "Fine Logic [DP INSANE]",
-    "level": "4.50...5.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "d33783021b1df12952eecdf2c1eadde7",
     "title": "frozen over",
     "level": "4.50...5.00",
@@ -2376,10 +2382,10 @@
     "comment": "sl7"
   },
   {
-    "md5": "497a08c7e3f370abe662bb8ff7e7a82e",
-    "title": "Sesame Kingdom [Sesame Castle]",
+    "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
+    "title": "NightTheater [DP ANOTHER+]",
     "level": "4.50...5.00",
-    "comment": "sl7"
+    "comment": "sl6"
   },
   {
     "md5": "29218763f7b55ddf23d1f4e1ec112816",
@@ -2550,12 +2556,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "09ddc29dfc8ac70ceba82c7755efd84f",
-    "title": "Evanescent [DP ANOTHER]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "8f4c529cc67018c14ffe0463efce9e25",
     "title": "Galaxy in Toybox [DP >▽<]",
     "level": "5.00...5.50",
@@ -2646,6 +2646,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "497a08c7e3f370abe662bb8ff7e7a82e",
+    "title": "Sesame Kingdom [Sesame Castle]",
+    "level": "5.00...5.50",
+    "comment": "sl7"
+  },
+  {
     "md5": "c0df391328b3f4984fc53307236efdda",
     "title": "Skull & Witch [DP]",
     "level": "5.00...5.50",
@@ -2678,6 +2684,12 @@
   {
     "md5": "0fe0b055eb07f9feba4f9f26d8b725c7",
     "title": "Where To Feel [激鍵14]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
+    "title": "あさひのなかで(Art Glint mix) [DPI]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -2754,6 +2766,18 @@
     "comment": "sl8"
   },
   {
+    "md5": "53c2074d26127be0f7586e8def386cac",
+    "title": "Blue Shock [DPA.NOTHER+]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "09ddc29dfc8ac70ceba82c7755efd84f",
+    "title": "Evanescent [DP ANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "fab011bc0c8eb78acecb02fe1d5ff2d1",
     "title": "furioso melodia -forbidden fruta-",
     "level": "5.50...6.00",
@@ -2802,6 +2826,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "3b308fec3ad20cae5eb13eb0e3895c7a",
     "title": "The Last Page [BEGIN]",
     "level": "5.50...6.00",
@@ -2814,28 +2844,10 @@
     "comment": "sl8"
   },
   {
-    "md5": "b5f3ca219d409b04f23322eb81c21db9",
-    "title": "Wizardragon Fascination [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
-    "title": "あさひのなかで(Art Glint mix) [DPI]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "2410f0012ff221ef64923eaafc027389",
     "title": "月時計 Last・Dial (DoubleLunatic+)",
     "level": "5.50...6.00",
     "comment": "sl8"
-  },
-  {
-    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
-    "title": "Acid Drizzle -レイクサイド-",
-    "level": "6.00...6.50",
-    "comment": "sl9"
   },
   {
     "md5": "89639898fb0dc00a003f6824f076e940",
@@ -2856,12 +2868,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "53c2074d26127be0f7586e8def386cac",
-    "title": "Blue Shock [DPA.NOTHER+]",
-    "level": "6.00...6.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "ffa8beca32b6552e6fd003183a074faf",
     "title": "Bogus of True (DPA)",
     "level": "6.00...6.50",
@@ -2876,12 +2882,6 @@
   {
     "md5": "81fb3b4f09be4959426ee5c2441a4184",
     "title": "Clover (BMS Edit) [Fourteen-leaf]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "8a03405fa7a6a3b0f93880e81ccc3f46",
-    "title": "DELIGHTS -EXTREME14-",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -2910,12 +2910,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "d69afec5896d7e9963869d1b0247edaf",
-    "title": "rainy beauty [ワイルドシ　ョット14]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
     "title": "rise to R -overdrive 14-",
     "level": "6.00...6.50",
@@ -2926,12 +2920,6 @@
     "title": "Sicilian Kiss -14EX-",
     "level": "6.00...6.50",
     "comment": "sl9"
-  },
-  {
-    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
-    "title": "Singing of Night birds [DP INSANE]",
-    "level": "6.00...6.50",
-    "comment": "sl8"
   },
   {
     "md5": "a964333aca00bfd678e0daff013d7dac",
@@ -2964,8 +2952,20 @@
     "comment": "sl9"
   },
   {
+    "md5": "b5f3ca219d409b04f23322eb81c21db9",
+    "title": "Wizardragon Fascination [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
     "title": "Wizdomiot [DP INSANE]",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "609c7cedebd3a895dc46ab9dfc97a345",
+    "title": "硬核機動 [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -2982,20 +2982,26 @@
     "comment": "sl9"
   },
   {
+    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
+    "title": "Acid Drizzle -レイクサイド-",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "a32ec19da96aa8391db09874ea30544f",
     "title": "Blooming [DP ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl8"
   },
   {
-    "md5": "7e3def092791e260b1a3b2f0ae4638b3",
-    "title": "Ceebu Yapp",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "0c38eafa5cf3a4440832242fd1bd2ef7",
     "title": "CYCLONE",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "8a03405fa7a6a3b0f93880e81ccc3f46",
+    "title": "DELIGHTS -EXTREME14-",
     "level": "6.50...7.00",
     "comment": "sl9"
   },
@@ -3040,6 +3046,12 @@
     "title": "Psalms [さよなら、ユートピア]",
     "level": "6.50...7.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "d69afec5896d7e9963869d1b0247edaf",
+    "title": "rainy beauty [ワイルドシ　ョット14]",
+    "level": "6.50...7.00",
+    "comment": "sl9"
   },
   {
     "md5": "99cbb8f15bae66bb36f942d7c6389de6",
@@ -3096,14 +3108,14 @@
     "comment": "sl10"
   },
   {
-    "md5": "609c7cedebd3a895dc46ab9dfc97a345",
-    "title": "硬核機動 [DP ANOTHER]",
-    "level": "6.50...7.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",
     "title": "Armageddon [DP]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "7e3def092791e260b1a3b2f0ae4638b3",
+    "title": "Ceebu Yapp",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -3198,14 +3210,14 @@
     "comment": "sl10"
   },
   {
-    "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
-    "title": "トココ21 ⊂㌍㌢⊃",
+    "md5": "d6a2f738b3d383db092e65b46a86a829",
+    "title": "ヒメタイプ [DP CHALLENGER]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
   {
-    "md5": "d6a2f738b3d383db092e65b46a86a829",
-    "title": "ヒメタイプ [DP CHALLENGER]",
+    "md5": "d6ddb4b5816cf8a140e513927fb94b95",
+    "title": "フロンティア↑↑エクスプローラー [nyamDPA]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -3228,18 +3240,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "0c828e4a9805195c688972d2d58b89ad",
-    "title": "異説彼岸花 第二 -終世のリコリス- [DP INSANE]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "8dfba7248b732cf93d0bb5cf0e91878b",
-    "title": "ELIMINATOR [DP INSANE]",
-    "level": "7.50...8.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
     "title": "H.S : Hadron Strike [DP ANOTHER]",
     "level": "7.50...8.00",
@@ -3252,14 +3252,8 @@
     "comment": "sl10"
   },
   {
-    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
-    "title": "Snow White [DP CHALLENGER]",
-    "level": "7.50...8.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "d6ddb4b5816cf8a140e513927fb94b95",
-    "title": "フロンティア↑↑エクスプローラー [nyamDPA]",
+    "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
+    "title": "トココ21 ⊂㌍㌢⊃",
     "level": "7.50...8.00",
     "comment": "sl10"
   },
@@ -3270,15 +3264,33 @@
     "comment": "sl10"
   },
   {
+    "md5": "0c828e4a9805195c688972d2d58b89ad",
+    "title": "異説彼岸花 第二 -終世のリコリス- [DP INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "de397d520c998e66bbab4017791c9668",
     "title": "禁忌と緋色幻想 -The Primary Plasm- [Red Storm]",
     "level": "7.50...8.00",
     "comment": "sl10"
   },
   {
+    "md5": "8dfba7248b732cf93d0bb5cf0e91878b",
+    "title": "ELIMINATOR [DP INSANE]",
+    "level": "8.00...8.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "581dfb81c885d9b7b6ea868bf3524a47",
     "title": "Jack o' Lantern ≧w≦",
     "level": "8.00...8.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
+    "title": "Snow White [DP CHALLENGER]",
+    "level": "8.50...9.00",
     "comment": "sl10"
   }
 ]

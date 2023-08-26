@@ -2340,7 +2340,7 @@
     "state": ""
   },
   {
-    "level": "2",
+    "level": "3",
     "title": "Love & Justice [皆伝]",
     "md5": "37ed4a949b384a853d20cdfa9cfe361b",
     "video1": "",
@@ -2353,7 +2353,7 @@
     "state": ""
   },
   {
-    "level": "3",
+    "level": "4",
     "title": "Love & Justice [極皆伝]",
     "md5": "e269ffc58fc7e4b8c401ffcc13ec0599",
     "video1": "",
@@ -2935,7 +2935,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=434",
     "artist": "Lime",
     "comment": "階段 同時 発狂",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "6",
@@ -2948,7 +2948,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=434",
     "artist": "Lime",
     "comment": "物量 階段 発狂",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "8",
@@ -2961,7 +2961,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=434",
     "artist": "Lime",
     "comment": "高速物量",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "9",
@@ -2974,7 +2974,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=434",
     "artist": "Lime",
     "comment": "最強の地力譜面",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "5",
@@ -2987,7 +2987,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=74",
     "artist": "Warpurgis",
     "comment": "乱打 発狂 微縦連 LN",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "2",
@@ -3000,7 +3000,7 @@
     "url": "https://venue.bmssearch.net/bmskanji2/31",
     "artist": "NASA",
     "comment": "乱打 同時 物量",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "2",
@@ -3013,7 +3013,7 @@
     "url": "https://venue.bmssearch.net/bmskanji2/31",
     "artist": "NASA",
     "comment": "LN 乱打",
-    "state": "1"
+    "state": ""
   },
   {
     "level": "6",
@@ -3026,6 +3026,227 @@
     "url": "https://venue.bmssearch.net/bmskanji2/31",
     "artist": "NASA",
     "comment": "ガチ押し",
+    "state": ""
+  },
+  {
+    "level": "7",
+    "title": "★hamSweeTer DiscoverY★",
+    "md5": "7d1b69284acc77211ab3e2ab4b49ab6a",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/ic5a80yw8buv050/SweeT%20DiscoverY.zip?dl=1",
+    "name_diff": "★",
+    "url": "http://web.archive.org/web/20070727155719fw_/http://sasakure.bms.ms/music/sweet.htm",
+    "artist": "chocolate max",
+    "comment": "ソフラン(強) 物量 発狂",
+    "state": "1"
+  },
+  {
+    "level": "3",
+    "title": "★SweeT DiscoverY★ [HAMUPER]",
+    "md5": "69a85e6c613c612701cd30a1aa36d75e",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/ic5a80yw8buv050/SweeT%20DiscoverY.zip?dl=1",
+    "name_diff": "★",
+    "url": "http://web.archive.org/web/20070727155719fw_/http://sasakure.bms.ms/music/sweet.htm",
+    "artist": "chocolate max",
+    "comment": "乱打 二重階段",
+    "state": "1"
+  },
+  {
+    "level": "5",
+    "title": "★SweeT DiscoverY★ [HAMUTHER]",
+    "md5": "1ef33aa304f4001a733016268ed7665a",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/ic5a80yw8buv050/SweeT%20DiscoverY.zip?dl=1",
+    "name_diff": "★",
+    "url": "http://web.archive.org/web/20070727155719fw_/http://sasakure.bms.ms/music/sweet.htm",
+    "artist": "chocolate max",
+    "comment": "乱打 発狂",
+    "state": "1"
+  },
+  {
+    "level": "2",
+    "title": "ヒメタイプ [HAMUPER]",
+    "md5": "cd342848dae2e8971b9d6547bb5e75e9",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/ytf8xftobfq078g/%E3%83%92%E3%83%A1%E3%82%BF%E3%82%A4%E3%83%97.zip?dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+    "artist": "ノクティス・江口・チェラム",
+    "comment": "二重階段 乱打",
+    "state": "1"
+  },
+  {
+    "level": "5",
+    "title": "ヒメタイプ [HAMUTYPE]",
+    "md5": "d8a5a53b760c6450a878636d42ed5552",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/ytf8xftobfq078g/%E3%83%92%E3%83%A1%E3%82%BF%E3%82%A4%E3%83%97.zip?dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+    "artist": "ノクティス・江口・チェラム",
+    "comment": "二重階段 微縦連 終盤難",
+    "state": "1"
+  },
+  {
+    "level": "1",
+    "title": "Kung-Gu Empire [HAMUPER]",
+    "md5": "1ee414cf35ad4fe91ed3676d607df099",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/zunnyln65qlj9ky/Kung-gu%20Empire.zip?dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=127",
+    "artist": "飛馬65",
+    "comment": "高速階段 乱打 ラス殺し 曲時間短め",
+    "state": "1"
+  },
+  {
+    "level": "7",
+    "title": "Kung-Gu Empire [HAMUTHER]",
+    "md5": "faf8571ef0f39f7fd071c42fd994f65a",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/zunnyln65qlj9ky/Kung-gu%20Empire.zip?dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=127",
+    "artist": "飛馬65",
+    "comment": "ディレイ ラス殺し 曲時間短め",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "G e n g a o z o   E m p i r e [HAMUPER]",
+    "md5": "bb9365ebfb5d4386d8efc15006eddc56",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/zunnyln65qlj9ky/Kung-gu%20Empire.zip?dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=127",
+    "artist": "飛 馬 6 5",
+    "comment": "物量 乱打 発狂 連皿",
+    "state": "1"
+  },
+  {
+    "level": "7",
+    "title": "G e n g a o z o   E m p i r e _ H A M U",
+    "md5": "b1c7ecf1ea5ad3b946af3ca9d0989db2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/zunnyln65qlj9ky/Kung-gu%20Empire.zip?dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=127",
+    "artist": "飛 馬 6 5",
+    "comment": "物量 乱打 発狂 ディレイ 微縦連 連皿",
+    "state": "1"
+  },
+  {
+    "level": "2",
+    "title": "歪んだ神 [HAMUPER]",
+    "md5": "8a483926df6c2028d421780e60b4149d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/eu6re7lnyhov3in/%E6%AD%AA%E3%82%93%E3%81%A0%E7%A5%9E.zip?dl=1",
+    "name_diff": "★",
+    "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
+    "artist": "次元大介",
+    "comment": "二重階段 乱打",
+    "state": "1"
+  },
+  {
+    "level": "6",
+    "title": "歪んだ神 [HAMUTHER]",
+    "md5": "eb2dc05085ee12724b44540e3ab48e13",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/s/eu6re7lnyhov3in/%E6%AD%AA%E3%82%93%E3%81%A0%E7%A5%9E.zip?dl=1",
+    "name_diff": "★",
+    "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
+    "artist": "次元大介",
+    "comment": "乱打 ラス殺し",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "The Lady Is A Trump [HAMUPER]",
+    "md5": "4004ed5ff7fd0f4cc9cd89ff54aba4cf",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/scl/fi/3ojeqilkh9wt37ehfc9jz/The-Lady-Is-A-Trump.zip?rlkey=n1a0eaoi1l7rvoex9b2l9cfgo&dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=61",
+    "artist": "Damjoy&ほくとしちせい",
+    "comment": "高速階段 発狂",
+    "state": "1"
+  },
+  {
+    "level": "6",
+    "title": "The Lady Is A Trump [HAMUTHER]",
+    "md5": "b806d8da439eff8e7bce35148e79a7dd",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/scl/fi/3ojeqilkh9wt37ehfc9jz/The-Lady-Is-A-Trump.zip?rlkey=n1a0eaoi1l7rvoex9b2l9cfgo&dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=61",
+    "artist": "Damjoy&ほくとしちせい",
+    "comment": "高速階段 発狂",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "Platinum [地力S+]",
+    "md5": "29628c08ef963b2c6a92f04c2849941f",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/scl/fi/s9fyh2y9tof0e1jnlvgu7/Platinum.zip?rlkey=6dz6mkabr8odav1snotprcjrp&dl=1",
+    "name_diff": "★",
+    "url": "http://wayback.archive.org/web/20130715140825/http://neoarre.aquz.biz/740",
+    "artist": "DJ.Kari",
+    "comment": "ソフラン 中盤発狂(冥) 乱打",
+    "state": "1"
+  },
+  {
+    "level": "6",
+    "title": "Platinum [HAMUTHER]",
+    "md5": "8c098948d3a558382bbaaeaf23a0d224",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/scl/fi/s9fyh2y9tof0e1jnlvgu7/Platinum.zip?rlkey=6dz6mkabr8odav1snotprcjrp&dl=1",
+    "name_diff": "★",
+    "url": "http://wayback.archive.org/web/20130715140825/http://neoarre.aquz.biz/740",
+    "artist": "DJ.Kari",
+    "comment": "物量 乱打 同時",
+    "state": "1"
+  },
+  {
+    "level": "4",
+    "title": "魔王 [HAMUPER]",
+    "md5": "977a5065e34200bbed64af6699a7412a",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/scl/fi/yxu9j3jzezhpwf8kxe0df/.zip?rlkey=nkp3ovz4imrjxkv3m8lrh7j1i&dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=50",
+    "artist": "Remixed by LR44",
+    "comment": "縦連 発狂",
+    "state": "1"
+  },
+  {
+    "level": "7",
+    "title": "魔王 [HAMUTHER]",
+    "md5": "a01a6cece1b4c887dd01b3d4d17fe0f7",
+    "video1": "",
+    "video2": "",
+    "url_diff": "https://www.dropbox.com/scl/fi/yxu9j3jzezhpwf8kxe0df/.zip?rlkey=nkp3ovz4imrjxkv3m8lrh7j1i&dl=1",
+    "name_diff": "★",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=50",
+    "artist": "Remixed by LR44",
+    "comment": "縦連 発狂",
     "state": "1"
   }
 ]

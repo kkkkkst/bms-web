@@ -1,0 +1,257 @@
+{
+  "name": "発狂PMS難易度表 for beatoraja",
+  "symbol": "●",
+  "data_url": "data.json",
+  "level_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    "!i"
+  ],
+  "course": [
+    {
+      "name": "第5期 PMS段位認定 3級",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "dbe48c3617f79c98ca45ba65fd7ab0ea",
+        "0b18bfaf473f5213318e4ed80af5cad5",
+        "56c60f22136a44877e57598b2382c89b",
+        "daa9b82aec369c0fbf72343f14004d35"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 2級",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "d81c13cda4757412c17216b69586d7fd",
+        "496199ab091d7d1f941ee1e4b7a97333",
+        "b734d90df2f1d39aea64d37010260d3e",
+        "06d222a2d0466222dbf3e65da5bac141"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 1級",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "82c7e1a8bb492f8bac99e69da17b1cc6",
+        "3bc652c43af9610ea8c65e416a8692a9",
+        "afd9acbc0b3f02d4b79689527ff7a77a",
+        "d2a6f16b16f6b65b3bfea9045641e484"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂初段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "51d8af6226aa41d344573c3cf56c137c",
+        "33327c083e714d1284be9a24c5b3789f",
+        "5db82530216546db015d6d06b5b43bce",
+        "9528ee9fd0da7b78723cdc3cbb13b339"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂2段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "f6f79ce620e6e7cf2fb3e11f56bd345a",
+        "ab757516e90e4c493d071f0e9613d218",
+        "a95351b7c319ec1afaa12218141f4858",
+        "35aea1ed5356dfeb79188c0fd6d924e5"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂3段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "90277b3d53087b9aa9662b1fbc48f2f2",
+        "c3985223159b14a42cf7c5d4418e47b6",
+        "eb2636f739a1f371c142592df398ce6c",
+        "059c1d227d706becc72a14a160faa749"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂4段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "da2cbf97eb7375bac5ea7a842e538ff7",
+        "623c26c39c9440141e2e5c9fc55e986c",
+        "448cc5ea1d287501c6c788a23586202d",
+        "a52ef366294961beef077f2964c3aa9a"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂5段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "a5a048358521014c6b8b2eeed8ff43e2",
+        "740aa8ca7e2c7fa75ecfaeb8b61b6d96",
+        "cf2dece20a8cdb8b5ce8253443ce9130",
+        "bbec6791bc0e2c2b23e04ed9c124cc38"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂6段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "9011b2ca9312ad12164315be3fc8ed22",
+        "8d33b573a3e98d94c61266b120308ba3",
+        "9a2d3d99e351873f0f7b266025033683",
+        "b3d6b09ed281e06fcb95970ba951b792"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂7段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "ba5b122cfb53e9499948f9e7623d65ea",
+        "b4d0b1b7c07c8919cf988c8ff39bd34e",
+        "8dfa2c225a6a97c95c80260b14718198",
+        "6974f459545b1d8d9e8c4ec40e1f5f44"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂8段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "9c28c086d1c8b90843b2323e976fd393",
+        "2eedd7865485025d13a03fce077487a0",
+        "c0cf6796d39d204fce5fac95bbd7bd02",
+        "74d051ee6406e85829b7b456868420b7"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂9段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "ec5cd2676ed663b42bd81950cc161b2f",
+        "0e3195bc9fae967217e60717d43d5fe5",
+        "2617ca06f9d4d07f6872d53602bdc70c",
+        "0dc85e572a36348652a7e9b2135ee421"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂10段",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "67364496cd8b11c0a0acb22e55d74e59",
+        "8e616f818ea8bd427f9050827cc562e6",
+        "aa6119658cf0a8c23f8830f01c8740ed",
+        "3dff4432ba2af69c4028b312ecf300ca"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 発狂皆伝",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "42810609d4066a8d889b48d3fb1efed6",
+        "2e50a211bafb905873a34fe18ee9ae5d",
+        "2c4a9d5dd24be774b2f028cd425a7166",
+        "0ae06c02deab42a32a818dd868147f19"
+      ]
+    },
+    {
+      "name": "第5期 PMS段位認定 Overjoy",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "e206ffb42caf8a84dc9f87470d4f5236",
+        "09900452c76ed52a1ffc8e75ffb4ac64",
+        "ac03fa20574b78bc9877939bf6567dc8",
+        "f28dea87dd4faf8c65ee4ae79fd32bce"
+      ]
+    },
+    {
+      "name": "第5期 PMS Undefined",
+      "constraint": [
+        "grade_mirror",
+        "gauge_lr2",
+        ""
+      ],
+      "md5": [
+        "f3b195303e4a5e15a9e176d0a39f7c57",
+        "007807392f1f8cefb730cf29eda1ac6b",
+        "e024332406e5401d714f776beea4d84e",
+        "04d9140dbcf0475833f88b816f55356a",
+        "25802ac944e3c4d77553b267aad9d9dd"
+      ]
+    }
+  ],
+  "original_url": "http://stellawingroad.web.fc2.com/new/pms.html"
+}
