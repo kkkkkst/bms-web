@@ -703,19 +703,6 @@
   },
   {
     "level": "4",
-    "title": "バーチャルセラピー [バーチャルアイドルにディレイで癒やされる音声]",
-    "artist": "dawn-system",
-    "md5": "3bce320da2a1b0fb7b90120c74aa7e7e",
-    "bpm": "166",
-    "notes": "3820",
-    "type": "ディレイ ズレ",
-    "comment": "",
-    "chart": "https://stellabms.xyz/upload/3080",
-    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3bce320da2a1b0fb7b90120c74aa7e7e",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3bce320da2a1b0fb7b90120c74aa7e7e"
-  },
-  {
-    "level": "4",
     "title": "リクロスフェイト [MYTH]",
     "artist": "あとぅす",
     "md5": "496fb6d84d0b73965d4956628dbbbd66",
@@ -791,6 +778,19 @@
     "chart": "",
     "chartview": "http://www.ribbit.xyz/bms/score/view?md5=dea238ba558e3b9de93752ee26e5a4e8",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=dea238ba558e3b9de93752ee26e5a4e8"
+  },
+  {
+    "level": "5",
+    "title": "バーチャルセラピー [バーチャルアイドルにディレイで癒やされる音声]",
+    "artist": "dawn-system",
+    "md5": "3bce320da2a1b0fb7b90120c74aa7e7e",
+    "bpm": "166",
+    "notes": "3820",
+    "type": "ディレイ ズレ",
+    "comment": "",
+    "chart": "https://stellabms.xyz/upload/3080",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=3bce320da2a1b0fb7b90120c74aa7e7e",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=3bce320da2a1b0fb7b90120c74aa7e7e"
   },
   {
     "level": "5",

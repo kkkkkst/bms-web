@@ -18442,6 +18442,19 @@
     "proposerLr2id": 152181
   },
   {
+    "md5": "8cbd3c93f0862823591a0c5bfce527f4",
+    "sha256": "f9db463063f71803c01aa64742f515ad1e025e713b403876db5dd968ed2b1e59",
+    "title": "Lava Control",
+    "artist": "Zris",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/letsbmsedit/16",
+    "level": "4",
+    "comment": "同梱譜面。乱打と皿絡み。3か4で悩みましたが3にしてはちょっと強いかなと思って4で",
+    "proposer": "ねふ",
+    "submission": 2826,
+    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
+  },
+  {
     "md5": "69399bb3ff0484e858c3456930a7ad20",
     "sha256": "77aa2492865d6f887eebe148ef7ddbddd328dfc7e89f2d56be06ebfe5209d4bc",
     "title": "Le Specimen d'un Papillon [FS]",
@@ -40492,6 +40505,20 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "3a879bcfa26078e235a99b0e02f581cf",
+    "sha256": "33b13f4fba8151d1aca9d9635ab207ef460a4b34597d0e94e4fae83b44418cd7",
+    "title": "Quark -Baryon-",
+    "artist": "Hate vs Brilliance obj.Tetra",
+    "url_diff": "https://stellabms.xyz/upload/1946",
+    "url": "http://web.archive.org/web/20120427095927/http://uploader.bms.ms/bof2008/?download=quark_ogg.rar",
+    "level": "13",
+    "comment": "乱打、同時、ラス殺し sl12～st0?　180BPM, total480(0.19%/note)",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 2118,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
+  },
+  {
     "md5": "f5bb20d2bbb4341ffd6262b5aacdf4e3",
     "title": "RAPID STRIKE -Destroy them all!-",
     "artist": "NIKITA / obj:BAECON",
@@ -43196,6 +43223,19 @@
     "proposer": "SHAX.",
     "submission": 1255,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "40945ac53d71755c819ef3024f08216f",
+    "sha256": "ec7adde95f9a53cb2c67c361090433ddfc0de3089c4019f71a32fa1f5dccb224",
+    "title": "Eldritch Queen",
+    "artist": "BTB",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=137",
+    "level": "14",
+    "comment": "BPM172 乱打",
+    "proposer": "EGRET.",
+    "submission": 2117,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "level": "14",
@@ -52749,6 +52789,19 @@
     "comment": "",
     "submission": 20,
     "sha256": "dccf8d1a3dc18441d6b19bb760f5dd68fbd41282b20f69badd01b2c3ee5bc331"
+  },
+  {
+    "md5": "67b038af314de078e9c58806dc208e37",
+    "sha256": "1e1ddf699237c5f4188a5f32d258ba77c6119456161bb9eac0c9b1c89d8da889",
+    "title": "Reason [ινσανε]",
+    "artist": "Juno BGI : Sierra obj:秘密 vs chack",
+    "url_diff": "https://www.dropbox.com/s/1mcaxkib430eaz0/_reason_insane.bms?dl=1",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=376&event=104",
+    "level": "16",
+    "comment": "jacks, delay",
+    "proposer": "歳納京子",
+    "submission": 2116,
+    "proposerLr2id": 75332
   },
   {
     "md5": "606ea0071e3e0ecad116a2e823ed8b87",

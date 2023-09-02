@@ -141,7 +141,7 @@
     "name_diff": "M-SPIN",
     "date": "Sun Feb 26 2017 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "KF音源基盤。後半キー音任意配列修正あり。"
+    "comment": "KF音源基盤。後半にキー音配列修正あり。"
   },
   {
     "level": "3",
@@ -501,7 +501,7 @@
     "name_diff": "LuvTek",
     "date": "Sat Nov 14 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/08W2mWJmdTw",
-    "comment": "st2 キー音オブジェクトが追加される"
+    "comment": "st2"
   },
   {
     "level": "7",
@@ -1557,7 +1557,7 @@
     "name_diff": "fsrs",
     "date": "Sun Nov 01 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/2e9f_fc_UoE",
-    "comment": "st5 キツネ $20->$10->$11"
+    "comment": "st5 キツネ $10->$11"
   },
   {
     "level": "12",
@@ -1809,7 +1809,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Nov 02 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/0P90p1qlUyw",
-    "comment": ""
+    "comment": "軸と微ソフランと微連打"
   },
   {
     "level": "12",
@@ -1929,7 +1929,7 @@
     "name_diff": "fsrs",
     "date": "Fri Jan 31 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/4HwhteFCAW4",
-    "comment": "st7"
+    "comment": "st7 キツネ $20"
   },
   {
     "level": "20",
@@ -1941,7 +1941,7 @@
     "name_diff": "M-SPIN",
     "date": "Wed Dec 04 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/q2911Y11Lxs",
-    "comment": "N音源基盤にAキー音を一部使用"
+    "comment": "N基盤にA音源を一部使用"
   },
   {
     "level": "30",
@@ -2037,7 +2037,7 @@
     "name_diff": "fsrs",
     "date": "Sun Nov 07 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/4NtTXtiQE78",
-    "comment": "st9 後半耐久系"
+    "comment": "st9 後半耐久系 キツネ  $30"
   },
   {
     "level": "90",
@@ -2073,7 +2073,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Oct 28 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "ノーマゲで12POOR出すならクリア不可か ★16?"
+    "comment": "LIFE12ゲージ ★16?"
   },
   {
     "level": "90",
@@ -2085,7 +2085,7 @@
     "name_diff": "M-SPIN",
     "date": "Wed Dec 04 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "過去差分のキー音duplicate修正本(7A音源基盤)"
+    "comment": "過去差分の修正本(7A基盤)"
   },
   {
     "level": "90",
@@ -2097,7 +2097,7 @@
     "name_diff": "M-SPIN",
     "date": "Sat Jul 31 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/aPEpWErCSFU",
-    "comment": "後半回復系"
+    "comment": "後半回復系 ★★1"
   },
   {
     "level": "90",
@@ -2157,7 +2157,7 @@
     "name_diff": "M-SPIN",
     "date": "Fri Mar 30 2018 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
-    "comment": "TOTAL 222 ギミック ★★1? "
+    "comment": "TOTAL 222 ギミック ★★1"
   },
   {
     "level": "90",
