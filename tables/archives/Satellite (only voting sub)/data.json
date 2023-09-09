@@ -1,30 +1,5 @@
 [
   {
-    "md5": "b3ca0a033854b7fc4c5ea5ad0fdd75f7",
-    "sha256": "98cb7202fa313b9b896b2150418baf81f6ec42fadf52657a4232ca09ad1e407c",
-    "title": "514nm(Kucchi☆mix) [ANOTHER]",
-    "artist": "Another Infinity vs ZUN Remixed by くっちー BGA:chiArosCuro",
-    "url_diff": "",
-    "url": "http://dropbox.bms.ms/u/95333411/BMS/k_514nm_wav.rar",
-    "level": "0",
-    "proposer": "LR2쿠키",
-    "submission": 2820,
-    "proposerLr2id": 179649
-  },
-  {
-    "md5": "f0f71be0bf92880acfd724b5aa0b85a5",
-    "sha256": "fa17c85bb2c6a55254de2cadc08e8828b41bc8e2a21712fbf0255f1a99e0229b",
-    "title": "Absolute Future [HYPER]",
-    "artist": "otoshi.b Movie:Arishima_Caprico",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=123",
-    "level": "0",
-    "comment": "G2R2018",
-    "proposer": "重野葵",
-    "submission": 2821,
-    "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
-  },
-  {
     "md5": "35940de949dede743c6691753955cec2",
     "sha256": "3a08ba78e90b46206d1502d480a8f4642c874a599900ad414a6988bcf4a186ee",
     "title": "Explosion Floor 2014 [SP Another]",
@@ -49,6 +24,32 @@
     "proposer": "Mary_Sue",
     "submission": 2828,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "c5dd072fc62cf19c4b675d9af8bc940e",
+    "sha256": "a3d0d91a9f0689e5d7d62d6148f2ac3debd7c06e62509830cc2c22b80190da3a",
+    "title": "purification [SP ANOTHER]",
+    "artist": "qfeileadh Movie : amyu",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=127",
+    "level": "0",
+    "proposer": "AparallelX",
+    "submission": 2845,
+    "proposerLr2id": 140277
+  },
+  {
+    "md5": "52057b7ec47ccc3d07ed7c180426fb10",
+    "sha256": "6846ef8f40a80b296c77836631e1ae81f98880b1d5ae1c70f4b836cbc1f860f6",
+    "title": "Yorixiro [46THER]",
+    "artist": "Reku Mochizuki obj. Shiroha",
+    "url_diff": "https://stellabms.xyz/upload/3005",
+    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=5&order=reg&odtype=a",
+    "level": "0",
+    "comment": "sl0~1? (total:400, 0.252%/note)",
+    "zureCount": 0,
+    "proposer": "hecando",
+    "submission": 2842,
+    "proposerLr2id": 171650
   },
   {
     "md5": "3a4818138b94497de56f91f4b9b212c3",
@@ -77,20 +78,17 @@
     "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
-    "title": "faRE:well [ANOTHER]",
-    "artist": "Sound-Box(feat.A.Dokuga)",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=123",
-    "url_diff": "",
-    "md5": "5f87b408b3369c0d0d454865ee0b89fe",
-    "sha256": "223cb12d1ffce5f88020eef61de4244248ea5a720b342eff78653b2f176705eb",
-    "proposer": "重野葵",
+    "md5": "2041887891052d62d8c2ae4ad02665bf",
+    "sha256": "8a6418b3445032ceb8d7869e39f910763ce12592ae784877ec170cfb5466a021",
+    "title": "Oekaki [SP Drawing]",
+    "artist": "chilldive obj:Dignitas",
+    "url_diff": "https://venue.bmssearch.net/sd_black/4",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=140&num=297",
     "level": "1",
-    "submission": 1626,
-    "voteYes": 12,
-    "voteNeutral": 7,
-    "voteNo": 2,
-    "votePercent": 73.80952380952381,
-    "voteVersion": 2,
+    "comment": "BOF:ET / SABUN in the DARK / sl0~1",
+    "zureCount": 0,
+    "proposer": "重野葵",
+    "submission": 2838,
     "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
   },
   {
@@ -105,6 +103,37 @@
     "proposer": "ИиИ",
     "submission": 2831,
     "proposerLr2id": 147895
+  },
+  {
+    "title": "糸引く夏のエデンにて。 [owari.]",
+    "artist": "Setca. obj:hecando",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=140",
+    "url_diff": "https://stellabms.xyz/upload/2722",
+    "md5": "a1aa77a3f90460daff4620fb9c80f9a6",
+    "sha256": "ca481c3de947391a1c61b22d29c3cbab0336a2b4d3793b19a97bc11a6a52520a",
+    "proposer": "sangonana",
+    "level": "1",
+    "submission": 2758,
+    "voteYes": 9,
+    "voteNeutral": 5,
+    "voteNo": 1,
+    "votePercent": 76.66666666666667,
+    "voteVersion": 2,
+    "proposerLr2id": 148764
+  },
+  {
+    "md5": "0b1582496c59b4a97f44a599ff900b51",
+    "sha256": "d87984341785e68b3e9e3343a9ab5b2d1ad2857081b0791a6b59ab927ba54a5e",
+    "title": "Air",
+    "artist": "SHIKI / 74",
+    "url_diff": "https://stellabms.xyz/upload/3115",
+    "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
+    "level": "2",
+    "comment": "bpm180 乱打",
+    "zureCount": 0,
+    "proposer": "mqppppp",
+    "submission": 2843,
+    "proposerMinirid": "da079373-08be-4151-a76f-8ed44123949a"
   },
   {
     "md5": "2607ae29c8bad70ba7e6e8867ba6d385",
@@ -187,21 +216,18 @@
     "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
-    "title": "SATSUKI [White Another]",
-    "artist": "shimizushi illust:a.a / obj:DJ.END",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=121",
-    "url_diff": "",
-    "md5": "dc569990b2806be2189793d207b00682",
-    "sha256": "c71c56c7ac747d3780f033ac4858729e76300aafe94b1619ad3929f4a30e8ca7",
-    "proposer": "ねふ",
+    "md5": "c30b3a221b9a22cbbf4b9c3ed1409edb",
+    "sha256": "ef0fe205d4ff7ffc040c927862030c869d5b7a87dbedd5c5b610757fd26c2a78",
+    "title": "scualee [et omnia vanitas]",
+    "artist": "Aoi mov:出前 / obj:白洲",
+    "url_diff": "https://venue.bmssearch.net/sd_gray/2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=462&event=140",
     "level": "5",
-    "submission": 704,
-    "voteYes": 5,
-    "voteNeutral": 4,
-    "voteNo": 4,
-    "votePercent": 53.84615384615385,
-    "voteVersion": 2,
-    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
+    "comment": "BPM150 乱打+α",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2840,
+    "proposerLr2id": 65624
   },
   {
     "md5": "317d10f938b4884335106338d4e64b59",
@@ -215,6 +241,20 @@
     "proposer": "qtp13",
     "submission": 2835,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "aa240006d2915ca8e305977f526a7a26",
+    "sha256": "567b09258d01575c9a6dc1f1b6ac685738b13628e93583ec6429c19df28e4cce",
+    "title": "遠声 (嵐)",
+    "artist": "道済　儚　及び　秋山　としのり / 藍",
+    "url_diff": "https://stellabms.xyz/upload/3114",
+    "url": "http://yaritaihoudie.free.fr/bms/boxofsins/toogoe.rar",
+    "level": "5",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "Reiaki",
+    "submission": 2839,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
     "md5": "9242321e4ac02f19f897ea88c1f93eeb",
@@ -258,30 +298,18 @@
     "proposerMinirid": "08a41861-a9f3-47b6-b40a-04f091becf1a"
   },
   {
-    "md5": "e4f89eb4572349f2c8856de7ceb667c8",
-    "sha256": "fdd97cd379970d6f1d2f5e037dda739b9d9b8c77dd1be1d47d4235e7183687fe",
-    "title": "Fluctuate [Trigon]",
-    "artist": "ALFOU obj:1008",
-    "url_diff": "https://drive.google.com/file/d/1YLPy9C3evokOr4KtkAKuI9x5S21w-br0/view?usp=sharing",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=123",
-    "level": "8",
-    "comment": "高速乱打、物量",
-    "proposer": "ABKAOD",
-    "submission": 2814,
-    "proposerLr2id": 175744
-  },
-  {
-    "md5": "b0e2f45d0c6d6234a14bfab46d7ead57",
-    "sha256": "d3830366f0c086085679af4cf4e3ef4ded225652f4c1f14d54ca043157737c51",
-    "title": "情熱大連 [yumether]",
-    "artist": "Zris / obj:夢瑠",
-    "url_diff": "https://dl.dropboxusercontent.com/s/4tqf1xa3227hjd6/_dalian_yume.zip",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=140",
-    "level": "8",
-    "comment": "BPM156 微連打",
-    "proposer": "fuko",
-    "submission": 2804,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+    "md5": "686221db564c91b0ebd67c4b55770f1e",
+    "sha256": "c55bddef8404e4671aa41ee5516e1e35b58301effcd65fd39275e9b34439e876",
+    "title": "bibital orbital [straying]",
+    "artist": "utubo obj:yui",
+    "url_diff": "https://venue.bmssearch.net/sd_gray/17",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=416&event=133",
+    "level": "9",
+    "comment": "BPM158 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2841,
+    "proposerLr2id": 65624
   },
   {
     "md5": "b274d8fce2a3fc3d255250044b6ea03c",
@@ -309,6 +337,33 @@
     "proposer": "Mary_Sue",
     "submission": 2829,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "40d928713e59470daf86534878198dc9",
+    "sha256": "b0f85d6a773967b3b6be224066215aa96b0e6e6f3067955392c5d49279bffe60",
+    "title": "糸引く夏のエデンにて。 [Insane]",
+    "artist": "Setca. obj:BAECON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=140",
+    "level": "9",
+    "comment": "BOF:ET/中速、同時押し、物量",
+    "proposer": "sangonana",
+    "submission": 2837,
+    "proposerLr2id": 148764
+  },
+  {
+    "md5": "8be8fccdee2da27016699e541ee11cd3",
+    "sha256": "a5ab25abbe10f12e813c9ff0047e71dad1aa5e58b8f1bcf39f6bdec0227f1d5d",
+    "title": "Ms. Steam [Elementary My Dear]",
+    "artist": "MoVIIkA Movie: NaO_AnD/obj.バリツ",
+    "url_diff": "https://stellabms.xyz/upload/3124",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
+    "level": "10",
+    "comment": "物量",
+    "zureCount": 0,
+    "proposer": "mqppppp",
+    "submission": 2844,
+    "proposerMinirid": "da079373-08be-4151-a76f-8ed44123949a"
   },
   {
     "md5": "bb30f688df074d7c009ebd8751534434",

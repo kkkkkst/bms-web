@@ -348,6 +348,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "961f2de5e160520808632f9453bf0954",
+    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "1ab2a0140e177fc8681b93cb6768093d",
     "title": "Reality [14keys Hyper]",
     "level": "0.50...1.00",
@@ -502,6 +508,12 @@
     "title": "Magical Love Words (vovovo.mix) -another14-",
     "level": "1.00...1.50",
     "comment": "sl1"
+  },
+  {
+    "md5": "f559a333229ccd9b19a1f251f62e2900",
+    "title": "Mermaid [14key Another]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
   },
   {
     "md5": "e0778c29c02c8b155b95b03b300182b5",
@@ -718,6 +730,12 @@
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
+  },
+  {
+    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
+    "title": "マッドメチャクチャニズム [DP HYPER]",
+    "level": "1.50...2.00",
+    "comment": "sl0"
   },
   {
     "md5": "9c709acbc81e788da0b5ecc033746635",
@@ -1050,6 +1068,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
+    "title": "翼の折れた天使たちのレクイエム [DP Another]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "3.00...3.50",
@@ -1128,15 +1152,15 @@
     "comment": "sl3"
   },
   {
-    "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
-    "title": "翼の折れた天使たちのレクイエム [DP Another]",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "5c1c97a00af7b108e2a53afecba82cc3",
     "title": "雪肌玉惚少女 [DP Another]",
     "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "7350b957c0c4a5100ca6fca9b24b144e",
+    "title": "2anyFirst [14-A]",
+    "level": "3.50...4.00",
     "comment": "sl3"
   },
   {
@@ -1386,16 +1410,16 @@
     "comment": "sl3"
   },
   {
-    "md5": "82fc0c8a10aa9820232865dc0f996706",
-    "title": "踊る水飛沫 [DP-sagANOTHER]",
+    "md5": "57bf2117e01dba19e4fa172ade61d400",
+    "title": "藍煉の人形 [DPA.NOTHER]",
     "level": "3.50...4.00",
     "comment": "sl4"
   },
   {
-    "md5": "7350b957c0c4a5100ca6fca9b24b144e",
-    "title": "2anyFirst [14-A]",
-    "level": "4.00...4.50",
-    "comment": "sl3"
+    "md5": "82fc0c8a10aa9820232865dc0f996706",
+    "title": "踊る水飛沫 [DP-sagANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl4"
   },
   {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
@@ -1602,12 +1626,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "57bf2117e01dba19e4fa172ade61d400",
-    "title": "藍煉の人形 [DPA.NOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "6408314fb66561cce094b8f6695762d6",
     "title": "衛星ミカボシ [DP]",
     "level": "4.00...4.50",
@@ -1646,6 +1664,12 @@
   {
     "md5": "22aecf56d1de614852af9d27b3693984",
     "title": "H.S : Hadron Strike [DP HYPER]",
+    "level": "4.50...5.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "f857959df640cdb58ceaa0aab57e6036",
+    "title": "JUGGLE [DP R3cycl3r]",
     "level": "4.50...5.00",
     "comment": "sl5"
   },
@@ -1800,12 +1824,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "f857959df640cdb58ceaa0aab57e6036",
-    "title": "JUGGLE [DP R3cycl3r]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "43033d8833436e482a5d745e0721b196",
     "title": "Light drivv -DP ANOTHER-",
     "level": "5.00...5.50",
@@ -1826,6 +1844,12 @@
   {
     "md5": "762258885246b239006c8294e08b1165",
     "title": "Modern Times",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
+    "title": "Moon-gate -DP Chalenger-",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -1920,6 +1944,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "3c810e083b74b323b84593d52a78e1c9",
+    "title": "あのね、涙は。 [DP-sagINSANE]",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "3bb6b6cc5683fa43fca60a722fccd566",
     "title": "ふゆいろ ドリーマー",
     "level": "5.00...5.50",
@@ -1986,12 +2016,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
-    "title": "Moon-gate -DP Chalenger-",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "f933308f0963b29ad48b6fe249689560",
     "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "5.50...6.00",
@@ -2006,12 +2030,6 @@
   {
     "md5": "a770062c765839e1e2e35273397b3577",
     "title": "Wonderful Tomorrow [14Wonderful Today]",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
-    "md5": "3c810e083b74b323b84593d52a78e1c9",
-    "title": "あのね、涙は。 [DP-sagINSANE]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -2424,6 +2442,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "c6428149a20ab6353cb2110c17b36179",
+    "title": "J2U(crazy remix) [DP ANOTHER]",
+    "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
     "md5": "925a23c6e9de8b91bb22f6f6c7e368cd",
     "title": "Jack o' Lantern -14keys-",
     "level": "7.00...7.50",
@@ -2590,12 +2614,6 @@
     "title": "IN [HAORSE MUSIC / DP譜面]",
     "level": "7.50...8.00",
     "comment": "sl8"
-  },
-  {
-    "md5": "c6428149a20ab6353cb2110c17b36179",
-    "title": "J2U(crazy remix) [DP ANOTHER]",
-    "level": "7.50...8.00",
-    "comment": "sl7"
   },
   {
     "md5": "de8c6827b28bc4b92471e7065d0eb698",
@@ -2850,12 +2868,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "ff344cb441cdfd5a343b05f7f5d930ab",
-    "title": "キユビック [(d+p)^3]",
-    "level": "8.00...8.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "9b2a7f55232d233a4dfa40442425db4b",
     "title": "バーチャルセラピー [DP THERAPY]",
     "level": "8.00...8.50",
@@ -2982,6 +2994,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "ff344cb441cdfd5a343b05f7f5d930ab",
+    "title": "キユビック [(d+p)^3]",
+    "level": "8.50...9.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "2410f0012ff221ef64923eaafc027389",
     "title": "月時計 Last・Dial (DoubleLunatic+)",
     "level": "8.50...9.00",
@@ -3054,12 +3072,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
-    "title": "Non Return to Zero [DP ANOTHER]",
-    "level": "9.00...9.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "388e05189bdc0f964c474cb01dd1d27e",
     "title": "Orillia [DP-sagINSANE]",
     "level": "9.00...9.50",
@@ -3070,12 +3082,6 @@
     "title": "Parasitize Your Head [DP INSANE]",
     "level": "9.00...9.50",
     "comment": "sl9"
-  },
-  {
-    "md5": "99cbb8f15bae66bb36f942d7c6389de6",
-    "title": "Realize [starry 14]",
-    "level": "9.00...9.50",
-    "comment": "sl10"
   },
   {
     "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
@@ -3162,8 +3168,20 @@
     "comment": "sl10"
   },
   {
+    "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
+    "title": "Non Return to Zero [DP ANOTHER]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "b69172f4882a5a0e03d84352f812a994",
     "title": "Psalms [さよなら、ユートピア]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "99cbb8f15bae66bb36f942d7c6389de6",
+    "title": "Realize [starry 14]",
     "level": "9.50...10.00",
     "comment": "sl10"
   },
