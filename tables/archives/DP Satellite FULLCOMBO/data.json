@@ -720,12 +720,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
-    "title": "すばらきしこのせかい [for Beginner]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
     "level": "7.00...7.50",
@@ -938,6 +932,12 @@
   {
     "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
     "title": "お兄火 [DP Another]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
+    "title": "すばらきしこのせかい [for Beginner]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -1218,12 +1218,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "3106c92d0952f2aaa165e041d70a391c",
-    "title": "バーチャルセラピー [DP INSANE]",
-    "level": "9.50...10.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "57bf2117e01dba19e4fa172ade61d400",
     "title": "藍煉の人形 [DPA.NOTHER]",
     "level": "9.50...10.00",
@@ -1352,6 +1346,12 @@
   {
     "md5": "1b53f2de1438d96554c62502aa3825bd",
     "title": "アリスの空虚で愉快な人形劇 [DP ANOTHER]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "3106c92d0952f2aaa165e041d70a391c",
+    "title": "バーチャルセラピー [DP INSANE]",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -1899,7 +1899,7 @@
     "md5": "ffa8beca32b6552e6fd003183a074faf",
     "title": "Bogus of True (DPA)",
     "level": "-",
-    "comment": "sl8"
+    "comment": "sl9"
   },
   {
     "md5": "d820be8513cd93b29f14d1ee0182d553",
@@ -1930,6 +1930,12 @@
     "title": "Catricious [DP ANOTHER]",
     "level": "-",
     "comment": "sl5"
+  },
+  {
+    "md5": "44c7bb601b66276777ffc1bd32f8617a",
+    "title": "Ceebu Yapp",
+    "level": "-",
+    "comment": "sl2"
   },
   {
     "md5": "7e3def092791e260b1a3b2f0ae4638b3",
@@ -2262,6 +2268,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "344f3eb3b1f1fc279f68307e0110931e",
+    "title": "GRID",
+    "level": "-",
+    "comment": "sl1"
+  },
+  {
     "md5": "3615e69aa5ae32a4574a694af7c2551b",
     "title": "Grievous Fate [DP ANOTHER]",
     "level": "-",
@@ -2481,13 +2493,13 @@
     "md5": "f559a333229ccd9b19a1f251f62e2900",
     "title": "Mermaid [14key Another]",
     "level": "-",
-    "comment": "sl2"
+    "comment": "sl3"
   },
   {
     "md5": "773951a8a13fcb7165d903e57a33ec18",
     "title": "Midnight Flux",
     "level": "-",
-    "comment": "sl7"
+    "comment": "sl6"
   },
   {
     "md5": "1e0e287cb85ccfaf70dcbdf02589b52e",

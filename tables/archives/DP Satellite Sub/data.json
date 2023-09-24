@@ -2371,18 +2371,6 @@
     "proposerLr2id": 72753
   },
   {
-    "md5": "f559a333229ccd9b19a1f251f62e2900",
-    "sha256": "53bb98e50ac2e08e49c7ee8787fd700310bd00f506d01a3b8da432c13302f8b4",
-    "title": "Mermaid [14key Another]",
-    "artist": "Aliesrite* (Ym1024 feat. lamie*) Movie : retu",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=137",
-    "level": "2",
-    "proposer": "Nickname",
-    "submission": 839,
-    "proposerLr2id": 129499
-  },
-  {
     "md5": "df3e947f0886e96f59760f8ed2ef38b8",
     "sha256": "71fb000e6f12f49c0378b3851b4c7deec4f26075193cb9f077df46970909fe46",
     "title": "Nichirin [DP Another]",
@@ -3213,6 +3201,18 @@
     "proposer": "にゃむ",
     "submission": 317,
     "proposerLr2id": 139958
+  },
+  {
+    "md5": "f559a333229ccd9b19a1f251f62e2900",
+    "sha256": "53bb98e50ac2e08e49c7ee8787fd700310bd00f506d01a3b8da432c13302f8b4",
+    "title": "Mermaid [14key Another]",
+    "artist": "Aliesrite* (Ym1024 feat. lamie*) Movie : retu",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=137",
+    "level": "3",
+    "proposer": "Nickname",
+    "submission": 839,
+    "proposerLr2id": 129499
   },
   {
     "md5": "b5836227dfd1f1b866fbc5c847c4ed51",
@@ -6118,6 +6118,20 @@
     "proposerLr2id": 147123
   },
   {
+    "md5": "773951a8a13fcb7165d903e57a33ec18",
+    "sha256": "edacb6a3214ea90789a7afcee4cb54e07a3af2f770854a9e92df638b03da9e95",
+    "title": "Midnight Flux",
+    "artist": "ProjectG / 0310",
+    "url_diff": "https://yaruki0.net/sabun/dp2019.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
+    "level": "6",
+    "comment": "7?",
+    "zureCount": 0,
+    "proposer": "JHS",
+    "submission": 601,
+    "proposerLr2id": 128228
+  },
+  {
     "md5": "855a2b130f5f522b4629606c5650484a",
     "sha256": "3716c82bfc6ec78e51d2ece5cfda1a047138053cfd3a59cc5d63f068b8f34b20",
     "title": "Ms.Naive Princess [Symmetry14]",
@@ -6995,20 +7009,6 @@
     "proposerLr2id": 128228
   },
   {
-    "md5": "773951a8a13fcb7165d903e57a33ec18",
-    "sha256": "edacb6a3214ea90789a7afcee4cb54e07a3af2f770854a9e92df638b03da9e95",
-    "title": "Midnight Flux",
-    "artist": "ProjectG / 0310",
-    "url_diff": "https://yaruki0.net/sabun/dp2019.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
-    "level": "7",
-    "comment": "7?",
-    "zureCount": 0,
-    "proposer": "JHS",
-    "submission": 601,
-    "proposerLr2id": 128228
-  },
-  {
     "level": "7",
     "md5": "e7b02a0c898847cccdef2db546e16c1b",
     "sha256": "09b23c3139d414efe1aa8eb459b4f1e70c88eb16fa20bd44eefbc64d4d2fc596",
@@ -7625,18 +7625,6 @@
     "proposer": "にゃむ",
     "submission": 387,
     "proposerLr2id": 139958
-  },
-  {
-    "md5": "ffa8beca32b6552e6fd003183a074faf",
-    "sha256": "78c7a46e4adcb7d481d57699fbcdb0933852882b5756ea7ebf7b021c7d612f17",
-    "title": "Bogus of True (DPA)",
-    "artist": "polysha feat.Eir&Sasara",
-    "url_diff": "https://www8.atwiki.jp/14key/pages/23.html",
-    "url": "http://sdrv.ms/18yFb36",
-    "level": "8",
-    "proposer": "coco",
-    "submission": 302,
-    "proposerLr2id": 147123
   },
   {
     "md5": "d820be8513cd93b29f14d1ee0182d553",
@@ -8466,6 +8454,18 @@
     "proposer": "にゃむ",
     "submission": 635,
     "proposerLr2id": 139958
+  },
+  {
+    "md5": "ffa8beca32b6552e6fd003183a074faf",
+    "sha256": "78c7a46e4adcb7d481d57699fbcdb0933852882b5756ea7ebf7b021c7d612f17",
+    "title": "Bogus of True (DPA)",
+    "artist": "polysha feat.Eir&Sasara",
+    "url_diff": "https://www8.atwiki.jp/14key/pages/23.html",
+    "url": "http://sdrv.ms/18yFb36",
+    "level": "9",
+    "proposer": "coco",
+    "submission": 302,
+    "proposerLr2id": 147123
   },
   {
     "level": "9",
