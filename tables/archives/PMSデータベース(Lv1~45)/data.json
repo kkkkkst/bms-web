@@ -1292,6 +1292,25 @@
     "state_total": "47"
   },
   {
+    "level": "4",
+    "": "",
+    "title": "屈從物語",
+    "sha256": "d38d6c528a0321d81cd49c43a37fd325384bd11d9906a578725d2bfc9e77aea5",
+    "md5": "e5e6f96383082ef437d1c2d7824c3f0c",
+    "video1": "",
+    "video2": "",
+    "notes": "56",
+    "total": "280 (5%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/24",
+    "artist": "0310 (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv4→4",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
     "level": "5",
     "": "",
     "title": "ConnectioN ReforM [5BUTTONS]",
@@ -4522,6 +4541,25 @@
     "state_total": "47"
   },
   {
+    "level": "9",
+    "": "",
+    "title": "Datura",
+    "sha256": "c4248654606f63ae73001d5bcafe552ac0efa9c3d717a00a7a70f5c9fefc414c",
+    "md5": "439b7b6775c644d5989843fb1324688d",
+    "video1": "",
+    "video2": "",
+    "notes": "150",
+    "total": "290 (1.933%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/14",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv9→9",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
     "level": "10",
     "": "",
     "title": "D-25 -disintegrate- [5BUTTONS]",
@@ -5563,8 +5601,8 @@
     "artist": "Daniel Rotwind (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "11",
@@ -6496,6 +6534,25 @@
     "comment": "",
     "state": "",
     "state_total": "40"
+  },
+  {
+    "level": "11",
+    "": "",
+    "title": "Black Erica",
+    "sha256": "c7be586e2ef3b39ea4bc3c7c1608761213f39d8f26f67993e38fab88812a1847",
+    "md5": "d789af8550ba02e46e7eb31c3d523d68",
+    "video1": "",
+    "video2": "",
+    "notes": "127",
+    "total": "300 (2.362%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/9",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv11→11",
+    "state": "1",
+    "state_total": "41"
   },
   {
     "level": "12",
@@ -12141,6 +12198,25 @@
     "state_total": "40"
   },
   {
+    "level": "15",
+    "": "",
+    "title": "Lunatic Lobelia",
+    "sha256": "71363249aaa1ffcd4f0b1cefbb4f79c6d10b2c5bfe5c69f2403afbf418b31859",
+    "md5": "6ecaef6a1d5b8ef3490b0979336334eb",
+    "video1": "",
+    "video2": "",
+    "notes": "140",
+    "total": "290 (2.071%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/15",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv15→15",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
     "level": "16",
     "": "",
     "title": "E.le_G [5BUTTONS]",
@@ -13298,6 +13374,44 @@
     "comment": "",
     "state": "",
     "state_total": "40"
+  },
+  {
+    "level": "16",
+    "": "",
+    "title": "Warning Girl!!!!",
+    "sha256": "50e7510cbb44f01e50498479ab3495df0331eb119ff7f81a0fbcf03dc580e2e7",
+    "md5": "cc62cefd93eef55bb307c20816db971f",
+    "video1": "",
+    "video2": "",
+    "notes": "213",
+    "total": "290 (1.362%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/8",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv16→16",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
+    "level": "16",
+    "": "",
+    "title": "Song [FULL PMS NORMAL] [BMSON差分]",
+    "sha256": "778ca03c30e5b5bcd9f91d4f362f2b62c2b6ac0b1c7a51fc993a55f437323e14",
+    "md5": "4ebd735b7b91a16a3dbd04dbc79ed9bf",
+    "video1": "",
+    "video2": "",
+    "notes": "634",
+    "total": "1013 (1.598%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱 (BMSSP2022) *BOF:ET 版には非同梱",
+    "url": "https://trialgabber.github.io/BMS-Starter-Pack-2022/",
+    "artist": "大前 司 / movie: Mido (BMS Starter Pack 2022 パッケージ)",
+    "memo": "",
+    "comment": "長尺(約6分)　難易度更新: lv23→16",
+    "state": "1",
+    "state_total": "41"
   },
   {
     "level": "17",
@@ -14702,8 +14816,8 @@
     "artist": "qune",
     "memo": "",
     "comment": "LNあり　難易度更新:lv15→17",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "18",
@@ -16317,8 +16431,8 @@
     "artist": "しらす (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv20→18",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "18",
@@ -16336,8 +16450,8 @@
     "artist": "zatsuzatsu (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv21→18",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "19",
@@ -24791,8 +24905,8 @@
     "artist": "Mr.Faine (BMSパッケージ企画\"ゆるゆる\" Phase 19)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "23",
@@ -30396,6 +30510,25 @@
     "artist": "ShooTinGStaR (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "NORMAL判定　難易度更新:lv18→24",
+    "state": "",
+    "state_total": "40"
+  },
+  {
+    "level": "24",
+    "": "",
+    "title": "Black Erica",
+    "sha256": "c81ec8ef8f01855f08e125c3387c85c2326ac5103ee87c53998267bd131c5958",
+    "md5": "0567fb618b962527661b9dfa92d74afb",
+    "video1": "",
+    "video2": "",
+    "notes": "415",
+    "total": "280 (0.675%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/9",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv24→24",
     "state": "1",
     "state_total": "41"
   },
@@ -36286,8 +36419,8 @@
     "artist": "ShooTinGStaR (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "NORMAL判定　難易度更新:lv26→40",
-    "state": "1",
-    "state_total": "31"
+    "state": "",
+    "state_total": "30"
   },
   {
     "level": "27",
@@ -38910,6 +39043,63 @@
     "comment": "",
     "state": "",
     "state_total": "40"
+  },
+  {
+    "level": "27",
+    "": "",
+    "title": "Mesugaki metronome teaches you.",
+    "sha256": "f192a9d85502ea882b3452f28e2524817f514bd84645351291ea025efbbb6fc0",
+    "md5": "f3a2e8a421883ca029821824bbbe9de2",
+    "video1": "",
+    "video2": "",
+    "notes": "416",
+    "total": "250 (0.601%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/1",
+    "artist": "momo★yama (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "NORMAL判定　難易度更新: lv29→27",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
+    "level": "27",
+    "": "",
+    "title": "Warning Girl!!!!",
+    "sha256": "e03bf534b8006c28fe246e9650895758e721fc09b89ba68e2975cad53ae340e1",
+    "md5": "b58708a47e72137574311aaaabe5568c",
+    "video1": "",
+    "video2": "",
+    "notes": "467",
+    "total": "270 (0.578%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/8",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv27→27",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
+    "level": "27",
+    "": "",
+    "title": "Lunatic Lobelia",
+    "sha256": "eece4f207cc7b654292748a8673c47fade5efb9254a863f83891032069ad1549",
+    "md5": "1642c4cf05d54e173804aec5d2d9c4ae",
+    "video1": "",
+    "video2": "",
+    "notes": "462",
+    "total": "270 (0.584%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/15",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv27→27",
+    "state": "1",
+    "state_total": "41"
   },
   {
     "level": "28",
@@ -42138,6 +42328,25 @@
     "artist": "YuKa (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
+    "state": "",
+    "state_total": "40"
+  },
+  {
+    "level": "28",
+    "": "",
+    "title": "Datura",
+    "sha256": "1798204baf0b995f1a5167adc8669469e1d4944384c3937c421987e2ce5bd44f",
+    "md5": "60e9e04b777c493f30cb8714abf58c34",
+    "video1": "",
+    "video2": "",
+    "notes": "458",
+    "total": "270 (0.59%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/14",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv28→28",
     "state": "1",
     "state_total": "41"
   },
@@ -45064,8 +45273,8 @@
     "artist": "LLRK (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "30",
@@ -64961,6 +65170,25 @@
     "state_total": "0"
   },
   {
+    "level": "35",
+    "": "",
+    "title": "Song [FULL PMS HYPER] [BMSON差分]",
+    "sha256": "345f49755a5db9e14fcb5cf75d6e1f77cb375984a88c1237357ea0a930a73d3f",
+    "md5": "7ebf2659c54880082e7ca0148b38c655",
+    "video1": "",
+    "video2": "",
+    "notes": "1901",
+    "total": "906 (0.477%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱 (BMSSP2022) *BOF:ET 版には非同梱",
+    "url": "https://trialgabber.github.io/BMS-Starter-Pack-2022/",
+    "artist": "大前 司 / movie: Mido (BMS Starter Pack 2022 パッケージ)",
+    "memo": "",
+    "comment": "長尺(約6分)　難易度更新: lv37→35",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
     "level": "36",
     "": "",
     "title": "Astaroth",
@@ -68548,8 +68776,8 @@
     "artist": "DJ Excuses (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv32→36",
-    "state": "1",
-    "state_total": "31"
+    "state": "",
+    "state_total": "30"
   },
   {
     "level": "36",
@@ -68567,8 +68795,8 @@
     "artist": "Mr.Faine (BMSパッケージ企画\"ゆるゆる\" Phase 19)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "37",
@@ -75924,6 +76152,44 @@
     "state_total": "40"
   },
   {
+    "level": "38",
+    "": "",
+    "title": "Black Erica",
+    "sha256": "4af7cf27043c5f453ba1c3f8ada7883e8b0279eabe4021f29e39e89f22d00e64",
+    "md5": "687fc57ef819e9e3092ca391e3fb7e8e",
+    "video1": "",
+    "video2": "",
+    "notes": "746",
+    "total": "290 (0.389%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/9",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv38→38",
+    "state": "1",
+    "state_total": "31"
+  },
+  {
+    "level": "38",
+    "": "",
+    "title": "屈從物語",
+    "sha256": "57763766b515455a3a1bff229bb08679c8f89c766dea6df8930096882d5e0798",
+    "md5": "61ea9ffe5c67bfe3b4cdee7c0ca1859e",
+    "video1": "",
+    "video2": "",
+    "notes": "519",
+    "total": "304 (0.586%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/24",
+    "artist": "0310 (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv38→38",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
     "level": "39",
     "": "",
     "title": "0831",
@@ -79530,8 +79796,8 @@
     "artist": "しらす (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv30→39",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "39",
@@ -79549,6 +79815,25 @@
     "artist": "zatsuzatsu (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv35→39",
+    "state": "",
+    "state_total": "40"
+  },
+  {
+    "level": "39",
+    "": "",
+    "title": "メスガキインストール",
+    "sha256": "02d87befb126677572015022292ffc52c6b7f52e268fe878cd561b3063e7e236",
+    "md5": "0563f9888a1822d1a2a32e47b0006f0c",
+    "video1": "",
+    "video2": "",
+    "notes": "700",
+    "total": "350 (0.5%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/6",
+    "artist": "ナミノリ (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "",
     "state": "1",
     "state_total": "41"
   },
@@ -83406,8 +83691,46 @@
     "artist": "qune",
     "memo": "",
     "comment": "難易度更新:lv38→40",
+    "state": "",
+    "state_total": "30"
+  },
+  {
+    "level": "40",
+    "": "",
+    "title": "Datura",
+    "sha256": "6bc198afbd5fe7599740f667d331aa3aa47f10fcca7adefc04676da8efb4c2f2",
+    "md5": "a06788d99092856776084d11e8513c9a",
+    "video1": "",
+    "video2": "",
+    "notes": "938",
+    "total": "270 (0.288%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/14",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv40→40",
     "state": "1",
-    "state_total": "31"
+    "state_total": "1"
+  },
+  {
+    "level": "40",
+    "": "",
+    "title": "Lunatic Lobelia",
+    "sha256": "115877b897fb92c9750d6d9e7f50e9da1dde13752185ed81592f673625a6b4d8",
+    "md5": "5781f96bd24f1b760b7de8308588938a",
+    "video1": "",
+    "video2": "",
+    "notes": "964",
+    "total": "280 (0.29%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/15",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv42→40",
+    "state": "1",
+    "state_total": "1"
   },
   {
     "level": "41",
@@ -96459,8 +96782,8 @@
     "artist": "YuKa (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "42",
@@ -96478,8 +96801,8 @@
     "artist": "LLRK (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "LNあり",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "43",
@@ -102634,6 +102957,25 @@
     "artist": "Hyparpax (BMSパッケージ企画\"ゆるゆる\" Phase 18)",
     "memo": "",
     "comment": "LN複合譜面",
+    "state": "",
+    "state_total": "0"
+  },
+  {
+    "level": "43",
+    "": "",
+    "title": "屈從物語",
+    "sha256": "f2bc4fd17ea249abc3a9170959e20fccaf6124baf7b428aca0085bfb8deecb10",
+    "md5": "509760bc7fb6217409ef4ba67f3ec211",
+    "video1": "",
+    "video2": "",
+    "notes": "907",
+    "total": "270 (0.298%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/24",
+    "artist": "0310 (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv44→43",
     "state": "1",
     "state_total": "1"
   },
@@ -105984,6 +106326,25 @@
   {
     "level": "44",
     "": "",
+    "title": "Princess of Mermaid",
+    "sha256": "3e0b5a9f65b6a2e4d5f055f7d7d2b5a597ba66b93cf38d6c286d6cc283113112",
+    "md5": "510a832a19912a58e04ac483801e5d3d",
+    "video1": "",
+    "video2": "",
+    "notes": "1200",
+    "total": "250 (0.208%/note)",
+    "url_diff": "https://www.dropbox.com/sh/idm46v524mny1x0/AACc5_4NHnMOAWImIk0EXgEOa",
+    "name_diff": "水霊",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=102",
+    "artist": "音狐 黒葉",
+    "memo": "",
+    "comment": "元譜面は知らないけどチェリードールよりは強いんじゃないかなあ。",
+    "state": "5",
+    "state_total": "5"
+  },
+  {
+    "level": "44",
+    "": "",
     "title": "Acid Drizzle",
     "sha256": "03318ebf85fc3d6a1378dd6e28fb7e8d620ee1fa7b88057948fe27076fc10bfd",
     "md5": "5c25729fc5567d00b5e4a6e2b44c9cee",
@@ -109056,8 +109417,8 @@
     "artist": "福田裕彦",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "45",
@@ -113274,8 +113635,27 @@
     "artist": "DJ Excuses (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv44→45",
+    "state": "",
+    "state_total": "0"
+  },
+  {
+    "level": "45",
+    "": "",
+    "title": "Warning Girl!!!!",
+    "sha256": "f7fc0e5cc3f22aea185545318a8068182e53aa907ab200f05e55d055cec2df46",
+    "md5": "6e39d764f989c6ae718663e4cdba11ab",
+    "video1": "",
+    "video2": "",
+    "notes": "1216",
+    "total": "240 (0.197%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/8",
+    "artist": "numuto (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv44→45",
     "state": "1",
-    "state_total": "1"
+    "state_total": "21"
   },
   {
     "level": "?",
@@ -116111,6 +116491,63 @@
   {
     "level": "?",
     "": "",
+    "title": "アタック！メスガキの襲来！",
+    "sha256": "6ad5f2e50a22b17cbec250cce43cbc408096c72b53e97bfda917a0721774b49f",
+    "md5": "04ccac859d8b909a7d1dcc924112b461",
+    "video1": "",
+    "video2": "",
+    "notes": "769",
+    "total": "303 (0.394%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/12",
+    "artist": "こみょみちゃん (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv10→?",
+    "state": "1",
+    "state_total": "31"
+  },
+  {
+    "level": "?",
+    "": "",
+    "title": "アタック！メスガキの襲来！",
+    "sha256": "bec3db37f104c5a58b934536c1d5e37ff9f9cb10178c831109ccaa86cf374933",
+    "md5": "fecb522aae85ab9488f183905a8e85a7",
+    "video1": "",
+    "video2": "",
+    "notes": "639",
+    "total": "303 (0.474%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/msgkbms/12",
+    "artist": "こみょみちゃん (メスガキに分からせられるBMS)",
+    "memo": "",
+    "comment": "難易度更新: lv32→?",
+    "state": "1",
+    "state_total": "41"
+  },
+  {
+    "level": "?",
+    "": "",
+    "title": "goin' under",
+    "sha256": "ef1d4dca765f8b0b2af8e03d932f5543ee4d15608ee13f377578fbd0913c9ee7",
+    "md5": "67193875c24f75d0b9c83ac54073084d",
+    "video1": "",
+    "video2": "",
+    "notes": "784",
+    "total": "250 (0.319%/note)",
+    "url_diff": "",
+    "name_diff": "本体に同梱",
+    "url": "https://venue.bmssearch.net/bmsmelody/5",
+    "artist": "禽 & Aezu",
+    "memo": "",
+    "comment": "LR2 / beatoraja で判定が大きく変化する　難易度更新: lv34→?",
+    "state": "1",
+    "state_total": "31"
+  },
+  {
+    "level": "?",
+    "": "",
     "title": "ねぎ",
     "sha256": "35b2403af2f94abd74cf9013dce8987d73482f1b661204ccea2a41227e4f3192",
     "md5": "a071d9a157f49f6070f78421be720f0d",
@@ -116143,8 +116580,8 @@
     "artist": "numuto (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "16",
@@ -116162,8 +116599,8 @@
     "artist": "freesia (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "22",
@@ -116181,8 +116618,8 @@
     "artist": "LeaF Movie:Micelle",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "24",
@@ -116200,8 +116637,8 @@
     "artist": "Baby Zionov (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "28",
@@ -116219,8 +116656,8 @@
     "artist": "numuto (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "31",
@@ -116238,8 +116675,8 @@
     "artist": "freesia (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv29→31",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "35",
@@ -116257,8 +116694,8 @@
     "artist": "LeaF Movie:Micelle",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "35",
@@ -116276,8 +116713,8 @@
     "artist": "DJ Adrichii (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv27→35",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "37",
@@ -116295,8 +116732,8 @@
     "artist": "Baby Zionov (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "難易度更新:lv39→37",
-    "state": "1",
-    "state_total": "31"
+    "state": "",
+    "state_total": "30"
   },
   {
     "level": "39",
@@ -116314,8 +116751,8 @@
     "artist": "numuto (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "31"
+    "state": "",
+    "state_total": "30"
   },
   {
     "level": "41",
@@ -116333,8 +116770,8 @@
     "artist": "litmus* respect to 'k'",
     "memo": "",
     "comment": "ソフラン(要対策)　難易度更新:lv43→41",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "41",
@@ -116352,8 +116789,8 @@
     "artist": "freesia (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "41"
+    "state": "",
+    "state_total": "40"
   },
   {
     "level": "43",
@@ -116371,8 +116808,8 @@
     "artist": "LeaF Movie:Micelle",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "31"
+    "state": "",
+    "state_total": "30"
   },
   {
     "level": "43",
@@ -116390,8 +116827,8 @@
     "artist": "Aiobahn/bms by Haze*",
     "memo": "",
     "comment": "難易度更新:lv42→43",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "45",
@@ -116409,8 +116846,8 @@
     "artist": "numuto (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "45+",
@@ -119164,8 +119601,8 @@
     "artist": "Neun_jack",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "45+",
@@ -119183,8 +119620,8 @@
     "artist": "Re:gats& (BOFET)",
     "memo": "",
     "comment": "NORMAL判定　難易度更新:lv46→45+",
-    "state": "1",
-    "state_total": "1"
+    "state": "",
+    "state_total": "0"
   },
   {
     "level": "45+",
@@ -119202,7 +119639,7 @@
     "artist": "YuKa (MUMEI ACADEMY 2022)",
     "memo": "",
     "comment": "",
-    "state": "1",
-    "state_total": "31"
+    "state": "",
+    "state_total": "30"
   }
 ]
