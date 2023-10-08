@@ -833,6 +833,17 @@
     "submission": 444
   },
   {
+    "title": "CELLS [DP ANOTHER]",
+    "artist": "Yosk!",
+    "url": "https://drive.google.com/file/d/1tZEVLzeLyBKiav2rEsigdNYN2Uw6Exbi",
+    "url_diff": "",
+    "md5": "ada4ddd496eef8091ae0fa303e027bab",
+    "sha256": "f290c7ce79e3eb648e90fa21717f7c1f0b2f6e5abb0130349e49121805681034",
+    "level": "1",
+    "proposer": "Zris",
+    "submission": 844
+  },
+  {
     "title": "CLOCKTOWER [DP ANOTHER]",
     "artist": "Chitose (Movie:zue-row) / Obj:ゆ～兎",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=88",
@@ -3817,6 +3828,18 @@
     "level": "5",
     "proposer": "coco",
     "submission": 551
+  },
+  {
+    "title": "Transicio [DP]",
+    "artist": "paraneumann obj:ka2o",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=132",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1197",
+    "md5": "b949b938985ca74ac6c8c83ffba5c939",
+    "sha256": "57a71ee5ba85af280e61542242119786f0b576d8efd116dc20f928da8a72e54a",
+    "level": "5",
+    "proposer": "Zris",
+    "comment": "Zero misalignment comparing to bundled \"transicio_mihaiti.bm_s\"",
+    "submission": 843
   },
   {
     "title": "VENUS INVADER [14K ANOTHER+]",

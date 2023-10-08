@@ -6164,6 +6164,19 @@
     "proposerLr2id": 145158
   },
   {
+    "md5": "a9b8120266424756f3d9d4d1010b8d54",
+    "sha256": "174addd4c101856390b55c3811cb6c1c6045aa32eb5c9fd7f845e64e1961d336",
+    "title": "Fake it [ANOTHER]",
+    "artist": "Centain",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=135",
+    "level": "1",
+    "comment": "MA2021 縦連打",
+    "proposer": "ИиИ",
+    "submission": 2863,
+    "proposerLr2id": 147895
+  },
+  {
     "md5": "1cdddf7704ef3ce9b04f2cc2d838d097",
     "title": "far in the blue sky... [rather]",
     "artist": "saikoro / obj.rat",
@@ -7325,6 +7338,20 @@
     "proposer": "|/|",
     "submission": 1383,
     "proposerLr2id": 147895
+  },
+  {
+    "md5": "0d760f6ff063f661a7d1a89fc660773d",
+    "sha256": "1f1e99bbedea3e54d39871ad5ff5cfeee4d5255e001092bde086e75278e45338",
+    "title": "Prayer [TOKI]",
+    "artist": "Kankitsu obj: bbo",
+    "url_diff": "https://drive.google.com/file/d/1iU_zNp_eCLszbzrLdKRBDXMeq4eeE2z8/view?usp=sharing",
+    "url": "https://venue.bmssearch.net/bmsshuin3/108",
+    "level": "1",
+    "comment": "142bpm 16分乱打",
+    "zureCount": 0,
+    "proposer": "모과맛",
+    "submission": 2868,
+    "proposerLr2id": 176348
   },
   {
     "md5": "45f41fecfde2ad204eac27e23f42a134",
@@ -8995,6 +9022,20 @@
     "voteYes": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "8a181221c57e9a5f5b621d692cbef43c",
+    "sha256": "5717ef9f8b6e00c0197d318c9f9abdd06c2103a5bba0cb2bfc5c71fa227694c8",
+    "title": "明空リュウセイグン [流星群の軌跡]",
+    "artist": "idzuchi takl feat. TEA obj.Limite",
+    "url_diff": "https://www.limiteknj.net/BMS/",
+    "url": "https://www.dropbox.com/s/amzixc6snvwmvdx/%E6%98%8E%E7%A9%BA%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BB%E3%82%A4%E3%82%B0%E3%83%B3.zip?dl=0",
+    "level": "1",
+    "comment": "BPM175 // G2R2018 //  皿 同時押し 乱打",
+    "zureCount": 0,
+    "proposer": "結。",
+    "submission": 2865,
+    "proposerMinirid": "ccbd60d1-d12e-4ee8-a6cd-47ababc79e7a"
   },
   {
     "md5": "f8dcdfe070630bbb365323c662561a1a",
@@ -11191,19 +11232,6 @@
     "proposer": "10c*",
     "submission": 2174,
     "proposerLr2id": 170055
-  },
-  {
-    "md5": "666945fc86b26493aa6908bd6e74cb06",
-    "sha256": "1181dd70ab2fa3c13d705729f5dca9a3159201d7001ee00ae9add082d0b50282",
-    "title": "Mermaid [7key Extra]",
-    "artist": "Aliesrite* (Ym1024 feat. lamie*) Movie : retu / obj : monaka",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05912",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=137",
-    "level": "2",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2401,
-    "proposerLr2id": 84597
   },
   {
     "level": "2",
@@ -14504,6 +14532,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "d62399fc8cdeca39dc24a07368a77c88",
+    "sha256": "923a03e76dfcefec77d13383b30507a40be664f727ec239dd46de12383c9719a",
+    "title": "Flashdance [ZOI]",
+    "artist": "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2870,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "level": "3",
     "comment": "",
     "md5": "bcdcd6bd60c82d2775cc2fa1a3263666",
@@ -15040,6 +15081,19 @@
     "proposerLr2id": 167326
   },
   {
+    "md5": "666945fc86b26493aa6908bd6e74cb06",
+    "sha256": "1181dd70ab2fa3c13d705729f5dca9a3159201d7001ee00ae9add082d0b50282",
+    "title": "Mermaid [7key Extra]",
+    "artist": "Aliesrite* (Ym1024 feat. lamie*) Movie : retu / obj : monaka",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05912",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=137",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2401,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "bef16a1a78c4bcd781377d308f4a2aca",
     "sha256": "8683810d70e131530c4cc0ab5118c2bb9d70841c9fe71d1232804ec510852461",
     "title": "Metatron [rather]",
@@ -15504,6 +15558,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 124809
+  },
+  {
+    "md5": "d877c16fe6be071e6ad29aa9232ab565",
+    "sha256": "c440e36aa30e4b08aca3c0a589e0c83437f2504a5f938bb3c97ef1aac81a428e",
+    "title": "Rush-More [ZOI]",
+    "artist": "litmus* obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=127",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2869,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "b9064f3696a6d97cdd321da8246f11f7",
@@ -22495,6 +22562,19 @@
     "proposerLr2id": 23110
   },
   {
+    "md5": "e3de5be5a6cb6ca1874b8634f2c872ec",
+    "sha256": "1acb084d98fb47ee384d40848a335397387722aff83aff8d7d97b41e05e1bc06",
+    "title": "world devoid of you (fairydust radio edit) [ZOI-HD]",
+    "artist": "void feat. Hiroko obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://web.archive.org/web/20121125165335/http://mournfinale.com/?p=461",
+    "level": "5",
+    "zureCount": 0,
+    "proposer": "marie",
+    "submission": 2867,
+    "proposerLr2id": 88591
+  },
+  {
     "md5": "a34cc2170bd381182f1344d215426675",
     "sha256": "2e90027e1ee8d62ad7aca0fd27627197da581fd5ad61873d0473f037fbaccedf",
     "title": "xeusonic [ZOI]",
@@ -23943,6 +24023,20 @@
     "comment": "BPM210 多要素",
     "proposer": "SHAX.",
     "submission": 1735,
+    "proposerLr2id": 65624
+  },
+  {
+    "md5": "3ad52aff771e17c6224937511a8a9762",
+    "sha256": "0db652c056dc78b5d537d373f4f8c2365f043ce3f6fd8e6558762baa4b1068a8",
+    "title": "Highleg Mermaid [B92]",
+    "artist": "片桐早苗 差分：棟方愛海",
+    "url_diff": "https://venue.bmssearch.net/sd_sand/15",
+    "url": "http://web.archive.org/web/20140111155938/http://roaraddiction.mods.jp/bms/x022_hm_wav.rar",
+    "level": "6",
+    "comment": "BPM155 横に広い",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2864,
     "proposerLr2id": 65624
   },
   {
@@ -31769,6 +31863,19 @@
     "proposer": "七海",
     "submission": 2398,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "912b35286af839836efeafeeb5c4c0bd",
+    "sha256": "54907311711eae1c075e34668e64499be915c82d08e74d1c1dea91be2193aee2",
+    "title": "追憶の森 -Voices of the Earth- [7key 修行]",
+    "artist": "AKITO obj:firi.",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01416.zip",
+    "url": "http://web.archive.org/web/20060722001945/http://big.freett.com/akito11/tuioku_mq.rar",
+    "level": "9",
+    "comment": "misalignments result in no difference in sound",
+    "proposer": "marie",
+    "submission": 2866,
+    "proposerLr2id": 88591
   },
   {
     "md5": "71ffe425897aa9bc7c0a0e54c521f45b",
