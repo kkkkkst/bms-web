@@ -433,18 +433,6 @@
   },
   {
     "level": "6",
-    "title": "Gasoline Blood [BLEEDLEAK]",
-    "md5": "abeb89729071545993c8234d7f12e476",
-    "artist": "ですワ",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=142",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Gasoline_Burst_LT.zip",
-    "name_diff": "LuvTek",
-    "date": "Sun Oct 08 2023 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/jwA_hTpMdVk",
-    "comment": ""
-  },
-  {
-    "level": "6",
     "title": "GLaDOS [A piece of cake]",
     "md5": "377570a11bf6eae491a106ec9a50c43c",
     "artist": "Avantgarde",
@@ -526,6 +514,18 @@
     "date": "Sat Sep 23 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/XrvLVTU02pw",
     "comment": "本体同梱"
+  },
+  {
+    "level": "7",
+    "title": "Gasoline Blood [BLEEDLEAK]",
+    "md5": "abeb89729071545993c8234d7f12e476",
+    "artist": "ですワ",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=142",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Gasoline_Burst_LT.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Oct 14 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/jwA_hTpMdVk",
+    "comment": ""
   },
   {
     "level": "7",
