@@ -138,12 +138,6 @@
     "comment": "st0"
   },
   {
-    "md5": "58ee7b3521398afe259588b077960d1d",
-    "title": "Fantasy (・ω・)",
-    "level": "5.00...5.50",
-    "comment": "st0"
-  },
-  {
     "md5": "90eedb47ffdd6bccee421f527ecea7ff",
     "title": "FELYS -Genocide-",
     "level": "5.00...5.50",
@@ -254,6 +248,12 @@
   {
     "md5": "1d28ce2b812bee70b5ec8f9010fb29b7",
     "title": "L9 -Heaven-",
+    "level": "5.00...5.50",
+    "comment": "st0"
+  },
+  {
+    "md5": "75f2b44a3f1b0222b1c848f5cf054ad3",
+    "title": "LiVEMeTAL [IRREGULAR]",
     "level": "5.00...5.50",
     "comment": "st0"
   },
@@ -410,6 +410,12 @@
   {
     "md5": "22dc782a49fb3ff80c2de90fb10f62f9",
     "title": "x-Aria -frenzy mix- [Hexagon]",
+    "level": "5.00...5.50",
+    "comment": "st0"
+  },
+  {
+    "md5": "55a9d53fb6ab4dbc1dbee82c3ffbcfbd",
+    "title": "zephyric verse [DREAM]",
     "level": "5.00...5.50",
     "comment": "st0"
   },
@@ -654,6 +660,12 @@
     "comment": "st1"
   },
   {
+    "md5": "27bcf7dfba20d0afceb257bfd46d6007",
+    "title": "ARCADE! 爆竹 PARTY (Remaster)",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
     "md5": "b0cb85823636a1c65deed255558701ca",
     "title": "Arcanum Guardian [Monsther]",
     "level": "6.50...7.00",
@@ -788,6 +800,12 @@
   {
     "md5": "75c3582014ccff736fd5d2f5ce22f7d0",
     "title": "eth剣 [INFELNO]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "58ee7b3521398afe259588b077960d1d",
+    "title": "Fantasy (・ω・)",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -1758,6 +1776,12 @@
     "comment": "st3"
   },
   {
+    "md5": "41683e94df20635d83a42b2c03a55e45",
+    "title": "Edge of bravery [Persist in Devastation]",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
     "md5": "28de731d48217bbd50f49b1ad572f81f",
     "title": "Empress of Raizze [フルマラソン]",
     "level": "9.00...9.50",
@@ -1796,6 +1820,12 @@
   {
     "md5": "d23a2e7dcf07ed2742477f09e50e1bf3",
     "title": "Happico Happico -mundanity-",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
+    "md5": "24ffc0e42b4c0aa1b7f43232e777201b",
+    "title": "Illusion of Mind [kerother]",
     "level": "9.00...9.50",
     "comment": "st3"
   },
@@ -2040,6 +2070,12 @@
     "comment": "st4"
   },
   {
+    "md5": "8ea6711c0891e00dc0e724977ce36c06",
+    "title": "Krave [Hexagon]",
+    "level": "10.00...10.50",
+    "comment": "st4"
+  },
+  {
     "md5": "6edb09c73a5d5296af82ea181a612aa3",
     "title": "Lethal Strike [DENIAL]",
     "level": "10.00...10.50",
@@ -2204,6 +2240,12 @@
   {
     "md5": "99bacb3c81efb069023beaaf3fb14b94",
     "title": "ハルトマンの妖怪少女～VirusⅤ [id]",
+    "level": "11.00...11.50",
+    "comment": "st5"
+  },
+  {
+    "md5": "1a477f8c6c7ae8ac41ff44d24afc4e10",
+    "title": "ロッカー -Ex+-",
     "level": "11.00...11.50",
     "comment": "st5"
   },
@@ -2742,12 +2784,6 @@
     "comment": "st3"
   },
   {
-    "md5": "27bcf7dfba20d0afceb257bfd46d6007",
-    "title": "ARCADE! 爆竹 PARTY (Remaster)",
-    "level": "-",
-    "comment": "st1"
-  },
-  {
     "md5": "e5d71ddb6aa7e626eb773be94ac0f92f",
     "title": "Arcanum Guardian [EX]",
     "level": "-",
@@ -2824,6 +2860,12 @@
     "title": "AzTella -Pleiades-",
     "level": "-",
     "comment": "st6"
+  },
+  {
+    "md5": "e308668650a3279b5d2e2f199fca06a1",
+    "title": "B e l i - R - L A S T B O S S",
+    "level": "-",
+    "comment": "st8"
   },
   {
     "md5": "8f4cd43c1237ce576e8b7cf0740fe73c",
@@ -3720,16 +3762,16 @@
     "comment": "st1"
   },
   {
+    "md5": "87a185f2402e1a96788e7f64c0d401fd",
+    "title": "echo [lost+found]",
+    "level": "-",
+    "comment": "st2"
+  },
+  {
     "md5": "2f43ee53a1b602c797a395e5f49b17ba",
     "title": "ECKESACHS [GOTT]",
     "level": "-",
     "comment": "st9"
-  },
-  {
-    "md5": "41683e94df20635d83a42b2c03a55e45",
-    "title": "Edge of bravery [Persist in Devastation]",
-    "level": "-",
-    "comment": "st3"
   },
   {
     "md5": "988e8f8a39fe14013d25c5bc54a17551",
@@ -4704,12 +4746,6 @@
     "comment": "st8"
   },
   {
-    "md5": "24ffc0e42b4c0aa1b7f43232e777201b",
-    "title": "Illusion of Mind [kerother]",
-    "level": "-",
-    "comment": "st3"
-  },
-  {
     "md5": "61fad6b61eb8491ff85248baf4470b03",
     "title": "Implexrough -Genocide-",
     "level": "-",
@@ -4842,12 +4878,6 @@
     "comment": "st6"
   },
   {
-    "md5": "8ea6711c0891e00dc0e724977ce36c06",
-    "title": "Krave [Hexagon]",
-    "level": "-",
-    "comment": "st4"
-  },
-  {
     "md5": "14b2f64be212924942065acfd7014c6f",
     "title": "Kung-fu Fantasia -メスガキの穴-",
     "level": "-",
@@ -4972,12 +5002,6 @@
     "title": "Little Wizard [Kerother]",
     "level": "-",
     "comment": "st3"
-  },
-  {
-    "md5": "75f2b44a3f1b0222b1c848f5cf054ad3",
-    "title": "LiVEMeTAL [IRREGULAR]",
-    "level": "-",
-    "comment": "st0"
   },
   {
     "md5": "a548a8658498fe3d51ba66ae0c8a9340",
@@ -5220,12 +5244,6 @@
     "comment": "st4"
   },
   {
-    "md5": "7559c77888500b76925c668924c8d120",
-    "title": "mnemogeny [Maryther_LASTSNOW]",
-    "level": "-",
-    "comment": "st8"
-  },
-  {
     "md5": "390c99405cad2c49f91eeaa8153ba8c1",
     "title": "MOBILYS [nostalgie]",
     "level": "-",
@@ -5458,6 +5476,12 @@
     "title": "Oriens [LETHAL]",
     "level": "-",
     "comment": "st3"
+  },
+  {
+    "md5": "6eccdf96feaaf862005f3b2c86e78336",
+    "title": "Oriental Landscape [Pleinair]",
+    "level": "-",
+    "comment": "st4"
   },
   {
     "md5": "ef55e67fd19d4bd067dddef58a06f9d7",
@@ -5818,6 +5842,12 @@
     "title": "Quark -Baryon-",
     "level": "-",
     "comment": "st0"
+  },
+  {
+    "md5": "b08f18bb57f68c8e44da738adeadeaa6",
+    "title": "Quota  -Falsen-",
+    "level": "-",
+    "comment": "st10"
   },
   {
     "md5": "9da1984a1465ca327dcdbbc9b2b791f7",
@@ -7038,18 +7068,6 @@
     "comment": "st0"
   },
   {
-    "md5": "a453ecdda9bf2161f38aa69dd5493ed9",
-    "title": "ZENITHALIZE [Monsther]",
-    "level": "-",
-    "comment": "st4"
-  },
-  {
-    "md5": "55a9d53fb6ab4dbc1dbee82c3ffbcfbd",
-    "title": "zephyric verse [DREAM]",
-    "level": "-",
-    "comment": "st0"
-  },
-  {
     "md5": "efd638a9e9ff35f6a9f4d10fc24f45b5",
     "title": "ZERODAY [Heartbleed]",
     "level": "-",
@@ -7755,12 +7773,6 @@
     "md5": "9a809321618ed550f31605f27117559f",
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 -Catastrophe-",
     "level": "-",
-    "comment": "st4"
-  },
-  {
-    "md5": "1a477f8c6c7ae8ac41ff44d24afc4e10",
-    "title": "ロッカー -Ex+-",
-    "level": "-",
     "comment": "st5"
   },
   {
@@ -7845,7 +7857,7 @@
     "md5": "4966cfceb7eec811d6a429f8c69c1cf6",
     "title": "切踏 (献花)",
     "level": "-",
-    "comment": "st2"
+    "comment": "st3"
   },
   {
     "md5": "985e530b1dbed71537b20990e0da531d",

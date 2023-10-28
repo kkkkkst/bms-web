@@ -35300,7 +35300,7 @@
   },
   {
     "id": "2082",
-    "level": "1",
+    "level": "3",
     "title": "もうやだぁ！！ネコちゃんになりゅ～～～！！！ (INSANE7)",
     "artist": "momo★yama",
     "comment": "",
@@ -35341,5 +35341,82 @@
     "max_bpm": "204",
     "url": "",
     "url_diff": ""
+  },
+  {
+    "id": "2086",
+    "level": "-2",
+    "title": "Universo Patrimonio",
+    "artist": "spine",
+    "comment": "",
+    "md5": "6f93aa98afc6233232ea4b940ebec52b",
+    "max_bpm": "147",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "2087",
+    "level": "☆",
+    "title": "碧空を翔る [HYPER]",
+    "artist": "Music: ウラボロシ Movie: 朧烏",
+    "comment": "",
+    "md5": "711437ceb8fac974900607d7857b57ae",
+    "max_bpm": "144",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "2088",
+    "level": "-2",
+    "title": "Dynasty of Extinction [SP ANOTHER]",
+    "artist": "utzbo VS paraneumann BGA/obj:paraneumann",
+    "comment": "",
+    "md5": "0060041df3777584c3c3bd92389f39df",
+    "max_bpm": "155",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "2089",
+    "level": "-2",
+    "title": "Moonlit Operation [SP INSANE]",
+    "artist": "utzbo VS *wakadori BGA:Nao_AnD / obj:rat",
+    "comment": "",
+    "md5": "4519ad377b2e963a274eefd4efe132a6",
+    "max_bpm": "175",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "2090",
+    "level": "-1",
+    "title": "Moonlit Operation [SP INSANE+]",
+    "artist": "utzbo VS *wakadori BGA:Nao_AnD / obj:rat",
+    "comment": "",
+    "md5": "d05a9c7256e541130bcecbe596f2e3ed",
+    "max_bpm": "175",
+    "url": "",
+    "url_diff": ""
+  },
+  {
+    "id": "2091",
+    "level": "-2",
+    "title": "Fractal(i)xis (null)",
+    "artist": "kanoryo / nbunnyuwu",
+    "comment": "",
+    "md5": "a309711f9a41169b22d21c6590443c06",
+    "max_bpm": "122",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=142",
+    "url_diff": "https://stellabms.xyz/upload/3239"
+  },
+  {
+    "id": "2092",
+    "level": "-1",
+    "title": "Fractal(i)xis [differential]",
+    "artist": "kanoryo obj: Scely",
+    "comment": "",
+    "md5": "3478749940d64776ec06e5530eaf6144",
+    "max_bpm": "122",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=142",
+    "url_diff": "https://stellabms.xyz/upload/3249"
   }
 ]

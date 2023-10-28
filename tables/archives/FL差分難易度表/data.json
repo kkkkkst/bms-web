@@ -523,7 +523,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=142",
     "url_diff": "https://fsrs.github.io/sabun/LuvTek/Gasoline_Burst_LT.zip",
     "name_diff": "LuvTek",
-    "date": "Sat Oct 14 2023 00:00:00 GMT+0900 (日本標準時)",
+    "date": "Sat Oct 28 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/jwA_hTpMdVk",
     "comment": ""
   },
@@ -1089,7 +1089,7 @@
     "name_diff": "LuvTek",
     "date": "Mon May 08 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/gtdDc-XIyr0",
-    "comment": ""
+    "comment": "st2"
   },
   {
     "level": "10",
@@ -1173,7 +1173,7 @@
     "name_diff": "LuvTek",
     "date": "Thu Oct 17 2019 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/s84F6Ts88Eg",
-    "comment": "st2"
+    "comment": "st3"
   },
   {
     "level": "10",
@@ -1573,18 +1573,6 @@
   },
   {
     "level": "11",
-    "title": "インフェリアジャーニー [BLACK LABLE]",
-    "md5": "42cd1e34e98f43c07f7896a7f8927351",
-    "artist": "潮音きつね feat. すずにゃん",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=142",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/infiniajourney_LT.zip",
-    "name_diff": "LuvTek",
-    "date": "Sat Oct 07 2023 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/ZSo5DhqDOyM",
-    "comment": ""
-  },
-  {
-    "level": "11",
     "title": "シン セ カイ",
     "md5": "25b29c5ba53c7213e2ac5423a108eb9e",
     "artist": "彩末 加久太",
@@ -1876,12 +1864,24 @@
     "title": "worlds [(>ω^)/]",
     "md5": "25418c99fa2db25f93ad6a62117585b4",
     "artist": "keyc/BGA:冬弥",
-    "url": "http://keyc.s12.xrea.com/files/c03-worlds.rar",
+    "url": "https://web.archive.org/web/20191122083531/http://keyc.s12.xrea.com/files/c03-worlds.rar",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/worlds_MS.zip",
     "name_diff": "M-SPIN",
     "date": "Thu Feb 25 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/D6s5a_Wwx4o",
     "comment": "追加音源あり"
+  },
+  {
+    "level": "12",
+    "title": "インフェリアジャーニー [BLACK LABLE]",
+    "md5": "42cd1e34e98f43c07f7896a7f8927351",
+    "artist": "潮音きつね feat. すずにゃん",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=142",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/infiniajourney_LT.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Oct 07 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/ZSo5DhqDOyM",
+    "comment": ""
   },
   {
     "level": "12",
@@ -1978,6 +1978,18 @@
     "date": "Thu Dec 24 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/VR_LyDyNzf4",
     "comment": "st7 追加音源あり"
+  },
+  {
+    "level": "20",
+    "title": "オールオーバー [ワースレス]",
+    "md5": "60642393715bc2ed73ed69077a4f9ee3",
+    "artist": "Lian",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=142",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/allover_LT.zip",
+    "name_diff": "LuvTek",
+    "date": "Sat Oct 28 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/n6V2xWE9y5A",
+    "comment": ""
   },
   {
     "level": "20",

@@ -521,16 +521,6 @@
   },
   {
     "level": "-2",
-    "title": "Jade Star (スーパースター!!)",
-    "artist": "SHIKI/Elaina",
-    "url": "http://shiki2.sakura.ne.jp/",
-    "url_diff": "https://stellabms.xyz/upload/1697",
-    "md5": "31cd658ef2b781cb58cf3b1d49d08fb1",
-    "comment": "304",
-    "打鍵速度": "304"
-  },
-  {
-    "level": "-2",
     "title": "Legend of Seeker [yumether]",
     "artist": "remixed celas / obj:夢瑠",
     "url": "http://web.archive.org/web/20160911094851/http://creation-records.info/bms/seeker_r_ogg.rar",
@@ -818,6 +808,16 @@
     "md5": "a87dd6a2b9acdf60ee984e0d7cf5d36a",
     "comment": "▼18/288",
     "打鍵速度": "288"
+  },
+  {
+    "level": "-1",
+    "title": "Jade Star (スーパースター!!)",
+    "artist": "SHIKI/Elaina",
+    "url": "http://shiki2.sakura.ne.jp/",
+    "url_diff": "https://stellabms.xyz/upload/1697",
+    "md5": "31cd658ef2b781cb58cf3b1d49d08fb1",
+    "comment": "304",
+    "打鍵速度": "304"
   },
   {
     "level": "-1",
@@ -3801,16 +3801,6 @@
   },
   {
     "level": "6",
-    "title": "Pure Ruby [24carat]",
-    "artist": "SHIKI",
-    "url": "http://shiki2.sakura.ne.jp/fohs.htmll",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6869.zip",
-    "md5": "5c296e36c4bc28aca87382bd39f2b0fa",
-    "comment": "534",
-    "打鍵速度": "534"
-  },
-  {
-    "level": "6",
     "title": "Ruins Ray [/-/]",
     "artist": "kurena obj tyrcs",
     "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
@@ -4688,6 +4678,16 @@
     "md5": "aa59c9ff2867c9c21faaa6bde4ed2c34",
     "comment": "435",
     "打鍵速度": "435"
+  },
+  {
+    "level": "8",
+    "title": "Cross Galaxy [Cosmo]",
+    "artist": "kanone / obj.nya mov:deadblue238",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=74",
+    "url_diff": "https://stellabms.xyz/upload/28199",
+    "md5": "dfe3d4426c720cdb596ab71dd5c19957",
+    "comment": "300",
+    "打鍵速度": ""
   },
   {
     "level": "8",
@@ -5748,6 +5748,16 @@
     "md5": "b3ced645875aa00d2001f54beec2bb6e",
     "comment": "dy5/276",
     "打鍵速度": "276"
+  },
+  {
+    "level": "10",
+    "title": "Cross Galaxy [Universe]",
+    "artist": "kanone / obj.nya mov:deadblue238",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=74",
+    "url_diff": "https://stellabms.xyz/upload/2819",
+    "md5": "2036be7b623a89821e7a6dc3e0e2e2bd",
+    "comment": "st10/300",
+    "打鍵速度": ""
   },
   {
     "level": "10",
@@ -7298,6 +7308,16 @@
     "md5": "fb393a2814927adc80fba6fcb75b4718",
     "comment": "★★4,dy1/370",
     "打鍵速度": ""
+  },
+  {
+    "level": "-sub 6",
+    "title": "Pure Ruby [24carat]",
+    "artist": "SHIKI",
+    "url": "http://shiki2.sakura.ne.jp/fohs.htmll",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up6869.zip",
+    "md5": "5c296e36c4bc28aca87382bd39f2b0fa",
+    "comment": "534",
+    "打鍵速度": "534"
   },
   {
     "level": "-sub 6",

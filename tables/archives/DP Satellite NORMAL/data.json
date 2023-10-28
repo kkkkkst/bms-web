@@ -132,12 +132,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
-    "title": "MANHATTAN [DP ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "927c7acd74be6c41415b540fcdec89a0",
     "title": "Night view [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -332,6 +326,12 @@
   {
     "md5": "beab368de553ac4c29f6d180572ee726",
     "title": "Lucid Dreaming [DP INSANE]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
+    "title": "MANHATTAN [DP ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -714,6 +714,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "6ec13a59a0f84b46799fe459363a2737",
+    "title": "Soul of Deep-sea Fish [A14]",
+    "level": "1.50...2.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "3d91b783248f05141bcaaf6410ac860c",
     "title": "Stargazer [EXTRA]",
     "level": "1.50...2.00",
@@ -880,12 +886,6 @@
     "title": "Mermaid [14key Another]",
     "level": "2.00...2.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "6ec13a59a0f84b46799fe459363a2737",
-    "title": "Soul of Deep-sea Fish [A14]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
   },
   {
     "md5": "25da20674b6cdacd770bf3c4dfafbd25",
@@ -1080,12 +1080,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
-    "title": "翼の折れた天使たちのレクイエム [DP Another]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "3.00...3.50",
@@ -1174,6 +1168,12 @@
     "title": "現実をカットアップしてみた [DPA.NOTHER+]",
     "level": "3.00...3.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
+    "title": "翼の折れた天使たちのレクイエム [DP Another]",
+    "level": "3.00...3.50",
+    "comment": "sl2"
   },
   {
     "md5": "5c1c97a00af7b108e2a53afecba82cc3",
@@ -1632,6 +1632,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "cab9e7f2c4f05d3752fc8e831fc4b38d",
+    "title": "Aim4TheStars -DP Hard-",
+    "level": "4.50...5.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
     "title": "Angelic Snow (kumanother)",
     "level": "4.50...5.00",
@@ -1866,12 +1872,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
-    "title": "Moon-gate -DP Chalenger-",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "829a8cfe13136f18e25003bab8b7ba06",
     "title": "Neurotoxin [toxic14]",
     "level": "5.00...5.50",
@@ -2042,6 +2042,12 @@
   {
     "md5": "a78261c3f9d531540e3f06a86f2d935d",
     "title": "Lily [DP-sagANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "b0cfcff35ce0732fa58a2fe3e5113e27",
+    "title": "Moon-gate -DP Chalenger-",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -2250,6 +2256,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "714082d72dafdfd12bf4810980ae179d",
+    "title": "Dance revolution [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "c00887580bcdb3dd9dd594f2eef5c63d",
     "title": "Divided Montage [14KEYS ANOTHER]",
     "level": "6.50...7.00",
@@ -2358,6 +2370,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "328535c09400f1d31460f9314013d34b",
+    "title": "平衡世界 Parallel World [Spring Ephemeral]",
+    "level": "6.50...7.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "bb12fa09ab5443911ba51b1a7dd526db",
     "title": "温泉大作戦 [DP_Li]",
     "level": "6.50...7.00",
@@ -2396,12 +2414,6 @@
   {
     "md5": "d0b020d20dab01f544fe7cb74fd94fe4",
     "title": "C.E. Days -14EX-",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
-    "md5": "714082d72dafdfd12bf4810980ae179d",
-    "title": "Dance revolution [DP ANOTHER]",
     "level": "7.00...7.50",
     "comment": "sl7"
   },
@@ -2502,6 +2514,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "c0df391328b3f4984fc53307236efdda",
+    "title": "Skull & Witch [DP]",
+    "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
     "md5": "1e295122841391fb8cdd8531918ec13c",
     "title": "suffruti -DP ANOTHER-",
     "level": "7.00...7.50",
@@ -2526,14 +2544,14 @@
     "comment": "sl7"
   },
   {
-    "md5": "7679043f39f8106c6584eeb43851553b",
-    "title": "サンバランド [Rio de DP]",
+    "md5": "36f365a7583019151d208221e32708c0",
+    "title": "アルスノヴァに喝采を [レゾナンスもえこは希望を歌う。]",
     "level": "7.00...7.50",
     "comment": "sl7"
   },
   {
-    "md5": "328535c09400f1d31460f9314013d34b",
-    "title": "平衡世界 Parallel World [Spring Ephemeral]",
+    "md5": "7679043f39f8106c6584eeb43851553b",
+    "title": "サンバランド [Rio de DP]",
     "level": "7.00...7.50",
     "comment": "sl7"
   },
@@ -2634,6 +2652,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "b88024edc3263a6cd074e7afcf1956b5",
+    "title": "Lost Petal's Wander [DP ANOTHER]",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "143734dba02fd634d6a76c77509f8b85",
     "title": "Re:End of a Dream [DPH]",
     "level": "7.50...8.00",
@@ -2646,8 +2670,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "c0df391328b3f4984fc53307236efdda",
-    "title": "Skull & Witch [DP]",
+    "md5": "497a08c7e3f370abe662bb8ff7e7a82e",
+    "title": "Sesame Kingdom [Sesame Castle]",
     "level": "7.50...8.00",
     "comment": "sl7"
   },
@@ -2672,12 +2696,6 @@
   {
     "md5": "0335197a43d3a8aa66d06079c5112f96",
     "title": "アトロポスと最果の探求者 [DP sub black another]",
-    "level": "7.50...8.00",
-    "comment": "sl7"
-  },
-  {
-    "md5": "36f365a7583019151d208221e32708c0",
-    "title": "アルスノヴァに喝采を [レゾナンスもえこは希望を歌う。]",
     "level": "7.50...8.00",
     "comment": "sl7"
   },
@@ -2802,12 +2820,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "b88024edc3263a6cd074e7afcf1956b5",
-    "title": "Lost Petal's Wander [DP ANOTHER]",
-    "level": "8.00...8.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "f36b829438ba718c7e7679b430848c99",
     "title": "Luminance (DP ANOTHER)",
     "level": "8.00...8.50",
@@ -2830,12 +2842,6 @@
     "title": "PEACE BREAKER [DP ANOTHER]",
     "level": "8.00...8.50",
     "comment": "sl8"
-  },
-  {
-    "md5": "497a08c7e3f370abe662bb8ff7e7a82e",
-    "title": "Sesame Kingdom [Sesame Castle]",
-    "level": "8.00...8.50",
-    "comment": "sl7"
   },
   {
     "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
@@ -3150,6 +3156,18 @@
     "comment": "sl10"
   },
   {
+    "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",
+    "title": "Armageddon [DP]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "52fdcccccfe731534f011e4c3e500a6a",
+    "title": "Complex Colors -改 MIX- [DP ANOTHER]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "title": "Illusion of Mind [DP Another]",
     "level": "9.50...10.00",
@@ -3210,18 +3228,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",
-    "title": "Armageddon [DP]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "52fdcccccfe731534f011e4c3e500a6a",
-    "title": "Complex Colors -改 MIX- [DP ANOTHER]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "ead4d5ef2f682641679929a7f532c3d7",
     "title": "Disillusion code [DP ANOTHER]",
     "level": "10.00...10.50",
@@ -3252,8 +3258,20 @@
     "comment": "sl10"
   },
   {
+    "md5": "101c37c44d865b61b391fae7614eaaea",
+    "title": "Life is PIANO [DP INS☆NE]",
+    "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
     "title": "Only Diversity [DPA]",
+    "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
+    "title": "Snow White [DP CHALLENGER]",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -3309,18 +3327,6 @@
     "md5": "de397d520c998e66bbab4017791c9668",
     "title": "禁忌と緋色幻想 -The Primary Plasm- [Red Storm]",
     "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "101c37c44d865b61b391fae7614eaaea",
-    "title": "Life is PIANO [DP INS☆NE]",
-    "level": "10.50...11.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
-    "title": "Snow White [DP CHALLENGER]",
-    "level": "11.00...11.50",
     "comment": "sl10"
   }
 ]
