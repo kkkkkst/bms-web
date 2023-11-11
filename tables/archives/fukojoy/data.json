@@ -404,6 +404,19 @@
   },
   {
     "level": "2",
+    "title": "kkotipari Hangaduk [Sweetest]",
+    "artist": "bbangsami",
+    "md5": "9a26d2df4184905110819efcbea59e35",
+    "bpm": "195",
+    "notes": "3756",
+    "type": "乱打 同時押し",
+    "comment": "横に広い",
+    "chart": "https://stellabms.xyz/upload/1084",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=9a26d2df4184905110819efcbea59e35",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=9a26d2df4184905110819efcbea59e35"
+  },
+  {
+    "level": "2",
     "title": "LUV TO ME 2011 [Clover]",
     "artist": "カラフル・サウンズ・ポート",
     "md5": "34830e1501d13911bec3c74bab69c7a1",
@@ -521,19 +534,6 @@
   },
   {
     "level": "3",
-    "title": "kkotipari Hangaduk [Sweetest]",
-    "artist": "bbangsami",
-    "md5": "9a26d2df4184905110819efcbea59e35",
-    "bpm": "195",
-    "notes": "3756",
-    "type": "横に広い乱打",
-    "comment": "꽃이파리 한가득",
-    "chart": "https://stellabms.xyz/upload/1084",
-    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=9a26d2df4184905110819efcbea59e35",
-    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=9a26d2df4184905110819efcbea59e35"
-  },
-  {
-    "level": "3",
     "title": "Pixel Princess [Cutest]",
     "artist": "Lime",
     "md5": "8fd6aa79eb5aded7ef781c4c774d98fd",
@@ -553,10 +553,23 @@
     "bpm": "163",
     "notes": "2577",
     "type": "連打複合",
-    "comment": "st4 2連打メイン",
+    "comment": "st4 2連打混じりの乱打",
     "chart": "https://stellabms.xyz/upload/2227",
     "chartview": "http://www.ribbit.xyz/bms/score/view?md5=d3d3d08067a47805d093c6fc48762e1c",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=d3d3d08067a47805d093c6fc48762e1c"
+  },
+  {
+    "level": "3",
+    "title": "THE RAVAGE [momother]",
+    "artist": "69 de 74",
+    "md5": "ed3c8a4b2029d53f9ab4f40df4a639fe",
+    "bpm": "200",
+    "notes": "4421",
+    "type": "乱打 同時押し",
+    "comment": "すごく横に広い",
+    "chart": "https://stellabms.xyz/upload/3324",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=ed3c8a4b2029d53f9ab4f40df4a639fe",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=ed3c8a4b2029d53f9ab4f40df4a639fe"
   },
   {
     "level": "3",
@@ -670,7 +683,7 @@
     "bpm": "165",
     "notes": "2657",
     "type": "連打 ディレイ",
-    "comment": "",
+    "comment": "3連打とか32分とか",
     "chart": "https://stellabms.xyz/upload/2794",
     "chartview": "http://www.ribbit.xyz/bms/score/view?md5=53cec0618d5af6e37973b95de97a1821",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=53cec0618d5af6e37973b95de97a1821"
@@ -709,7 +722,7 @@
     "bpm": "235",
     "notes": "3900",
     "type": "高速",
-    "comment": "とてもはやい",
+    "comment": "すごくはやい",
     "chart": "https://stellabms.xyz/upload/2965",
     "chartview": "http://www.ribbit.xyz/bms/score/view?md5=496fb6d84d0b73965d4956628dbbbd66",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=496fb6d84d0b73965d4956628dbbbd66"
@@ -748,10 +761,23 @@
     "bpm": "112",
     "notes": "5018",
     "type": "同時押し",
-    "comment": "休憩なし",
+    "comment": "",
     "chart": "",
     "chartview": "http://www.ribbit.xyz/bms/score/view?md5=73bf3c93823cd99d6ec44fd77cb90c7d",
     "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=73bf3c93823cd99d6ec44fd77cb90c7d"
+  },
+  {
+    "level": "5",
+    "title": "Demon's Roar [MYTH]",
+    "artist": "鬼方カヨコ",
+    "md5": "eaa749cc5f20ab45ff5a98520d8dbac3",
+    "bpm": "268",
+    "notes": "3431",
+    "type": "超高速 ディレイ",
+    "comment": "",
+    "chart": "https://stellabms.xyz/upload/3349",
+    "chartview": "http://www.ribbit.xyz/bms/score/view?md5=eaa749cc5f20ab45ff5a98520d8dbac3",
+    "lr2ir": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=eaa749cc5f20ab45ff5a98520d8dbac3"
   },
   {
     "level": "5",

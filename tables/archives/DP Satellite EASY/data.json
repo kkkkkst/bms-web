@@ -414,6 +414,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "ada4ddd496eef8091ae0fa303e027bab",
+    "title": "CELLS [DP ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "746900e210c21de7984e01cf08ecc291",
     "title": "CLOCKTOWER [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -798,20 +804,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
-    "title": "お兄火 [DP Another]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "65475e8733cf1d03de23f994e7842796",
     "title": "アナログ横丁 [14巻]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -1038,6 +1032,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
+    "title": "お兄火 [DP Another]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
     "title": "すばらきしこのせかい [for Beginner]",
     "level": "1.00...1.50",
@@ -1052,6 +1052,12 @@
   {
     "md5": "90733da4d37041e950750cf1e6ee73c1",
     "title": "アイのハネいろ！",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -1818,12 +1824,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
-    "title": "Prayer [LEGGENDARIA]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "0c5f9d1948d964fb20696261f632a199",
     "title": "reverieland [DPYoither]",
     "level": "3.00...3.50",
@@ -2092,6 +2092,12 @@
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "3.50...4.00",
     "comment": "sl6"
+  },
+  {
+    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
+    "title": "Prayer [LEGGENDARIA]",
+    "level": "3.50...4.00",
+    "comment": "sl5"
   },
   {
     "md5": "f933308f0963b29ad48b6fe249689560",
@@ -3168,6 +3174,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "ead4d5ef2f682641679929a7f532c3d7",
+    "title": "Disillusion code [DP ANOTHER]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "title": "Illusion of Mind [DP Another]",
     "level": "7.00...7.50",
@@ -3194,6 +3206,12 @@
   {
     "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
     "title": "Only Diversity [DPA]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -3264,12 +3282,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "ead4d5ef2f682641679929a7f532c3d7",
-    "title": "Disillusion code [DP ANOTHER]",
-    "level": "7.50...8.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
     "title": "H.S : Hadron Strike [DP ANOTHER]",
     "level": "7.50...8.00",
@@ -3284,12 +3296,6 @@
   {
     "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
     "title": "Non Return to Zero [DP ANOTHER]",
-    "level": "7.50...8.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "388e05189bdc0f964c474cb01dd1d27e",
-    "title": "Orillia [DP-sagINSANE]",
     "level": "7.50...8.00",
     "comment": "sl10"
   },

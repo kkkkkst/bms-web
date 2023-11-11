@@ -108,12 +108,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
-    "title": "Luv 5 Dancer [Double]",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
     "title": "MANHATTAN [DP ANOTHER]",
     "level": "4.50...5.00",
@@ -342,6 +336,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
+    "title": "Luv 5 Dancer [Double]",
+    "level": "5.00...5.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "25a592e0875645037f24e420957c2bdc",
     "title": "melody_express [express14]",
     "level": "5.00...5.50",
@@ -398,12 +398,6 @@
   {
     "md5": "2dc6e8268b5efcca25c9f72f9c1186f0",
     "title": "evangelize (blurry images) [DP HARD]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
-    "title": "Highleg Mermaid [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -500,6 +494,12 @@
   {
     "md5": "5471160f9a467ee2893a290138285380",
     "title": "Gypsy gets the Tek",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
+    "title": "Highleg Mermaid [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -744,12 +744,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "1846c9f8536ece051e4471ce365aa5fb",
-    "title": "HEXPERUS [DP ANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "dff6930e3435fe6552d4670c689d2270",
     "title": "Is This Your Memory? [Another]",
     "level": "7.00...7.50",
@@ -872,6 +866,12 @@
   {
     "md5": "197f79072827b1c0c329edbe85fee7cd",
     "title": "H.S : Hadron Strike [DP1104H]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "1846c9f8536ece051e4471ce365aa5fb",
+    "title": "HEXPERUS [DP ANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -1990,6 +1990,12 @@
     "title": "Ceebu Yapp",
     "level": "-",
     "comment": "sl10"
+  },
+  {
+    "md5": "ada4ddd496eef8091ae0fa303e027bab",
+    "title": "CELLS [DP ANOTHER]",
+    "level": "-",
+    "comment": "sl1"
   },
   {
     "md5": "f4c22271fa6556baa900d799df05371c",

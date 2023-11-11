@@ -61,19 +61,6 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "d04d06f2cc477e4dca800b10d4d0d321",
-    "sha256": "50022e170f05114b5a32c4ff90890bd6dd03606faf4d3cf79afb5f8738c4802d",
-    "title": "WHATEVER -Decimation-",
-    "artist": "letro_box obj:Y2K",
-    "url_diff": "https://venue.bmssearch.net/sd_black/1",
-    "url": "https://web.archive.org/web/20060630212202/http://www.ismusic.ne.jp/letro_box/WHATEVER.zip",
-    "level": "4",
-    "comment": "BPM142 微連打 連打複合",
-    "proposer": "SHAX.",
-    "submission": 2136,
-    "proposerLr2id": 65624
-  },
-  {
     "md5": "58e5de4a2ce0ea6b106b88cc04f941a3",
     "sha256": "a96f556c03b9801b0cc4bb84dceea9cb1dbf4071ce586ff721b55024046351c3",
     "title": "色待宵 -イロマツヨイ- [FULLBLOOM]",
@@ -85,6 +72,20 @@
     "proposer": "歳納京子",
     "submission": 2144,
     "proposerLr2id": 75332
+  },
+  {
+    "md5": "6651ac2a173d8adb00f1c5337d33ad71",
+    "sha256": "9ab1d4799e2e0e2164f0b9f311a4709dae9139f26ea56b76e8bd28bb6c959a70",
+    "title": "$trange Attraktor $(\"#noScratch\")",
+    "artist": "schwarzekugel / You might not need Scratch BGA:出前",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://1drv.ms/u/s!AgF3AxufJ8SgheVW76lqfMaq5Km-lQ",
+    "level": "5",
+    "comment": "BPM145 横に広い",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2149,
+    "proposerLr2id": 65624
   },
   {
     "md5": "2650948d745fe2cbb990bd73824e6811",
@@ -100,21 +101,18 @@
     "proposerLr2id": 151185
   },
   {
-    "title": "Bad Cycle [BAD]",
-    "artist": "EBIMAYO / obj.e842",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=116",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02112",
-    "md5": "b8359b62d1dc04632f9cbf12bd39dbb6",
-    "sha256": "0b94a6e097b588581c4cc8c05515ebe5ed013cc16b4568782a1814724b3c724b",
-    "proposer": "魔女",
-    "level": "10",
-    "submission": 597,
-    "voteYes": 0,
-    "voteNeutral": 0,
-    "voteNo": 3,
-    "votePercent": 0,
-    "voteVersion": 2,
-    "proposerMinirid": "016b0d5c-a9f4-4b00-b084-50b2e83688f2"
+    "md5": "9c7fbabfb781ccce6a92a6c61385109e",
+    "sha256": "afc16b40370138f1f9dd47c5050fe56f76fea10ac7cd8398b245d291b1bcee29",
+    "title": "Shiratsuyu [Other]",
+    "artist": "mo_no_chrome obj:Omino",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02577.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=88",
+    "level": "8",
+    "comment": "gachi, zure",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2148,
+    "proposerLr2id": 75332
   },
   {
     "md5": "7d4530e504fc613729eb1c52949e76f2",
