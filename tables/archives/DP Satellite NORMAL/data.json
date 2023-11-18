@@ -72,12 +72,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
-    "title": "endemize [E-ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "71bc274a1042e15361058fc79dda3745",
     "title": "Estella [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -110,12 +104,6 @@
   {
     "md5": "a74da5531a74770fa8dd841cd271454f",
     "title": "In a dream [DP-sagANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "1fd4c1863f55d604fd48894af9f12a9c",
-    "title": "JUMMER [DPA]",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -282,6 +270,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
+    "title": "endemize [E-ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "b6e6f1153a70e5d0aa3097f38f940687",
     "title": "Everblue [14key Another]",
     "level": "0.50...1.00",
@@ -320,6 +314,12 @@
   {
     "md5": "ff3d89cff34c9b1cfb75a50f7b38ea7d",
     "title": "Jasmine Tea Girl [DP ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "1fd4c1863f55d604fd48894af9f12a9c",
+    "title": "JUMMER [DPA]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -1260,12 +1260,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
-    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
-    "level": "3.50...4.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "cdab5423f483634a2af53ed295a1cbd1",
     "title": "Fractal [DP]",
     "level": "3.50...4.00",
@@ -1494,6 +1488,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
+    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
+    "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "b5403179a9f3a205433bbd45673a8fff",
     "title": "Fakeover [DP ANOTHER]",
     "level": "4.00...4.50",
@@ -1544,12 +1544,6 @@
   {
     "md5": "103f559a7cecad6789109a21296d2371",
     "title": "searoad tracks =side blue= [DP MANIAC]",
-    "level": "4.00...4.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "77049e33fcbb6a4472d562a11a4fa5e0",
-    "title": "sola [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl4"
   },
@@ -1644,12 +1638,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "cab9e7f2c4f05d3752fc8e831fc4b38d",
-    "title": "Aim4TheStars -DP Hard-",
-    "level": "4.50...5.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
     "title": "Angelic Snow (kumanother)",
     "level": "4.50...5.00",
@@ -1724,6 +1712,12 @@
   {
     "md5": "59909bc8c4d6f0788e04cc632e63e6d1",
     "title": "SCARY BANQUET [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "77049e33fcbb6a4472d562a11a4fa5e0",
+    "title": "sola [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl4"
   },
@@ -1974,12 +1968,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "c1bd86080023e6e353cf65a9871e737a",
-    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "71e18a6179ad7854b517a59409254926",
     "title": "ラケシスと永遠の祈祷者 [sub black another]",
     "level": "5.00...5.50",
@@ -2076,6 +2064,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "b949b938985ca74ac6c8c83ffba5c939",
+    "title": "Transicio [DP]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "a770062c765839e1e2e35273397b3577",
     "title": "Wonderful Tomorrow [14Wonderful Today]",
     "level": "5.50...6.00",
@@ -2084,6 +2078,12 @@
   {
     "md5": "bbfda0f6a39370401e99a89ab0747034",
     "title": "スピカ [DP ANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "c1bd86080023e6e353cf65a9871e737a",
+    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -2240,6 +2240,12 @@
   {
     "md5": "cfbb406d9db451fa9b72a6965dbed67b",
     "title": "5億円が欲しいRENAISSANCE [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "cab9e7f2c4f05d3752fc8e831fc4b38d",
+    "title": "Aim4TheStars -DP Hard-",
     "level": "6.50...7.00",
     "comment": "sl6"
   },
@@ -3264,12 +3270,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "101c37c44d865b61b391fae7614eaaea",
-    "title": "Life is PIANO [DP INS☆NE]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
     "title": "Only Diversity [DPA]",
     "level": "10.00...10.50",
@@ -3333,6 +3333,12 @@
     "md5": "de397d520c998e66bbab4017791c9668",
     "title": "禁忌と緋色幻想 -The Primary Plasm- [Red Storm]",
     "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "101c37c44d865b61b391fae7614eaaea",
+    "title": "Life is PIANO [DP INS☆NE]",
+    "level": "10.50...11.00",
     "comment": "sl10"
   }
 ]

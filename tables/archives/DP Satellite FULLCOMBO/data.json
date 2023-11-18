@@ -114,12 +114,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "191a530a966d7f4cb956bcce8548fc5c",
-    "title": "Marion",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "927c7acd74be6c41415b540fcdec89a0",
     "title": "Night view [DP ANOTHER]",
     "level": "4.50...5.00",
@@ -312,12 +306,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "344f3eb3b1f1fc279f68307e0110931e",
-    "title": "GRID",
-    "level": "5.00...5.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "ec4243482ebd4758419cdd5f0dbcd93d",
     "title": "happy century (HYPER14)",
     "level": "5.00...5.50",
@@ -338,6 +326,12 @@
   {
     "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
     "title": "Luv 5 Dancer [Double]",
+    "level": "5.00...5.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "191a530a966d7f4cb956bcce8548fc5c",
+    "title": "Marion",
     "level": "5.00...5.50",
     "comment": "sl0"
   },
@@ -398,6 +392,12 @@
   {
     "md5": "2dc6e8268b5efcca25c9f72f9c1186f0",
     "title": "evangelize (blurry images) [DP HARD]",
+    "level": "5.50...6.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "344f3eb3b1f1fc279f68307e0110931e",
+    "title": "GRID",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -2920,6 +2920,12 @@
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
     "level": "-",
     "comment": "sl9"
+  },
+  {
+    "md5": "b949b938985ca74ac6c8c83ffba5c939",
+    "title": "Transicio [DP]",
+    "level": "-",
+    "comment": "sl5"
   },
   {
     "md5": "a1a97ad73b976ebfc6f110026b60b1a4",

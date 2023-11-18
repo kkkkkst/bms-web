@@ -696,6 +696,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "1754b47ff373aa71494bff859a6a0ba8",
+    "title": "c.s.q.n. [DP]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "746900e210c21de7984e01cf08ecc291",
     "title": "CLOCKTOWER [DP ANOTHER]",
     "level": "2.50...3.00",
@@ -824,12 +830,6 @@
   {
     "md5": "a883969ae8ae045218a5f5a8f846eaf4",
     "title": "Breeze [台風とそよ風の境目]",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "1754b47ff373aa71494bff859a6a0ba8",
-    "title": "c.s.q.n. [DP]",
     "level": "3.00...3.50",
     "comment": "sl2"
   },
@@ -1104,6 +1104,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "81c8fad166661b8609873553f32d09bb",
+    "title": "Conviction [DP HYPER]",
+    "level": "4.00...4.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "4.00...4.50",
@@ -1238,12 +1244,6 @@
   {
     "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
     "title": "Central Nucleus [DP ANOTHER]",
-    "level": "4.50...5.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "81c8fad166661b8609873553f32d09bb",
-    "title": "Conviction [DP HYPER]",
     "level": "4.50...5.00",
     "comment": "sl3"
   },
@@ -1542,12 +1542,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "77049e33fcbb6a4472d562a11a4fa5e0",
-    "title": "sola [DP ANOTHER]",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "b96ba398a774ecaeb210c4da956fe9a7",
     "title": "Summertime(2013 mix) [DP Another]",
     "level": "5.00...5.50",
@@ -1638,12 +1632,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "cab9e7f2c4f05d3752fc8e831fc4b38d",
-    "title": "Aim4TheStars -DP Hard-",
-    "level": "5.50...6.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
     "title": "Angelic Snow (kumanother)",
     "level": "5.50...6.00",
@@ -1716,6 +1704,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "77049e33fcbb6a4472d562a11a4fa5e0",
+    "title": "sola [DP ANOTHER]",
+    "level": "5.50...6.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "66d86b3543736c6925509bbf533fce04",
     "title": "VENUS INVADER [14K ANOTHER+]",
     "level": "5.50...6.00",
@@ -1760,12 +1754,6 @@
   {
     "md5": "d650ba8622f1f079681efb67dd7ee04e",
     "title": "Cutter [DP INSANE]",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "99662346a80bd6fdb7c777aba68e9bd8",
-    "title": "F4C4D3 [DPA]",
     "level": "6.00...6.50",
     "comment": "sl5"
   },
@@ -1854,12 +1842,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "b041534da1958a77fd427b6954f1b410",
-    "title": "Trahison [DP INSANE]",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "b33e89e037924cbb8417f6bdd3c80d8b",
     "title": "World Against 2 [DP sub another]",
     "level": "6.00...6.50",
@@ -1898,18 +1880,6 @@
   {
     "md5": "3bb6b6cc5683fa43fca60a722fccd566",
     "title": "ふゆいろ ドリーマー",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "af60ad5911f71295d161427319217e45",
-    "title": "シグナルほっぴんぐ [DP Hard]",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "c1bd86080023e6e353cf65a9871e737a",
-    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl5"
   },
@@ -1970,6 +1940,12 @@
   {
     "md5": "4d4a132f107ac41bb901e43f8c809f9d",
     "title": "EXILE [AFOTHER14]",
+    "level": "6.50...7.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "99662346a80bd6fdb7c777aba68e9bd8",
+    "title": "F4C4D3 [DPA]",
     "level": "6.50...7.00",
     "comment": "sl5"
   },
@@ -2052,14 +2028,38 @@
     "comment": "sl5"
   },
   {
+    "md5": "b041534da1958a77fd427b6954f1b410",
+    "title": "Trahison [DP INSANE]",
+    "level": "6.50...7.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "b949b938985ca74ac6c8c83ffba5c939",
+    "title": "Transicio [DP]",
+    "level": "6.50...7.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "a770062c765839e1e2e35273397b3577",
     "title": "Wonderful Tomorrow [14Wonderful Today]",
     "level": "6.50...7.00",
     "comment": "sl5"
   },
   {
+    "md5": "af60ad5911f71295d161427319217e45",
+    "title": "シグナルほっぴんぐ [DP Hard]",
+    "level": "6.50...7.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "bbfda0f6a39370401e99a89ab0747034",
     "title": "スピカ [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "c1bd86080023e6e353cf65a9871e737a",
+    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl5"
   },
@@ -2142,12 +2142,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "5dc019d3c327fb3e8adafc2bef02420a",
-    "title": "The Microbe [DP INSANE]",
-    "level": "7.00...7.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "268bb5d71fd21b3c8dd1d138f2e3e9fd",
     "title": "-+ [DP LAPITHER]",
     "level": "7.50...8.00",
@@ -2168,6 +2162,12 @@
   {
     "md5": "a6f82198424691c199e5163f49506554",
     "title": "After Burner [Adventure]",
+    "level": "7.50...8.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "cab9e7f2c4f05d3752fc8e831fc4b38d",
+    "title": "Aim4TheStars -DP Hard-",
     "level": "7.50...8.00",
     "comment": "sl6"
   },
@@ -2288,6 +2288,12 @@
   {
     "md5": "e95c45d5c8a175310c67d5b4640a990f",
     "title": "Telescope [DP-sagANOTHER]",
+    "level": "7.50...8.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "5dc019d3c327fb3e8adafc2bef02420a",
+    "title": "The Microbe [DP INSANE]",
     "level": "7.50...8.00",
     "comment": "sl6"
   },

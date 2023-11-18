@@ -9587,20 +9587,6 @@
     "proposerLr2id": 35410
   },
   {
-    "md5": "0b1582496c59b4a97f44a599ff900b51",
-    "sha256": "d87984341785e68b3e9e3343a9ab5b2d1ad2857081b0791a6b59ab927ba54a5e",
-    "title": "Air",
-    "artist": "SHIKI / 74",
-    "url_diff": "https://stellabms.xyz/upload/3115",
-    "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
-    "level": "2",
-    "comment": "bpm180 乱打",
-    "zureCount": 0,
-    "proposer": "mqppppp",
-    "submission": 2843,
-    "proposerMinirid": "da079373-08be-4151-a76f-8ed44123949a"
-  },
-  {
     "md5": "07ddb331ca62350ad5c21df9a59d21f1",
     "sha256": "0871ee2870f2e595e206ecf7d9fc65e408f102e3ad544993a37c51a405cf2a75",
     "title": "Alruna [for K.]",
@@ -12285,6 +12271,19 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "a351300d947365b17ddcd1446b7fce96",
+    "sha256": "9e24c78f5db4a4e04efd5e8da2f506cd461aabef874be4dcdcd0f65effa776b2",
+    "title": "The Crack of Dawn [Morning Star]",
+    "artist": "shimizushi BGA : AnD ILLUST : a.a / obj : monaka",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04851",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=133",
+    "level": "2",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2885,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "342dfee0da81adf19fc7abc6beff7b12",
     "sha256": "37ed103f6d211d0806116a1f749a974383c6986d801d5244d63f6cf0dd35402c",
     "title": "The Grinder [SP ANOTHER]",
@@ -13702,6 +13701,20 @@
     "proposer": "mukyu--",
     "submission": 2319,
     "proposerLr2id": 71314
+  },
+  {
+    "md5": "0b1582496c59b4a97f44a599ff900b51",
+    "sha256": "d87984341785e68b3e9e3343a9ab5b2d1ad2857081b0791a6b59ab927ba54a5e",
+    "title": "Air",
+    "artist": "SHIKI / 74",
+    "url_diff": "https://stellabms.xyz/upload/3115",
+    "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
+    "level": "3",
+    "comment": "bpm180 乱打",
+    "zureCount": 0,
+    "proposer": "mqppppp",
+    "submission": 2843,
+    "proposerMinirid": "da079373-08be-4151-a76f-8ed44123949a"
   },
   {
     "md5": "33b370a51c9d8e1f3de8b0ce6490a31d",
@@ -23227,6 +23240,20 @@
     "votePercent": 0
   },
   {
+    "md5": "a6a8ad338c49404c540238010a4f2770",
+    "sha256": "4799c2a10f726b6be587561deb96948995e60d69c5fe3ffa6cadabfaab7983c2",
+    "title": "東風谷早苗が悲しい顔をする理由。 [ZOI]",
+    "artist": "nmk feat.かなえゆめ BGA:SIGMA / ASTE Illust:かぜっと / obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=118",
+    "level": "5",
+    "comment": "低トータル",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2884,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "level": "5",
     "comment": "4~5?",
     "md5": "4f49e165b2222bab7afd1015c62f7940",
@@ -23408,20 +23435,6 @@
     "proposer": "SHAX.",
     "submission": 2193,
     "proposerLr2id": 65624
-  },
-  {
-    "md5": "aa240006d2915ca8e305977f526a7a26",
-    "sha256": "567b09258d01575c9a6dc1f1b6ac685738b13628e93583ec6429c19df28e4cce",
-    "title": "遠声 (嵐)",
-    "artist": "道済　儚　及び　秋山　としのり / 藍",
-    "url_diff": "https://stellabms.xyz/upload/3114",
-    "url": "http://yaritaihoudie.free.fr/bms/boxofsins/toogoe.rar",
-    "level": "5",
-    "comment": "",
-    "zureCount": 0,
-    "proposer": "Reiaki",
-    "submission": 2839,
-    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
     "md5": "ff481b9a016e9c2e3a72787ab14d5c1c",
@@ -24612,7 +24625,7 @@
     "title": "Opaque Couche [Latte]",
     "artist": "siqlo Movie:出前 / obj:Rv",
     "url_diff": "https://stellabms.xyz/upload/3272",
-    "url": "https://stellabms.xyz/upload/3272",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=271&event=137",
     "level": "6",
     "comment": "面白いです。",
     "zureCount": 0,
@@ -25831,6 +25844,20 @@
     "proposer": "◆polynya",
     "submission": 1443,
     "proposerLr2id": 161749
+  },
+  {
+    "md5": "aa240006d2915ca8e305977f526a7a26",
+    "sha256": "567b09258d01575c9a6dc1f1b6ac685738b13628e93583ec6429c19df28e4cce",
+    "title": "遠声 (嵐)",
+    "artist": "道済　儚　及び　秋山　としのり / 藍",
+    "url_diff": "https://stellabms.xyz/upload/3114",
+    "url": "http://yaritaihoudie.free.fr/bms/boxofsins/toogoe.rar",
+    "level": "6",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "Reiaki",
+    "submission": 2839,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
     "level": "6",
@@ -28298,19 +28325,6 @@
     "proposerLr2id": 23110
   },
   {
-    "level": "8",
-    "comment": "同梱譜面 高TOTAL 高速乱打",
-    "md5": "045e3498d2e72b49679ec97a32a8c9ae",
-    "sha256": "666d82372e699289caf8419da4ff752666392abed767bc3e0da49425b9acbdb9",
-    "title": "Blooming!! [Insane]",
-    "artist": "こはのん(kohaxy+Hanon) obj:Rian",
-    "url_diff": "",
-    "url": "https://venue.bmssearch.net/3/73",
-    "proposer": "文欽2",
-    "submission": 980,
-    "proposerMinirid": "83670899-0414-4d86-8b1a-053c077584a4"
-  },
-  {
     "md5": "b3172f3593b9d8685769954821d65e9a",
     "sha256": "9aefdd7fe4cf57a19167e6ed530ef4d123a878f7dc01a920b217c5b47772952f",
     "title": "Booboo Bounce! [Immortal]",
@@ -30664,6 +30678,19 @@
     "proposer": "SHAX.",
     "submission": 2841,
     "proposerLr2id": 65624
+  },
+  {
+    "level": "9",
+    "comment": "同梱譜面 高TOTAL 高速乱打",
+    "md5": "045e3498d2e72b49679ec97a32a8c9ae",
+    "sha256": "666d82372e699289caf8419da4ff752666392abed767bc3e0da49425b9acbdb9",
+    "title": "Blooming!! [Insane]",
+    "artist": "こはのん(kohaxy+Hanon) obj:Rian",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/3/73",
+    "proposer": "文欽2",
+    "submission": 980,
+    "proposerMinirid": "83670899-0414-4d86-8b1a-053c077584a4"
   },
   {
     "md5": "35b5b4be4b54418dc0cbf8f07fdc676c",
@@ -35223,19 +35250,6 @@
     "proposerLr2id": 158333
   },
   {
-    "md5": "d713c90ce5688b8ba38d2e7c93e318eb",
-    "sha256": "ca0813007d549c35720ecf604e83d76cb97dee78e2da694aff6af878dd1004a5",
-    "title": "Lostlove -BMS ver.- [Junkey]",
-    "artist": "maklow",
-    "url_diff": "http://kanki2.net/bme.html",
-    "url": "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111",
-    "level": "11",
-    "comment": "曲変更差分なのでズレ抜けチェック不可能（作者HPのコメントにより）",
-    "proposer": "Mary_Sue",
-    "submission": 2879,
-    "proposerLr2id": 147889
-  },
-  {
     "level": "11",
     "comment": "ガチ押し",
     "md5": "c431cc653778a749320ed146c7981567",
@@ -36720,6 +36734,19 @@
     "proposerLr2id": 151185
   },
   {
+    "md5": "678d567e85ffb27100a2d9c8ae459730",
+    "sha256": "fa462c657ab258ea862cb7c59d735b2f265e57b1aa6a2ee3a27105f2ad0ccb04",
+    "title": "Ascension to Heaven",
+    "artist": "xi / 制限",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02056",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
+    "level": "12",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2886,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "5580e8407abef96a303cba82a1eb605c",
     "sha256": "a43c7c7153586363e28ac2dca04d5b7b31b991c7212754ad61dc3ecd7e46f4a8",
     "title": "Aurora [Shine]",
@@ -37711,6 +37738,19 @@
     "proposer": "SHAX.",
     "submission": 1635,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "d713c90ce5688b8ba38d2e7c93e318eb",
+    "sha256": "ca0813007d549c35720ecf604e83d76cb97dee78e2da694aff6af878dd1004a5",
+    "title": "Lostlove -BMS ver.- [Junkey]",
+    "artist": "maklow",
+    "url_diff": "http://kanki2.net/bme.html",
+    "url": "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111",
+    "level": "12",
+    "comment": "曲変更差分なのでズレ抜けチェック不可能（作者HPのコメントにより）",
+    "proposer": "Mary_Sue",
+    "submission": 2879,
+    "proposerLr2id": 147889
   },
   {
     "level": "12",
@@ -39089,19 +39129,6 @@
     "proposer": "LUXURY♪",
     "submission": 2578,
     "proposerLr2id": 23110
-  },
-  {
-    "level": "12",
-    "comment": "微縦連",
-    "md5": "7e059c93b59768bd662f17cb1cc7545c",
-    "sha256": "0ad6db385353009cbdd1e4694b6222e4cce57a5915e899f576ccd8b2dd05d5a2",
-    "title": "ロスト：ユートピアと真理と純粋の極彩世界 [Heroic]",
-    "artist": "Sound piercer & Sobrem / obj.siokaze",
-    "url_diff": "http://siokazebms.web.fc2.com/",
-    "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
-    "proposer": "w2w2",
-    "submission": 915,
-    "proposerLr2id": 112172
   },
   {
     "md5": "387808dd59ddd66ec7c3660889c42ba1",
@@ -42377,6 +42404,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "2dd12110cbb0e5eeeed0711223ffd33c9b434a25ee7d89e1f10b08390189342a"
+  },
+  {
+    "md5": "7e059c93b59768bd662f17cb1cc7545c",
+    "sha256": "0ad6db385353009cbdd1e4694b6222e4cce57a5915e899f576ccd8b2dd05d5a2",
+    "title": "ロスト：ユートピアと真理と純粋の極彩世界 [Heroic]",
+    "artist": "Sound piercer & Sobrem / obj.siokaze",
+    "url_diff": "http://siokazebms.web.fc2.com/",
+    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
+    "level": "13",
+    "comment": "from Satellite",
+    "proposer": "LUXURY♪",
+    "submission": 2151,
+    "proposerLr2id": 23110
   },
   {
     "md5": "6dc04f5f2faa96d4b94a9f13f4c22dd9",
@@ -46606,6 +46646,19 @@
     "proposer": "EGRET.",
     "submission": 2051,
     "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
+    "md5": "4c03a63b158573855540a6a85b59d9b7",
+    "sha256": "336a40c64c900a3cc9093f9d1413064cc2e73e66b578d33578642bc55899ea1f",
+    "title": "人里に下ったアタイがいつの間にか社畜になっていた件 [そしてブラック企業は滅亡した]",
+    "artist": "ねこみりん + nora2r feat. 小宮真央 出前 + くるみあべし / AAAA",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0992.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=422&event=104",
+    "level": "14",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2154,
+    "proposerLr2id": 147889
   },
   {
     "title": "侵略のススメ☆ [Crazy Squid]",
@@ -51676,6 +51729,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "9790a18e11e0a63b1fd35cdd52d2f310",
+    "sha256": "3c662af622871551100c0c9114d04cd328e2f4f3f9569d3cacd6f1d7b7605c13",
+    "title": "Bird Sprite -D.K.R. mix- (24maniaq)",
+    "artist": "ツナマヨちゃんとかプレネールとか",
+    "url_diff": "https://venue.bmssearch.net/sd_gray/11",
+    "url": "http://web.archive.org/web/20070928164748/http://bof.nothing.sh/bof2005/tsunamayochan_birdsprite_HQ.rar",
+    "level": "16",
+    "comment": "BPM146 24分乱打",
+    "proposer": "SHAX.",
+    "submission": 2152,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "620e8cd86cf8b1e0561a4b8171089acb",
     "title": "BLAST [Radiation+]",
     "artist": "syzfonics obj: qtp13",
@@ -52126,21 +52192,6 @@
     "proposer": "MineC24",
     "submission": 1021,
     "proposerLr2id": 84597
-  },
-  {
-    "title": "Destroyer［Oxygen］",
-    "artist": "Tlahuizcalpantecuhtli BGA: Air OBJ : ランダマイザ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00661",
-    "md5": "3216e0be0404e5311672194432d8b82a",
-    "level": "16",
-    "proposer": "LUXURY",
-    "comment": "00661",
-    "submission": 101,
-    "votePercent": 0,
-    "voteYes": 0,
-    "voteNo": 0,
-    "sha256": "d0b53d0aef698e43009dd5b5a00e49b07914318a1ef5d37ecf42f6914763acdd"
   },
   {
     "md5": "9cd5a316117bce74196a4fc94d56e39c",
@@ -55929,6 +55980,21 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "ec76faa060fa7498e8159bfd3a58a502ce7cd332d50dc7f59a5e4efd6c5553c8"
+  },
+  {
+    "title": "Destroyer［Oxygen］",
+    "artist": "Tlahuizcalpantecuhtli BGA: Air OBJ : ランダマイザ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00661",
+    "md5": "3216e0be0404e5311672194432d8b82a",
+    "level": "17",
+    "proposer": "LUXURY",
+    "comment": "00661",
+    "submission": 101,
+    "votePercent": 0,
+    "voteYes": 0,
+    "voteNo": 0,
+    "sha256": "d0b53d0aef698e43009dd5b5a00e49b07914318a1ef5d37ecf42f6914763acdd"
   },
   {
     "md5": "049accd5306faaa7c668fab8b17e10e1",
@@ -61697,6 +61763,19 @@
     "sha256": "e24115dadceef60d9c7ad4b6b2ca4d2e8adc5f091ab926bc976a25e647da1493"
   },
   {
+    "md5": "a6990a2b6c3a65e86b1939a077c42683",
+    "sha256": "715e6be2817f214fa981b45e2a220356c736a78d6c7e339139bffdded84a600d",
+    "title": "黄昏のメロディア [久遠]",
+    "artist": "秋月アキラ feat. 保堂 京 / obj.fuko",
+    "url_diff": "https://stellabms.xyz/upload/1848",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
+    "level": "18",
+    "comment": "st5-6 横に広いガチ押し",
+    "proposer": "mukyu--",
+    "submission": 2086,
+    "proposerLr2id": 71314
+  },
+  {
     "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
     "sha256": "7f74158d2803613fc93613803605cef312dc2dc7178d2ec6919af4b427d92a4a",
     "title": "\"Fishpot\" [Su-9]",
@@ -61876,6 +61955,20 @@
     "proposer": "ZEUS",
     "comment": "st7-8 超高速",
     "submission": 823
+  },
+  {
+    "md5": "7a1048df360b1a7b578b7b75bf0e1b85",
+    "sha256": "f32d21ec3c9d5cb44d53f4c5fe58e538dc6e13825d5a1961bda6c56d75ac2d9a",
+    "title": "amorphous -disordered-",
+    "artist": "amorphous obj:Y2K",
+    "url_diff": "https://venue.bmssearch.net/sd_gray/4",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=502&event=140",
+    "level": "19",
+    "comment": "BPM114 32分乱打+α",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2153,
+    "proposerLr2id": 65624
   },
   {
     "title": "Andro",
@@ -63390,19 +63483,6 @@
     "proposer": "七海",
     "submission": 1948,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "a6990a2b6c3a65e86b1939a077c42683",
-    "sha256": "715e6be2817f214fa981b45e2a220356c736a78d6c7e339139bffdded84a600d",
-    "title": "黄昏のメロディア [久遠]",
-    "artist": "秋月アキラ feat. 保堂 京 / obj.fuko",
-    "url_diff": "https://stellabms.xyz/upload/1848",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
-    "level": "19",
-    "comment": "st5-6 横に広いガチ押し",
-    "proposer": "mukyu--",
-    "submission": 2086,
-    "proposerLr2id": 71314
   },
   {
     "md5": "09eadf584bd4efb1f25a1be771a64e13",
@@ -65542,6 +65622,21 @@
     "proposerLr2id": 39693
   },
   {
+    "title": "Hydreripia [Mercury Blizzard]",
+    "artist": "Lafale / Who am I?",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=116",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01400",
+    "md5": "44ec9ce48c6659c1355f4e87b398432c",
+    "level": "21",
+    "proposer": "renda-",
+    "comment": "高速(BPM256)",
+    "submission": 233,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "a8c3ed37e3c25d35df463f7cb58bdc8ac483586a68b32b20c95046877d20d53a"
+  },
+  {
     "level": "21",
     "comment": "縦連複合",
     "md5": "886ff049fd102b000d33bb37e1269d5f",
@@ -66721,21 +66816,6 @@
     "proposer": "MEES-♬",
     "submission": 1156,
     "proposerLr2id": 39693
-  },
-  {
-    "title": "Hydreripia [Mercury Blizzard]",
-    "artist": "Lafale / Who am I?",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=116",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01400",
-    "md5": "44ec9ce48c6659c1355f4e87b398432c",
-    "level": "22",
-    "proposer": "renda-",
-    "comment": "高速(BPM256)",
-    "submission": 233,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "a8c3ed37e3c25d35df463f7cb58bdc8ac483586a68b32b20c95046877d20d53a"
   },
   {
     "title": "Icicle Stinger -Solar Eclipse-",
@@ -68806,6 +68886,20 @@
     "proposer": "qtp13",
     "submission": 1648,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "14b03e114fc321a84a64ea01201a4710",
+    "sha256": "eda6fe8108a854a7f818eba8d830ac15a193135ab603dd881937082afccbb080",
+    "title": "Triumphal Return [Victory]",
+    "artist": "TamaDo / Blocko",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/06267.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+    "level": "25",
+    "comment": "stream",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2155,
+    "proposerLr2id": 75332
   },
   {
     "md5": "50699b93a0c64edfb453906eecb16dd4",

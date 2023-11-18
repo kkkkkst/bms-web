@@ -36,12 +36,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "ef8eb19116682827916ad353294f30c8",
-    "title": "Bogus of True (DPH)",
-    "level": "-0.50...0.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "dc4adbbf11b5a6868aa73abecc629c3e",
     "title": "Can't it be true",
     "level": "-0.50...0.00",
@@ -408,6 +402,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "ef8eb19116682827916ad353294f30c8",
+    "title": "Bogus of True (DPH)",
+    "level": "0.00...0.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "f62d47cd97f33682e7c8ce032bc38bee",
     "title": "Castorpollux [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -708,12 +708,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
-    "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "2332bbd8876a500af7e868f71192f9a9",
     "title": "Deus ex Machina [DPH]",
     "level": "0.50...1.00",
@@ -810,6 +804,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "304a55cf280f9875efb248773dc42a0f",
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
     "level": "0.50...1.00",
@@ -878,6 +878,12 @@
   {
     "md5": "26d6f5d22a28f511516096981ed65553",
     "title": "conflict [DPA]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
+    "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -1056,12 +1062,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "9616428365252530dc3ac6b994e21443",
     "title": "ハニエルのうた DPA",
     "level": "1.00...1.50",
@@ -1084,12 +1084,6 @@
     "title": "翼の折れた天使たちのレクイエム [DP Another]",
     "level": "1.00...1.50",
     "comment": "sl2"
-  },
-  {
-    "md5": "1542e4cd8301369334457d3c6f4960bd",
-    "title": "Blacksphere [DP Noise mix]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
   },
   {
     "md5": "bbf97c0b70b7f68a363cddbd99462f67",
@@ -1282,6 +1276,12 @@
     "title": "B.B.K.K.B.K.K. -DP Busy-",
     "level": "2.00...2.50",
     "comment": "sl4"
+  },
+  {
+    "md5": "1542e4cd8301369334457d3c6f4960bd",
+    "title": "Blacksphere [DP Noise mix]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
   },
   {
     "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
@@ -1824,6 +1824,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "f933308f0963b29ad48b6fe249689560",
+    "title": "QSHELL -拒色のシェルル- [DPA]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "0c5f9d1948d964fb20696261f632a199",
     "title": "reverieland [DPYoither]",
     "level": "3.00...3.50",
@@ -1892,6 +1898,12 @@
   {
     "md5": "b041534da1958a77fd427b6954f1b410",
     "title": "Trahison [DP INSANE]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "b949b938985ca74ac6c8c83ffba5c939",
+    "title": "Transicio [DP]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -2096,12 +2108,6 @@
   {
     "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
     "title": "Prayer [LEGGENDARIA]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
-    "md5": "f933308f0963b29ad48b6fe249689560",
-    "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
@@ -3186,12 +3192,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "101c37c44d865b61b391fae7614eaaea",
-    "title": "Life is PIANO [DP INS☆NE]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "19dd7514996c1d83396cf79d33dd0b03",
     "title": "Love☆Spellcard",
     "level": "7.00...7.50",
@@ -3290,6 +3290,12 @@
   {
     "md5": "61296a55d89ae86f957873df1cd011f1",
     "title": "IKAROS [DP Nymph]",
+    "level": "7.50...8.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "101c37c44d865b61b391fae7614eaaea",
+    "title": "Life is PIANO [DP INS☆NE]",
     "level": "7.50...8.00",
     "comment": "sl10"
   },
