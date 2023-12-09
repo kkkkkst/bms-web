@@ -612,12 +612,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "27481e8ce96440b60455430ad57315cb",
-    "title": "z/e [DP-sagANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "349ba985ad69368d8bc559c86d2fd256",
     "title": "ΦReboot [14key]",
     "level": "0.00...0.50",
@@ -626,12 +620,6 @@
   {
     "md5": "5dc1cb5b9233d609d755fe314851d0fb",
     "title": "バーチャルセラピー [DP ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
-    "title": "ラケシスと永遠の祈祷者 [sub another]",
     "level": "0.00...0.50",
     "comment": "sl1"
   },
@@ -792,6 +780,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "27481e8ce96440b60455430ad57315cb",
+    "title": "z/e [DP-sagANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "74af66270ed14d3bb20f612768c97f07",
     "title": "☆ twinklesky ☆ 12",
     "level": "0.50...1.00",
@@ -812,6 +806,12 @@
   {
     "md5": "304a55cf280f9875efb248773dc42a0f",
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
+    "title": "ラケシスと永遠の祈祷者 [sub another]",
     "level": "0.50...1.00",
     "comment": "sl1"
   },
@@ -1092,12 +1092,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
-    "title": "Caelumize [MG]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "e7aa5f8ab95ef3a74f177ba966693079",
     "title": "carnation [for pianist]",
     "level": "1.50...2.00",
@@ -1242,12 +1236,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "0145890caff6b35499af4a3ae3f9ac02",
-    "title": "明空リュウセイグン [DP Daybreak]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "daa91f5884399436c2c29c6b3f830f87",
     "title": "村 [そんそん]",
     "level": "1.50...2.00",
@@ -1280,6 +1268,12 @@
   {
     "md5": "1542e4cd8301369334457d3c6f4960bd",
     "title": "Blacksphere [DP Noise mix]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
+    "title": "Caelumize [MG]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -1482,6 +1476,18 @@
     "comment": "sl3"
   },
   {
+    "md5": "8a626400b635d2012988b072de442862",
+    "title": "冰月冰花 (BMS edit) [DP-sagANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "0145890caff6b35499af4a3ae3f9ac02",
+    "title": "明空リュウセイグン [DP Daybreak]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
     "title": "永夜の報い -full moon- <14A>",
     "level": "2.00...2.50",
@@ -1498,6 +1504,12 @@
     "title": "現実をカットアップしてみた [DPA.NOTHER+]",
     "level": "2.00...2.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "a53f26e6c6bed5fbadeb72c2f9278472",
+    "title": "空跳ぶ少女 [14人目]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
   },
   {
     "md5": "137821b71aee5d8444e7fcc38cd5690c",
@@ -1674,20 +1686,8 @@
     "comment": "sl4"
   },
   {
-    "md5": "8a626400b635d2012988b072de442862",
-    "title": "冰月冰花 (BMS edit) [DP-sagANOTHER]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "347e728cf787c9eddcb2986abe6c028e",
     "title": "月時計　Last・Dial (DPA)",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "a53f26e6c6bed5fbadeb72c2f9278472",
-    "title": "空跳ぶ少女 [14人目]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -1998,12 +1998,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "395811c489090c3e648d2385995de94c",
-    "title": "霖風 [DP HYPER]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "268bb5d71fd21b3c8dd1d138f2e3e9fd",
     "title": "-+ [DP LAPITHER]",
     "level": "3.50...4.00",
@@ -2100,6 +2094,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
+    "title": "Noblesse Gloria [DP-sagANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "1a8bf502c603ff2f2b9fca64a47de401",
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "3.50...4.00",
@@ -2134,6 +2134,12 @@
     "title": "田中 -KATAKATA-",
     "level": "3.50...4.00",
     "comment": "sl6"
+  },
+  {
+    "md5": "395811c489090c3e648d2385995de94c",
+    "title": "霖風 [DP HYPER]",
+    "level": "3.50...4.00",
+    "comment": "sl5"
   },
   {
     "md5": "cfbb406d9db451fa9b72a6965dbed67b",
@@ -2214,8 +2220,8 @@
     "comment": "sl6"
   },
   {
-    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
-    "title": "Noblesse Gloria [DP-sagANOTHER]",
+    "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
+    "title": "NightTheater [DP ANOTHER+]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2300,12 +2306,6 @@
   {
     "md5": "5dc019d3c327fb3e8adafc2bef02420a",
     "title": "The Microbe [DP INSANE]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "c3cce8a0c9843c032d23b9a51f33a800",
-    "title": "Απομνημονευμαι [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2430,12 +2430,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
-    "title": "NightTheater [DP ANOTHER+]",
-    "level": "4.50...5.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "29218763f7b55ddf23d1f4e1ec112816",
     "title": "Stellaria -Veritas Lux Mea-",
     "level": "4.50...5.00",
@@ -2464,6 +2458,12 @@
     "title": "The SkyScrapers [DP-sagINSANE]",
     "level": "4.50...5.00",
     "comment": "sl7"
+  },
+  {
+    "md5": "c3cce8a0c9843c032d23b9a51f33a800",
+    "title": "Απομνημονευμαι [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl6"
   },
   {
     "md5": "dd8ebb81bb16e19d54c31c4d8cdb7b96",
@@ -2844,14 +2844,14 @@
     "comment": "sl8"
   },
   {
-    "md5": "6c60ebb93243207d2b30da98ee18fcf0",
-    "title": "Illusion of Mind [DP INSANE]",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "d73cdd6d5d1897e2d3052b74263b5283",
     "title": "IN [HAORSE MUSIC / DP譜面]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "401c87a84d6d6396a970d2d73416af98",
+    "title": "Kronos [Choronos]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -2896,12 +2896,6 @@
     "title": "月時計 Last・Dial (DoubleLunatic+)",
     "level": "5.50...6.00",
     "comment": "sl8"
-  },
-  {
-    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
-    "title": "Acid Drizzle -レイクサイド-",
-    "level": "6.00...6.50",
-    "comment": "sl9"
   },
   {
     "md5": "89639898fb0dc00a003f6824f076e940",
@@ -2952,26 +2946,14 @@
     "comment": "sl9"
   },
   {
+    "md5": "6c60ebb93243207d2b30da98ee18fcf0",
+    "title": "Illusion of Mind [DP INSANE]",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "4b2d84e3ee6fddaf678d30cb695d638a",
     "title": "Judah [DP INSANE]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "401c87a84d6d6396a970d2d73416af98",
-    "title": "Kronos [Choronos]",
-    "level": "6.00...6.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
-    "title": "rise to R -overdrive 14-",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
-    "title": "S.L.I. [W.I.S.H.]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -3024,12 +3006,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "609c7cedebd3a895dc46ab9dfc97a345",
-    "title": "硬核機動 [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "58c7cc7fabd94b15b0569843063dd3a7",
     "title": "!nterroban(?, [happy14]",
     "level": "6.50...7.00",
@@ -3038,6 +3014,12 @@
   {
     "md5": "80688a79f251ece911a4a1c3b782f835",
     "title": "Absurd Gaff [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
+    "title": "Acid Drizzle -レイクサイド-",
     "level": "6.50...7.00",
     "comment": "sl9"
   },
@@ -3120,6 +3102,18 @@
     "comment": "sl9"
   },
   {
+    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
+    "title": "rise to R -overdrive 14-",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
+    "title": "S.L.I. [W.I.S.H.]",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "8cc4f01e3855e3f0acbe26920762fe32",
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
     "level": "6.50...7.00",
@@ -3166,6 +3160,12 @@
     "title": "硬核機動 [14KEYS-ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "609c7cedebd3a895dc46ab9dfc97a345",
+    "title": "硬核機動 [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl9"
   },
   {
     "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",

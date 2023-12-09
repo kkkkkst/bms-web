@@ -793,6 +793,15 @@
   },
   {
     "level": "3",
+    "title": "7 colors* [Rainbow]",
+    "artist": "Ym1024 feat. lamie* Notes:薄杏",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=390&event=88",
+    "url_diff": "http://lalha.web.fc2.com/",
+    "md5": "4caba0d471c10be1c85ec74a6c2734d7",
+    "comment": "92"
+  },
+  {
+    "level": "3",
     "title": "ametsuchi [SP EXTRA]",
     "artist": "stereoberry/zero img teritory/obj:shion",
     "url": "http://stereoberry.sakura.tv/index.html",
@@ -802,21 +811,21 @@
   },
   {
     "level": "3",
+    "title": "Baby [Beloved]",
+    "artist": "r / nbunnyuwu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=140",
+    "url_diff": "https://stellabms.xyz/upload/2096",
+    "md5": "08f6193cce0da133288d4708c941062f",
+    "comment": "sl3/110"
+  },
+  {
+    "level": "3",
     "title": "Bluish mood [凍結]",
     "artist": "koorijake obj:bazurineko",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=123",
     "url_diff": "同梱譜面",
     "md5": "a3781855d9f6417cbd4f583f0b3a7347",
     "comment": "sl3/102"
-  },
-  {
-    "level": "3",
-    "title": "7 colors* [Rainbow]",
-    "artist": "Ym1024 feat. lamie* Notes:薄杏",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=390&event=88",
-    "url_diff": "http://lalha.web.fc2.com/",
-    "md5": "4caba0d471c10be1c85ec74a6c2734d7",
-    "comment": "92"
   },
   {
     "level": "3",
@@ -1024,15 +1033,6 @@
     "url_diff": "https://stellabms.xyz/upload/1765",
     "md5": "5e37f5c8fbba4ad1671133f299a0dfb4",
     "comment": "191"
-  },
-  {
-    "level": "4",
-    "title": "Baby [Beloved]",
-    "artist": "r / nbunnyuwu",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=140",
-    "url_diff": "https://stellabms.xyz/upload/2096",
-    "md5": "08f6193cce0da133288d4708c941062f",
-    "comment": "sl4/110"
   },
   {
     "level": "4",
@@ -1492,15 +1492,6 @@
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
     "md5": "c982becdce32626a23083d798b02ede1",
     "comment": "sl6/120"
-  },
-  {
-    "level": "6",
-    "title": "Απομνημονευμαι [HARDEST]",
-    "artist": "Εσοπτρον/差分 赤い人",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%CE%91%CF%80%CE%BF%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%85%CE%BC%CE%B1%CE%B9%20(by%20%CE%95%CF%83%CE%BF%CF%80%CF%84%CF%81%CE%BF%CE%BD).rar",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/Apomnhmoneumai_HARDEST.bme",
-    "md5": "eadaff5b732c0b8dd6ecc7fa05803c6e",
-    "comment": "sl6/92.5"
   },
   {
     "level": "6",
@@ -2509,5 +2500,14 @@
     "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/hihaikai%20sabun.zip",
     "md5": "a3053a25cb3c319260188fff4d006350",
     "comment": "sl12,▼18/107.5"
+  },
+  {
+    "level": "sub 6",
+    "title": "Απομνημονευμαι [HARDEST]",
+    "artist": "Εσοπτρον/差分 赤い人",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%CE%91%CF%80%CE%BF%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%85%CE%BC%CE%B1%CE%B9%20(by%20%CE%95%CF%83%CE%BF%CF%80%CF%84%CF%81%CE%BF%CE%BD).rar",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/Apomnhmoneumai_HARDEST.bme",
+    "md5": "eadaff5b732c0b8dd6ecc7fa05803c6e",
+    "comment": "sl6/92.5"
   }
 ]

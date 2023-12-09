@@ -177,7 +177,7 @@
     "name_pack": "BOFXV",
     "url_diff": "https://frozensat.github.io/sabun/Celeste_DK.zip",
     "name_diff": "",
-    "comment": "LN, 皿, 連打",
+    "comment": "sl0 / LN, 皿, 連打",
     "video2": "LvMVBu51Org",
     "state": "1"
   },
@@ -373,9 +373,9 @@
     "name_pack": "BOF2013",
     "url_diff": "https://frozensat.github.io/sabun/Good Bye, Blue Ogre_DK.zip",
     "name_diff": "",
-    "comment": "乱打",
+    "comment": "sl2 / 乱打",
     "video2": "AxlO0EX4jbQ",
-    "state": ""
+    "state": "1"
   },
   {
     "md5": "bcb4f965e0a04d36f247c460c617ca54",
@@ -417,6 +417,20 @@
     "name_diff": "",
     "comment": "物量, 連打, 低TOTAL",
     "video2": "K-YMSLx2reg",
+    "state": ""
+  },
+  {
+    "md5": "53e7077450dfdacb1e49ce59e12c046a",
+    "title": "Overjoy ★ OVERDOSE!! [LIVE!!]",
+    "artist": "Luna Fozer",
+    "level": "1",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=142",
+    "url_pack": "",
+    "name_pack": "BOF:NT",
+    "url_diff": "https://frozensat.github.io/sabun/Overjoy_OVERDOSE_7DK.zip",
+    "name_diff": "",
+    "comment": "LN, 皿複合, 階段",
+    "video2": "RyFG0iMK8Gk",
     "state": ""
   },
   {
@@ -975,7 +989,7 @@
     "name_pack": "BOFXVI",
     "url_diff": "",
     "name_diff": "",
-    "comment": "sl3",
+    "comment": "▼10 / 乱打",
     "video2": "7OjxR52ikX4",
     "state": "1"
   },

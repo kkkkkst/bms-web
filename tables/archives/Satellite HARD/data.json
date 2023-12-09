@@ -6,12 +6,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "7b87a6fe0737116ee9170819f28b446b",
-    "title": "ceu [7KEYS ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "2078e79fddd0894ad92b27c8b43bf096",
     "title": "Journey to Find Hope",
     "level": "0.00...0.50",
@@ -20,12 +14,6 @@
   {
     "md5": "7b2be8012ff66b9d789298dfe11af5f4",
     "title": "lataia [Maniac7]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "2326ca3864a2f511d7582194e332641f",
-    "title": "Prayer [SP AZOTHER]",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -236,6 +224,12 @@
   {
     "md5": "7600a3199bbade63b070983f51102623",
     "title": "Celeste [Atlantis]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "7b87a6fe0737116ee9170819f28b446b",
+    "title": "ceu [7KEYS ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -668,6 +662,12 @@
   {
     "md5": "78328ee0d7a39e3d51ae1a5adc909d4d",
     "title": "Pompadour",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "2326ca3864a2f511d7582194e332641f",
+    "title": "Prayer [SP AZOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -1116,12 +1116,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "3a4818138b94497de56f91f4b9b212c3",
-    "title": "BloddoN [EX_A]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "e6d59faa8aa2708d4faaa3013d136e40",
     "title": "Calamity Fortune [HARD]",
     "level": "1.00...1.50",
@@ -1160,12 +1154,6 @@
   {
     "md5": "b979150d4fc37505d6b3d299f6a6265a",
     "title": "Tiny Leda",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "d5239dedf0af445537ae555b9d87d869",
-    "title": "z;one [re;ality]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -1280,6 +1268,12 @@
   {
     "md5": "d2d922aa6bcaeed61087d434b330c30e",
     "title": "Berry Go!! [Esteem and Love]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "3a4818138b94497de56f91f4b9b212c3",
+    "title": "BloddoN [EX_A]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1908,6 +1902,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "d5239dedf0af445537ae555b9d87d869",
+    "title": "z;one [re;ality]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "feb4d6ae86476a0ac748156dd7149f80",
     "title": "ZABANIYA [SP AZOTHER]",
     "level": "1.50...2.00",
@@ -2160,20 +2160,8 @@
     "comment": "sl1"
   },
   {
-    "md5": "88cf855ed9bb65ae434b60f6839962c4",
-    "title": "corneal -Hope-",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "d4cae082a6c32c6b66a3cdff5024a322",
     "title": "Fuzzy-Navel [SP AGASTIA]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "26f46c7d7df5511b97e399ddeccf0768",
-    "title": "Good Bye, Blue Ogre (Welcome Insane)",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -2364,6 +2352,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "88cf855ed9bb65ae434b60f6839962c4",
+    "title": "corneal -Hope-",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "1a771f4983cdd9b0699af5a39cf43db5",
     "title": "Crosstelia [SP ANOTHER]",
     "level": "2.50...3.00",
@@ -2486,6 +2480,12 @@
   {
     "md5": "1656187531c03dd7b4edcfb90de75e32",
     "title": "GLAZ [OTs-03]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "26f46c7d7df5511b97e399ddeccf0768",
+    "title": "Good Bye, Blue Ogre (Welcome Insane)",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -3132,38 +3132,14 @@
     "comment": "sl2"
   },
   {
-    "md5": "0b1582496c59b4a97f44a599ff900b51",
-    "title": "Air",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "33b370a51c9d8e1f3de8b0ce6490a31d",
     "title": "Al-raune -Hope?-",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
   {
-    "md5": "5c155a219081f61565892b3e9f09aaa9",
-    "title": "Blooderay Malie [D-Moderate]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "89e4261020851ff4b0910f292cec49e9",
-    "title": "cold planet (Oceanfront City Remix) [Star]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "8afdf8703ce4597e7ac71f3bf37756f1",
     "title": "Digital Signage [W]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "40b25680a23d5f2aab8edc17d39446d6",
-    "title": "Electric Spark 2017 [Sparkle]",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
@@ -3192,12 +3168,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "e1f07bdc8f336c18afa025ff978b6b4a",
-    "title": "miracle romance [reasonable]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "c7c7b226226b6b00dfa7206b009b8b29",
     "title": "summerghost -dawn-",
     "level": "3.00...3.50",
@@ -3212,6 +3182,12 @@
   {
     "md5": "15ebd2f3aca1c35876c795c94c8d6302",
     "title": "ヒメタイプ [エヒメ]",
+    "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "4566892d4fed326c39e6e7672ba5cd49",
+    "title": "宮子 [Maniac7]",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
@@ -3236,6 +3212,12 @@
   {
     "md5": "5c638d05e1d19a318eb3a06aee5fa693",
     "title": "Agito [ENT+]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "0b1582496c59b4a97f44a599ff900b51",
+    "title": "Air",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -3294,6 +3276,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "5c155a219081f61565892b3e9f09aaa9",
+    "title": "Blooderay Malie [D-Moderate]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "a3781855d9f6417cbd4f583f0b3a7347",
     "title": "Bluish mood [凍結]",
     "level": "3.50...4.00",
@@ -3326,6 +3314,12 @@
   {
     "md5": "1e914b2a2aeca025c5c9b1213d48146a",
     "title": "clockworkforest [ANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "89e4261020851ff4b0910f292cec49e9",
+    "title": "cold planet (Oceanfront City Remix) [Star]",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -3368,6 +3362,12 @@
   {
     "md5": "6d71f8b4202f325dc63653f4d387f3db",
     "title": "Electric Emotion [YoitherEASY]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "40b25680a23d5f2aab8edc17d39446d6",
+    "title": "Electric Spark 2017 [Sparkle]",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -3504,6 +3504,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "e1f07bdc8f336c18afa025ff978b6b4a",
+    "title": "miracle romance [reasonable]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "010492dbce773e39992651ce11a146d5",
     "title": "mom [insane]",
     "level": "3.50...4.00",
@@ -3566,6 +3572,12 @@
   {
     "md5": "7cec43dd444f082b2ad30c94e85b6073",
     "title": "RAY -diffuse-",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "dc5d89d22642fe863b5ec6ec83b3eada",
+    "title": "Re/Im [ZOI]",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -3990,12 +4002,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "dc5d89d22642fe863b5ec6ec83b3eada",
-    "title": "Re/Im [ZOI]",
-    "level": "4.00...4.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "467f58280ddedb50ae20c18d40253f79",
     "title": "Spherescense [Nemesis]",
     "level": "4.00...4.50",
@@ -4034,12 +4040,6 @@
   {
     "md5": "2b1ffcb56ef7ee00d13fd47557127b54",
     "title": "アドバンス・ユア・ワンウェイ 【INSANE】",
-    "level": "4.00...4.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "4566892d4fed326c39e6e7672ba5cd49",
-    "title": "宮子 [Maniac7]",
     "level": "4.00...4.50",
     "comment": "sl4"
   },
@@ -4248,6 +4248,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "b0581c515b0e0e6d8cd51a17b251b67a",
+    "title": "FULL COMBO Pt.2 [FULL COMBO]",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "f3e519e5fb9d1109727a9a0393609f29",
     "title": "GOODRUSH [I]",
     "level": "4.50...5.00",
@@ -4372,6 +4378,12 @@
     "title": "oo i s oo - Perfection - [IDENTITY]",
     "level": "4.50...5.00",
     "comment": "sl4"
+  },
+  {
+    "md5": "a5f781a41fa73924470700508a74542b",
+    "title": "Opaque Couche [Latte]",
+    "level": "4.50...5.00",
+    "comment": "sl5"
   },
   {
     "md5": "92ff773f69e452df0784064d3dd29fb7",
@@ -4532,12 +4544,6 @@
   {
     "md5": "7959bf2189b1c16849d1cb4f0c819bfb",
     "title": "バンバード ～Piano Version～ [sunny]",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "180ecc755af1b5875dbd110789cfe5b0",
-    "title": "ピクニックガール [Dead]",
     "level": "4.50...5.00",
     "comment": "sl4"
   },
@@ -4722,12 +4728,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "b0581c515b0e0e6d8cd51a17b251b67a",
-    "title": "FULL COMBO Pt.2 [FULL COMBO]",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "5e02110c1f58d795fc5875cf4c96d507",
     "title": "Grace Glaciaire [ANOTHER]",
     "level": "5.00...5.50",
@@ -4754,12 +4754,6 @@
   {
     "md5": "d1c385f99b7a276c407a80280aa3fa7d",
     "title": "LAST PROPOZE [INSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "b11c5327a7a8300a9058e557b6da1039",
-    "title": "Marmot [INSANE]",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -4856,6 +4850,12 @@
   {
     "md5": "df125a0ac8d8f1759d7e72e82dc6d454",
     "title": "バステット [EX]",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "180ecc755af1b5875dbd110789cfe5b0",
+    "title": "ピクニックガール [Dead]",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -5088,10 +5088,10 @@
     "comment": "sl5"
   },
   {
-    "md5": "a25cbd14505920e0395ee1ebd2f86373",
-    "title": "MESMERA -Hopeless-",
+    "md5": "b11c5327a7a8300a9058e557b6da1039",
+    "title": "Marmot [INSANE]",
     "level": "5.50...6.00",
-    "comment": "sl6"
+    "comment": "sl5"
   },
   {
     "md5": "2041387d70474998bf74d2d793ef07cc",
@@ -5122,12 +5122,6 @@
     "title": "OblivioN (electroshock mix)",
     "level": "5.50...6.00",
     "comment": "sl5"
-  },
-  {
-    "md5": "a5f781a41fa73924470700508a74542b",
-    "title": "Opaque Couche [Latte]",
-    "level": "5.50...6.00",
-    "comment": "sl6"
   },
   {
     "md5": "d3991e330fae2d3ed978464312112569",
@@ -5412,6 +5406,18 @@
     "comment": "sl6"
   },
   {
+    "md5": "caa803a5156405d0ede822d165bd91a6",
+    "title": "Horizon of Eternity",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "a25cbd14505920e0395ee1ebd2f86373",
+    "title": "MESMERA -Hopeless-",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "5146a7f4c4cc30f685a557de4fa143e1",
     "title": "MMXI [EXTRA]",
     "level": "6.00...6.50",
@@ -5426,6 +5432,12 @@
   {
     "md5": "9bf9199bc76e5114e2a3759fb48fee16",
     "title": "Press [X to Pay Respect]",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "1ab0ea1a6d3d28f7b4ce2ad366edc38d",
+    "title": "Qualia [Quantia]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -5670,12 +5682,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "caa803a5156405d0ede822d165bd91a6",
-    "title": "Horizon of Eternity",
-    "level": "6.50...7.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "0083f9de62f737c85c99e962074fb07a",
     "title": "IDOLL [DOLLISH]",
     "level": "6.50...7.00",
@@ -5768,12 +5774,6 @@
   {
     "md5": "88e7d0747983b331e35a264719c41e67",
     "title": "ouroVoros [SP AMETHER-A]",
-    "level": "6.50...7.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "1ab0ea1a6d3d28f7b4ce2ad366edc38d",
-    "title": "Qualia [Quantia]",
     "level": "6.50...7.00",
     "comment": "sl6"
   },
@@ -6144,6 +6144,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "ffd23e965436f9d6147cf872a8dec374",
+    "title": "Another Day [Another Delay]",
+    "level": "7.50...8.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "e6e9e37764eb800b5417d43824c92717",
     "title": "Astronomical Twilight [Sunrise]",
     "level": "7.50...8.00",
@@ -6508,12 +6514,6 @@
     "title": "Alitatrieb [Insanity]",
     "level": "8.00...8.50",
     "comment": "sl8"
-  },
-  {
-    "md5": "ffd23e965436f9d6147cf872a8dec374",
-    "title": "Another Day [Another Delay]",
-    "level": "8.00...8.50",
-    "comment": "sl7"
   },
   {
     "md5": "35aa9799ed7150c61c2ffa3c84f4a8d7",
@@ -7110,18 +7110,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "e11ea3e5107888481425f76d7da26222",
-    "title": "AzTella -aztellite-",
-    "level": "9.00...9.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "329a56ef8eb54c9f4c87abaf7d3467b8",
-    "title": "CHAiNSAW [Educational Revolution]",
-    "level": "9.00...9.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "e05b195c3f1898cc7432c1f3969d82ab",
     "title": "Childie Sharp [MANIAC(remake)]",
     "level": "9.00...9.50",
@@ -7160,12 +7148,6 @@
   {
     "md5": "35fbe7611db6cd78255d25e0608999a5",
     "title": "Outernoid -Xe-",
-    "level": "9.00...9.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "8ca516f1b5d1e5b7f63ba1fe0c9e90cc",
-    "title": "Sea blue, sky blue -summer vacation-",
     "level": "9.00...9.50",
     "comment": "sl9"
   },
@@ -7260,8 +7242,20 @@
     "comment": "sl9"
   },
   {
+    "md5": "e11ea3e5107888481425f76d7da26222",
+    "title": "AzTella -aztellite-",
+    "level": "9.50...10.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "045e3498d2e72b49679ec97a32a8c9ae",
     "title": "Blooming!! [Insane]",
+    "level": "9.50...10.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "329a56ef8eb54c9f4c87abaf7d3467b8",
+    "title": "CHAiNSAW [Educational Revolution]",
     "level": "9.50...10.00",
     "comment": "sl9"
   },
@@ -7398,6 +7392,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "8ca516f1b5d1e5b7f63ba1fe0c9e90cc",
+    "title": "Sea blue, sky blue -summer vacation-",
+    "level": "9.50...10.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "0d74abe1b55e4c7de690a956543f097b",
     "title": "SHI☆A☆WA☆SE [幸]",
     "level": "9.50...10.00",
@@ -7514,12 +7514,6 @@
   {
     "md5": "da91e2ef57506464994ca05d4bc65cdb",
     "title": "Fakeover [yumether]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "7943a19230bfa5565ed6def1babe7da4",
-    "title": "Faurie [ANOTHER]",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -7760,6 +7754,12 @@
   {
     "md5": "d6df89a6cdd857ac7d4ef68e616e55f8",
     "title": "Fantasy (-ω-)",
+    "level": "10.50...11.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "7943a19230bfa5565ed6def1babe7da4",
+    "title": "Faurie [ANOTHER]",
     "level": "10.50...11.00",
     "comment": "sl10"
   },
@@ -8094,6 +8094,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "ee1fdf2d26ac45732edb8ed7c7db065d",
+    "title": "Rhadamanthys [7A]",
+    "level": "11.00...11.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "2cb2d624cc63dd66e3534c1e5dde5c29",
     "title": "Singing of Night birds [yumether]",
     "level": "11.00...11.50",
@@ -8240,12 +8246,6 @@
   {
     "md5": "4f86c4d20af4d619f9fbe693db0c0d30",
     "title": "Death Opera [The Phantom]",
-    "level": "11.50...12.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "adf72e8b37dcbb5af2078914a6b273b1",
-    "title": "Demagogie [EX]",
     "level": "11.50...12.00",
     "comment": "sl11"
   },
@@ -8448,12 +8448,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "ee1fdf2d26ac45732edb8ed7c7db065d",
-    "title": "Rhadamanthys [7A]",
-    "level": "11.50...12.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "d292b5c6eacd78d7104ead204ed2192a",
     "title": "Rocketropolis [Tannhauser Gate]",
     "level": "11.50...12.00",
@@ -8646,12 +8640,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "c1a869dbb132dbfc87b87c220240276a",
-    "title": "Ceebu Yapp",
-    "level": "12.00...12.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "3b3d206a284b5b246b3b413b75e41582",
     "title": "Charlotte, -To The Future-",
     "level": "12.00...12.50",
@@ -8686,6 +8674,12 @@
     "title": "DEATH SENTENCE [Eliminator]",
     "level": "12.00...12.50",
     "comment": "sl12"
+  },
+  {
+    "md5": "adf72e8b37dcbb5af2078914a6b273b1",
+    "title": "Demagogie [EX]",
+    "level": "12.00...12.50",
+    "comment": "sl11"
   },
   {
     "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
@@ -8966,6 +8960,12 @@
   {
     "md5": "9ce344c90254fae923d002757511fb87",
     "title": "Castorpollux [G2]",
+    "level": "12.50...13.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "c1a869dbb132dbfc87b87c220240276a",
+    "title": "Ceebu Yapp",
     "level": "12.50...13.00",
     "comment": "sl12"
   },

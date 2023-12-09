@@ -1398,12 +1398,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "e62f07b38621e9e084f3f9f77d631c82",
-    "title": "GET ON WiTH FUNKOT [SP HELL]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "c14fa03695eb0d8372414d85bb083fc1",
     "title": "holy night celebration [White Christmas]",
     "level": "0.00...0.50",
@@ -2178,6 +2172,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "e62f07b38621e9e084f3f9f77d631c82",
+    "title": "GET ON WiTH FUNKOT [SP HELL]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "26f46c7d7df5511b97e399ddeccf0768",
     "title": "Good Bye, Blue Ogre (Welcome Insane)",
     "level": "0.50...1.00",
@@ -2282,6 +2282,12 @@
   {
     "md5": "dffc4992285e5d5022952dd62e4236c0",
     "title": "Unidentified New Emotion -7Keys Another-",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "c90b1e32a59887a26bb8b022f26adf8a",
+    "title": "unrequited love (初夏)",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -2942,12 +2948,6 @@
   {
     "md5": "b1b29a6af94bd1792f248499aa61a9fc",
     "title": "Unleashed World [ANOTHER-]",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "c90b1e32a59887a26bb8b022f26adf8a",
-    "title": "unrequited love (初夏)",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -3744,6 +3744,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "4566892d4fed326c39e6e7672ba5cd49",
+    "title": "宮子 [Maniac7]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "c2e9f264f4a7ef918a92b92b6a8daeef",
     "title": "宵桜回廊 [ANOTHER]",
     "level": "1.50...2.00",
@@ -3842,6 +3848,12 @@
   {
     "md5": "25b229a10bd1c9d91549941e7946478c",
     "title": "Astar [ANOTHER+]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "21f3a6df1c92a059d7af7116f1b46c58",
+    "title": "Aurora",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
@@ -4038,6 +4050,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "a8a6926a8d01f2df55de52babd59c7ad",
+    "title": "Spiritoso Killer [SP INSANE]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "b9111029fd03a873c905ce32807c1c11",
     "title": "SpringField [spring's arrival]",
     "level": "2.00...2.50",
@@ -4116,12 +4134,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "4566892d4fed326c39e6e7672ba5cd49",
-    "title": "宮子 [Maniac7]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "98e341e00e7355fe03132f6da49dc07f",
     "title": "明空リュウセイグン [Daybreak]",
     "level": "2.00...2.50",
@@ -4196,12 +4208,6 @@
   {
     "md5": "2af0865bfac13fef86cf7ece8a4eb877",
     "title": "Auburn Halo [Strauss]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "21f3a6df1c92a059d7af7116f1b46c58",
-    "title": "Aurora",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4488,12 +4494,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "a8a6926a8d01f2df55de52babd59c7ad",
-    "title": "Spiritoso Killer [SP INSANE]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "bfc85e0964ffca13a5162543df1563f3",
     "title": "suffruti [ZOI]",
     "level": "2.50...3.00",
@@ -4580,12 +4580,6 @@
   {
     "md5": "7959bf2189b1c16849d1cb4f0c819bfb",
     "title": "バンバード ～Piano Version～ [sunny]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "180ecc755af1b5875dbd110789cfe5b0",
-    "title": "ピクニックガール [Dead]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4734,6 +4728,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "ff3d28488f7c8a4c66869a740fb149ed",
+    "title": "Between Sanity and Insanity -Luna-",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "9e9bbc866bfa78dd7783210cbf62750e",
     "title": "BLOODY ROSE [F]",
     "level": "3.00...3.50",
@@ -4836,6 +4836,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "7e1419a9ce6ce67c76154e7b3ee805ca",
+    "title": "HOPE -Hopeful-",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "a2b6255523f2bafd16b058ab5ad5b425",
     "title": "itsuka [明日また会えるよね]",
     "level": "3.00...3.50",
@@ -4922,6 +4928,12 @@
   {
     "md5": "8d0658b32bd0637a73ac193b0ab9568b",
     "title": "OblivioN (electroshock mix)",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "a5f781a41fa73924470700508a74542b",
+    "title": "Opaque Couche [Latte]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -5130,6 +5142,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "180ecc755af1b5875dbd110789cfe5b0",
+    "title": "ピクニックガール [Dead]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "6fff17d90c2876092554b845df48b661",
     "title": "マジョリテの祝福とミノリテの憧憬 [Insane]",
     "level": "3.00...3.50",
@@ -5262,12 +5280,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "ff3d28488f7c8a4c66869a740fb149ed",
-    "title": "Between Sanity and Insanity -Luna-",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "93af02381f41d62535f555431a2dcbc8",
     "title": "BiBiRi [Electric Mouse]",
     "level": "3.50...4.00",
@@ -5346,12 +5358,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "7e1419a9ce6ce67c76154e7b3ee805ca",
-    "title": "HOPE -Hopeful-",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "caa803a5156405d0ede822d165bd91a6",
     "title": "Horizon of Eternity",
     "level": "3.50...4.00",
@@ -5376,6 +5382,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "5146a7f4c4cc30f685a557de4fa143e1",
+    "title": "MMXI [EXTRA]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "5dda8688e245ec4dfd377a44fe6cc6c5",
     "title": "My Little Sweet Kitty [Append]",
     "level": "3.50...4.00",
@@ -5390,12 +5402,6 @@
   {
     "md5": "1925b5ab0ec1fb8781a87a8a21359c7b",
     "title": "On And On!! [IR]",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "a5f781a41fa73924470700508a74542b",
-    "title": "Opaque Couche [Latte]",
     "level": "3.50...4.00",
     "comment": "sl6"
   },
@@ -5524,12 +5530,6 @@
     "title": "太陽と月の宴",
     "level": "3.50...4.00",
     "comment": "sl5"
-  },
-  {
-    "md5": "3f8ff37170adf73759a6954b32c1b581",
-    "title": "星の器～STAR OF ANDROMEDA -Re:NORMAL-EX-",
-    "level": "3.50...4.00",
-    "comment": "sl6"
   },
   {
     "md5": "33c3cafaf673d495e84e697768421a0a",
@@ -5760,12 +5760,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "5146a7f4c4cc30f685a557de4fa143e1",
-    "title": "MMXI [EXTRA]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "f1e16d623fd1122da9682c31e313dd25",
     "title": "My Typical [INSANE]",
     "level": "4.00...4.50",
@@ -5918,6 +5912,12 @@
   {
     "md5": "b2be89bb2306036f83cdf07a977e75c8",
     "title": "奏龍ピアソラ [D.Append]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "3f8ff37170adf73759a6954b32c1b581",
+    "title": "星の器～STAR OF ANDROMEDA -Re:NORMAL-EX-",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -6714,12 +6714,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
-    "title": "サンシュート・シーサイド [HVY-NRG]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "dc77bd7acccaeb391ea39043736cb72c",
     "title": "ナツイノ [涼風]",
     "level": "5.00...5.50",
@@ -7056,6 +7050,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
+    "title": "サンシュート・シーサイド [HVY-NRG]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "d9d07d57467a46047e2c2db104151b3a",
     "title": "パブロペトリの泡影",
     "level": "5.50...6.00",
@@ -7104,12 +7104,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "40332a570fe97c487da227a7bdcf28a2",
-    "title": "新たなる決意 -黎明-",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "4191102b46752138740949f43ba6a3f5",
     "title": "星屑アポトーシス [Monsther+]",
     "level": "5.50...6.00",
@@ -7142,12 +7136,6 @@
   {
     "md5": "3f055cc6d0e7b394b3952b5927235860",
     "title": "蒼く爽昧な夢のようで [BlackAnother]",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
-    "title": "詠訣へ連れる [UNITHER]",
     "level": "5.50...6.00",
     "comment": "sl9"
   },
@@ -7250,6 +7238,12 @@
   {
     "md5": "9972c3c56cdd534bc0374d1c98d962aa",
     "title": "Disco Balls -Eclipse-",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "465d418e371077e71c08ebcfc1200e1d",
+    "title": "Evanescent [Realitat]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -7458,6 +7452,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "40332a570fe97c487da227a7bdcf28a2",
+    "title": "新たなる決意 -黎明-",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "7447b9bd0efd6be281e7307a4a62235e",
     "title": "時架け -Luna-",
     "level": "6.00...6.50",
@@ -7478,6 +7478,12 @@
   {
     "md5": "cf7c4f006cd571da3b83e355bc64f314",
     "title": "永劫綺譚の純潔葬花 -Red Lily-",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
+    "title": "詠訣へ連れる [UNITHER]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -7530,12 +7536,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "24c869a51384af113e9271a766e7d4be",
-    "title": "Central Nucleus [INFERNO]",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "d9411e1ea20048bb585c3a3c2282ebf9",
     "title": "Cross Galaxy [microcosmos]",
     "level": "6.50...7.00",
@@ -7570,12 +7570,6 @@
     "title": "EOS -Last Hope-",
     "level": "6.50...7.00",
     "comment": "sl10"
-  },
-  {
-    "md5": "465d418e371077e71c08ebcfc1200e1d",
-    "title": "Evanescent [Realitat]",
-    "level": "6.50...7.00",
-    "comment": "sl9"
   },
   {
     "md5": "836662d32209c2ac0f0ce119e8de96fe",
@@ -7622,12 +7616,6 @@
   {
     "md5": "5a83440834244c025689dc463a08437f",
     "title": "island dream [lunatic]",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "0333321c1f9be693f214e6a5f46b9c99",
-    "title": "Jack-the-Ripper◆ [yumether]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -7866,6 +7854,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "24c869a51384af113e9271a766e7d4be",
+    "title": "Central Nucleus [INFERNO]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "4c286f9ab3ef84375afd508a5f084115",
     "title": "Chocomint Mille-feuille [Jammed]",
     "level": "7.00...7.50",
@@ -7946,6 +7940,12 @@
   {
     "md5": "7b9376e8ee388de09d056dc92f3ed432",
     "title": "HAELEQUIN (-ω-)",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "0333321c1f9be693f214e6a5f46b9c99",
+    "title": "Jack-the-Ripper◆ [yumether]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -8844,6 +8844,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "bc5c6de58b37834a97681dac127fc94a",
+    "title": "Rosario -輪廻幻想譚- (EX)",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "99c4ae6e5b0251aa015269841464ffc8",
     "title": "stanciara [canalot]",
     "level": "8.00...8.50",
@@ -9018,6 +9024,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "9af0353882897252567c09b0844543c5",
+    "title": "馴鹿之骸 [x2]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "bca300b454c8d993060712e8ebdef243",
     "title": "-+　 -EX-",
     "level": "8.50...9.00",
@@ -9174,12 +9186,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "bc5c6de58b37834a97681dac127fc94a",
-    "title": "Rosario -輪廻幻想譚- (EX)",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "408673987d3c9ce60610db5c51b9117e",
     "title": "satellite -MOON-",
     "level": "8.50...9.00",
@@ -9332,12 +9338,6 @@
   {
     "md5": "12fbbbc30ea8fbe85c3a27ad35eed419",
     "title": "織姫 -EX-",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "9af0353882897252567c09b0844543c5",
-    "title": "馴鹿之骸 [x2]",
     "level": "8.50...9.00",
     "comment": "sl12"
   }

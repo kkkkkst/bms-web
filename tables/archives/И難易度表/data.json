@@ -1338,7 +1338,7 @@
     "movie_link": "https://youtu.be/rg5AF3BD28U",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
     "url_diff": "https://bms.parksulab.xyz/sabun/7/overtrue_7.zip",
-    "state": "",
+    "state": "3",
     "name_diff": "",
     "url_pack": "",
     "name_pack": ""
@@ -2129,6 +2129,22 @@
   },
   {
     "level": "10",
+    "md5": "cb9437797d284cd5f1b77652fc31ac38",
+    "title": "From Megalopolis with Love [Cyber]",
+    "artist": "牧野",
+    "comment_ko": "랜더마이저",
+    "comment": "ランダマイザ",
+    "date": "Thu May 12 2022 00:00:00 GMT+0900 (JST)",
+    "movie_link": "https://youtu.be/P93e87Yl9s8",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=124",
+    "url_diff": "https://bms.parksulab.xyz/sabun/7/FromMegalopoliswithLove_7.zip",
+    "state": "",
+    "name_diff": "",
+    "url_pack": "",
+    "name_pack": ""
+  },
+  {
+    "level": "10",
     "md5": "982d95ea60d7faf8e4a7520f027bc935",
     "title": "gayguy [gaysabun]",
     "artist": "Kud Cuisune",
@@ -2138,7 +2154,7 @@
     "movie_link": "https://youtu.be/OPdks0YJ9Es",
     "url": "https://starkey.ivory.ne.jp/bjcup/anotherbjc3/detail/view/10/",
     "url_diff": "https://bms.parksulab.xyz/sabun/7/gayguy_7.zip",
-    "state": "1",
+    "state": "",
     "name_diff": "",
     "url_pack": "",
     "name_pack": ""
@@ -3073,6 +3089,22 @@
   },
   {
     "level": "11",
+    "md5": "c8f21174051148196ce411f475879d3a",
+    "title": "Transcend.Magic.Harmony [Universe]",
+    "artist": "CR3 + Codesynth",
+    "comment_ko": "지력",
+    "comment": "地力譜面",
+    "date": "Sun Dec 03 2023 00:00:00 GMT+0900 (JST)",
+    "movie_link": "https://youtu.be/8Y5iFIUtYkg",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=513&event=142",
+    "url_diff": "https://darksabun.github.io/event/bofnt/sabun/513_st4_parksu.zip",
+    "state": "1",
+    "name_diff": "",
+    "url_pack": "",
+    "name_pack": ""
+  },
+  {
+    "level": "11",
     "md5": "0f84e921baf2887b2ae6b7e2d8f7cd91",
     "title": "VG (Radio Edit) [ATHLETICS]",
     "artist": "ねこみりん",
@@ -3290,7 +3322,7 @@
     "movie_link": "https://youtu.be/nqThD8p1ntQ",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=502&event=140",
     "url_diff": "https://darksabun.github.io/event/sd/sabun/02_amorphous_Y2K.zip",
-    "state": "",
+    "state": "3",
     "name_diff": "",
     "url_pack": "https://darksabun.github.io/event/sd/",
     "name_pack": "SiD"
