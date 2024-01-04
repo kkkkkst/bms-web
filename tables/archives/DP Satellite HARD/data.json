@@ -318,22 +318,10 @@
     "comment": "sl0"
   },
   {
-    "md5": "961f2de5e160520808632f9453bf0954",
-    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "1ab2a0140e177fc8681b93cb6768093d",
     "title": "Reality [14keys Hyper]",
     "level": "1.00...1.50",
     "comment": "sl0"
-  },
-  {
-    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
-    "title": "Retronika [DP ANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
   },
   {
     "md5": "eda91b02fece36750c6a18afd2284527",
@@ -380,6 +368,12 @@
   {
     "md5": "6b73f5c141b87ec84a473919b1ceb28e",
     "title": "サンバランド [LN ANOTHER14]",
+    "level": "1.00...1.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
+    "title": "マッドメチャクチャニズム [DP HYPER]",
     "level": "1.00...1.50",
     "comment": "sl0"
   },
@@ -474,6 +468,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "33dcbf24bf983f3a897ad45220e95754",
+    "title": "LAST PROPOZE [DP 202THER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "5beb90dc50a2fccd6b757ff15d2775f8",
     "title": "Magical Love Words (vovovo.mix) -another14-",
     "level": "1.50...2.00",
@@ -492,6 +492,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "961f2de5e160520808632f9453bf0954",
+    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
     "title": "Replace [DP ANOTHER]",
     "level": "1.50...2.00",
@@ -500,6 +506,12 @@
   {
     "md5": "b23ba65f405ebfea72637abfe90e981e",
     "title": "Resolution Trigger [DP INSANE]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
+    "title": "Retronika [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -520,12 +532,6 @@
     "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
-  },
-  {
-    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
-    "title": "マッドメチャクチャニズム [DP HYPER]",
-    "level": "1.50...2.00",
-    "comment": "sl0"
   },
   {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
@@ -596,12 +602,6 @@
   {
     "md5": "51480d58ea703c56178cbf4aa1818ab2",
     "title": "introspect [DP Another]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "33dcbf24bf983f3a897ad45220e95754",
-    "title": "LAST PROPOZE [DP 202THER]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
@@ -778,6 +778,12 @@
     "title": "z/e [DP-sagANOTHER]",
     "level": "2.50...3.00",
     "comment": "sl1"
+  },
+  {
+    "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
+    "title": "お兄火 [DP Another]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
   },
   {
     "md5": "65475e8733cf1d03de23f994e7842796",
@@ -962,12 +968,6 @@
   {
     "md5": "ee994a213fd2e1bf9fda2cae96ba7c8a",
     "title": "Yakumo >>JOINT STRUGGLE [DPA]",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
-    "title": "お兄火 [DP Another]",
     "level": "3.00...3.50",
     "comment": "sl2"
   },
@@ -2100,6 +2100,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
+    "title": "NightTheater [DP ANOTHER+]",
+    "level": "7.00...7.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "bb648bb7b6d71d24ae931c3140cb806c",
     "title": "Noblesse Gloria [DP-sagANOTHER]",
     "level": "7.00...7.50",
@@ -2108,6 +2114,12 @@
   {
     "md5": "696db350374daf33a376b5a1e56863e4",
     "title": "Ocean Memory [DP Hyper]",
+    "level": "7.00...7.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "1a8bf502c603ff2f2b9fca64a47de401",
+    "title": "Parallel Evolution (DP Very Hard)",
     "level": "7.00...7.50",
     "comment": "sl6"
   },
@@ -2238,26 +2250,8 @@
     "comment": "sl6"
   },
   {
-    "md5": "ed9f8b45adf6a073a8a9fd2915608f19",
-    "title": "NightTheater [DP ANOTHER+]",
-    "level": "7.50...8.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "bea9dcaf2cf21b7bfbce7da243b1a68b",
-    "title": "Old Pal",
-    "level": "7.50...8.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "3d6408517abfa86af1f9c311adc3db3c",
     "title": "Our Dream, Our Justice [DP Sub Black Another+]",
-    "level": "7.50...8.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "1a8bf502c603ff2f2b9fca64a47de401",
-    "title": "Parallel Evolution (DP Very Hard)",
     "level": "7.50...8.00",
     "comment": "sl6"
   },
@@ -2346,6 +2340,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "66f2263a8e854298029231c872c3e14b",
+    "title": "Deepsea Moonlight [Cuvelia14]",
+    "level": "8.00...8.50",
+    "comment": "sl7"
+  },
+  {
     "md5": "c00887580bcdb3dd9dd594f2eef5c63d",
     "title": "Divided Montage [14KEYS ANOTHER]",
     "level": "8.00...8.50",
@@ -2400,6 +2400,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "bea9dcaf2cf21b7bfbce7da243b1a68b",
+    "title": "Old Pal",
+    "level": "8.00...8.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "3054144fdb43bf0404bd424570ff4ab3",
     "title": "Pray of ShootingStar [DP Another]",
     "level": "8.00...8.50",
@@ -2420,12 +2426,6 @@
   {
     "md5": "bdb21ed11e1e31d8b1b3f3afb52f820f",
     "title": "The SkyScrapers [DP-sagINSANE]",
-    "level": "8.00...8.50",
-    "comment": "sl7"
-  },
-  {
-    "md5": "707b92679398b7de2505a2d308da8364",
-    "title": "Ultimate Weapon [DP ANOTHER]",
     "level": "8.00...8.50",
     "comment": "sl7"
   },
@@ -2498,12 +2498,6 @@
   {
     "md5": "87dcc21c72f4e0c25e23915184b848a2",
     "title": "all u gotta do is... [DP INSANE]",
-    "level": "8.50...9.00",
-    "comment": "sl7"
-  },
-  {
-    "md5": "66f2263a8e854298029231c872c3e14b",
-    "title": "Deepsea Moonlight [Cuvelia14]",
     "level": "8.50...9.00",
     "comment": "sl7"
   },
@@ -2592,6 +2586,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "b88024edc3263a6cd074e7afcf1956b5",
+    "title": "Lost Petal's Wander [DP ANOTHER]",
+    "level": "8.50...9.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "76f4fd4cb0af7ded110fd26103cc83f8",
     "title": "Ophelia (14keys Maniac)",
     "level": "8.50...9.00",
@@ -2618,6 +2618,12 @@
   {
     "md5": "e349061cb23d580c6979503d08a674ef",
     "title": "Trichterwinde [DP ANOTHER]",
+    "level": "8.50...9.00",
+    "comment": "sl7"
+  },
+  {
+    "md5": "707b92679398b7de2505a2d308da8364",
+    "title": "Ultimate Weapon [DP ANOTHER]",
     "level": "8.50...9.00",
     "comment": "sl7"
   },
@@ -2670,14 +2676,20 @@
     "comment": "sl7"
   },
   {
+    "md5": "34e80fc82b43ce986f37cf8a63831cc1",
+    "title": "CHRISTMAS EVE [DPINSA.NE]",
+    "level": "9.00...9.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "8f4c529cc67018c14ffe0463efce9e25",
     "title": "Galaxy in Toybox [DP >▽<]",
     "level": "9.00...9.50",
     "comment": "sl7"
   },
   {
-    "md5": "b88024edc3263a6cd074e7afcf1956b5",
-    "title": "Lost Petal's Wander [DP ANOTHER]",
+    "md5": "f36b829438ba718c7e7679b430848c99",
+    "title": "Luminance (DP ANOTHER)",
     "level": "9.00...9.50",
     "comment": "sl8"
   },
@@ -2760,12 +2772,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "34e80fc82b43ce986f37cf8a63831cc1",
-    "title": "CHRISTMAS EVE [DPINSA.NE]",
-    "level": "9.50...10.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "4a6b5a4ad9ef995ca2ae8560094e7b7b",
     "title": "ClowN CrowN [DP Li]",
     "level": "9.50...10.00",
@@ -2820,8 +2826,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "f36b829438ba718c7e7679b430848c99",
-    "title": "Luminance (DP ANOTHER)",
+    "md5": "9bd85de86ef5afd051a3f654e133da02",
+    "title": "myste`re　 [14keys Another]",
     "level": "9.50...10.00",
     "comment": "sl8"
   },

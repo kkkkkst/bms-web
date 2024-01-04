@@ -360,22 +360,10 @@
     "comment": "sl0"
   },
   {
-    "md5": "961f2de5e160520808632f9453bf0954",
-    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "1ab2a0140e177fc8681b93cb6768093d",
     "title": "Reality [14keys Hyper]",
     "level": "0.50...1.00",
     "comment": "sl0"
-  },
-  {
-    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
-    "title": "Retronika [DP ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
   },
   {
     "md5": "eda91b02fece36750c6a18afd2284527",
@@ -422,6 +410,12 @@
   {
     "md5": "6b73f5c141b87ec84a473919b1ceb28e",
     "title": "サンバランド [LN ANOTHER14]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
+    "title": "マッドメチャクチャニズム [DP HYPER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -540,6 +534,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "961f2de5e160520808632f9453bf0954",
+    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
     "title": "Replace [DP ANOTHER]",
     "level": "1.00...1.50",
@@ -548,6 +548,12 @@
   {
     "md5": "b23ba65f405ebfea72637abfe90e981e",
     "title": "Resolution Trigger [DP INSANE]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
+    "title": "Retronika [DP ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -580,12 +586,6 @@
     "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl1"
-  },
-  {
-    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
-    "title": "マッドメチャクチャニズム [DP HYPER]",
-    "level": "1.00...1.50",
-    "comment": "sl0"
   },
   {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
@@ -1818,12 +1818,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "528d322a4c30c39036d8ecb9304f173b",
-    "title": "For No Reason",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "09d1c8ce11ca00865862fd4a94d00250",
     "title": "Granblaze [DP ANOTHER]",
     "level": "5.00...5.50",
@@ -2004,6 +1998,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "528d322a4c30c39036d8ecb9304f173b",
+    "title": "For No Reason",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "a2768a96f3d26adb6e076192b1a9976e",
     "title": "Grisaille [DP]",
     "level": "5.50...6.00",
@@ -2044,6 +2044,12 @@
     "title": "Scheherazade [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl5"
+  },
+  {
+    "md5": "6398996a4cd2d449811cbedcc439115d",
+    "title": "starlights [DP]",
+    "level": "5.50...6.00",
+    "comment": "sl6"
   },
   {
     "md5": "51499867f8d8531220ebfec8074c116f",
@@ -2148,14 +2154,14 @@
     "comment": "sl6"
   },
   {
-    "md5": "6a9a075aa7e63c399102a03b62522e67",
-    "title": "HAELEQUIN [DP ANOTHER]",
+    "md5": "04a0afae2e165a4676c777d9bb9b55db",
+    "title": "GIFT [14key Another]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
   {
-    "md5": "c961c5ba3da39fe054fb91e48da9daaa",
-    "title": "Infinite Galaxy",
+    "md5": "6a9a075aa7e63c399102a03b62522e67",
+    "title": "HAELEQUIN [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2220,8 +2226,8 @@
     "comment": "sl6"
   },
   {
-    "md5": "6398996a4cd2d449811cbedcc439115d",
-    "title": "starlights [DP]",
+    "md5": "66590d9d44d410d0c22868eed08bc3a4",
+    "title": "take me to the moon [DP Insane]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2262,6 +2268,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "f388214f5dd4f7064cd1180a4d40678c",
+    "title": "AngelPainter [DP-sagINSANE]",
+    "level": "6.50...7.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "714082d72dafdfd12bf4810980ae179d",
     "title": "Dance revolution [DP ANOTHER]",
     "level": "6.50...7.00",
@@ -2286,14 +2298,8 @@
     "comment": "sl7"
   },
   {
-    "md5": "04a0afae2e165a4676c777d9bb9b55db",
-    "title": "GIFT [14key Another]",
-    "level": "6.50...7.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "0bafbf864710b9c6fbc3c77349383f41",
-    "title": "Hi-Fi-Story [DP ANOTHER]",
+    "md5": "c961c5ba3da39fe054fb91e48da9daaa",
+    "title": "Infinite Galaxy",
     "level": "6.50...7.00",
     "comment": "sl6"
   },
@@ -2332,12 +2338,6 @@
     "title": "Stellaria -Veritas Lux Mea-",
     "level": "6.50...7.00",
     "comment": "sl7"
-  },
-  {
-    "md5": "66590d9d44d410d0c22868eed08bc3a4",
-    "title": "take me to the moon [DP Insane]",
-    "level": "6.50...7.00",
-    "comment": "sl6"
   },
   {
     "md5": "e95c45d5c8a175310c67d5b4640a990f",
@@ -2382,12 +2382,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "328535c09400f1d31460f9314013d34b",
-    "title": "平衡世界 Parallel World [Spring Ephemeral]",
-    "level": "6.50...7.00",
-    "comment": "sl7"
-  },
-  {
     "md5": "bb12fa09ab5443911ba51b1a7dd526db",
     "title": "温泉大作戦 [DP_Li]",
     "level": "6.50...7.00",
@@ -2412,12 +2406,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "f388214f5dd4f7064cd1180a4d40678c",
-    "title": "AngelPainter [DP-sagINSANE]",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
     "title": "Bad Apple!! -YH mix-",
     "level": "7.00...7.50",
@@ -2426,6 +2414,12 @@
   {
     "md5": "d0b020d20dab01f544fe7cb74fd94fe4",
     "title": "C.E. Days -14EX-",
+    "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
+    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
+    "title": "Calamity Fortune (DPA)",
     "level": "7.00...7.50",
     "comment": "sl7"
   },
@@ -2478,6 +2472,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "0bafbf864710b9c6fbc3c77349383f41",
+    "title": "Hi-Fi-Story [DP ANOTHER]",
+    "level": "7.00...7.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "e0230ece736eac26896ec947f264dd2e",
     "title": "Is This Your Memory? [Flashes_b]",
     "level": "7.00...7.50",
@@ -2526,12 +2526,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "76f4fd4cb0af7ded110fd26103cc83f8",
-    "title": "Ophelia (14keys Maniac)",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "c0df391328b3f4984fc53307236efdda",
     "title": "Skull & Witch [DP]",
     "level": "7.00...7.50",
@@ -2570,6 +2564,12 @@
   {
     "md5": "7679043f39f8106c6584eeb43851553b",
     "title": "サンバランド [Rio de DP]",
+    "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
+    "md5": "328535c09400f1d31460f9314013d34b",
+    "title": "平衡世界 Parallel World [Spring Ephemeral]",
     "level": "7.00...7.50",
     "comment": "sl7"
   },
@@ -2614,12 +2614,6 @@
     "title": "BOUNCE THE TECH †LEGGENDARIA",
     "level": "7.50...8.00",
     "comment": "sl8"
-  },
-  {
-    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
-    "title": "Calamity Fortune (DPA)",
-    "level": "7.50...8.00",
-    "comment": "sl7"
   },
   {
     "md5": "c53e377d470cfd492d635447c9efd615",
@@ -2668,6 +2662,18 @@
     "title": "Lost Petal's Wander [DP ANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl8"
+  },
+  {
+    "md5": "93086ca5d235d4b32016cf44520f50b9",
+    "title": "New Windy Paradise [DP MANIAC]",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "76f4fd4cb0af7ded110fd26103cc83f8",
+    "title": "Ophelia (14keys Maniac)",
+    "level": "7.50...8.00",
+    "comment": "sl7"
   },
   {
     "md5": "143734dba02fd634d6a76c77509f8b85",
@@ -2838,8 +2844,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "93086ca5d235d4b32016cf44520f50b9",
-    "title": "New Windy Paradise [DP MANIAC]",
+    "md5": "9bd85de86ef5afd051a3f654e133da02",
+    "title": "myste`re　 [14keys Another]",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
@@ -2900,6 +2906,12 @@
   {
     "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
     "title": "あさひのなかで(Art Glint mix) [DPI]",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "2410f0012ff221ef64923eaafc027389",
+    "title": "月時計 Last・Dial (DoubleLunatic+)",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
@@ -3022,12 +3034,6 @@
     "title": "キユビック [(d+p)^3]",
     "level": "8.50...9.00",
     "comment": "sl10"
-  },
-  {
-    "md5": "2410f0012ff221ef64923eaafc027389",
-    "title": "月時計 Last・Dial (DoubleLunatic+)",
-    "level": "8.50...9.00",
-    "comment": "sl8"
   },
   {
     "md5": "80688a79f251ece911a4a1c3b782f835",

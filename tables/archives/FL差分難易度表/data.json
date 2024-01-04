@@ -181,6 +181,18 @@
   },
   {
     "level": "3",
+    "title": "Hydragonium [for some reason]",
+    "md5": "f0918264dc8614cefc9f6bfbc4098c39",
+    "artist": "C.miler",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=512&event=142",
+    "url_diff": "https://fsrs.github.io/sabun/fsrs/Hydragonium_fsrs.zip",
+    "name_diff": "fsrs",
+    "date": "Mon Jan 01 2024 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/3q905_BxANs",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "3",
     "title": "positive dance -BM9820A HYPER TEQNO nekomix- [dance revolution]",
     "md5": "a57342be18ed354f634f06a50af44e35",
     "artist": "Cranky remixed by ねこみりん",
@@ -220,7 +232,7 @@
     "title": "A sense of victimization [FSRS]",
     "md5": "d437b63ebe5109b7275944cb653c70ab",
     "artist": "MarinEternity",
-    "url": "https://bms-mirror.com/pkg/2019/bofxv/MarinEternity_A%20sense%20of%20victimization.zip",
+    "url": "https://drive.google.com/file/d/19A3d0Z6VlKw7W96nPkuCCw9Fg2m9atfg/view?usp=drive_link",
     "url_diff": "https://fsrs.github.io/sabun/fsrs/A%20sense%20of%20victimization.zip",
     "name_diff": "fsrs",
     "date": "Fri Dec 27 2019 00:00:00 GMT+0900 (日本標準時)",
@@ -261,7 +273,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Nov 27 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/FlhlbRna8gw",
-    "comment": ""
+    "comment": "本体同梱"
   },
   {
     "level": "4",
@@ -1372,12 +1384,24 @@
     "title": "Ecaed -SP NIGHTMARE-",
     "md5": "ab9f3a8fad581c46ea0a49e82f8ea609",
     "artist": "Is-m",
-    "url": "https://bms-mirror.com/pkg/2016/bofu2016/%5Bem47%5DEcaed.zip",
+    "url": "https://drive.google.com/file/d/109EfPuSKk3pMIRrkioYuvL6BeGtgRIg1/view?usp=drive_link",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Ecaed_MS.zip",
     "name_diff": "M-SPIN",
     "date": "Sat Aug 18 2018 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "",
     "comment": ""
+  },
+  {
+    "level": "11",
+    "title": "Fairy Christmas (Fierce Chart)",
+    "md5": "4e9e93d762fcbde8b08a900dba83d3a6",
+    "artist": " Est feat.MIYU",
+    "url": "http://estish.nobody.jp/",
+    "url_diff": "https://fsrs.github.io/sabun/M-SPIN/fc_CFCF.zip",
+    "name_diff": "M-SPIN",
+    "date": "Sat Dec 23 2023 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/Tc8X9-yu9A0",
+    "comment": "追加音源あり"
   },
   {
     "level": "11",
@@ -1465,6 +1489,18 @@
   },
   {
     "level": "11",
+    "title": "Nimbus",
+    "md5": "9e6a7056fd7d0a914c29c636fb4bf934",
+    "artist": "CAMEL",
+    "url": "https://mega.nz/file/eW5CWKTS#cJ1fHt5DFqq8H3v4K1fNoBSuOQQxqBRh_KXS1cNa5ME",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Nimbus_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "date": "Fri Dec 23 2022 00:00:00 GMT+0900 (日本標準時)",
+    "movie_link": "https://youtu.be/-T8QF_P-B3w",
+    "comment": "追加音源あり"
+  },
+  {
+    "level": "11",
     "title": "petal [LeapT]",
     "md5": "9ae63deb59c4660346d1b47e8cf3c1d9",
     "artist": "Fractal Paws",
@@ -1497,7 +1533,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Nov 27 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/7mhTQMdzTVc",
-    "comment": ""
+    "comment": "st4 本体同梱"
   },
   {
     "level": "11",
@@ -1557,7 +1593,7 @@
     "name_diff": "LuvTek",
     "date": "Sun Nov 07 2021 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/iq5sZGN5YzM",
-    "comment": "本体同梱"
+    "comment": "st3 本体同梱"
   },
   {
     "level": "11",
@@ -1797,7 +1833,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Nov 27 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/XEfb_DcLmIE",
-    "comment": ""
+    "comment": "本体同梱"
   },
   {
     "level": "12",
@@ -1870,18 +1906,6 @@
     "date": "Tue Nov 03 2020 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "https://youtu.be/Blhjg6ZKl9M",
     "comment": ""
-  },
-  {
-    "level": "12",
-    "title": "Nimbus",
-    "md5": "9e6a7056fd7d0a914c29c636fb4bf934",
-    "artist": "CAMEL",
-    "url": "https://mega.nz/file/eW5CWKTS#cJ1fHt5DFqq8H3v4K1fNoBSuOQQxqBRh_KXS1cNa5ME",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Nimbus_LuvTek.zip",
-    "name_diff": "LuvTek",
-    "date": "Fri Dec 23 2022 00:00:00 GMT+0900 (日本標準時)",
-    "movie_link": "https://youtu.be/-T8QF_P-B3w",
-    "comment": "追加音源あり"
   },
   {
     "level": "12",
@@ -2277,7 +2301,7 @@
     "name_diff": "LuvTek",
     "date": "Mon Nov 27 2023 00:00:00 GMT+0900 (日本標準時)",
     "movie_link": "http://youtu.be/b-OfaTFKqxQ",
-    "comment": "★★4? "
+    "comment": "本体同梱 ★★4?"
   },
   {
     "level": "90",
@@ -2320,7 +2344,7 @@
     "title": "Lethal weapon [Dynamite]",
     "md5": "a419b4051a561009f1990081a46d1b9d",
     "artist": "Juggernaut.",
-    "url": "http://sunaneko.iptime.org/BMS_Library/Lethal%20weapon%20%28by%20Juggernaut.%29.rar",
+    "url": "https://drive.google.com/file/d/1VgXTE8aso2SKYdUMBzQnhx-FQM_LItI3/view?usp=drive_link",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/Lethal weapon_MS.zip",
     "name_diff": "M-SPIN",
     "date": "Tue Jul 31 2018 00:00:00 GMT+0900 (日本標準時)",

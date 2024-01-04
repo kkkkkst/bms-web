@@ -402,12 +402,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
-    "title": "Retronika [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "3d91b783248f05141bcaaf6410ac860c",
     "title": "Stargazer [EXTRA]",
     "level": "5.50...6.00",
@@ -590,6 +584,12 @@
   {
     "md5": "b23ba65f405ebfea72637abfe90e981e",
     "title": "Resolution Trigger [DP INSANE]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
+    "title": "Retronika [DP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -2548,6 +2548,12 @@
     "title": "Moon-gate [Waning]",
     "level": "-",
     "comment": "sl9"
+  },
+  {
+    "md5": "9bd85de86ef5afd051a3f654e133da02",
+    "title": "myste`re　 [14keys Another]",
+    "level": "-",
+    "comment": "sl8"
   },
   {
     "md5": "b7ff48a82dc10c9622934bbf39de2202",
