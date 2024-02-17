@@ -36,7 +36,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=142",
     "artist": "fether arranged by 鈎兎(KagiUsagi)",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -152,8 +152,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
-    "comment": "",
-    "state": "4"
+    "comment": "難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "α",
@@ -361,7 +361,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=142",
     "artist": "Mizu BGA: たぁけ",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -452,7 +452,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=142",
     "artist": "蝙蝠姉妹",
     "comment": "体力",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -959,7 +959,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=142",
     "artist": "noprize BGA: Broken Wrist Obj: Noprize",
     "comment": "重すぎるゲージ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -1440,7 +1440,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=216&event=142",
     "artist": "music. DayStars obj.aut_hina",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -1532,6 +1532,19 @@
     "artist": "Nakaiankow",
     "comment": "HARD殺し",
     "state": ""
+  },
+  {
+    "level": "α",
+    "title": "Fragments IV (7keys another)",
+    "md5": "af2406d98446b4c2a624fe1222e304dd",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=142",
+    "artist": "CirCy",
+    "comment": "軽すぎるゲージ　皿",
+    "state": "4"
   },
   {
     "level": "α",
@@ -1765,7 +1778,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=308&event=142",
     "artist": "幽谷霧子 + 古論クリス / BGI: 今井加奈 OBJ: 幽谷霧子",
     "comment": "HARDきつめ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -2120,19 +2133,6 @@
   },
   {
     "level": "α",
-    "title": "Lambda Driver [ANOTHER]",
-    "md5": "b8b91d70e8b88e82ba9c8f266cd2f2c2",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "",
-    "url": "",
-    "artist": "SPELL BREAK HEART BREAK",
-    "comment": "☆11",
-    "state": ""
-  },
-  {
-    "level": "α",
     "title": "Last Feud ～the period～ [ANOTHER]",
     "md5": "6d7ff8f04305894c6489678bdb70129d",
     "video1": "",
@@ -2284,7 +2284,7 @@
     "name_diff": "",
     "url": "",
     "artist": "q/stol",
-    "comment": "",
+    "comment": "皿",
     "state": ""
   },
   {
@@ -2562,19 +2562,6 @@
   },
   {
     "level": "α",
-    "title": "Neutrφn Reaper [ANOTHER]",
-    "md5": "fd5fb59b88f3576235c29f8c2c0fdf8d",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133",
-    "artist": "kanone BGA:Shuto",
-    "comment": "",
-    "state": "1"
-  },
-  {
-    "level": "α",
     "title": "Never A Good Fate",
     "md5": "b3814cb3b37799aae091109a1b74a75a",
     "video1": "",
@@ -2792,7 +2779,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=142",
     "artist": "Luna Fozer prod. BilliumMoto + 黒皇帝 + Sobrem / lyric assist. AKA / vox. vally.exe / chara. 蟹江 / illust. Shalink / mv. riguruma",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -3039,7 +3026,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=142",
     "artist": "SpadeK BGA by SpadeK / ? / Otaku_宅 / obj:BKwind",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -3209,6 +3196,19 @@
     "artist": "Qream+",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "α",
+    "title": "RiZiNG ATTACK [ANOTHER]",
+    "md5": "d7828f04ddbe2a8500789d467d4178bf",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=142",
+    "artist": "TaW改 mov. MUSH.T / obj. TaW",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "α",
@@ -3979,6 +3979,19 @@
   },
   {
     "level": "α",
+    "title": "TOKYO-RHYTHM No.524 [SP ANOTHER]",
+    "md5": "2ab074c3ce77b1ab8dae738a93856702",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS 2008 - Resurrection -",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=544",
+    "artist": "フォ㍊",
+    "comment": "",
+    "state": "6"
+  },
+  {
+    "level": "α",
     "title": "Transcend to Heaven [SP ANOTHER]",
     "md5": "11467ddb343a0d279e34c3765be5339c",
     "video1": "",
@@ -3988,7 +4001,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=142",
     "artist": "Reku Mochizuki",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -4092,7 +4105,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=142",
     "artist": "AsahiSensei",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -4170,7 +4183,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=142",
     "artist": "38k",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "α",
@@ -4535,6 +4548,19 @@
     "artist": "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "α",
+    "title": "テウメッサ",
+    "md5": "65d65c3442a4e8ea550aa8df273d8b7e",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "BOFXV - THE BMS OF FIGHTERS eXtreme Violence -",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "α",
@@ -5040,8 +5066,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
-    "comment": "",
-    "state": "4"
+    "comment": "難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "α",
@@ -5097,19 +5123,6 @@
   },
   {
     "level": "α",
-    "title": "透明すぎた僕らの夏は。 [1mm]",
-    "md5": "a9eb554504e796cba98dd5f1eb6ee101",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=133",
-    "artist": "Setca. feat. 音崎リタ mov:tolz",
-    "comment": "",
-    "state": ""
-  },
-  {
-    "level": "α",
     "title": "同時同時",
     "md5": "97632d08a8b1345d394972badd7e04a6",
     "video1": "",
@@ -5133,6 +5146,19 @@
     "artist": "asahisensei",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "α",
+    "title": "虹のわすれもの [SP ANOTHER]",
+    "md5": "9724b0bec93fb8d7c64fa72561928623",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=142",
+    "artist": "鈎兎(KagiUsagi) mov:朧烏",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "α",
@@ -5172,6 +5198,19 @@
     "artist": "少年",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "α",
+    "title": "八咫烏 [ANOTHER]",
+    "md5": "ccb9e933e8e139df28adfa3ad5741fdb",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=142",
+    "artist": "MiKaDo feat. OИE AI BGA:MiKaDo&わおん",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "α",
@@ -5318,6 +5357,19 @@
   },
   {
     "level": "β",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP HYPER]",
+    "md5": "caf95d1f7939638b167d04d5a047ccce",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
+    "artist": "立秋feat.ちょこ",
+    "comment": "▽11 正式名称：😲🙌👾🤖🤸👺🌠🤲👻🖐️🛸😀",
+    "state": "4"
+  },
+  {
+    "level": "β",
     "title": "「そらいろのほしより」 [SP ANOTHER]",
     "md5": "928f2c25cdabaeca8c26b86fb8588172",
     "video1": "",
@@ -5353,7 +5405,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
     "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj:fanzhen",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -5535,7 +5587,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
     "artist": "∀S∀",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -5938,7 +5990,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=142",
     "artist": "Laxeno57 / obj: TKG_MiyA",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -6017,6 +6069,19 @@
     "artist": "69 de 74 + morph",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "citrine",
+    "md5": "369567798e8f3854e2b95b7d2f536e84",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=142",
+    "artist": "Reanisz obj:ya_ti_n bga:ko_nyaku",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "β",
@@ -6705,7 +6770,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=446&event=142",
     "artist": "asdf TacoMaster",
     "comment": "重いBGA　軽いゲージ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -6810,6 +6875,19 @@
     "artist": "zatsuzatsu",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "Gingeeer Aaale ! [SP ANOTHER]",
+    "md5": "0608567be316da842a5ce9f8192f9cd1",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=270&event=142",
+    "artist": "0-n",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "β",
@@ -7212,7 +7290,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=142",
     "artist": "Rose Quartz mov: Nima x 神宮要, obj: OfficialAz3",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -7265,6 +7343,19 @@
     "artist": "motz / obj:C4",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "Lethal Thunder Attack [HYPER]",
+    "md5": "3482afa0e31956c3d5753d97bd8460cb",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=142",
+    "artist": "くるやのぶ illust:珊瑚",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "β",
@@ -7606,6 +7697,19 @@
   },
   {
     "level": "β",
+    "title": "Neutrφn Reaper [ANOTHER]",
+    "md5": "fd5fb59b88f3576235c29f8c2c0fdf8d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133",
+    "artist": "kanone BGA:Shuto",
+    "comment": "",
+    "state": ""
+  },
+  {
+    "level": "β",
     "title": "New York Back Raise [SP ANOTHER]",
     "md5": "5d628afc615a1f66b28267890265246b",
     "video1": "",
@@ -7629,6 +7733,19 @@
     "artist": "Doggie",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "NIGHT MIST [SP ANOTHER]",
+    "md5": "34af228e88fe7b381ffef47d2e0512b2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=142",
+    "artist": "長沼浩太(バナナ太郎) BGA:長沼浩太(ぜひ！！！！)/obj:長沼浩太(間合い屋)",
+    "comment": "皿",
+    "state": "4"
   },
   {
     "level": "β",
@@ -7784,7 +7901,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=137",
     "artist": "Reku Mochizuki",
     "comment": "白壁",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -8005,7 +8122,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=142",
     "artist": "Xeudo Code VS. LucaProject VS. Neptune XI Chart: Fuzz",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -8330,7 +8447,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=347&event=142",
     "artist": "Icebow (obj: 7599)",
     "comment": "ラス殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -8629,7 +8746,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=175&event=142",
     "artist": "Wooden & RAYの丼 / obj: Reiaki",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -8760,6 +8877,19 @@
     "artist": "SOMON",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "Viper's Kiss [7K-HD]",
+    "md5": "2424799a7aaa78c4439f1fd71113395b",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=142",
+    "artist": "ezo, plaaakk, nitro [obj:Nitro]",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "β",
@@ -9318,7 +9448,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=142",
     "artist": "雪乃トケル BMS:Mizu　BGA:れるぽんず",
     "comment": "体力",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -9449,6 +9579,19 @@
     "artist": "DJ NORMAL1ZER BG by R. A. L. / obj DJ AZVW_2",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "桜ノ木ト永遠ノ約束 [SP ANOTHER]",
+    "md5": "91a3bb2c7c3cecc1509c08ff412e3f9d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=142",
+    "artist": "atily (feat. 重音テト＆桜乃そら)",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "β",
@@ -9617,7 +9760,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=142",
     "artist": "立秋feat.ちょこ BMS:立秋 / Mov:石王マサト / obj:qfeileadh",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "β",
@@ -9634,6 +9777,19 @@
   },
   {
     "level": "β",
+    "title": "透明すぎた僕らの夏は。 [1mm]",
+    "md5": "a9eb554504e796cba98dd5f1eb6ee101",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=133",
+    "artist": "Setca. feat. 音崎リタ mov:tolz",
+    "comment": "",
+    "state": ""
+  },
+  {
+    "level": "β",
     "title": "曇天に見る景色 [Another]",
     "md5": "1c247e5b2694adbfc6fcab7886339c85",
     "video1": "",
@@ -9644,6 +9800,19 @@
     "artist": "Trantech",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "β",
+    "title": "鈍行列車 [INSANE]",
+    "md5": "526d5748311cdaeefcbe808b13b79a4e",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=142",
+    "artist": "MiKaDo feat. OИE AI",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "β",
@@ -9946,6 +10115,19 @@
   },
   {
     "level": "γ",
+    "title": "5UPER BREEZE CH∀NCE [FOR KEYBO∀RDERS]",
+    "md5": "816db0ea9cfba51645243e1514afb0a4",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=142",
+    "artist": "さんわり Illust.LLRK",
+    "comment": "HARDきつめ",
+    "state": "4"
+  },
+  {
+    "level": "γ",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 (A)",
     "md5": "98da8541159bc70883dffa8d882722fc",
     "video1": "",
@@ -9993,8 +10175,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
-    "comment": "",
-    "state": "4"
+    "comment": "難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "γ",
@@ -10267,19 +10449,6 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=133",
     "artist": "F Rabbeat / Movie:Yeahtuna BMS:Nakaiankow",
     "comment": "",
-    "state": ""
-  },
-  {
-    "level": "γ",
-    "title": "Before It Ends [7-A]",
-    "md5": "915baa2845e3b25237d43d58d3672589",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=140",
-    "artist": "BilliumMoto BGA: さるきむ",
-    "comment": "▽12",
     "state": ""
   },
   {
@@ -10736,6 +10905,19 @@
     "artist": "翡乃イスカ",
     "comment": "超皿　HARD殺し",
     "state": "1"
+  },
+  {
+    "level": "γ",
+    "title": "Dynasty of Extinction [SP ANOTHER]",
+    "md5": "0060041df3777584c3c3bd92389f39df",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=142",
+    "artist": "utzbo VS paraneumann BGA/obj:paraneumann",
+    "comment": "軽いゲージ",
+    "state": "4"
   },
   {
     "level": "γ",
@@ -11281,7 +11463,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=142",
     "artist": "牧野",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -11493,6 +11675,19 @@
   },
   {
     "level": "γ",
+    "title": "Lambda Driver [ANOTHER]",
+    "md5": "b8b91d70e8b88e82ba9c8f266cd2f2c2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "",
+    "url": "",
+    "artist": "SPELL BREAK HEART BREAK",
+    "comment": "☆11",
+    "state": ""
+  },
+  {
+    "level": "γ",
     "title": "last:wish (Another)",
     "md5": "1ffb42c741af167beccd7b4352daec39",
     "video1": "",
@@ -11541,7 +11736,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=142",
     "artist": "Taffyz obj: DeicideLune",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -11866,7 +12061,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=142",
     "artist": "Sobrem",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -12204,7 +12399,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=142",
     "artist": "Safarithm MW77 + Safarithm 14.14 BGA: PizeroFox, ART: megawolf77",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -12256,7 +12451,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=137",
     "artist": "s-don・サム・さるきむ",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -12399,7 +12594,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=368&event=142",
     "artist": "Moviika Mov. KeiuO",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -12611,6 +12806,19 @@
   },
   {
     "level": "γ",
+    "title": "Suisei [ANOTHER]",
+    "md5": "d2d9186365790c6df46183b6a81747f0",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=142",
+    "artist": "きこにゃん BGI:らりる",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "γ",
     "title": "Sunrise Dash [Ironman]",
     "md5": "61738af7c1367b79ac886fa26eb422c3",
     "video1": "",
@@ -12777,6 +12985,19 @@
     "artist": "飛馬65 made differnet by isocosa mov NceS & gohdin/obj: isocosa",
     "comment": "原曲：Kung-Gu Empire",
     "state": ""
+  },
+  {
+    "level": "γ",
+    "title": "THE BMS OF CREATERS '20 [7K ANOTHER]",
+    "md5": "72fe104231baac4a8890321eee66f9c0",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=142",
+    "artist": "ルゼ vs ねこみりん specialthx:あおお/A-ZERO",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "γ",
@@ -13933,7 +14154,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=293&event=142",
     "artist": "nekomimi_STRaw (feat.重音テトSV)",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "γ",
@@ -14054,6 +14275,19 @@
   },
   {
     "level": "1",
+    "title": "5UPER BREEZE CH∀NCE [HYPER]",
+    "md5": "5da1498de785f8f8a7b2f7dd2ebaee70",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=142",
+    "artist": "さんわり Illust.LLRK",
+    "comment": "超皿",
+    "state": "4"
+  },
+  {
+    "level": "1",
     "title": "A Broken Showcase [我、憧憬ス。]",
     "md5": "a515149abf690f0836ec8cab4e095d94",
     "video1": "",
@@ -14155,6 +14389,19 @@
     "artist": "ProjectG as 東方朔 obj:コ",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "1",
+    "title": "Angelic Photon [SP ANOTHER]",
+    "md5": "be5362c829e88683317cead12c7068a0",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=142",
+    "artist": "VXΛ / μyaZz",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "1",
@@ -14284,6 +14531,19 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=133",
     "artist": "Ryan",
     "comment": "",
+    "state": ""
+  },
+  {
+    "level": "1",
+    "title": "Before It Ends [7-A]",
+    "md5": "915baa2845e3b25237d43d58d3672589",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=140",
+    "artist": "BilliumMoto BGA: さるきむ",
+    "comment": "▽12",
     "state": ""
   },
   {
@@ -14571,6 +14831,19 @@
     "artist": "noal",
     "comment": "ラス殺し",
     "state": ""
+  },
+  {
+    "level": "1",
+    "title": "Dig Dug Dog [ANOTHER]",
+    "md5": "61caa2020dc93f28e334a49356f0f90e",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=142",
+    "artist": "MiKaDo",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "1",
@@ -15211,6 +15484,19 @@
   },
   {
     "level": "1",
+    "title": "NEURAL Corruption",
+    "md5": "aec91f5f6dd7a6ec11d2f1b5142ad3c0",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=133",
+    "artist": "Rope",
+    "comment": "皿",
+    "state": ""
+  },
+  {
+    "level": "1",
     "title": "NightTheater [SP AGASTIA]",
     "md5": "0cecd610a3ec8dd993edfc9907de5120",
     "video1": "",
@@ -15221,6 +15507,19 @@
     "artist": "わかどり BGA : もがみ / obj:saaa",
     "comment": "▽12+",
     "state": ""
+  },
+  {
+    "level": "1",
+    "title": "O\\I GUNS [ANOTHER]",
+    "md5": "d0183dee3c7f82732715e1d726ec93c9",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=142",
+    "artist": "25Ohms \\ 漸凍p BMS:25Ohms BGA:ReviXy Obj:Lanait/25Ohms",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "1",
@@ -15285,7 +15584,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=142",
     "artist": "AiSS BGA by linglvz / obj BKwind",
     "comment": "修正後譜面",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "1",
@@ -15818,7 +16117,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=367&event=142",
     "artist": "Ju_E / Visual: Arang + Croca + Ju_E Chart: InnorK",
     "comment": "BGAあり版",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "1",
@@ -15895,19 +16194,6 @@
     "name_diff": "PABAT! 2021 seasons - Bakery tour -",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=11&order=reg&odtype=a",
     "artist": "MINTi obj / Agka",
-    "comment": "",
-    "state": ""
-  },
-  {
-    "level": "1",
-    "title": "Waldjaegerin [INSANE]",
-    "md5": "6f10bc1ee3f6e8b3d164fa7f21ac3f39",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=133",
-    "artist": "Abel Obj.Triforce",
     "comment": "",
     "state": ""
   },
@@ -16012,6 +16298,19 @@
     "name_diff": "THE BMS OF FIGHTERS XVII - VISION THE RETRO FUTURE - ",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=137",
     "artist": "crossworld",
+    "comment": "",
+    "state": ""
+  },
+  {
+    "level": "1",
+    "title": "ZETABYTE",
+    "md5": "44261df9372d7775b637e7b0cc48d322",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=142",
+    "artist": "Ras",
     "comment": "",
     "state": ""
   },
@@ -16238,6 +16537,19 @@
   },
   {
     "level": "1",
+    "title": "みけねこにゃん太 [7Another]",
+    "md5": "05e17fd773edc3660bc553e74d8e39d7",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=142",
+    "artist": "numuto feat.夏色花梨 / BGA:にょろも obj:numuto",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "1",
     "title": "レミニセンス [ANOTHER]",
     "md5": "558a858c723eed67c432659021fd5fd4",
     "video1": "",
@@ -16381,6 +16693,19 @@
   },
   {
     "level": "1",
+    "title": "孤独なる慈愛と芽生ゆる友愛 [SP ANOTHER]",
+    "md5": "27124bdc45b14ef93cd7cccc0b310db2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=142",
+    "artist": "らふむ BGI:朧烏 obj:鈎兎(KagiUsagi)",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "1",
     "title": "糸引く夏のエデンにて。 [Another]",
     "md5": "b8ca344c128267aaa89aada4ff99f9b5",
     "video1": "",
@@ -16403,7 +16728,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=142",
     "artist": "にょろも 歌のおねえさん：AIきりたん　CV：吟世かいな",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "1",
@@ -17044,6 +17369,19 @@
   },
   {
     "level": "2",
+    "title": "cocktail - Symphonic Poetry - [MARTINI]",
+    "md5": "d765e90bd99393a4dab5192e3aa5136d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=133",
+    "artist": "mots respects kalas",
+    "comment": "HARDきつめ",
+    "state": ""
+  },
+  {
+    "level": "2",
     "title": "Creamy Sky [SP ANOTHER]",
     "md5": "b08e9ed55ac7ff18317d8e42356f234c",
     "video1": "",
@@ -17417,7 +17755,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=446&event=142",
     "artist": "asdf TacoMaster",
     "comment": "重いBGA　軽いゲージ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -17690,7 +18028,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=315&event=1422",
     "artist": "Yazavva",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -17872,7 +18210,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=471&event=142",
     "artist": "megawolf77",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -18033,7 +18371,7 @@
   {
     "level": "2",
     "title": "Pedrolino",
-    "md5": "542056e97295a64358b3c62498516148",
+    "md5": "357f77d5d32e541bce4386f0073e28cf",
     "video1": "",
     "video2": "",
     "url_diff": "",
@@ -18041,7 +18379,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=225&event=142",
     "artist": "ルゼ BGA:YABILITY",
     "comment": "HARDきつめ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -18158,7 +18496,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=142",
     "artist": "Xeudo Code VS. LucaProject VS. Neptune XI Chart: bbangsami",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -18171,7 +18509,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=142",
     "artist": "BilliumMoto Illust: Metyayurusu, BGA: Fate",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -18197,7 +18535,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=142",
     "artist": "OfficialAz3 feat. Echa bga:rime obj:Warlock",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "2",
@@ -18591,6 +18929,19 @@
   },
   {
     "level": "2",
+    "title": "Waldjaegerin [INSANE]",
+    "md5": "6f10bc1ee3f6e8b3d164fa7f21ac3f39",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=133",
+    "artist": "Abel Obj.Triforce",
+    "comment": "",
+    "state": ""
+  },
+  {
+    "level": "2",
     "title": "whence [SP ANOTHER]",
     "md5": "09f70fef057a5ef2e3a4cae194d5388b",
     "video1": "",
@@ -18656,19 +19007,6 @@
   },
   {
     "level": "2",
-    "title": "ZETABYTE",
-    "md5": "44261df9372d7775b637e7b0cc48d322",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=142",
-    "artist": "Ras",
-    "comment": "",
-    "state": "4"
-  },
-  {
-    "level": "2",
     "title": "アジサイ [SP Another]",
     "md5": "a0b6f358ac13ad0443a19b93441810a0",
     "video1": "",
@@ -18704,6 +19042,19 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
     "artist": "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif",
     "comment": "",
+    "state": ""
+  },
+  {
+    "level": "2",
+    "title": "シミュラ・ラクラ [ANOTHER]",
+    "md5": "054ffb545ae05578a30bc061590e3f34",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=140",
+    "artist": "Micelle NSFW",
+    "comment": "BGA注意",
     "state": ""
   },
   {
@@ -18874,6 +19225,19 @@
     "artist": "ああああ obj: ああああ",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "2",
+    "title": "永夜ノ蝶 [ANOTHER7]",
+    "md5": "b9656d36814500f9ef8306df60def273",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=496&event=142",
+    "artist": "長沼浩太(パパ頑張りました) & 長沼浩太(フライパンでやりまーす)",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "2",
@@ -19150,6 +19514,19 @@
   },
   {
     "level": "2",
+    "title": "八咫烏 [INSANE]",
+    "md5": "096732c6af7eac8b04d6fb4587ffa738",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=142",
+    "artist": "MiKaDo feat. OИE AI BGA:MiKaDo&わおん",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "2",
     "title": "悲劇のアニマルキングダム ～BMS MIX～ (カタストロ譜)",
     "md5": "e7b07c82fc12a35114dd799082e28bd7",
     "video1": "",
@@ -19251,6 +19628,19 @@
     "artist": "nm-y BGA: Transendium",
     "comment": "HARD殺し",
     "state": ""
+  },
+  {
+    "level": "3",
+    "title": "21世紀ファンタジー [REVERIE]",
+    "md5": "82cda4f9661ad6fdfd6a437f5543ca04",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=142",
+    "artist": "Lanait",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "3",
@@ -19423,6 +19813,19 @@
   },
   {
     "level": "3",
+    "title": "AGNIKAYANIZM [ANOTHER]",
+    "md5": "a7fcb53c3b277d2be53969bed0785244",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=133",
+    "artist": "DJ Raisei",
+    "comment": "HARD判定　皿",
+    "state": ""
+  },
+  {
+    "level": "3",
     "title": "AKUSH",
     "md5": "a111a98e75f039f7d11cef6594d5d912",
     "video1": "",
@@ -19485,6 +19888,19 @@
     "artist": "hurirai BGA:hrchem",
     "comment": "体力　▼4",
     "state": ""
+  },
+  {
+    "level": "3",
+    "title": "Apples Apples Apples Apples [7K ANOTHER]",
+    "md5": "90162f64760cfff5d4689b4b30381670",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=142",
+    "artist": "fruitmoth",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "3",
@@ -19627,7 +20043,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=142",
     "artist": "ねこみりん obj:ルゼ",
     "comment": "HARD判定",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "3",
@@ -19666,7 +20082,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=137",
     "artist": "Lollipop [obj. vi]",
     "comment": "",
-    "state": ""
+    "state": "3"
   },
   {
     "level": "3",
@@ -19810,6 +20226,19 @@
     "artist": "CrossGear",
     "comment": "★3",
     "state": ""
+  },
+  {
+    "level": "3",
+    "title": "Fancy-Sky Trip [EXTREME]",
+    "md5": "1682f8b4e1d60851831380a676229b72",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=142",
+    "artist": "Tiv / BGA:Falrepair & 戸叶焔人",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "3",
@@ -20459,7 +20888,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=142",
     "artist": "SpadeK BGA by SpadeK / ? / Otaku_宅 / obj:BKwind",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "3",
@@ -20979,7 +21408,7 @@
     "url": "",
     "artist": "STASTA BGA:nanairo",
     "comment": "",
-    "state": ""
+    "state": "1"
   },
   {
     "level": "3",
@@ -21005,7 +21434,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=142",
     "artist": "さんわり",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "3",
@@ -21058,6 +21487,19 @@
     "artist": "dusKape obj:れもんるり",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "3",
+    "title": "Viper's Kiss [7K-Fury]",
+    "md5": "a69b7a515fd11494f16f116343697240",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=142",
+    "artist": "ezo, plaaakk, nitro [obj:Nitro]",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "3",
@@ -21204,19 +21646,6 @@
   },
   {
     "level": "3",
-    "title": "シミュラ・ラクラ [ANOTHER]",
-    "md5": "054ffb545ae05578a30bc061590e3f34",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=140",
-    "artist": "Micelle NSFW",
-    "comment": "BGA注意",
-    "state": ""
-  },
-  {
-    "level": "3",
     "title": "スペクトラム -打倒C-",
     "md5": "6c178c098d69bc3085649723826c8467",
     "video1": "",
@@ -21308,6 +21737,19 @@
   },
   {
     "level": "3",
+    "title": "プレヤ [SP INSANE]",
+    "md5": "ed8f04b21e2601a0d511d86319478a5d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=142",
+    "artist": "qfeileadh&レゾナンスもえこ bms:qfeileadh / mov:自動車 原付&なぎのにちこ / obj:qfeileadh",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "3",
     "title": "ホーンテッド・ドールキャッスル",
     "md5": "dca6324c531548ca5c402bf5206128c1",
     "video1": "",
@@ -21343,7 +21785,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=142",
     "artist": "momo★yama",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "3",
@@ -21356,6 +21798,19 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=142",
     "artist": "雪乃トケル BMS:Mizu　BGA:れるぽんず",
     "comment": "",
+    "state": ""
+  },
+  {
+    "level": "3",
+    "title": "レスキューしてよ！私のコイゴコロ [ANOTHER]",
+    "md5": "269fe651e3d68e95371c968fb45a9534",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=142",
+    "artist": "MiKaDo feat. 小春六花",
+    "comment": "▼3",
     "state": "4"
   },
   {
@@ -21460,7 +21915,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=142",
     "artist": "にょろも 歌のおねえさん：AIきりたん　CV：吟世かいな",
     "comment": "全押しあり",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "3",
@@ -21511,8 +21966,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
-    "comment": "HARDきつめ",
-    "state": "4"
+    "comment": "HARDきつめ　難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "3",
@@ -21707,7 +22162,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=142",
     "artist": "Juka_Box",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "3",
@@ -21928,19 +22383,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
     "comment": "",
-    "state": "4"
-  },
-  {
-    "level": "4",
-    "title": "AGNIKAYANIZM [ANOTHER]",
-    "md5": "a7fcb53c3b277d2be53969bed0785244",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=133",
-    "artist": "DJ Raisei",
-    "comment": "HARD判定　皿",
     "state": ""
   },
   {
@@ -22088,6 +22530,19 @@
   },
   {
     "level": "4",
+    "title": "Beyond the Solar System [SP ANOTHER]",
+    "md5": "1a1e4d34c92fe80e1cff9810a8e7e2b0",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=142",
+    "artist": "shimizushi BGA : Black MISS : isz",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "4",
     "title": "BLUE CONFUSION [ANOTHER]",
     "md5": "b90516ef400ce0e26aead0e47555a0eb",
     "video1": "",
@@ -22179,19 +22634,6 @@
   },
   {
     "level": "4",
-    "title": "cocktail - Symphonic Poetry - [MARTINI]",
-    "md5": "d765e90bd99393a4dab5192e3aa5136d",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=133",
-    "artist": "mots respects kalas",
-    "comment": "HARD殺し",
-    "state": ""
-  },
-  {
-    "level": "4",
     "title": "Colour My Sky [Cartelet]",
     "md5": "dcc40c45d2502f31f4e4c2f35bfc8c58",
     "video1": "",
@@ -22279,19 +22721,6 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=123",
     "artist": "にっすぃー",
     "comment": "",
-    "state": ""
-  },
-  {
-    "level": "4",
-    "title": "DISCHARGE RUSH [ANOTHER]",
-    "md5": "6cab5f9c88c610bcec21fac2e5c0c0a6",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "BOF2010場外乱闘編",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=66",
-    "artist": "ETIA. vs MM Sequence",
-    "comment": "▼4　皿",
     "state": ""
   },
   {
@@ -22621,6 +23050,19 @@
   },
   {
     "level": "4",
+    "title": "Hello! My World!! [Another]",
+    "md5": "86183fbd24a2e6d1bd2d61bc03b31173",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=142",
+    "artist": "ああああ + 翡乃イスカ obj:ああああ",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "4",
     "title": "hotいも [7K ANOTHER]",
     "md5": "803c5882e832abdd7952b0e478f4b1cd",
     "video1": "",
@@ -22631,6 +23073,19 @@
     "artist": "Du Vel Mat Te obj. w",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "4",
+    "title": "I&Btt [ANOTHER]",
+    "md5": "d334237ade14118d930299277a0f1e56",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=317&event=142",
+    "artist": "RykSeb obj:npnd",
+    "comment": "HARDきつめ",
+    "state": "4"
   },
   {
     "level": "4",
@@ -22933,19 +23388,6 @@
   },
   {
     "level": "4",
-    "title": "NEURAL Corruption",
-    "md5": "aec91f5f6dd7a6ec11d2f1b5142ad3c0",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=133",
-    "artist": "Rope",
-    "comment": "皿",
-    "state": ""
-  },
-  {
-    "level": "4",
     "title": "NightTourBus [SPANOTHER]",
     "md5": "e446821d6c516dc16914a8a50b5bb2e4",
     "video1": "",
@@ -22955,7 +23397,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=470&event=142",
     "artist": "noprize obj noprize",
     "comment": "軽すぎるゲージ　ラス殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "4",
@@ -23462,7 +23904,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=347&event=142",
     "artist": "Icebow (obj: 7599)",
     "comment": "ラス殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "4",
@@ -23726,6 +24168,19 @@
   },
   {
     "level": "4",
+    "title": "イカサマ・プロシージャ",
+    "md5": "898c771aba076d5dad6c2c684854b28c",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=142",
+    "artist": "あさり vs Rner",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "4",
     "title": "いづかた14082000 [ANOTHER]",
     "md5": "ad4492e4d0bd72ec0608887ca04515ec",
     "video1": "",
@@ -23866,6 +24321,19 @@
     "artist": "うまるつふり",
     "comment": "皿　縦連打　HARDきつめ",
     "state": ""
+  },
+  {
+    "level": "4",
+    "title": "珊瑚郷",
+    "md5": "8d11323531683b86d04a17ee61499540",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=142",
+    "artist": "Shimomura obj:Rfiv bga:kelvin_kombinat",
+    "comment": "LN多め",
+    "state": "4"
   },
   {
     "level": "4",
@@ -24480,6 +24948,19 @@
   },
   {
     "level": "5",
+    "title": "DREAMSCAPE 7_HYPER",
+    "md5": "08dd7571b01d5c3040ac45e7f02fdbc5",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=142",
+    "artist": "H0PE (BGI:りょくちゃくん)",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "5",
     "title": "Elixir [BITTER7]",
     "md5": "510a26c813c41de416268278d1a1adfe",
     "video1": "",
@@ -25052,6 +25533,19 @@
   },
   {
     "level": "5",
+    "title": "Miracletale [7key Anothertale]",
+    "md5": "e3e5fea1b07d3d3bc0960bfbb50e542f",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=142",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "5",
     "title": "Moment in the Sky [MEMORABILIA]",
     "md5": "172befdbe25acf86149dc790c7097345",
     "video1": "",
@@ -25351,6 +25845,19 @@
   },
   {
     "level": "5",
+    "title": "RiZiNG ATTACK [BLACK ANOTHER]",
+    "md5": "0e41fcb53924deba97372407f9e5727c",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=142",
+    "artist": "TaW改 mov. MUSH.T / obj. Lennon",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "5",
     "title": "Sakura Fubuki",
     "md5": "6f628e3782b8f8ed4b0c5a7dc7af49fe",
     "video1": "",
@@ -25490,7 +25997,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=142",
     "artist": "fether remixed by 鈎兎(KagiUsagi)",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "5",
@@ -25569,6 +26076,19 @@
     "artist": "oratoruk (BGI : チキンピカタ)",
     "comment": "▼6",
     "state": ""
+  },
+  {
+    "level": "5",
+    "title": "That's [SP ANOTHER]",
+    "md5": "013820f5a1a8ed49fcb41af7a9c7495d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=142",
+    "artist": "Chai the Tea",
+    "comment": "BGM等が正常に再生されない可能性あり",
+    "state": "4"
   },
   {
     "level": "5",
@@ -26230,8 +26750,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
-    "comment": "HARDきつめ",
-    "state": "4"
+    "comment": "HARDきつめ　難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "5",
@@ -26387,7 +26907,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=142",
     "artist": "K4Y5 + 売る + 独楽コンバット obj. 売る",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "6",
@@ -26781,6 +27301,19 @@
   },
   {
     "level": "6",
+    "title": "Demon's Roar [SP ANOTHER]",
+    "md5": "d33950e1add0bf47a18e1c13e419ca9d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=142",
+    "artist": "鬼方カヨコ arrange&bms:BLACK DEATH POISON / illust:天雨アコ / obj:傭兵バイトA",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "6",
     "title": "DESPERATE DEATHPARADE [ANOTHER]",
     "md5": "eb9439bd4d6e1f8af4bcf25cfb6b175d",
     "video1": "",
@@ -27011,7 +27544,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=142",
     "artist": "Bluesun BGA by ﾁﾚ / SpadeK / ﾊ",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "6",
@@ -27236,6 +27769,19 @@
   },
   {
     "level": "6",
+    "title": "Lethal Thunder Attack [ANOTHER]",
+    "md5": "c55f972aade64cc0358327624a731eb6",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=142",
+    "artist": "くるやのぶ illust:珊瑚",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "6",
     "title": "LEthAl wEApOn (ANOTHER7)",
     "md5": "b34625d8bf3c225f18ef663c9dbe242e",
     "video1": "",
@@ -27257,8 +27803,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=130&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia",
-    "comment": "",
-    "state": "4"
+    "comment": "難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "6",
@@ -27439,7 +27985,7 @@
     "name_diff": "BOFU2017 - LEGENDA EST A MYTH -",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=383&event=116",
     "artist": "Negentropy Movie:Vogeln",
-    "comment": "▼8　皿　HARD殺し",
+    "comment": "▼7　皿　HARD殺し",
     "state": ""
   },
   {
@@ -27454,6 +28000,19 @@
     "artist": "Lidelle feat. AKA Movie: rN + Mint.zip + Trouman + Keizou + Shalink",
     "comment": "▼6",
     "state": ""
+  },
+  {
+    "level": "6",
+    "title": "Possibility",
+    "md5": "8a993897197ddb53284344b464518c05",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=479&event=142",
+    "artist": "おわりん",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "6",
@@ -28129,7 +28688,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=142",
     "artist": "utzbo VS Reku Mochizuki BGA:Nima / obj:rat",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "6",
@@ -28900,6 +29459,19 @@
   },
   {
     "level": "7",
+    "title": "DISCHARGE RUSH [ANOTHER]",
+    "md5": "6cab5f9c88c610bcec21fac2e5c0c0a6",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "BOF2010場外乱闘編",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=66",
+    "artist": "ETIA. vs MM Sequence",
+    "comment": "▼7　皿",
+    "state": ""
+  },
+  {
+    "level": "7",
     "title": "District IX [Insane]",
     "md5": "9dfd050b672a3f28058198c896a623e6",
     "video1": "",
@@ -29001,6 +29573,19 @@
     "artist": "KAH (BGA:自動車原付　イラスト:手鞠鈴)",
     "comment": "HS-FIX AVERAGE推奨",
     "state": ""
+  },
+  {
+    "level": "7",
+    "title": "energy trixxx",
+    "md5": "3aa19104ba2a437fa6eec19f4689776d",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "G2R2018 Climax -GO BACK 2 YOUR ROOTS 2018 climax-",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=123",
+    "artist": "KAH BGA:自動車 原付/illust:手鞠鈴",
+    "comment": "皿",
+    "state": "4"
   },
   {
     "level": "7",
@@ -29299,7 +29884,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=142",
     "artist": "Mono. meets Halv",
     "comment": "皿",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "7",
@@ -29897,7 +30482,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=347&event=142",
     "artist": "Icebow (obj: 7599)",
     "comment": "ラス殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "7",
@@ -30014,7 +30599,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=142",
     "artist": "Reku Mochizuki obj:BAECON",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "7",
@@ -30408,6 +30993,19 @@
   },
   {
     "level": "7",
+    "title": "レスキューしてよ！私のコイゴコロ [INSANE]",
+    "md5": "6cec724bed0fbac5d514f50f701d7c37",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=142",
+    "artist": "MiKaDo feat. 小春六花",
+    "comment": "▼8",
+    "state": "4"
+  },
+  {
+    "level": "7",
     "title": "愛と煩悩と輪廻と常識の極彩世界 [SP ANOTHER]",
     "md5": "0169686bd3883f1196f4dd7a4af48f36",
     "video1": "",
@@ -30577,6 +31175,19 @@
   },
   {
     "level": "7",
+    "title": "窒素 [SP INSANE]",
+    "md5": "72c5d55f0f7e28f2179bdf6da17923f7",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=142",
+    "artist": "立秋feat.ちょこ BMS:立秋 / Mov:石王マサト / obj:qfeileadh",
+    "comment": "",
+    "state": ""
+  },
+  {
+    "level": "7",
     "title": "沈んだ思い出、打ち上げて [Epic_fix]",
     "md5": "5bbd795fa683990831933094d6762764",
     "video1": "",
@@ -30600,6 +31211,19 @@
     "artist": "にーえぬ BMS:Nakaiankow",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "7",
+    "title": "虹のわすれもの [SP INSANE]",
+    "md5": "e40053291165e90cecf761dcb8d5aa17",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=142",
+    "artist": "鈎兎(KagiUsagi) mov:朧烏",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "7",
@@ -30833,7 +31457,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=142",
     "artist": "Synzak & Laxeno57 (Movie: kkmfd) Obj: TKG_MiyA",
     "comment": "皿",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "8",
@@ -30885,7 +31509,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=142",
     "artist": "黒皇帝 feat. AKA Movie: phin + tivi",
     "comment": "皿",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "8",
@@ -31353,7 +31977,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=142",
     "artist": "Aspid Cat Obj. w / BGI Kusanegi / BMS Aspid Cat",
     "comment": "LN多め　HS-FIX AVERAGE推奨",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "8",
@@ -31548,7 +32172,20 @@
     "url": "",
     "artist": "3034 Anomie / IllusionRain",
     "comment": "▼8",
-    "state": ""
+    "state": "1"
+  },
+  {
+    "level": "8",
+    "title": "O\\I GUNS [INSANE]",
+    "md5": "43964559d75982f74984fb52f693f233",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=142",
+    "artist": "25Ohms \\ 漸凍p BMS:25Ohms BGA:ReviXy Obj:Lanait",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "8",
@@ -31695,6 +32332,19 @@
   },
   {
     "level": "8",
+    "title": "RiZiNG ATTACK [INSANE]",
+    "md5": "1bed11de1da78f694b30d2f713ac0e80",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=142",
+    "artist": "TaW改 mov. MUSH.T / obj. Lennon",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "8",
     "title": "Romancing Sa・Ga3 ～四魔貴族バトル2～ (SP BLACK ANOTHER+)",
     "md5": "59cf6ee292d457d8bc4f9c6d4b41bb7d",
     "video1": "",
@@ -31717,7 +32367,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=142",
     "artist": "SpadeK BGA by Aishalal / V.R. / 桔原 / obj:BKwind",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "8",
@@ -32514,6 +33164,19 @@
   },
   {
     "level": "9",
+    "title": "5UPER BREEZE CH∀NCE [ANOTHER]",
+    "md5": "cc6afe721072c6808ddb6958a92adc12",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=142",
+    "artist": "さんわり Illust.LLRK",
+    "comment": "皿",
+    "state": "4"
+  },
+  {
+    "level": "9",
     "title": "Absolute Future [ANOTHER+]",
     "md5": "7d8b3dcd63e6adea25807ab25ea1544c",
     "video1": "",
@@ -32926,7 +33589,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=142",
     "artist": "F Rabbeat / BMS: Nakaiankow BGA by もうり / obj AZVW_2",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "9",
@@ -33303,7 +33966,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=142",
     "artist": "fether remixed by 鈎兎(KagiUsagi) obj:NASA",
     "comment": "全押しあり",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "9",
@@ -33359,6 +34022,19 @@
   },
   {
     "level": "9",
+    "title": "THE BMS OF CREATERS '20 [7K INSANE]",
+    "md5": "56da8c48b2660df10dee7764ff918daa",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=142",
+    "artist": "ルゼ vs ねこみりん specialthx:あおお/A-ZERO",
+    "comment": "HARD殺し　皿",
+    "state": "4"
+  },
+  {
+    "level": "9",
     "title": "The Public Parallel",
     "md5": "ace6c5dd676faefb521f6d0b22532059",
     "video1": "",
@@ -33394,7 +34070,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=142",
     "artist": "38k",
     "comment": "全押しあり",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "9",
@@ -33658,19 +34334,6 @@
   },
   {
     "level": "9",
-    "title": "窒素 [SP INSANE]",
-    "md5": "72c5d55f0f7e28f2179bdf6da17923f7",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=142",
-    "artist": "立秋feat.ちょこ BMS:立秋 / Mov:石王マサト / obj:qfeileadh",
-    "comment": "",
-    "state": "4"
-  },
-  {
-    "level": "9",
     "title": "透明すぎた僕らの夏は。 [白露草]",
     "md5": "99635c5cb5d4ed13bbacb6d40006d46a",
     "video1": "",
@@ -33875,7 +34538,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=142",
     "artist": "Mizu BGA: たぁけ",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "10",
@@ -33902,6 +34565,19 @@
     "artist": "VarNOTHia BG by Dolag / obj AZVW_2",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "10",
+    "title": "Beyond the Solar System [F]",
+    "md5": "29715196d05b992dfe0fef26d4cf17a2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=142",
+    "artist": "shimizushi BGA : Black MISS : isz obj:Fender",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "10",
@@ -34139,6 +34815,19 @@
   },
   {
     "level": "10",
+    "title": "Gingeeer Aaale ! [SP INSANE]",
+    "md5": "0c02e4eb29eed1162a9674c13f34711f",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=270&event=142",
+    "artist": "0-n obj:鈎兎(KagiUsagi)",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "10",
     "title": "Hay FEVER [ANOTHER]",
     "md5": "0045153b89105ac8fd25a2a23dcea466",
     "video1": "",
@@ -34360,6 +35049,19 @@
   },
   {
     "level": "10",
+    "title": "Miracletale [7key Insanetale]",
+    "md5": "8ab883df06a16c15b535c297e8d6bcde",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=142",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部 / obj.rat",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "10",
     "title": "MMXI [EXTRA]",
     "md5": "5146a7f4c4cc30f685a557de4fa143e1",
     "video1": "",
@@ -34461,6 +35163,19 @@
     "artist": "Kanata.S BGA：task228 / obj.rat",
     "comment": "VERYHARD判定",
     "state": ""
+  },
+  {
+    "level": "10",
+    "title": "Possibility",
+    "md5": "94301554d3860341bafc2579ca287425",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=479&event=142",
+    "artist": "おわりん",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "10",
@@ -34668,7 +35383,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=175&event=142",
     "artist": "Wooden & RAYの丼 / obj: TKG_MiyA",
     "comment": "HARDきつめ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "10",
@@ -34993,6 +35708,19 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
     "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj.Reiaki",
     "comment": "ラス殺し",
+    "state": ""
+  },
+  {
+    "level": "11",
+    "title": "5UPER BREEZE CH∀NCE [FOR KEYBO∀RDERS]",
+    "md5": "d789e31297b083455ba2a30a0c93352b",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=142",
+    "artist": "さんわり Illust.LLRK",
+    "comment": "",
     "state": "4"
   },
   {
@@ -35032,7 +35760,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=142",
     "artist": "Synzak & Laxeno57 (Movie: kkmfd) Obj: nbunnyuwu",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "11",
@@ -35163,6 +35891,19 @@
     "artist": "Capsluck(cookie+)",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "11",
+    "title": "Dig Dug Dog [INSANE]",
+    "md5": "33808fc3ff3e8d13d286efde2a1c783a",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=142",
+    "artist": "MiKaDo",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "11",
@@ -36020,7 +36761,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
     "comment": "体力",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "11",
@@ -36089,6 +36830,19 @@
   },
   {
     "level": "12",
+    "title": "Aether Sky [F]",
+    "md5": "3163cb3c5569646dfbe058a762206ae8",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=142",
+    "artist": "DJ JUNOU BGA:xaiqi obj:Fender",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "12",
     "title": "Akasagarbha [INSANE]",
     "md5": "1e4bae27bacaaf7aae5453df1165936a",
     "video1": "",
@@ -36150,7 +36904,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=142",
     "artist": "Ardolf BGA by Transendium / obj BKwind",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "12",
@@ -36409,8 +37163,8 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=130&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia",
-    "comment": "",
-    "state": "4"
+    "comment": "難易度変更前の譜面",
+    "state": ""
   },
   {
     "level": "12",
@@ -37051,6 +37805,19 @@
   },
   {
     "level": "12",
+    "title": "沈んだ思い出、打ち上げて [SP KanshouMode_fix]",
+    "md5": "200dd730e5cb6bbb8821c0061bfe7743",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "大血戦 - THE BMS OF FIGHTERS ULTIMATE",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=97&event=104",
+    "artist": "海秋(Umiai)",
+    "comment": "LNだらけ　激軽ゲージ　TOTAL1846.2",
+    "state": ""
+  },
+  {
+    "level": "12",
     "title": "薄雲 [7KEYS ANOTHER]",
     "md5": "34d22ec27e337601a0350428ddf065d0",
     "video1": "",
@@ -37126,6 +37893,19 @@
     "artist": "kireji",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "13",
+    "title": "Angelic Photon [F]",
+    "md5": "bda0d135ff1937af55589821637a75e2",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=142",
+    "artist": "VXΛ / μyaZz obj:Fender",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "13",
@@ -37243,6 +38023,19 @@
     "artist": "utah",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "13",
+    "title": "citrine",
+    "md5": "b4e43749317eb955ca703425cc2cb890",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=142",
+    "artist": "Reanisz obj:Favslater bga:ko_nyaku",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "13",
@@ -37412,6 +38205,19 @@
     "artist": "Aethral movie: Khronetic + Chiru / obj. 黒皇帝",
     "comment": "",
     "state": ""
+  },
+  {
+    "level": "13",
+    "title": "KAGIROI Circuit",
+    "md5": "d3267e5c99c2573f9036188b38e28f6e",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=142",
+    "artist": "Kanata.S BGA：LLRK",
+    "comment": "ラス殺し",
+    "state": "4"
   },
   {
     "level": "13",
@@ -38035,7 +38841,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
     "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
     "comment": "体力",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "14",
@@ -38061,7 +38867,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=142",
     "artist": "K4Y5 + 売る + 独楽コンバット / obj.コブラ",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "14",
@@ -38546,6 +39352,19 @@
   },
   {
     "level": "14",
+    "title": "transition [another]",
+    "md5": "648fa203b320ae46420200e92d4c28d4",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=463&event=142",
+    "artist": "dandeless",
+    "comment": "体力",
+    "state": "4"
+  },
+  {
+    "level": "14",
     "title": "Trichterwinde [INSANE]",
     "md5": "8b8001dd7eb1b0e80e14601c4a6fa21e",
     "video1": "",
@@ -38737,19 +39556,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=142",
     "artist": "Daily天利 obj AZVW_2",
     "comment": "BGAあり版　体力",
-    "state": "4"
-  },
-  {
-    "level": "14",
-    "title": "沈んだ思い出、打ち上げて [SP KanshouMode_fix]",
-    "md5": "200dd730e5cb6bbb8821c0061bfe7743",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "大血戦 - THE BMS OF FIGHTERS ULTIMATE",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=97&event=104",
-    "artist": "海秋(Umiai)",
-    "comment": "LNだらけ　激軽ゲージ　TOTAL1846.2",
     "state": ""
   },
   {
@@ -39127,7 +39933,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=142",
     "artist": "AiSS BGA by linglvz / obj BKwind",
     "comment": "修正後譜面",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "15",
@@ -39924,6 +40730,19 @@
   },
   {
     "level": "16",
+    "title": "DREAMSCAPE 7_ANOTHER",
+    "md5": "e08da4f20378c69ca11d6d67da2fa058",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=142",
+    "artist": "H0PE (BGI:りょくちゃくん)",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "16",
     "title": "Epic Bellum -universum- [Stardust]",
     "md5": "bcb25c89f7d006eec25a4f8436f65218",
     "video1": "",
@@ -40025,19 +40844,6 @@
     "artist": "ξ青龍ξ vs なんよう / いかお / obj:chack",
     "comment": "",
     "state": ""
-  },
-  {
-    "level": "16",
-    "title": "ILOVEYOU.vbs [7K INSANE]",
-    "md5": "ac5f5b38157c2c2f370d94bf9c7ed179",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=142",
-    "artist": "Aspid Cat Obj. w / BGI Kusanegi / BMS Aspid Cat",
-    "comment": "LN多め　HS-FIX AVERAGE推奨",
-    "state": "4"
   },
   {
     "level": "16",
@@ -40349,7 +41155,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=142",
     "artist": "さんわり",
     "comment": "HARDきつめ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "16",
@@ -40480,6 +41286,19 @@
     "artist": "佐久丸(sak vs wumalutsufuri) obj:うまるつふり",
     "comment": "皿",
     "state": ""
+  },
+  {
+    "level": "16",
+    "title": "喋喋喃喃",
+    "md5": "2f68a5d5665a19322745f6ef6443a016",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=142",
+    "artist": "Reanisz obj:Favslater bga:ko_nyaku",
+    "comment": "",
+    "state": "4"
   },
   {
     "level": "16",
@@ -40635,6 +41454,19 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
     "artist": "C4 / BGI:morph",
     "comment": "VERYHARD判定",
+    "state": ""
+  },
+  {
+    "level": "17",
+    "title": "chillいも [LN]",
+    "md5": "0d3b881238f39904a478b31d6a7da976",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=140",
+    "artist": "Du Vel Mat Te obj. w",
+    "comment": "LNだらけ",
     "state": ""
   },
   {
@@ -40895,7 +41727,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=142",
     "artist": "utzbo VS *wakadori BGA:Nao_AnD / obj:rat",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "17",
@@ -40973,7 +41805,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=225&event=142",
     "artist": "ルゼ BGA:YABILITY",
     "comment": "HARD殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "17",
@@ -41289,6 +42121,19 @@
   },
   {
     "level": "17",
+    "title": "孤独なる慈愛と芽生ゆる友愛 [SP INSANE]",
+    "md5": "a35d021427d2f39ea4f6a764d5ae69b5",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=142",
+    "artist": "らふむ BGI:朧烏 obj:鈎兎(KagiUsagi)",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "17",
     "title": "黒鳶～こくえん～ [元禄模様]",
     "md5": "09245bc4b7ec0aae5abd695b5898bc27",
     "video1": "",
@@ -41402,7 +42247,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=293&event=142",
     "artist": "nekomimi_STRaw (feat.重音テトSV)",
     "comment": "重すぎるゲージ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "18",
@@ -41558,19 +42403,6 @@
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=39&order=reg&odtype=a",
     "artist": "lixound mov:Xquid",
     "comment": "皿",
-    "state": ""
-  },
-  {
-    "level": "18",
-    "title": "chillいも [LN]",
-    "md5": "0d3b881238f39904a478b31d6a7da976",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=140",
-    "artist": "Du Vel Mat Te obj. w",
-    "comment": "LNだらけ",
     "state": ""
   },
   {
@@ -41822,6 +42654,19 @@
   },
   {
     "level": "18",
+    "title": "ILOVEYOU.vbs [7K INSANE]",
+    "md5": "ac5f5b38157c2c2f370d94bf9c7ed179",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=142",
+    "artist": "Aspid Cat Obj. w / BGI Kusanegi / BMS Aspid Cat",
+    "comment": "LNだらけ　HS-FIX AVERAGE推奨",
+    "state": ""
+  },
+  {
+    "level": "18",
     "title": "Lovely my world -I- Overture",
     "md5": "0b34df840c81bb6e1a70be633d23b4e3",
     "video1": "",
@@ -41900,19 +42745,6 @@
   },
   {
     "level": "18",
-    "title": "New York Back Raise [ROYAL STRAIGHT FLUSH]",
-    "md5": "2afcf8f878df9bae0c83bbb2aacb6657",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
-    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
-    "comment": "▼19",
-    "state": ""
-  },
-  {
-    "level": "18",
     "title": "opia [opiographia]",
     "md5": "18fd85b9ed3025c78a4c38c6d00f3ea7",
     "video1": "",
@@ -41987,7 +42819,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=142",
     "artist": "Mochiron Obj. Tristan97 / BGA Artifyber / BMS Aspid Cat",
     "comment": "体力",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "18",
@@ -42611,6 +43443,19 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=347&event=133",
     "artist": "Octa the B.G. / obj.BACO",
     "comment": "",
+    "state": ""
+  },
+  {
+    "level": "19",
+    "title": "New York Back Raise [ROYAL STRAIGHT FLUSH]",
+    "md5": "2afcf8f878df9bae0c83bbb2aacb6657",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
+    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
+    "comment": "▼19",
     "state": ""
   },
   {
@@ -43356,6 +44201,19 @@
   },
   {
     "level": "20",
+    "title": "Lethal Thunder Attack [INSANE]",
+    "md5": "362221b81fa048c7fe266c6c2bd6f54b",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=142",
+    "artist": "くるやのぶ illust:珊瑚",
+    "comment": "体力",
+    "state": "4"
+  },
+  {
+    "level": "20",
     "title": "Little Prayer (なんでも吸い込むピンク色のための) [極辛ピンチ味]",
     "md5": "ee97e4eab3e718c3603f7641de1bf961",
     "video1": "",
@@ -43898,7 +44756,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=142",
     "artist": "noprize BGA: Broken Wrist Obj: Noprize",
     "comment": "激重ゲージ　TOTAL200",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "21",
@@ -43911,7 +44769,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=142",
     "artist": "utzbo VS paraneumann BGA:paraneumann / obj:rat",
     "comment": "皿",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "21",
@@ -44396,6 +45254,19 @@
   },
   {
     "level": "21",
+    "title": "テウメッサ",
+    "md5": "972a0ded25c33add3f426d8f884631a7",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "BOFXV - THE BMS OF FIGHTERS eXtreme Violence -",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee",
+    "comment": "",
+    "state": "4"
+  },
+  {
+    "level": "21",
     "title": "ネイクド・ワイルド・パラノイド [パラノイド]",
     "md5": "fc63360d02056d19635e0b66c0f3d462",
     "video1": "",
@@ -44535,7 +45406,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
     "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj.Reiaki",
     "comment": "ラス殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "22",
@@ -44938,7 +45809,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=142",
     "artist": "SpadeK BGA by Aishalal / V.R. / 桔原 / obj:BKwind",
     "comment": "ラス殺し",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "22",
@@ -45289,7 +46160,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
     "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj:Holy",
     "comment": "HS-FIX OFF推奨　LNだらけ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "23",
@@ -45315,7 +46186,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=142",
     "artist": "Synzak & Laxeno57 (Movie: kkmfd) Obj: Reiaki",
     "comment": "LNだらけ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "23",
@@ -45930,6 +46801,19 @@
   },
   {
     "level": "23",
+    "title": "永夜ノ蝶 [PHANTOM]",
+    "md5": "e4f77d63933e29ec72cf609f8fe17cdc",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=496&event=142",
+    "artist": "長沼浩太(パパ頑張りました) & 長沼浩太(フライパンでやりまーす)",
+    "comment": "★★3",
+    "state": "4"
+  },
+  {
+    "level": "23",
     "title": "玉響サーチライト [陽溜ファーストステップ]",
     "md5": "5bec55352a1e9c1ae777c8fd43a17fde",
     "video1": "",
@@ -46043,7 +46927,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
     "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj.tyrcs",
     "comment": "",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "24",
@@ -46108,7 +46992,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=142",
     "artist": "Ardolf BGA by Transendium / obj BKwind",
     "comment": "LNだらけ",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "24",
@@ -46185,6 +47069,19 @@
     "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=142",
     "artist": "utzbo VS ルゼ BGA:Nao_AnD & Chiru / obj:57",
+    "comment": "",
+    "state": ""
+  },
+  {
+    "level": "24",
+    "title": "Demon's Roar [SP INSANE]",
+    "md5": "14f424a2f4d4c80e43d8960ed1ee9598",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=142",
+    "artist": "鬼方カヨコ arrange&bms:BLACK DEATH POISON / illust:天雨アコ / obj:傭兵バイトB",
     "comment": "",
     "state": "4"
   },
@@ -46563,6 +47460,19 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=131",
     "artist": "Shinwoir / 紫電車",
     "comment": "ディレイ　Level Measure LEVEL19 一曲目",
+    "state": ""
+  },
+  {
+    "level": "24",
+    "title": "Overjoy ★ OVERDOSE!! [BMS MASTER ( ^▽^)/ ~♪]",
+    "md5": "62da41eccff3d56fe38e92d8e772af40",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=142",
+    "artist": "Luna Fozer prod. BilliumMoto + 黒皇帝 + Sobrem / lyric assist. AKA / vox. vally.exe / chara. 蟹江 / illust. Shalink / mv. riguruma",
+    "comment": "★★4",
     "state": ""
   },
   {
@@ -47373,19 +48283,6 @@
   },
   {
     "level": "25",
-    "title": "Overjoy ★ OVERDOSE!! [BMS MASTER ( ^▽^)/ ~♪]",
-    "md5": "62da41eccff3d56fe38e92d8e772af40",
-    "video1": "",
-    "video2": "",
-    "url_diff": "",
-    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=142",
-    "artist": "Luna Fozer prod. BilliumMoto + 黒皇帝 + Sobrem / lyric assist. AKA / vox. vally.exe / chara. 蟹江 / illust. Shalink / mv. riguruma",
-    "comment": "",
-    "state": "4"
-  },
-  {
-    "level": "25",
     "title": "Psalms ～魂の還るばしょ～ [NIRVANA]",
     "md5": "b0279420063b1f5bc8f16c36cf990f0f",
     "video1": "",
@@ -48127,6 +49024,19 @@
   },
   {
     "level": "26",
+    "title": "THE BMS OF CREATERS '20 [7K OVERJOY]",
+    "md5": "6da69f4fe704a1015329e10d87b5130b",
+    "video1": "",
+    "video2": "",
+    "url_diff": "",
+    "name_diff": "THE BMS OF FIGHTERS : NT -Twinkle Dream Traveler-",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=142",
+    "artist": "ルゼ vs ねこみりん specialthx:あおお/A-ZERO",
+    "comment": "超体力",
+    "state": "4"
+  },
+  {
+    "level": "26",
     "title": "Trahison [SP LUNATIC]",
     "md5": "09d5d4151b59fa6abc3787c8ecbc42e0",
     "video1": "",
@@ -48266,7 +49176,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=142",
     "artist": "Daily天利 obj BKwind",
     "comment": "BGAあり版　体力",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "26",
@@ -48370,7 +49280,7 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=142",
     "artist": "Rose Quartz mov: Nima x 神宮要, obj: OfficialAz3",
     "comment": "HARD判定　BGA注意",
-    "state": "4"
+    "state": ""
   },
   {
     "level": "27",

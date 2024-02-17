@@ -280,15 +280,6 @@
   },
   {
     "level": "0",
-    "title": "スネ夫が自慢話をするときに流れている曲 [ZOI]",
-    "artist": "菊池俊輔 bms:Yosk! / obj:SUZUKAZEΛ",
-    "url": "https://drive.google.com/file/d/0B7qCw4hNijr4MVVVdTZZMkVCeGM/view",
-    "url_diff": "https://dl.dropbox.com/s/2qkxw05cnn3wt8r/%E3%82%B9%E3%83%8D%E5%A4%AB%E3%81%8C%E8%87%AA%E6%85%A2%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%E6%B5%81%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%9B%B2_zoi.zip?dl=1",
-    "md5": "c4c038a06d11fd8101a1776764d27518",
-    "comment": "85"
-  },
-  {
-    "level": "0",
     "title": "村 [ENT]",
     "artist": "カラフル・サウンズ・ポート Obj.Triforce",
     "url": "https://web.archive.org/web/20180316032550/http://csport.me/bms/csp_mura_bms.zip",
@@ -880,6 +871,15 @@
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03265",
     "md5": "59e194aa018dedf38478c46d551ddfce",
     "comment": "元sl3/85.5"
+  },
+  {
+    "level": "3",
+    "title": "starlove [YUMECAWA]",
+    "artist": "+TEK obj:STANK!",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=123",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03954.zip",
+    "md5": "fd31395c4f5e2e883665e0b622b06b1a",
+    "comment": "sl3/110"
   },
   {
     "level": "3",
@@ -1674,6 +1674,15 @@
     "comment": "sl7/85.5"
   },
   {
+    "level": "7",
+    "title": "喋喋喃喃 [Lovely]",
+    "artist": "Reanisz obj:Potechang bga:ko_nyaku",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=142",
+    "url_diff": "https://stellabms.xyz/upload/3488",
+    "md5": "0420c9fa53bd474a313a88bf0608ecd8",
+    "comment": "83"
+  },
+  {
     "level": "8",
     "title": "Angel Wing [FELITHER]",
     "artist": "uma obj:Fender vs ELIGOS",
@@ -1996,6 +2005,15 @@
     "url_diff": "https://drive.google.com/file/d/1FLmHx5D1ziC7TMUpY6v8gHcxpLsqN6Ia/view?usp=sharing",
     "md5": "19aacdecb5e8a944cacfbb2849df2b31",
     "comment": "87.5"
+  },
+  {
+    "level": "10",
+    "title": "Fate Machine (Fatal)",
+    "artist": "YATA / obj: Mary_Sue",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/17",
+    "url_diff": "https://stellabms.xyz/upload/3469",
+    "md5": "5a23742a327f0a14d85de2336ba839dd",
+    "comment": "sl10/120"
   },
   {
     "level": "10",
@@ -2509,6 +2527,24 @@
     "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/hihaikai%20sabun.zip",
     "md5": "a3053a25cb3c319260188fff4d006350",
     "comment": "sl12,▼18/107.5"
+  },
+  {
+    "level": "sub 6",
+    "title": "旧地獄街道を行く ～反逆のパルスィ～ [EXTRA]",
+    "artist": "上杉うた obj.うに",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=54",
+    "url_diff": "https://stellabms.xyz/upload/1880",
+    "md5": "2dbaeaffe18e6bb35646819c15c4e2b8",
+    "comment": "sl0/180"
+  },
+  {
+    "level": "sub 6",
+    "title": "スネ夫が自慢話をするときに流れている曲 [ZOI]",
+    "artist": "菊池俊輔 bms:Yosk! / obj:SUZUKAZEΛ",
+    "url": "https://drive.google.com/file/d/0B7qCw4hNijr4MVVVdTZZMkVCeGM/view",
+    "url_diff": "https://dl.dropbox.com/s/2qkxw05cnn3wt8r/%E3%82%B9%E3%83%8D%E5%A4%AB%E3%81%8C%E8%87%AA%E6%85%A2%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%E6%B5%81%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%9B%B2_zoi.zip?dl=1",
+    "md5": "c4c038a06d11fd8101a1776764d27518",
+    "comment": "85"
   },
   {
     "level": "sub 6",
