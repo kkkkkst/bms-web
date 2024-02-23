@@ -2490,7 +2490,7 @@
     "url": "https://pupuly.nekokan.dyndns.info/bms/v/17",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/FateMachine_Fatal.zip",
     "name_diff": "",
-    "comment": "sl9 BPM120 ガチ押し、皿",
+    "comment": "sl10 BPM120 ガチ押し、皿",
     "movie_link": "https://youtu.be/bWh7qnmFhzs",
     "date": "Thu Dec 14 2023 00:00:00 GMT+0900 (日本標準時)",
     "state": "1"
@@ -2594,10 +2594,10 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=123",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/Lonely_Orbit_The_Queen_of_Hearts.zip",
     "name_diff": "",
-    "comment": "(NEW!) BPM 180 発狂、乱打、12分同時押しなど。",
+    "comment": "BPM180 発狂、乱打、12分同時押しなど。",
     "movie_link": "https://youtu.be/n04hR_mlVOg",
     "date": "Mon Jan 08 2024 00:00:00 GMT+0900 (日本標準時)",
-    "state": "3"
+    "state": ""
   },
   {
     "md5": "c7dca94db6069119d98ef5e2ed69b37c",
@@ -2607,9 +2607,35 @@
     "url": "https://ctconnected.net/bms",
     "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/MyMostMeddlingMaker_Mors.zip",
     "name_diff": "",
-    "comment": "(NEW!) BPM 140-175 同時押し、微連打、ディレイなど。",
+    "comment": "BPM140-175 同時押し、微連打、ディレイなど。",
     "movie_link": "https://youtu.be/6mHbG2JcRXE",
     "date": "Tue Jan 16 2024 00:00:00 GMT+0900 (日本標準時)",
+    "state": ""
+  },
+  {
+    "md5": "b8c868cd798792b09f41675202861373",
+    "title": "ポーチュラカ [めありーざー]",
+    "artist": "作曲・絵: kotomi / 編曲: Y.W / 譜面: Mary_Sue",
+    "level": "14",
+    "url": "https://venue.bmssearch.net/hanadayori/4",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/portulaca_Maryther.zip",
+    "name_diff": "",
+    "comment": "(NEW!) BPM123 16分同時押し、24分トリルなど。",
+    "movie_link": "https://youtu.be/VeihbhoHN9o",
+    "date": "Tue Feb 20 2024 00:00:00 GMT+0900 (日本標準時)",
+    "state": "3"
+  },
+  {
+    "md5": "d4fba5add0c9ddaaf3a3c874e40ea36d",
+    "title": "ポーチュラカ [めありーざーぷらす]",
+    "artist": "作曲・絵: kotomi / 編曲: Y.W / 譜面: Mary_Sue",
+    "level": "23",
+    "url": "https://venue.bmssearch.net/hanadayori/4",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/sabun/portulaca_Maryther.zip",
+    "name_diff": "",
+    "comment": "(NEW!) BPM123 ガチ押し、24分トリル、32分乱打など。",
+    "movie_link": "https://youtu.be/179Nde9yeFs",
+    "date": "Tue Feb 20 2024 00:00:00 GMT+0900 (日本標準時)",
     "state": "3"
   }
 ]

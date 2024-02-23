@@ -1086,20 +1086,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
-    "title": "翼の折れた天使たちのレクイエム [DP Another]",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "bbf97c0b70b7f68a363cddbd99462f67",
     "title": "BLAZE YOUR SOUL [DP ANOTHER]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
-    "title": "Caelumize [MG]",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -1112,12 +1100,6 @@
   {
     "md5": "2ea293c3ef95853c05399a9df78f8c00",
     "title": "E.V.E [DP ANOTHER]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "49c7d8aa17853816883a710abc557fd0",
-    "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -1178,12 +1160,6 @@
   {
     "md5": "99424f8ed89f058e609493a11f2c0b77",
     "title": "Ovital [DP HYPER]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "05ec855667f1bae4c824ed62a72abe11",
-    "title": "Poppin' Candy [14-A]",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -1272,6 +1248,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
+    "title": "翼の折れた天使たちのレクイエム [DP Another]",
+    "level": "1.50...2.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "5c1c97a00af7b108e2a53afecba82cc3",
     "title": "雪肌玉惚少女 [DP Another]",
     "level": "1.50...2.00",
@@ -1298,6 +1280,12 @@
   {
     "md5": "1542e4cd8301369334457d3c6f4960bd",
     "title": "Blacksphere [DP Noise mix]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
+    "title": "Caelumize [MG]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -1340,6 +1328,12 @@
   {
     "md5": "81750983821628d4400dca4a9a8a59f5",
     "title": "Destr0yer [DP HYP☆R]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "49c7d8aa17853816883a710abc557fd0",
+    "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -1458,12 +1452,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "8bd635ded6fc98cc7f796acbbc444fe2",
-    "title": "x-Aria -frenzy mix- -DPANOTHER-",
-    "level": "2.00...2.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "aee587970d848afb5259956b8f184d2c",
     "title": "YASAKANI [DP INSANE+]",
     "level": "2.00...2.50",
@@ -1478,12 +1466,6 @@
   {
     "md5": "6f3b789583cc13878f0c9cae5a2f02d6",
     "title": "ヒュブリスの頂に聳えるのは [DP ANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
-    "title": "フラッフィー・フォアキャスト [14key Another]",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
@@ -1510,12 +1492,6 @@
     "title": "明空リュウセイグン [DP Daybreak]",
     "level": "2.00...2.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
-    "title": "永夜の報い -full moon- <14A>",
-    "level": "2.00...2.50",
-    "comment": "sl4"
   },
   {
     "md5": "e709d83416ec401d28bbecd53b7e80e5",
@@ -1692,6 +1668,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "8bd635ded6fc98cc7f796acbbc444fe2",
+    "title": "x-Aria -frenzy mix- -DPANOTHER-",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "1b53f2de1438d96554c62502aa3825bd",
     "title": "アリスの空虚で愉快な人形劇 [DP ANOTHER]",
     "level": "2.50...3.00",
@@ -1710,8 +1692,20 @@
     "comment": "sl4"
   },
   {
+    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
+    "title": "フラッフィー・フォアキャスト [14key Another]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "347e728cf787c9eddcb2986abe6c028e",
     "title": "月時計　Last・Dial (DPA)",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
+    "title": "永夜の報い -full moon- <14A>",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -2134,6 +2128,12 @@
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "3.50...4.00",
     "comment": "sl6"
+  },
+  {
+    "md5": "05ec855667f1bae4c824ed62a72abe11",
+    "title": "Poppin' Candy [14-A]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
   },
   {
     "md5": "3c810e083b74b323b84593d52a78e1c9",
